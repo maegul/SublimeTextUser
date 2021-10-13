@@ -1,0 +1,5990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"vars/\tDir"
+			],
+			[
+				"mai",
+				"main.yml\tFile"
+			],
+			[
+				"A",
+				"AnsibleModule\tclass"
+			],
+			[
+				"modu",
+				"module_utils\tmodule"
+			],
+			[
+				"lda",
+				"ldap_vars.vault\tFile"
+			],
+			[
+				"hu",
+				"hub_backup/\tDir"
+			],
+			[
+				"cou",
+				"course_vars.yml\tFile"
+			],
+			[
+				"loc",
+				"local_vars"
+			],
+			[
+				"Dr",
+				"Dropbox (Python Charmers)/\tDir"
+			],
+			[
+				"deg",
+				"degs_per_sample\tstatement"
+			],
+			[
+				"degs",
+				"degs_per_degree"
+			],
+			[
+				"calc",
+				"calculate_samples\tfunction"
+			],
+			[
+				"erro",
+				"error\tfunction"
+			],
+			[
+				"Object",
+				"ObjectView\tclass"
+			],
+			[
+				"in",
+				"info\tfunction"
+			],
+			[
+				"log",
+				"loguru\tmodule"
+			],
+			[
+				"file",
+				"file_name\tparam"
+			],
+			[
+				"Them",
+				"Themis"
+			],
+			[
+				"get",
+				"getattr\tfunction"
+			],
+			[
+				"Spi",
+				"SpikeAvgs"
+			],
+			[
+				"sha",
+				"shape_SEM"
+			],
+			[
+				"expected",
+				"expected_value\tparam"
+			],
+			[
+				"uni",
+				"unique\tfunction"
+			],
+			[
+				"p",
+				"pd\tmodule"
+			],
+			[
+				"mk_cell_id",
+				"mk_cell_id_from_run_key\tfunction"
+			],
+			[
+				"Inde",
+				"IndexSlice\tinstance"
+			],
+			[
+				"mk_",
+				"mk_heph_files_directory\tfunction"
+			],
+			[
+				"e",
+				"exists\tfunction"
+			],
+			[
+				"pat",
+				"pathlib"
+			],
+			[
+				"NB",
+				"NBAnalDirectory"
+			],
+			[
+				"track",
+				"track_run_key\tstatement"
+			],
+			[
+				"gen",
+				"genNBDirectory"
+			],
+			[
+				"exp",
+				"experiment\tstatement"
+			],
+			[
+				"lo",
+				"loadTrack\tfunction"
+			],
+			[
+				"Track",
+				"TrackDirectory\tstatement"
+			],
+			[
+				"genT",
+				"genTrackDirectory"
+			],
+			[
+				"path",
+				"paths_cache\tstatement"
+			],
+			[
+				"mk_nb",
+				"mk_nb_files_directory\tfunction"
+			],
+			[
+				"nb_t",
+				"nb_type\tparam"
+			],
+			[
+				"nb_ty",
+				"nb_type_opts\tstatement"
+			],
+			[
+				"nb_",
+				"nb_type\tparam"
+			],
+			[
+				"nb",
+				"nb_files\tstatement"
+			],
+			[
+				"mk_n",
+				"mk_nb_file_name\tfunction"
+			],
+			[
+				"nb_file",
+				"nb_file_pattern\tstatement"
+			],
+			[
+				"mk_cell",
+				"mk_cell_id_from_run_key"
+			],
+			[
+				"retu",
+				"return_strays"
+			],
+			[
+				"fi",
+				"filterwarnings\tfunction"
+			],
+			[
+				"template",
+				"template_names\tstatement"
+			],
+			[
+				"mk_templati",
+				"mk_templating_file_name\tfunction"
+			],
+			[
+				"ex",
+				"experiment\tparam"
+			],
+			[
+				"templ",
+				"template_name\tstatement"
+			],
+			[
+				"temp",
+				"template_dir\tstatement"
+			],
+			[
+				"mk",
+				"mk_track_files_directory\tfunction"
+			],
+			[
+				"track_files",
+				"track_file_paths\tstatement"
+			],
+			[
+				"file_",
+				"file_name\tstatement"
+			],
+			[
+				"track_fi",
+				"track_files\tstatement"
+			],
+			[
+				"re",
+				"realpath\tfunction"
+			],
+			[
+				"track_file",
+				"track_file_paths\tstatement"
+			],
+			[
+				"abs",
+				"abs_path"
+			],
+			[
+				"markerc",
+				"marker_codes"
+			],
+			[
+				"markc",
+				"marker_codes\tstatement"
+			],
+			[
+				"omit",
+				"omit_marker_codes\tstatement"
+			],
+			[
+				"lesion_dep",
+				"lesion_depths_cut_plane\tstatement"
+			],
+			[
+				"px",
+				"px_scale"
+			],
+			[
+				"lesion",
+				"lesion_depths_cut_plane\tparam"
+			],
+			[
+				"lesion_de",
+				"lesion_depths_cut_plane"
+			],
+			[
+				"Themis",
+				"ThemisDirectory\tstatement"
+			],
+			[
+				"mk_ce",
+				"mk_cell_id_from_run_key\tfunction"
+			],
+			[
+				"use",
+				"use_previous_load\tparam"
+			],
+			[
+				"previousl",
+				"previous_load_path"
+			],
+			[
+				"score",
+				"scorer\tparam"
+			],
+			[
+				"gen_",
+				"gen_sign_index\tfunction"
+			],
+			[
+				"analysis",
+				"analysisData\tstatement"
+			],
+			[
+				"the",
+				"themis\tmodule"
+			],
+			[
+				"run",
+				"run_key\tparam"
+			],
+			[
+				"themis_",
+				"themis_obj\tparam"
+			],
+			[
+				"ana",
+				"analysisFuncKeys"
+			],
+			[
+				"biph",
+				"biphase_split_point"
+			],
+			[
+				"dl_",
+				"dl_sum"
+			],
+			[
+				"x_lim",
+				"x_lim_sig_ratio\tstatement"
+			],
+			[
+				"anal",
+				"analData\tparam"
+			],
+			[
+				"add",
+				"addAnalysisData\tfunction"
+			],
+			[
+				"from_",
+				"from_dict\tfunction"
+			],
+			[
+				"analDd",
+				"analDataDF\tstatement"
+			],
+			[
+				"a",
+				"analData\tstatement"
+			],
+			[
+				"fr",
+				"from_dict\tfunction"
+			],
+			[
+				"Cel",
+				"CellData\tstatement"
+			],
+			[
+				"con",
+				"condition_type"
+			],
+			[
+				"Run",
+				"RUN_KEY"
+			],
+			[
+				"Mu",
+				"MultiIndex\tclass"
+			],
+			[
+				"C",
+				"CELL_ID"
+			],
+			[
+				"TDCCat",
+				"TDCCatalogue\tstatement"
+			],
+			[
+				"TDCC",
+				"TDCCatalogue\tstatement"
+			],
+			[
+				"TDC_s",
+				"TDC_signals_medians"
+			],
+			[
+				"exc_res",
+				"exc_result2\tstatement"
+			],
+			[
+				"filt",
+				"filtered_data\tparam"
+			],
+			[
+				"iter",
+				"iterable\tparam"
+			],
+			[
+				"curve",
+				"curveFuncs\tmodule"
+			],
+			[
+				"Cu",
+				"CurveFuncs\tstatement"
+			],
+			[
+				"Cur",
+				"CurveFits\tstatement"
+			],
+			[
+				"cur",
+				"curveFuncs\tstatement"
+			],
+			[
+				"S",
+				"SavePath"
+			],
+			[
+				"cu",
+				"curveFuncs\tstatement"
+			],
+			[
+				"cell",
+				"cell_data_key\tparam"
+			],
+			[
+				"_pre_omit_ma",
+				"_pre_omit_marker_codes\tstatement"
+			],
+			[
+				"_pre_",
+				"_pre_omit_marker_codes\tstatement"
+			],
+			[
+				"omit_",
+				"omit_trials\tparam"
+			],
+			[
+				"edge",
+				"edgecolor"
+			],
+			[
+				"line",
+				"linestyle"
+			],
+			[
+				"biphase",
+				"biphase_split_point"
+			],
+			[
+				"conditions_tri",
+				"conditions_trials_hist"
+			],
+			[
+				"spont",
+				"spont_rate"
+			],
+			[
+				"parameter",
+				"parameters"
+			],
+			[
+				"window_",
+				"window_range\tstatement"
+			],
+			[
+				"win",
+				"window_range\tstatement"
+			],
+			[
+				"peri_",
+				"peri_marker_window\tparam"
+			],
+			[
+				"spon",
+				"spont_method"
+			],
+			[
+				"spont_",
+				"spont_time_length\tstatement"
+			],
+			[
+				"peri",
+				"peri_marker_window"
+			],
+			[
+				"themi",
+				"themis_obj\tparam"
+			],
+			[
+				"bi",
+				"biphase_select_resp"
+			],
+			[
+				"bip",
+				"biphas_id"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"cond_tun",
+				"cond_tuning_biphase_mask\tstatement"
+			],
+			[
+				"catalogue",
+				"catalogue_mode"
+			],
+			[
+				"tdcCat",
+				"TDCCatConstructor"
+			],
+			[
+				"sort",
+				"sortArgs\tparam"
+			],
+			[
+				"tdc",
+				"tdc_refresh\tparam"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/README.md",
+			"redo_stack":
+			[
+				[
+					10,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`${0:$SELECTION}`"
+					},
+					"AgAAADgSAAAAAAAAOBIAAAAAAAADAAAAYClgOBIAAAAAAAA5EgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA5EgAAAAAAADoSAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 16026,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/roles/communication/templates/email_body.html.j2",
+			"settings":
+			{
+				"buffer_size": 1812,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAJUEAAAAAAAAmQQAAAAAAAAAAAAA4AIAAAAAAADlAgAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACVBAAAAAAAAOACAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					12,
+					1,
+					"revert",
+					null,
+					"BgAAAAAAAAAAAAAAAAAAAAAAAAAdBwAAPHA+V2UncmUgbG9va2luZyBmb3J3YXJkIHRvIG1lZXRpbmcgeW91IGZvciB0aGUge3sgY291cnNlX25hbWV9fSBjb3Vyc2Uge3sgY291cnNlX3N0YXJ0X2RheSB8IHRvX2RhdGV0aW1lKCclWS0lbS0lZCcpIHwgcHJlZml4X25hdHVyYWxkYXkgfX0uCiAgSGVyZSBhcmUgc29tZSBkZXRhaWxzIHRvIGdldCB5b3UgdXAgYW5kIHJ1bm5pbmc6PC9wPgo8b2w+CiAgPGxpPjxwPldlJ2xsIGJlIHVzaW5nIHRoZSBQeXRob24gQ2hhcm1lcnMgb25saW5lIEp1cHl0ZXJIdWIgc2VydmVyIGZvciB0aGUKICAgIHRyYWluaW5nIGNvdXJzZS4gVGhpcyBvbmx5IHJlcXVpcmVzIGEgYnJvd3NlciAoRmlyZWZveCwgQ2hyb21lLCBvciBTYWZhcmkpLCBzaW1wbGlmeWluZyBzZXR1cCBhbmQgYWxsb3dpbmcgdXMgdG8gd2F0Y2ggeW91ciBwcm9ncmVzcyB3aXRoIHRoZSBleGVyY2lzZXMgaW4gcmVhbCB0aW1lLgogICAgUGxlYXNlIGxvZyBpbiBiZWZvcmUgdGhlIGNvdXJzZSBzdGFydHMgYXQgPGEgaHJlZj0ie3sgc2VydmVyX3VybCB9fSI+e3sgc2VydmVyX3VybCB9fTwvYT4uCiAgICBZb3VyIHVzZXJuYW1lIGlzIHlvdXIgZW1haWwgYWRkcmVzcyBhbmQgeW91ciBwYXNzd29yZCBpczoKICAgIDxwcmU+e3sgbG9va3VwKCdjb3JyZWN0aG9yc2UnLCAnXCInICsgcGxheWJvb2tfZGlyICsgJy9zdHVkZW50cy9jcmVkZW50aWFscy8nICsgaXRlbS5lbWFpbCArICdcIiAtYiA0OCcpIH19PC9wcmU+CiAgPC9wPjwvbGk+CjwhLS0gICA8bGk+PHA+Rm9yIG9ubGluZSBjaGF0IGFuZCBRJkEgdGhyb3VnaG91dCB0aGUgY291cnNlIHdlJ2xsIGJlIHVzaW5nIFp1bGlwLgogICAgUGxlYXNlIGxvZyBpbnRvIFp1bGlwIHRvbyBiZWZvcmUgdGhlIGNvdXJzZSBzdGFydHMgYXQgPGEKICAgICAgICBocmVmPSJodHRwczovL3B5dGhvbmNoYXJtZXJzLnp1bGlwY2hhdC5jb20iPmh0dHBzOi8vcHl0aG9uY2hhcm1lcnMuenVsaXBjaGF0LmNvbTwvYT4KICAgIFlvdXIgdXNlcm5hbWUgaXMgYWdhaW4geW91ciBlbWFpbCBhZGRyZXNzIGFuZCB5b3VyIHBhc3N3b3JkIGlzIGFnYWluOgogICAgPHByZT57eyBsb29rdXAoJ2NvcnJlY3Rob3JzZScsICdcIicgKyBwbGF5Ym9va19kaXIgKyAnL3N0dWRlbnRzL2NyZWRlbnRpYWxzLycgKyBpdGVtLmVtYWlsICsgJ1wiIC1iIDQ4JykgfX08L3ByZT4KICAgIDwvcD48L2xpPgogLS0+ICA8bGk+PHA+VGhlIGRldGFpbHMgZm9yIHRoZSBab29tIG1lZXRpbmcgd2UnbGwgYmUgdXNpbmcgZm9yIGF1ZGlvIC8gdmlkZW8gYXJlIGJlbG93OjwvcD4KICAgIDxwPkpvaW4gWm9vbSBNZWV0aW5nPGJyLz4KICAgICAgPGEgaHJlZj0ie3sgem9vbV9tZWV0aW5nX2xpbmsgfX0iPnt7IHpvb21fbWVldGluZ19saW5rIH19PC9hPgogICAgPHA+eyUgaWYgem9vbV9tZWV0aW5nX2lkICV9TWVldGluZyBJRDoge3sgem9vbV9tZWV0aW5nX2lkIH19PGJyLz57JSBlbmRpZiAlfQogICAgICBQYXNzd29yZDoge3sgem9vbV9tZWV0aW5nX3Bhc3N3b3JkIH19PC9wPgogIDwvbGk+Cjwvb2w+Cjxoci8+CjxwPldlIHJlY29tbWVuZCB0aGF0IHlvdSB0cnkgbG9nZ2luZyBpbiBieSA4LjQwYW0gc28gd2UgY2FuIG1ha2UgYSBwcm9tcHQgc3RhcnQgYXQgOS4wMGFtLiBJZiB5b3UgaGF2ZSBhbnkgZGlmZmljdWx0aWVzIGxvZ2dpbmcgb24gb3IgZ2V0dGluZyBzdGFydGVkLCBwbGVhc2UgZmVlbCBmcmVlCiAgdG8gZW1haWwgdXMgYXQgPGEgaHJlZj0ibWFpbHRvOmhlbHBAcHl0aG9uY2hhcm1lcnMuY29tIj5oZWxwQHB5dGhvbmNoYXJtZXJzLmNvbTwvYT4uPC9wPgo8cD5TZWUgeW91IHNvb24hPC9wPgp7eyBlbWFpbF9zaWduYXR1cmUgfX0KAAAAAAAAAAAUBwAAAAAAAAAAAAAAAAAAAAAAABQHAAAAAAAAAAAAAAAAAAAAAAAAFAcAAAAAAAAAAAAAAAAAAAAAAAAUBwAAAAAAAAAAAAAAAAAAAAAAABQHAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADlAgAAAAAAAOUCAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/local_vars.yml",
+			"settings":
+			{
+				"buffer_size": 169,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/roles/zulip/templates/welcome.md.j2",
+			"settings":
+			{
+				"buffer_size": 1222,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/students/students_493.csv",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/local_file_templates/course_vars.yml",
+			"settings":
+			{
+				"buffer_size": 656,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/prep_server.yml",
+			"settings":
+			{
+				"buffer_size": 1024,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAMoCAAAAAAAAzAIAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADWAgAAAAAAANYCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"revert",
+					null,
+					"AwAAAAAAAAAAAAAAAAAAAAAAAAACBAAAIy0gaG9zdHM6CiMgICAgLSBub3RlYm9vawojICBiZWNvbWU6IHRydWUKIyAgdmFyc19maWxlczoKIyAgICAtIGNvdXJzZV92YXJzLnltbAojICAgIC0gbG9jYWxfdmFycy55bWwKIyAgICAtIGludmVudG9yeS9ncm91cF92YXJzLnltbAojICAgIC0gaW52ZW50b3J5L21haWxfdmFycy52YXVsdAojICAgIC0gaW52ZW50b3J5L21haWxfdmFycy55bWwKIyAgICAtIGludmVudG9yeS9sZGFwX3ZhcnMueW1sCiMgICAgLSBpbnZlbnRvcnkvbGRhcF92YXJzLnZhdWx0CiMgIHJvbGVzOgojICAgIC0gcm9sZTogbm90ZWJvb2tfc2VydmVyCiMgIHRhZ3M6CiMgICAgLSBuZXZlcgojICAgIC0gbm90ZWJvb2tzCgotIGhvc3RzOgogICAgLSBsb2NhbGhvc3QgICAgIyBUaGlzIHNldHMgdXAgWnVsaXAgdXNlcnMsIHNlbmRzIGVtYWlscywgc2V0cyB1cCBjb21tdW5pY2F0aW9uIHdpdGggSHViCiAgYmVjb21lOiBmYWxzZQogIHZhcnNfZmlsZXM6CiAgICAtIGNvdXJzZV92YXJzLnltbAogICAgLSBsb2NhbF92YXJzLnltbAogICAgLSBpbnZlbnRvcnkvZ3JvdXBfdmFycy55bWwKICAgIC0gaW52ZW50b3J5L21haWxfdmFycy52YXVsdAogICAgLSBpbnZlbnRvcnkvbWFpbF92YXJzLnltbAogICAgLSBpbnZlbnRvcnkvbGRhcF92YXJzLnltbAogICAgLSBpbnZlbnRvcnkvbGRhcF92YXJzLnZhdWx0CiAgICAtIGludmVudG9yeS9odWJfdmFycy52YXVsdAogIHJvbGVzOgogICAgIyAtIHJvbGU6IHp1bGlwCiAgICAtIHJvbGU6IGh1YgogICAgLSByb2xlOiBjb21tdW5pY2F0aW9uCgotIGhvc3RzOgogICAgLSBlbmdpbmVlcnMKICBiZWNvbWU6IGZhbHNlCiAgdmFyc19maWxlczoKICAgIC0gY291cnNlX3ZhcnMueW1sCiAgICAtIGxvY2FsX3ZhcnMueW1sCiAgICAtIGludmVudG9yeS9ncm91cF92YXJzLnltbAogICAgLSBpbnZlbnRvcnkvbWFpbF92YXJzLnZhdWx0CiAgICAtIGludmVudG9yeS9tYWlsX3ZhcnMueW1sCiAgcm9sZXM6CiAgICAtIHJvbGU6IGdhb2wKICB0YWdzOgogICAgLSBuZXZlcgogICAgLSBlbmdpbmVlcnMKAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADYAgAAAAAAANgCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					8,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAMoCAAAAAAAAzAIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA1gIAAAAAAADWAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAMoCAAAAAAAAygIAAAAAAAACAAAAIyA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA2AIAAAAAAADYAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					2,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAMoCAAAAAAAAzAIAAAAAAAAAAAAAygIAAAAAAADKAgAAAAAAAAIAAAAjIA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA1gIAAAAAAADWAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAMoCAAAAAAAAzAIAAAAAAAAAAAAA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAxgIAAAAAAADGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAMoCAAAAAAAAygIAAAAAAAACAAAAIyA",
+					"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAxgIAAAAAAADGAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/roles/communication/tasks/email_reminder.yml",
+			"settings":
+			{
+				"buffer_size": 1300,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/server.cfg",
+			"redo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAACQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAADwvw"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/roles/purge/tasks/all_students.yml",
+			"settings":
+			{
+				"buffer_size": 970,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/roles/purge/tasks/ldap.yml",
+			"settings":
+			{
+				"buffer_size": 1413,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/hub.yml",
+			"settings":
+			{
+				"buffer_size": 1111,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/roles/common/tasks/config.yml",
+			"settings":
+			{
+				"buffer_size": 280,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/courses/course_vars_497.yml",
+			"settings":
+			{
+				"buffer_size": 903,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"replace_character",
+					{
+						"character": "7"
+					},
+					"AQAAABAAAAAAAAAAEQAAAAAAAAABAAAANg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					10,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"before": true,
+							"character": "\"",
+							"extend": true
+						},
+						"motion_clip_to_line": true,
+						"motion_command": "vi_move_to_character",
+						"motion_inclusive": true,
+						"motion_mode": 0
+					},
+					"AQAAABIAAAAAAAAAEgAAAAAAAAAmAAAAUHl0aG9uIGZvciBOZXR3b3JrICYgU3lzdGVtcyBFbmdpbmVlcnM",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "Intermediate"
+					},
+					"DAAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAB4AAAAAAAAAHwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					17,
+					13,
+					"left_delete",
+					null,
+					"DQAAAB4AAAAAAAAAHgAAAAAAAAABAAAAIB0AAAAAAAAAHQAAAAAAAAABAAAAZRwAAAAAAAAAHAAAAAAAAAABAAAAdBsAAAAAAAAAGwAAAAAAAAABAAAAYRoAAAAAAAAAGgAAAAAAAAABAAAAaRkAAAAAAAAAGQAAAAAAAAABAAAAZBgAAAAAAAAAGAAAAAAAAAABAAAAZRcAAAAAAAAAFwAAAAAAAAABAAAAbRYAAAAAAAAAFgAAAAAAAAABAAAAchUAAAAAAAAAFQAAAAAAAAABAAAAZRQAAAAAAAAAFAAAAAAAAAABAAAAdBMAAAAAAAAAEwAAAAAAAAABAAAAbhIAAAAAAAAAEgAAAAAAAAABAAAASQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"paste",
+					null,
+					"AQAAABIAAAAAAAAANAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAAAAAAAAABIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					23,
+					1,
+					"replace_character",
+					{
+						"character": "3"
+					},
+					"AQAAAE8AAAAAAAAAUAAAAAAAAAABAAAAMg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABPAAAAAAAAAE8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"extend": true,
+										"forward": true,
+										"visual": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_by_characters_in_line",
+									"motion_inclusive": false,
+									"motion_mode": 0,
+									"motion_repeat": 2
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "01"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AwAAAFEAAAAAAAAAUQAAAAAAAAACAAAAMTdRAAAAAAAAAFIAAAAAAAAAAAAAAFIAAAAAAAAAUwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAAAAAAAAAFEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAAHkAAAAAAAAAeQAAAAAAAABKAAAAaHR0cHM6Ly91czAyd2ViLnpvb20udXMvai84NDY1OTQyMTA4MT9wd2Q9YVN0cE1FTk1iblpHVlRaVVRVY3ZaMkZ4V25velFUMDl5AAAAAAAAAMMAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACBAAAAAAAAAIEAAAAAAAAAAAAAAACAb0A"
+				],
+				[
+					45,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAANcAAAAAAAAA1wAAAAAAAAALAAAAODQ2NTk0MjEwODHXAAAAAAAAAOIAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADhAAAAAAAAAOEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					50,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAAKsBAAAAAAAAqwEAAAAAAACUAAAAL1VzZXJzL3NjaG9maWVsZC9Db3Vyc2VzMjAyMS9MYXRlc3QgZ2VuZXJpYyBtYXRlcmlhbHMvUHVibGljIE5ldHdvcmsgYW5kIFN5c3RlbSBFbmdpbmVlcnMvQ291cnNlIE5vdGVzIC0gUHl0aG9uIGZvciBOZXR3b3JrIGFuZCBTeXN0ZW0gRW5naW5lZXJzLnBkZqsBAAAAAAAAaAIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADBAQAAAAAAAMEBAAAAAAAAAAAAAACAb0A"
+				],
+				[
+					56,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAAEABAAAAAAAAQAEAAAAAAABjAAAAL1VzZXJzL3NjaG9maWVsZC9Db3Vyc2VzMjAyMS9MYXRlc3QgZ2VuZXJpYyBtYXRlcmlhbHMvUHVibGljIE5ldHdvcmsgYW5kIFN5c3RlbSBFbmdpbmVlcnMvTm90ZWJvb2tzQAEAAAAAAADgAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAQAAAAAAAEEBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"replace_character",
+					{
+						"character": "7"
+					},
+					"AQAAAP8CAAAAAAAAAAMAAAAAAAABAAAANg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD/AgAAAAAAAP8CAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					62,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAAYDAAAAAAAABgMAAAAAAAACAAAAIyA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbAwAAAAAAABsDAAAAAAAAAAAAAACwc0A"
+				],
+				[
+					64,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAABsDAAAAAAAAGwMAAAAAAAACAAAAIyA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAwAAAAAAAC4DAAAAAAAAAAAAAABgZUA"
+				],
+				[
+					69,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "-"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BAAAADIDAAAAAAAAMwMAAAAAAAAAAAAAMwMAAAAAAAA0AwAAAAAAAAAAAAA0AwAAAAAAADUDAAAAAAAAAAAAADUDAAAAAAAATgMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAsAwAAAAAAACwDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					71,
+					3,
+					"swap_line_up",
+					null,
+					"BgAAAGwDAAAAAAAAbAMAAAAAAAAdAAAAIyAtIGVycm9sQHB5dGhvbmNoYXJtZXJzLmNvbQpPAwAAAAAAAGwDAAAAAAAAAAAAAE8DAAAAAAAATwMAAAAAAAAdAAAAIyAtIGVycm9sQHB5dGhvbmNoYXJtZXJzLmNvbQozAwAAAAAAAFADAAAAAAAAAAAAADMDAAAAAAAAMwMAAAAAAAAdAAAAIyAtIGVycm9sQHB5dGhvbmNoYXJtZXJzLmNvbQobAwAAAAAAADgDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGAwAAAAAAAIYDAAAAAAAAAAAAAABAbUA"
+				],
+				[
+					72,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAABsDAAAAAAAAGwMAAAAAAAACAAAAIyA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA1AwAAAAAAADUDAAAAAAAAAAAAAABAbUA"
+				],
+				[
+					76,
+					1,
+					"swap_line_up",
+					null,
+					"AgAAAAYDAAAAAAAABgMAAAAAAABkAAAAYWRkaXRpb25hbF90cmFpbmVyczoKLSBlcnJvbEBweXRob25jaGFybWVycy5jb20KLSBlZEBweXRob25jaGFybWVycy5jb20KLSByb2JlcnRAcHl0aG9uY2hhcm1lcnMuY29tCtwCAAAAAAAAQAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAwAAAAAAAGoDAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					77,
+					1,
+					"swap_line_down",
+					null,
+					"AgAAAGoDAAAAAAAAzgMAAAAAAAAAAAAA3AIAAAAAAADcAgAAAAAAAGQAAABhZGRpdGlvbmFsX3RyYWluZXJzOgotIGVycm9sQHB5dGhvbmNoYXJtZXJzLmNvbQotIGVkQHB5dGhvbmNoYXJtZXJzLmNvbQotIHJvYmVydEBweXRob25jaGFybWVycy5jb20K",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADcAgAAAAAAAEADAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					78,
+					1,
+					"swap_line_up",
+					null,
+					"AgAAAAYDAAAAAAAABgMAAAAAAABkAAAAYWRkaXRpb25hbF90cmFpbmVyczoKLSBlcnJvbEBweXRob25jaGFybWVycy5jb20KLSBlZEBweXRob25jaGFybWVycy5jb20KLSByb2JlcnRAcHl0aG9uY2hhcm1lcnMuY29tCtwCAAAAAAAAQAMAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAwAAAAAAAGoDAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					79,
+					1,
+					"swap_line_down",
+					null,
+					"AgAAAGoDAAAAAAAAzgMAAAAAAAAAAAAA3AIAAAAAAADcAgAAAAAAAGQAAABhZGRpdGlvbmFsX3RyYWluZXJzOgotIGVycm9sQHB5dGhvbmNoYXJtZXJzLmNvbQotIGVkQHB5dGhvbmNoYXJtZXJzLmNvbQotIHJvYmVydEBweXRob25jaGFybWVycy5jb20K",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADcAgAAAAAAAEADAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/students/students_497.csv",
+			"settings":
+			{
+				"buffer_size": 100,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					9,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"before": true,
+										"character": "c",
+										"extend": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "vi_move_to_character",
+									"motion_inclusive": true,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"before": true,
+										"character": "c",
+										"extend": true,
+										"forward": true,
+										"record": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_to_character",
+									"motion_inclusive": true,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							]
+						]
+					},
+					"AQAAABMAAAAAAAAAEwAAAAAAAAAjAAAAY2xhaXJlLWVsaXNlLmdyZWVuQGRlZmVuY2UuZ292LmF1OyA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"replace_next",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+								"alt": true,
+								"primary": true,
+								"super": true
+							}
+						}
+					},
+					"AQAAAAAAAAAAAAAAMwAAAAAAAAAvAAAAQ2xhaXJlLUVsaXNlIEdyZWVuCWNsYWlyZS5lbGlzZS5ncmVlbkBnbWFpbC5jb20",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"replace_next",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+								"alt": true,
+								"primary": true,
+								"super": true
+							}
+						}
+					},
+					"AQAAADQAAAAAAAAAVQAAAAAAAAAdAAAAQnJpYW4gTWV5ZXJzCWJyeXpleUBnbWFpbC5jb20",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AAAAAAAAAFEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					39,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line Before.sublime-macro"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAckA"
+				],
+				[
+					40,
+					1,
+					"vi_paste_right",
+					null,
+					"AQAAAAEAAAAAAAAAEAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					42,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/students/students_498.csv",
+			"settings":
+			{
+				"buffer_size": 393,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					12,
+					1,
+					"lower_case",
+					null,
+					"AQAAACMAAAAAAAAARgAAAAAAAAAjAAAAR2VvZmZyZXkuTWNOdWx0eUBkc3QuZGVmZW5jZS5nb3YuYXU",
+					"AQAAAAAAAAABAAAAIwAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"lower_case",
+					null,
+					"AQAAAFgAAAAAAAAAbAAAAAAAAAAUAAAATmljay5XaXRoZXJzQHdzcC5jb20",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"lower_case",
+					null,
+					"AQAAAIAAAAAAAAAAlgAAAAAAAAAWAAAATmVoZW1pYS5CZXllbmVAd3NwLmNvbQ",
+					"AQAAAAAAAAABAAAAgAAAAAAAAACWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"lower_case",
+					null,
+					"AQAAAKgAAAAAAAAAvAAAAAAAAAAUAAAARGVhbi5UcmV3ZWVrQHdzcC5jb20",
+					"AQAAAAAAAAABAAAAqAAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"lower_case",
+					null,
+					"AQAAANAAAAAAAAAA5gAAAAAAAAAWAAAARGFtaWVuLktlbm5lZHlAd3NwLmNvbQ",
+					"AQAAAAAAAAABAAAA0AAAAAAAAADmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"lower_case",
+					null,
+					"AQAAAPcAAAAAAAAACgEAAAAAAAATAAAAQ3luZHkuUmVkZHlAd3NwLmNvbQ",
+					"AQAAAAAAAAABAAAA9wAAAAAAAAAKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"lower_case",
+					null,
+					"AQAAACABAAAAAAAAOAEAAAAAAAAYAAAARGFycnlsLkZlcm5hbmRlc0B3c3AuY29t",
+					"AQAAAAAAAAABAAAAIAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"lower_case",
+					null,
+					"AQAAAE0BAAAAAAAAXQEAAAAAAAAQAAAAYWpANWQuY29uc3VsdGluZw",
+					"AQAAAAAAAAABAAAATQEAAAAAAABdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"lower_case",
+					null,
+					"AQAAAHYBAAAAAAAAiAEAAAAAAAASAAAAbWFuaUA1ZC5jb25zdWx0aW5n",
+					"AQAAAAAAAAABAAAAdgEAAAAAAACIAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/students/credentials/nick.withers@wsp.com",
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/students/students_496.csv",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/courses/course_vars_496.yml",
+			"redo_stack":
+			[
+				[
+					13,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAO4CAAAAAAAA8AIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gIAAAAAAADuAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAALkCAAAAAAAAuwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQIAAAAAAAC5AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAKQCAAAAAAAApgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAIAAAAAAACkAgAAAAAAAAAAAAAAAPC/"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 783,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Volumes/pychm/ansible_setup_scripts/courses/course_vars_498.yml",
+			"settings":
+			{
+				"buffer_size": 794,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					11,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "498"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Introduction"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " to"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Python"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"GwAAAA4AAAAAAAAADgAAAAAAAAAqAAAANDk2IFB5dGhvbiBmb3IgTmV0d29yayAmIFN5c3RlbXMgRW5naW5lZXJzDgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+							"insert_command": "vi_delete"
+						},
+						"action_command": "enter_insert_mode",
+						"motion_args":
+						{
+							"character": "\""
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "vi_expand_to_quotes",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAAKAAAAMjAyMS0wMi0xNw",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"plain_task_insert_date",
+					{
+						"date":
+						[
+							2021,
+							3,
+							15,
+							12,
+							7
+						],
+						"region":
+						[
+							61,
+							61
+						]
+					},
+					"AQAAAD0AAAAAAAAATgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAKA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					9,
+					"right_delete",
+					null,
+					"CQAAAEUAAAAAAAAARQAAAAAAAAABAAAAIEUAAAAAAAAARQAAAAAAAAABAAAAMUUAAAAAAAAARQAAAAAAAAABAAAAMkUAAAAAAAAARQAAAAAAAAABAAAAOkUAAAAAAAAARQAAAAAAAAABAAAAMEUAAAAAAAAARQAAAAAAAAABAAAAN0UAAAAAAAAARQAAAAAAAAABAAAAKUUAAAAAAAAARQAAAAAAAAACAAAAwqBFAAAAAAAAAEUAAAAAAAAAAQAAACI",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAEUAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "20"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAAG0AAAAAAAAAbQAAAAAAAABKAAAAaHR0cHM6Ly91czAyd2ViLnpvb20udXMvai84NDY1OTQyMTA4MT9wd2Q9YVN0cE1FTk1iblpHVlRaVVRVY3ZaMkZ4V25velFUMDltAAAAAAAAALcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABtAAAAAAAAAAAAAAAAgGZA"
+				],
+				[
+					43,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAMsAAAAAAAAAywAAAAAAAAALAAAAODQ2NTk0MjEwODE",
+					"AQAAAAAAAAABAAAA1QAAAAAAAADVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"vi_paste_right",
+					null,
+					"AQAAAMsAAAAAAAAA1gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAADQBAAAAAAAANAEAAAAAAABjAAAAL1VzZXJzL3NjaG9maWVsZC9Db3Vyc2VzMjAyMS9MYXRlc3QgZ2VuZXJpYyBtYXRlcmlhbHMvUHVibGljIE5ldHdvcmsgYW5kIFN5c3RlbSBFbmdpbmVlcnMvTm90ZWJvb2tzNAEAAAAAAADQAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "\""
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_quotes",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAANgBAAAAAAAA2AEAAAAAAACUAAAAL1VzZXJzL3NjaG9maWVsZC9Db3Vyc2VzMjAyMS9MYXRlc3QgZ2VuZXJpYyBtYXRlcmlhbHMvUHVibGljIE5ldHdvcmsgYW5kIFN5c3RlbSBFbmdpbmVlcnMvQ291cnNlIE5vdGVzIC0gUHl0aG9uIGZvciBOZXR3b3JrIGFuZCBTeXN0ZW0gRW5naW5lZXJzLnBkZtgBAAAAAAAAdAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2QEAAAAAAADZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+							"insert_command": "vi_delete"
+						},
+						"action_command": "enter_insert_mode",
+						"motion_args":
+						{
+							"character": "\""
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "vi_expand_to_quotes",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAADQBAAAAAAAANAEAAAAAAACcAAAAL1ZvbHVtZXMvTWFjaW50b3NoIEhEL1VzZXJzL2Vycm9sbGxveWQvRHJvcGJveCAoUHl0aG9uIENoYXJtZXJzKS9Db3Vyc2VzMjAyMS9MYXRlc3QgZ2VuZXJpYyBtYXRlcmlhbHMvUHVibGljIEludHJvL0NvdXJzZSBOb3RlcyAtIEludHJvZHVjdGlvbiB0byBQeXRob24ucGRm",
+					"AQAAAAAAAAABAAAANQEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"paste",
+					null,
+					"AQAAADQBAAAAAAAAsAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAEAAAAAAAA0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"replace_character",
+					{
+						"character": "8"
+					},
+					"AQAAAK4CAAAAAAAArwIAAAAAAAABAAAANg",
+					"AQAAAAAAAAABAAAArgIAAAAAAACuAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAALUCAAAAAAAAtQIAAAAAAAACAAAAIyA",
+					"AQAAAAAAAAABAAAAygIAAAAAAADKAgAAAAAAAAAAAAAAsHNA"
+				],
+				[
+					84,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAMoCAAAAAAAAygIAAAAAAAACAAAAIyA",
+					"AQAAAAAAAAABAAAA3QIAAAAAAADdAgAAAAAAAAAAAAAAYGVA"
+				],
+				[
+					86,
+					2,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AgAAAP8CAAAAAAAA/wIAAAAAAAACAAAAIyD/AgAAAAAAAAEDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAMAAAAAAAAQAwAAAAAAAAAAAAAAIGNA"
+				],
+				[
+					88,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAMoCAAAAAAAAzAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wIAAAAAAADbAgAAAAAAAAAAAAAAIGNA"
+				],
+				[
+					90,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAALUCAAAAAAAAtwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyAIAAAAAAADIAgAAAAAAAAAAAAAAYGVA"
+				],
+				[
+					93,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"BAAAALUCAAAAAAAAtQIAAAAAAAACAAAAIyDKAgAAAAAAAMoCAAAAAAAAAgAAACMg4gIAAAAAAADiAgAAAAAAAAIAAAAjIP0CAAAAAAAA/QIAAAAAAAACAAAAIyA",
+					"AQAAAAAAAAAEAAAAtQIAAAAAAAC1AgAAAAAAAAAAAAAAAPC/zAIAAAAAAADMAgAAAAAAAAAAAAAAAPC/5gIAAAAAAADmAgAAAAAAAAAAAAAAAPC/AwMAAAAAAAADAwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					96,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAOICAAAAAAAA5AIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gIAAAAAAADiAgAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"an",
+				"ANF: Copy Current File"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"anf ",
+				"ANF: Rename File"
+			],
+			[
+				"anf",
+				"ANF: Copy Current File"
+			],
+			[
+				"set sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"synt py",
+				"Set Syntax: Python"
+			],
+			[
+				"file rename",
+				"File: Rename"
+			],
+			[
+				"file de",
+				"File: Delete"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"set synt pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set synt cfg",
+				"Set Syntax: SSHD Config"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"file ren",
+				"File: Rename"
+			],
+			[
+				"anaconda inter",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"file dele",
+				"File: Delete"
+			],
+			[
+				"file copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"file del",
+				"File: Delete"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"file copy na",
+				"File: Copy Name"
+			],
+			[
+				"file hi",
+				"Sublime Merge: File History"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"set syn j",
+				"Set Syntax: Jinja2"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy h",
+				"Set Syntax: HTML"
+			],
+			[
+				"rain",
+				"Set Syntax: CSV (Rainbow)"
+			],
+			[
+				"syntax cs",
+				"Set Syntax: CSV (Rainbow)"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"outli",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"ana",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"proj  man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"spa",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"proj edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"brack high w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brackhih sw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"brack wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brack w",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"anaconda ren",
+				"Anaconda: Rename object under cursor"
+			],
+			[
+				"file move",
+				"File: Move"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"table com",
+				"Table of Comments: Show"
+			],
+			[
+				"brack high sw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"brackhigh",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"brack high wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man ren",
+				"Project Manager: Rename Project"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"view ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"proj ad",
+				"Project: Add Folder"
+			],
+			[
+				"brack sw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"brack hi sw",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"brackhi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brackhi",
+				"BracketHighlighter: Quick Start Guide"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"proj e",
+				"Project: Edit Project"
+			],
+			[
+				"pack op er",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack con rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack con up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack co rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ana co",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pack co dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"anaconda com",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pack con ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"color hi",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"color high",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color h",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"colo sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack reo",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"anaconda er",
+				"Anaconda: Next lint error"
+			],
+			[
+				"file path",
+				"File: Copy Path as URI"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"proj fol",
+				"Project: Add Folder"
+			],
+			[
+				"proj fold",
+				"Project: Add Folder"
+			],
+			[
+				"sum h",
+				"Sum Hours"
+			],
+			[
+				"pack o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PhD",
+				"Phd Timeline Insert Dates"
+			],
+			[
+				"origam sa",
+				"Origami: Save Current Layout"
+			],
+			[
+				"origam res",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task html",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"Phd",
+				"Phd Timeline Insert Dates"
+			],
+			[
+				"proto",
+				"proto"
+			],
+			[
+				"pro",
+				"proto"
+			],
+			[
+				"reso op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"task vi ",
+				"Tasks: View as HTML"
+			],
+			[
+				"findkey all",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"open brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task ht",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"open br",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"task v",
+				"Tasks: View as HTML"
+			],
+			[
+				"key con",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"key b",
+				"Preferences: Key Bindings"
+			],
+			[
+				"su",
+				"Sum Hours"
+			],
+			[
+				"mark",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"csv se",
+				"CSV: Select column"
+			],
+			[
+				"pack con do",
+				"Package Control: Discover Packages"
+			],
+			[
+				"csv i",
+				"CSV: Insert column"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 347.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"askdjfh",
+			"kjdfhskdfjh",
+			"skdjfhdskjfh",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49226))",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command('resize_pane', {\"orientation\": \"cols\"})",
+			"sublime.run_command('resize_pane')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True",
+			"sublime.log_commands(True)",
+			"sublime.log_commadns(True)",
+			"s;dfjh",
+			";soadfh",
+			"ldfskj",
+			"sublime.log_commands(False)",
+			"sublime.run_command('phd_dates')",
+			"sublime.run_command('rb_hours_sum')",
+			"sublime.run_command(rb_hours_sum)",
+			"sublime.run_command(phd_dates)",
+			"sublime.run_command(phd_dates_command)",
+			"sublime.run_command(phd_dates)",
+			"s.get('font_size')",
+			"s = sublime.load_settings(\"Preferences.sublime-settings\")",
+			"st = sublime.load_settings()",
+			"sublime",
+			"sublime.get_setting('font_size')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command(plain_tasks_calendar)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"\n#Totals\n\ntotal,0\n\nsublime.list_commands(False)",
+			"print(test)",
+			"test",
+			"test = test + '\\nworld'",
+			"test = 'hello'",
+			"sublime.run_command(\"run_macro_file\", {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"})",
+			"sublime",
+			"test.strip() == None",
+			"test.strip() == False",
+			"test.strip() == ''",
+			"test",
+			"test.strip()",
+			"test",
+			"test = \"\\n\"",
+			"test",
+			"test = '\\n'",
+			"test.strip()",
+			"test",
+			"\n#Totals\ntest = ' '",
+			"sublime_plugin.TextCommand.view",
+			"sublime_plugin.TextCommand",
+			"import sublime_plugin",
+			"import sublime_pluging as sp",
+			"sublime_plugin",
+			"sublime",
+			"self.view.symbols()",
+			"view.run_command('my_example')",
+			"view.command('duplicate_line')",
+			"view.run(\"duplicate_line\")",
+			"vie",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])",
+			"collections.Counter()",
+			"import collections",
+			"dir()",
+			"import this"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/pychm/ansible_setup_scripts",
+		"/Volumes/pychm/ansible_setup_scripts/courses",
+		"/Volumes/pychm/ansible_setup_scripts/students",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials"
+	],
+	"file_history":
+	[
+		"/Volumes/pychm/ansible_setup_scripts/courses/course_vars_496.yml",
+		"/Volumes/pychm/ansible_setup_scripts/course_vars_497.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_495.csv",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub/templates/convert_html.py.j2",
+		"/Volumes/pychm/ansible_setup_scripts/purge.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/purge/tasks/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/purge/vars/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/trainer_ids.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/purge/tasks/ldap_user.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/ldap_user.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/templates/kubeportforward.conf.j2",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/vars/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/ldap.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/postcourse.yml",
+		"/Volumes/pychm/ansible_setup_scripts/backup_vars.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/ryder.harris@janushenderson.com",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_488a.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_489.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_490.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_491.csv",
+		"/Volumes/pychm/ansible_setup_scripts/courses/course_vars_495.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_496.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/bryzey@gmail.com",
+		"/Volumes/pychm/ansible_setup_scripts/.zuliprc",
+		"/Volumes/pychm/ansible_setup_scripts/course_vars.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/communication/tasks/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/library/print_list_of_dicts.py",
+		"/Volumes/pychm/ansible_setup_scripts/ansible.cfg",
+		"/Volumes/pychm/ansible_setup_scripts/library/create_zulip_users.py",
+		"/Volumes/pychm/ansible_setup_scripts/filter_plugins/map_format.py",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_469.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/rbayot@adb.org",
+		"/Volumes/pychm/ansible_setup_scripts/past_courses.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/purge/templates/kubeportforward.conf.j2",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Volumes/pychm/ansible_setup_scripts/local_vars.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/zulip.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/meta/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/ldap_purge.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_431.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_432.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_438.csv",
+		"/Volumes/pychm/ansible_setup_scripts/roles/common/tasks/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/common/meta/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/inventory/ldap_vars.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_468.csv",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub/tasks/ldap_user.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_408.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_415.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_463.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_462.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_461.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/mcalleja@adb.org",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub/tasks/ldap.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub/meta/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub/tasks/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/common_teardown/tasks/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/common_teardown/tasks/config.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/tammy.nguyen@finance.gov.au",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/tanyaquy@gmail.com",
+		"/Volumes/pychm/ansible_setup_scripts/courses/course_vars_483.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub_backup/meta/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub_backup/tasks/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/communication/meta/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/common/tasks/config.yml",
+		"/Volumes/pychm/ansible_setup_scripts/inventory/group_vars.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub_backup/tasks/purge_shared.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub_backup/tasks/hub.yml",
+		"/Volumes/pychm/ansible_setup_scripts/backup_shared_drive.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/email_followup.yml",
+		"/Volumes/pychm/ansible_setup_scripts/local_file_templates/README.md",
+		"/Volumes/pychm/ansible_setup_scripts/local_file_templates/mail_vars.vault.template",
+		"/Volumes/pychm/ansible_local_scripts/roles/hub/tasks/hub.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/gaol/tasks/hub_ssh.yml",
+		"/Volumes/pychm/ansible_setup_scripts/future_courses.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub/tasks/hub.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/gaol/tasks/engineer_keys.yml",
+		"/Volumes/pychm/ansible_setup_scripts/server.cfg",
+		"/Volumes/pychm/ansible_setup_scripts/.gitignore",
+		"/Volumes/pychm/ansible_setup_scripts/roles/gaol/meta/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_488.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/ryder.harris2@janushenderson.com",
+		"/Volumes/pychm/ansible_local_scripts/inventory/group_vars.yml",
+		"/Volumes/pychm/ansible_local_scripts/roles/communication/tasks/email_reminder.yml",
+		"/Volumes/pychm/ansible_local_scripts/prep_server.yml",
+		"/Volumes/pychm/ansible_local_scripts/roles/zulip/templates/welcome.md.j2",
+		"/Volumes/pychm/ansible_local_scripts/local_vars.yml",
+		"/Volumes/pychm/ansible_local_scripts/students/credentials/Ryder.harris@janushenderson.com",
+		"/Volumes/pychm/ansible_local_scripts/course_vars.yml",
+		"/Volumes/pychm/ansible_local_scripts/README.md",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/Ryder.harris@janushenderson.com",
+		"/Volumes/pychm/ansible_local_scripts/students/students_488.csv",
+		"/Volumes/pychm/ansible_local_scripts/roles/hub/templates/convert_html.py.j2",
+		"/Volumes/pychm/ansible_local_scripts/inventory/mail_vars.yml",
+		"/Volumes/pychm/ansible_local_scripts/roles/communication/templates/email_body.html.j2",
+		"/Volumes/pychm/ansible_local_scripts/roles/communication/tasks/main.yml",
+		"/Volumes/pychm/ansible_setup_scripts/test.md",
+		"/Volumes/pychm/ansible_setup_scripts/README.md",
+		"/Volumes/pychm/ansible_setup_scripts/requirements.txt",
+		"/Volumes/pychm/ansible_setup_scripts/inventory/mail_vars.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/zulip/tasks/zulip.yml",
+		"/Volumes/pychm/ansible_setup_scripts/prep_server.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/templates/postcourse_email.html.j2",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_457.csv",
+		"/Volumes/pychm/ansible_setup_scripts/roles/communication/tasks/email_reminder.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/hub.yml",
+		"/Volumes/pychm/ansible_local_scripts/prep_windows_server.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_482.csv",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub/templates/postStart.sh.j2",
+		"/Volumes/pychm/ansible_setup_scripts/roles/hub/templates/preStart.sh.j2",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_487.csv",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/anhua.ma@westpac.com.au",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/david.berick@westpac.com.au",
+		"/Volumes/pychm/ansible_setup_scripts/students/credentials/karina.mak@westpac.com.au",
+		"/Volumes/pychm/ansible_setup_scripts/courses/course_vars_487.yml",
+		"/Volumes/pychm/ansible_setup_scripts/filter_plugins/urlencode.py",
+		"/Volumes/pychm/ansible_setup_scripts/lookup_plugins/correcthorse.py",
+		"/Volumes/pychm/ansible_setup_scripts/courses/course_vars_488.yml",
+		"/Volumes/pychm/ansible_setup_scripts/roles/zulip/templates/welcome.md.j2",
+		"/Volumes/pychm/ansible_setup_scripts/students/students_483.csv",
+		"/Volumes/pychm/ansible_setup_scripts/teardown_server.yml",
+		"/Volumes/pychm/ansible_setup_scripts/students.csv",
+		"/Volumes/MagellanX/PhD/Data/rf_size_est/rf_estimate.log",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/hermes.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Zeus #phd.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/mk_new_nb.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/utils.py"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+			"<project>",
+			"project"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^(.+?)\\s+(\\S+@\\S+)$",
+			"com",
+			"^(.+?)\\s+(\\S+@\\S+)$",
+			"template",
+			"tags",
+			"student_csv_pattern",
+			"swinger armrest oozy streak",
+			"{[a-zA-Z]+}",
+			"{[a-zA-Z]}",
+			"writeable_directory",
+			"NUM_THREADS",
+			"MODIFICATION_THRESHOLD",
+			"AUTH",
+			"POST_NOTEBOOK_URL",
+			"DELAY",
+			"POST_NOTEBOOK_URL",
+			"AUTH",
+			"^(.+?)\\s+(\\S+@\\S+)$",
+			"^(.+)\\s+(\\S+@\\S+)$",
+			"^(.*)\\s+(\\S+@\\S+)$`",
+			"^(.+)\\s+(\\S+@\\S+)$`",
+			"^(.+?)\\s+(\\S+@\\S+)$`",
+			"^(.+?)\\s+(\\S+@\\S+)$` -> `\"\\1\",\"\\2\"",
+			"post_notebooks",
+			"rob.layton",
+			"'",
+			"students",
+			"  tags:\n    - never\n    - list_students\n",
+			"students_report",
+			"taks",
+			"students",
+			"all_students",
+			"hexaware",
+			"ldap_auth",
+			"ldap_svc",
+			"mcalleja@adb.org",
+			"ldap_auth",
+			"tammy.nguyen",
+			"students",
+			"students.list",
+			"email_from",
+			"spell",
+			"cfg",
+			"server",
+			"^\\s*tags:[\\s\\w\\-]*engineers",
+			"^\\s*",
+			"engineers",
+			"tags",
+			"engineers",
+			"tags.*\\n.*engineers",
+			"tags.*engineers",
+			"engineers",
+			"^\\s*tags:\\n\\s*-\\s*engineers",
+			"^\\s*tags:\\n\\s*-\\s*network",
+			"stude",
+			"cfg",
+			"server",
+			"cp",
+			"email_from",
+			"live_course_guide",
+			"mail_vars",
+			"mail_vars.vault",
+			"mail_varsva ;;  ;; ;",
+			"girl",
+			"homework",
+			"westpac",
+			"poststart",
+			"post",
+			"preStart",
+			"postStart",
+			".*start.sh",
+			"poststart",
+			"hubencode",
+			"kubectl exec",
+			"hubencode",
+			"kubectl exec",
+			"/home/data",
+			"data",
+			"correcthorse",
+			"create_zulip_users",
+			"students",
+			"^([\\w\\s-]+)\\s([\\w\\.-]+@[\\w\\.]+)$",
+			"enginee",
+			"configmap",
+			"configmap/aws-auth"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"\\1\",\"\\2\""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/pychm/ansible_setup_scripts/README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4426,
+								4426
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 1993,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										2705,
+										2706
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "MarkdownEditing-ArcDark-errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hwb",
+									"hexa",
+									"gray",
+									"rgba",
+									"hex_compressed",
+									"hex",
+									"hsl",
+									"hwba",
+									"hsla",
+									"hexa_compressed",
+									"graya",
+									"webcolors",
+									"rgb"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/Markdown",
+								"enabled": true,
+								"last_updated": 1615343736.8,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4868.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Volumes/pychm/ansible_setup_scripts/roles/communication/templates/email_body.html.j2",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								737,
+								737
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1169,
+										1171
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										739,
+										741
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hexa",
+									"gray",
+									"rgba",
+									"webcolors",
+									"rgb",
+									"hex_compressed",
+									"graya",
+									"hsl",
+									"hex",
+									"hexa_compressed",
+									"hwba",
+									"hwb",
+									"hsla"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".j2",
+								"current_syntax": "HTML/HTML",
+								"enabled": true,
+								"last_updated": 1613511490.24,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"rainbow_checked": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Volumes/pychm/ansible_setup_scripts/local_vars.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1612483574.11
+							},
+							"rainbow_checked": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/pychm/ansible_setup_scripts/roles/zulip/templates/welcome.md.j2",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".j2",
+								"current_syntax": "Jinja2/Syntaxes/Jinja2",
+								"enabled": false,
+								"last_updated": 1612130317.57
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jinja2/Syntaxes/Jinja2.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Volumes/pychm/ansible_setup_scripts/students/students_493.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".csv",
+								"current_syntax": "rainbow_csv/pregenerated_grammars/CSV (Rainbow)",
+								"enabled": false,
+								"last_updated": 1612130317.57
+							},
+							"incomplete_sync": null,
+							"pre_rainbow_syntax": "Packages/Text/Plain text.tmLanguage",
+							"rainbow_checked": true,
+							"rainbow_mode": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/rainbow_csv/pregenerated_grammars/CSV (Rainbow).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Volumes/pychm/ansible_setup_scripts/local_file_templates/course_vars.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								628,
+								628
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.box_height": 19,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1613511490.24
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Volumes/pychm/ansible_setup_scripts/prep_server.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "yaml"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1614260343.53
+							},
+							"incomplete_sync": null,
+							"line_numbers": true,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 177.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Volumes/pychm/ansible_setup_scripts/roles/communication/tasks/email_reminder.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1614260343.53
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Volumes/pychm/ansible_setup_scripts/server.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										9,
+										10
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".cfg",
+								"current_syntax": "INI/INI",
+								"enabled": false,
+								"last_updated": 1613511490.24
+							},
+							"rainbow_checked": true,
+							"syntax": "Packages/INI/INI.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Volumes/pychm/ansible_setup_scripts/roles/purge/tasks/all_students.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "yaml"
+							},
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1613511490.24
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Volumes/pychm/ansible_setup_scripts/roles/purge/tasks/ldap.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "yaml"
+							},
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1613511490.24
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Volumes/pychm/ansible_setup_scripts/roles/postcourse/tasks/hub.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "yaml"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1612130317.57
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Volumes/pychm/ansible_setup_scripts/roles/common/tasks/config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "yaml"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1612130317.57
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 13,
+					"file": "/Volumes/pychm/ansible_setup_scripts/courses/course_vars_497.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								872,
+								872
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1615343736.8
+							},
+							"rainbow_checked": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/Volumes/pychm/ansible_setup_scripts/students/students_497.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".csv",
+								"current_syntax": "rainbow_csv/pregenerated_grammars/CSV (Rainbow)",
+								"enabled": false,
+								"last_updated": 1615343736.8
+							},
+							"pre_rainbow_syntax": "Packages/Text/Plain text.tmLanguage",
+							"rainbow_checked": true,
+							"rainbow_mode": true,
+							"syntax": "Packages/rainbow_csv/pregenerated_grammars/CSV (Rainbow).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/Volumes/pychm/ansible_setup_scripts/students/students_498.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".csv",
+								"current_syntax": "rainbow_csv/pregenerated_grammars/CSV (Rainbow)",
+								"enabled": false,
+								"last_updated": 1615343736.8
+							},
+							"pre_rainbow_syntax": "Packages/Text/Plain text.tmLanguage",
+							"rainbow_checked": true,
+							"rainbow_mode": true,
+							"syntax": "Packages/rainbow_csv/pregenerated_grammars/CSV (Rainbow).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/Volumes/pychm/ansible_setup_scripts/students/credentials/nick.withers@wsp.com",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".com",
+								"current_syntax": "Text/Plain text",
+								"enabled": false,
+								"last_updated": 1615343736.8
+							},
+							"rainbow_checked": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/Volumes/pychm/ansible_setup_scripts/students/students_496.csv",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".csv",
+								"current_syntax": "rainbow_csv/pregenerated_grammars/CSV (Rainbow)",
+								"enabled": false,
+								"last_updated": 1614260343.53
+							},
+							"pre_rainbow_syntax": "Packages/Text/Plain text.tmLanguage",
+							"rainbow_checked": true,
+							"rainbow_mode": true,
+							"syntax": "Packages/rainbow_csv/pregenerated_grammars/CSV (Rainbow).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 18,
+					"file": "/Volumes/pychm/ansible_setup_scripts/courses/course_vars_496.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 783,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1615343736.8
+							},
+							"rainbow_checked": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/Volumes/pychm/ansible_setup_scripts/courses/course_vars_498.yml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".yml",
+								"current_syntax": "YAML/YAML",
+								"enabled": false,
+								"last_updated": 1615343736.8
+							},
+							"rainbow_checked": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 706.0
+	},
+	"output.diagnostics":
+	{
+		"height": 307.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ansible_setup_scripts #pychm.sublime-project",
+	"replace":
+	{
+		"height": 81.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"498",
+				"students/students_498.csv"
+			],
+			[
+				"",
+				"README.md"
+			],
+			[
+				"students_496",
+				"students/students_496.csv"
+			],
+			[
+				"stude",
+				"students/students_496.csv"
+			],
+			[
+				"course_vars_49",
+				"courses/course_vars_496.yml"
+			],
+			[
+				"bri",
+				"students/credentials/bryzey@gmail.com"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"loc",
+				"local_vars.yml"
+			],
+			[
+				"stu 495",
+				"students/students_495.csv"
+			],
+			[
+				"st 496",
+				"students/students_496.csv"
+			],
+			[
+				"stu 496",
+				"students/students_496.csv"
+			],
+			[
+				"convert",
+				"roles/hub/templates/convert_html.py.j2"
+			],
+			[
+				"ryder",
+				"students/credentials/ryder.harris@janushenderson.com"
+			],
+			[
+				"postco zu",
+				"roles/postcourse/tasks/zulip.yml"
+			],
+			[
+				"common con",
+				"roles/common/tasks/config.yml"
+			],
+			[
+				"rb",
+				"students/credentials/rbayot@adb.org"
+			],
+			[
+				"mc",
+				"students/credentials/mcalleja@adb.org"
+			],
+			[
+				"mcalleja",
+				"students/credentials/mcalleja@adb.org"
+			],
+			[
+				"tammy",
+				"students/credentials/tammy.nguyen@finance.gov.au"
+			],
+			[
+				"purge",
+				"roles/hub_backup/tasks/purge_shared.yml"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"ser",
+				"server.cfg"
+			],
+			[
+				"cour",
+				"course_vars.yml"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"ry",
+				"ansible_local_scripts/students/credentials/Ryder.harris@janushenderson.com"
+			],
+			[
+				"ryser",
+				"ansible_local_scripts/students/credentials/Ryder.harris@janushenderson.com"
+			],
+			[
+				"local",
+				"ansible_local_scripts/local_vars.yml"
+			],
+			[
+				"prep",
+				"ansible_local_scripts/prep_server.yml"
+			],
+			[
+				"group",
+				"ansible_local_scripts/inventory/group_vars.yml"
+			],
+			[
+				"welcome",
+				"ansible_local_scripts/roles/zulip/templates/welcome.md.j2"
+			],
+			[
+				"test",
+				"test.md"
+			],
+			[
+				"david",
+				"students/credentials/david.berick@westpac.com.au"
+			],
+			[
+				"anhua",
+				"students/credentials/anhua.ma@westpac.com.au"
+			],
+			[
+				"kari",
+				"students/credentials/karina.mak@westpac.com.au"
+			],
+			[
+				"487",
+				"students/students_487.csv"
+			],
+			[
+				"stu 487",
+				"students/students_487.csv"
+			],
+			[
+				"stud 487",
+				"students/students_487.csv"
+			],
+			[
+				"davidb",
+				"students/credentials/david.berick@westpac.com.au"
+			],
+			[
+				"pre star",
+				"roles/hub/templates/preStart.sh.j2"
+			],
+			[
+				"post",
+				"roles/hub/templates/postStart.sh.j2"
+			],
+			[
+				"preSt",
+				"roles/hub/templates/preStart.sh.j2"
+			],
+			[
+				"ldap",
+				"roles/hub/tasks/ldap_user.yml"
+			],
+			[
+				"req",
+				"requirements.txt"
+			],
+			[
+				"log",
+				"rf_estimate.log"
+			],
+			[
+				"rf_",
+				"rf_est.py"
+			],
+			[
+				"her",
+				"hermes.py"
+			],
+			[
+				"the",
+				"themis.py"
+			],
+			[
+				"rf",
+				"rf_estimate.py"
+			],
+			[
+				"heph",
+				"hephaistos.py"
+			],
+			[
+				"them",
+				"themis.py"
+			],
+			[
+				"ach",
+				"achilles.py"
+			],
+			[
+				"themis",
+				"themis.py"
+			],
+			[
+				"themi",
+				"themis.py"
+			],
+			[
+				"hep",
+				"hephaistos.py"
+			],
+			[
+				"he",
+				"hephaistos.py"
+			],
+			[
+				"md",
+				"thoughts.md"
+			],
+			[
+				"ath",
+				"athena.py"
+			],
+			[
+				"athe",
+				"athena.py"
+			],
+			[
+				"todo",
+				"athena_themis.todo"
+			],
+			[
+				"tod",
+				"hephaistos.todo"
+			],
+			[
+				"qui",
+				"/Volumes/MagellanX/PhD/Data/length_tun_data/quick_run.py"
+			],
+			[
+				"at",
+				"zeus/athena_themis.todo"
+			],
+			[
+				"th",
+				"themis.py"
+			],
+			[
+				"aht",
+				"athena_themis.todo"
+			],
+			[
+				"ol",
+				"zeus/old_zeus.py"
+			],
+			[
+				"pr",
+				"zeus/protoZeus.py"
+			],
+			[
+				"ze",
+				"zeus/zeus.py"
+			],
+			[
+				"zu",
+				"zeus/zeus.py"
+			],
+			[
+				"pro",
+				"zeus/protoZeus.py"
+			],
+			[
+				"qu",
+				"spike2_workflow_test/hephaistos_testing/u1_r1.smrx/quickViewProto.py"
+			],
+			[
+				"s",
+				"zeus/spk2_mat_read.py"
+			],
+			[
+				"z",
+				"zeus/zeus.py"
+			],
+			[
+				"todo ",
+				"project_notes/todo_check_files"
+			],
+			[
+				"phd ",
+				"project_notes/phd_timeline.todo.html"
+			],
+			[
+				"hel",
+				"git/helpers.csv"
+			],
+			[
+				"2018",
+				"RB_general/2018_10_19_hours.csv"
+			],
+			[
+				"to",
+				"project_notes/todo_check.sh"
+			],
+			[
+				"reg",
+				"git/regex_test.todo"
+			],
+			[
+				"hou",
+				"RB_general/2018_10_05_hours.csv"
+			],
+			[
+				"20",
+				"RB_general/2018_09_21_hours.csv"
+			],
+			[
+				"prog",
+				"project_notes/prog_review_3.5.md"
+			],
+			[
+				"work",
+				"git/workshop_materials.todo"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"gen",
+				"HW_v_Sagar/general_thoughts.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"criticl",
+				"tag-critical"
+			],
+			[
+				"",
+				"Abbot:2011fd"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

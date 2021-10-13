@@ -1,0 +1,760 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"textbf"
+			],
+			[
+				"subs",
+				"subsection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/Developer/data_viz_proj/ideas.md",
+			"settings":
+			{
+				"buffer_size": 246,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "ideas.md"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack re o",
+		"selected_items":
+		[
+			[
+				"pack re o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack re",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"file new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"package re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"proj man edi",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man",
+				"Project Manager: Add New Project"
+			],
+			[
+				"porj new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj op",
+				"Project Manager: Edit Project"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"HTML",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"task ht",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"task",
+				"Tasks: View as HTML"
+			],
+			[
+				"branch",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"term v",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"term vi",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mak pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"terminal v",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"proj man ap",
+				"Project Manager: Append Project"
+			],
+			[
+				"resou open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"mark",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preiew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"TOC",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"prevew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"packager",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 427.0,
+		"history":
+		[
+			"$project_path",
+			"view.__dir__()",
+			"view.dir()",
+			"view.__dir__",
+			"view",
+			"dir()",
+			"quit()",
+			"m.sin()",
+			"import math as m",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Developer/data_viz_proj"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Developer/data_viz_proj/ideas.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/NewFile.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/data_viz_proj.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Latin Work.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/errollloyd/Developer/data_viz_proj/root_test.txt",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/test_link.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/paper/vc_results.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/install.txt",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_intro.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/errol_latex.sublime-build",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/temp.todo",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/figures/errol/scheme_plast_fig.pdf",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/build.ssh",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_supp.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.tex",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/errol_thoughts_todo.todo",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/temp.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/paper_meeting_todo.html",
+		"/Users/errollloyd/Desktop/discussion_temp.tex",
+		"/Users/errollloyd/Desktop/discussion_temp.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/hws_exp.py",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/test.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/intro_draft.md",
+		"/Users/errollloyd/Desktop/md_test.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/WordCount.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/abstract.md",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_orientDist.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/nonstop_errol_build.ssh",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/.gitignore",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/vc_NN.pdf",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/errol_thoughts_todo.todo",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/abstract.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-workspace",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/errol.bib",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/full_errol.bib",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_methods.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/library.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/spartan_cloud_sz_c_25/sf_idx_6.svg",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_networkSpec.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.pdf",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Python/Snippets/for.sublime-snippet",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.log",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownTOC.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp2/general_thoughts.md"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/Developer/data_viz_proj/ideas.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								246,
+								246
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 269,
+								"count": 35,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_name": "ideas.md",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "data_viz_proj.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"res",
+				"Paper Files/vc_results.tex"
+			],
+			[
+				"intro",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"intr",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"resu",
+				"Paper Files/vc_results.tex"
+			],
+			[
+				"vc.t",
+				"plast_v1_paper/vc.tex"
+			],
+			[
+				"",
+				"plasticity/general_thoughts.md"
+			],
+			[
+				"temp",
+				"plasticity/temp.todo"
+			],
+			[
+				"gen",
+				"plasticity/general_thoughts.md"
+			],
+			[
+				"in",
+				"plast_v1_paper/vc_intro.tex"
+			],
+			[
+				"supp",
+				"plast_v1_paper/vc_supp.tex"
+			],
+			[
+				"contrast",
+				"plast_v1_paper/vc_contrastInvariance.tex"
+			],
+			[
+				"disc",
+				"plast_v1_paper/vc_discussion.tex"
+			],
+			[
+				"dus",
+				"plast_v1_paper/vc_discussion.tex"
+			],
+			[
+				"ge",
+				"comp1/general_thoughts.md"
+			],
+			[
+				"gner",
+				"comp1/general_thoughts.md"
+			],
+			[
+				"re",
+				"plast_v1_paper/vc_results.tex"
+			],
+			[
+				"todo",
+				"comp1/errol_thoughts_todo.todo"
+			],
+			[
+				"term",
+				"Terminal (bash)"
+			],
+			[
+				"ter",
+				"Terminal (bash)"
+			],
+			[
+				"introt",
+				"plast_v1_paper/vc_intro.tex"
+			],
+			[
+				"te",
+				"Terminal (bash)"
+			],
+			[
+				"ign",
+				"plast_v1_paper/.gitignore"
+			],
+			[
+				".gi",
+				"plast_v1_paper/.gitignore"
+			],
+			[
+				"non",
+				"plast_v1_paper/nonstop_errol_build.ssh"
+			],
+			[
+				"vc_supp",
+				"plast_v1_paper/vc_supp.tex"
+			],
+			[
+				"vc_orientdist",
+				"plast_v1_paper/vc_orientDist.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

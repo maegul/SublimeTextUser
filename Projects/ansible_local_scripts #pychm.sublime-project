@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"binary_file_patterns":
+			[
+			],
+			"file_exclude_patterns":
+			[
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"name": "ansible_local_scripts #pychm",
+			"path": "/Volumes/pychm/ansible_local_scripts"
+		}
+	]
+}

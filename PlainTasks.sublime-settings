@@ -1,0 +1,13 @@
+{
+	"open_tasks_bullet": "▪",
+	"date_format": "(%y-%m-%d)",
+	"highlight_due_soon": 72,
+	"color_scheme":"Packages/User/tasks-errol.sublime-color-scheme",
+	// "color_scheme":"Packages/PlainTasks/tasks-eighties-colored-errol.hidden-tmTheme",
+	"highlight_line": false,
+	"draw_indent_guides": true,
+	"fold_buttons": true,
+	"fade_fold_buttons": true,
+	"stats_format": "@-{{@due}} :: !!-{{@high|@critical}} :: ▪$o ✔$d",
+	"use_tab_stops": true
+}

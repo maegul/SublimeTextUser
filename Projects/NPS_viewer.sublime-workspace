@@ -1,0 +1,2033 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"vis_option"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"all",
+				"all_nps_tool_select"
+			],
+			[
+				"sele",
+				"selected_tools"
+			],
+			[
+				"uni",
+				"uniq_tools"
+			],
+			[
+				"tool_",
+				"tool_filt"
+			],
+			[
+				"met",
+				"methods.md\tFile"
+			],
+			[
+				"result",
+				"results.md\tFile"
+			],
+			[
+				"other",
+				"other_string"
+			],
+			[
+				"mat",
+				"matches"
+			],
+			[
+				"test",
+				"test_string"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"sort",
+				"sorted_ds"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"tot",
+				"tots_header_prec_line"
+			],
+			[
+				"data",
+				"data_loc_b\tstatement"
+			],
+			[
+				"tots",
+				"tots_header"
+			],
+			[
+				"pop",
+				"pop_opts"
+			],
+			[
+				"read",
+				"readlines\tfunction"
+			],
+			[
+				"hou",
+				"hours.csv"
+			],
+			[
+				"cent_sd",
+				"cent_sd_vt\tparam"
+			],
+			[
+				"deg",
+				"degrees\tinstance"
+			],
+			[
+				"sta",
+				"stack_pref_ori\tparam"
+			],
+			[
+				"la",
+				"layer_two_resp\tstatement"
+			],
+			[
+				"resp",
+				"resp_check\tparam"
+			],
+			[
+				"disp_",
+				"disp_k"
+			],
+			[
+				"hws",
+				"hws_rand_size\tparam"
+			],
+			[
+				"rf_d",
+				"rf_dist_scale\tparam"
+			],
+			[
+				"file_",
+				"file_desc\tparam"
+			],
+			[
+				"pw_i",
+				"pw_dist_kwargs"
+			],
+			[
+				"sq",
+				"sq_diff_func"
+			],
+			[
+				"sq_",
+				"sq_diff_kwargs\tparam"
+			],
+			[
+				"pw",
+				"pw_dist_kwargs\tparam"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"jin",
+				"jin_rf_dist"
+			],
+			[
+				"locs",
+				"locs_return\tparam"
+			],
+			[
+				"make_",
+				"make_rf_args\tparam"
+			],
+			[
+				"hw_ori",
+				"hw_ori_idx\tparam"
+			],
+			[
+				"arcta",
+				"arctan\tinstance"
+			],
+			[
+				"hws_",
+				"hws_rand_size\tparam"
+			],
+			[
+				"samp",
+				"samp_size\tparam"
+			],
+			[
+				"angl",
+				"angles_pdf\tstatement"
+			],
+			[
+				"angles",
+				"angles_prob\tstatement"
+			],
+			[
+				"hw",
+				"hws_ori"
+			],
+			[
+				"hw_o",
+				"hw_oris"
+			],
+			[
+				"load_da",
+				"loaded_data_return\tstatement"
+			],
+			[
+				"n_tri",
+				"n_trials\tparam"
+			],
+			[
+				"arg",
+				"argv\tinstance"
+			],
+			[
+				"rf_di",
+				"rf_dist_params\tfunction"
+			],
+			[
+				"cell",
+				"cell_init\tfunction"
+			],
+			[
+				"e",
+				"exp_comment\tstatement"
+			],
+			[
+				"st",
+				"strftime\tfunction"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"stat",
+				"static_two_layer"
+			],
+			[
+				"layer",
+				"layer_two_circ_stat"
+			],
+			[
+				"cs_all",
+				"cs_all_circ_stat"
+			],
+			[
+				"resa",
+				"resample_only"
+			],
+			[
+				"pr",
+				"probs\tstatement"
+			],
+			[
+				"make_l",
+				"make_layer_two_circ_stat"
+			],
+			[
+				"make_la",
+				"make_layer_two_wts"
+			],
+			[
+				"make_rf",
+				"make_rf_circ_stat"
+			],
+			[
+				"rf_dis",
+				"rf_dists_prob\tparam"
+			],
+			[
+				"make",
+				"make_rf_layer\tfunction"
+			],
+			[
+				"make_r",
+				"make_rf_pdf\tfunction"
+			],
+			[
+				"rf_dists",
+				"rf_dists_prob\tstatement"
+			],
+			[
+				"jin_",
+				"jin_pdf_est"
+			],
+			[
+				"rf",
+				"rfd\tmodule"
+			],
+			[
+				"rf_dist",
+				"rf_dists_samples\tparam"
+			],
+			[
+				"d",
+				"d_num\tstatement"
+			],
+			[
+				"file_na",
+				"file_name_base\tstatement"
+			],
+			[
+				"optimi",
+				"optimise_data"
+			],
+			[
+				"saved",
+				"saved_file_name\tstatement"
+			],
+			[
+				"number",
+				"number_existing_opt_dats\tstatement"
+			],
+			[
+				"fil",
+				"file_name\tstatement"
+			],
+			[
+				"exi",
+				"existing_file_names\tstatement"
+			],
+			[
+				"mini",
+				"minimise_exponent\tfunction"
+			],
+			[
+				"jcd",
+				"jcdfn\tstatement"
+			],
+			[
+				"get",
+				"get_group_input_dat"
+			],
+			[
+				"lab",
+				"label_hover"
+			],
+			[
+				"parcoord",
+				"parcoord_plot_inpt"
+			],
+			[
+				"inpt",
+				"inpt_keys"
+			],
+			[
+				"input_",
+				"input_base_range"
+			],
+			[
+				"use",
+				"user_inputs_copy"
+			],
+			[
+				"spinn",
+				"spinner_div"
+			],
+			[
+				"selected",
+				"selected_groups"
+			],
+			[
+				"group",
+				"group_sel"
+			],
+			[
+				"output_p",
+				"output_p_c_sort_param"
+			],
+			[
+				"se",
+				"sel_butt"
+			],
+			[
+				"sort_se",
+				"sort_sel_cont"
+			],
+			[
+				"sort_",
+				"sort_inpts"
+			],
+			[
+				"spi",
+				"spinners"
+			],
+			[
+				"inp",
+				"inpts_div"
+			],
+			[
+				"sorted",
+				"sorted_dims"
+			],
+			[
+				"sor",
+				"sorted_dim_idx"
+			],
+			[
+				"dims",
+				"dims_keys_output"
+			],
+			[
+				"outp",
+				"output_base_range"
+			],
+			[
+				"out",
+				"output_base_range"
+			],
+			[
+				"axis",
+				"axis_find_factor"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"log",
+				"log_extent"
+			],
+			[
+				"gen_p",
+				"gen_p_coord_plot_input"
+			],
+			[
+				"gen",
+				"gen_input_dat"
+			],
+			[
+				"outpu",
+				"output"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in_var",
+				"in_var_bind"
+			],
+			[
+				"base",
+				"base_inpts"
+			],
+			[
+				"stri",
+				"stringify"
+			],
+			[
+				"sel",
+				"selectAll"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"area",
+				"area_sel_cont"
+			],
+			[
+				"scale",
+				"scale_buff"
+			],
+			[
+				"ex",
+				"example2"
+			],
+			[
+				"plo",
+				"plot1"
+			],
+			[
+				"cat_col",
+				"cat_col_scale"
+			],
+			[
+				"label",
+				"label_slice"
+			],
+			[
+				"out_var",
+				"out_vars_labels"
+			],
+			[
+				"color",
+				"color_select_pills"
+			],
+			[
+				"col_s",
+				"col_scale_cs"
+			],
+			[
+				"col",
+				"col_scale_cs"
+			],
+			[
+				"col_",
+				"col_scale_cs"
+			],
+			[
+				"input",
+				"input_groups"
+			],
+			[
+				"output",
+				"output_proto"
+			],
+			[
+				"gen_out",
+				"gen_output_proto"
+			],
+			[
+				"genout",
+				"gen_output_proto"
+			],
+			[
+				"in_vars",
+				"in_vars_sorted"
+			],
+			[
+				"input_fi",
+				"input_fields_check"
+			],
+			[
+				"in_v",
+				"in_vars_sorted"
+			],
+			[
+				"loc",
+				"loc_1_proto"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/Documents/GitHub/NPS_viewer/index.html",
+			"settings":
+			{
+				"buffer_size": 20682,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n☀ (master 🐛 🌈 )(~/Documents/GitHub/NPS_viewer)\n> py_serve                                                                                                       \nServing HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...\n127.0.0.1 - - [02/Nov/2018 20:34:37] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:34:37] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:39:04] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:39:05] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:39:05] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:39:05] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:39:05] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:39:05] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:39:05] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:55:16] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:55:16] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:55:16] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:55:16] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:55:16] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:55:16] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:55:16] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:57:09] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:57:09] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:57:09] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:57:09] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:57:09] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:57:09] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:57:09] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:58:00] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:58:00] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:58:00] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:58:00] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:58:00] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:58:00] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:58:00] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:59:03] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:59:03] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:59:03] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:59:03] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:59:03] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:59:03] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 20:59:03] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:00:16] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:00:16] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:00:16] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:00:16] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:00:16] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:00:16] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:00:16] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:02:04] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:02:04] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:02:04] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:02:04] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:02:04] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:02:04] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:02:04] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:03:34] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:03:34] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:03:34] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:03:34] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:03:34] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:03:34] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:03:34] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:35] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:35] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:35] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:35] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:35] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:35] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:35] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:48] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:48] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:48] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:48] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:48] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:48] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:06:48] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:07:34] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:07:34] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:07:34] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:07:34] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:07:34] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:07:34] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:07:34] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:08:34] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:10:48] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:10:51] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:12:29] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:12:29] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:12:29] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:12:29] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:12:29] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:12:29] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:12:29] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:33] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:33] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:33] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:33] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:33] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:33] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:33] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:53] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:53] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:53] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:53] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:53] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:53] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:13:53] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:15:40] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:15:41] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:15:41] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:15:41] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:15:41] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:15:41] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:15:41] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:23:29] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:23:29] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:23:29] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:23:29] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:23:29] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:23:29] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:23:29] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:25:06] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:25:07] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:25:07] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:25:07] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:25:07] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:25:07] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:25:07] \"GET /tools.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:26:50] \"GET / HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:26:50] \"GET /jquery-ui.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:26:50] \"GET /jquery-ui.theme.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:26:50] \"GET /jquery-ui.structure.min.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:26:50] \"GET /jQDateRangeSlider-min.js HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:26:50] \"GET /css/classic.css HTTP/1.1\" 200 -\n127.0.0.1 - - [02/Nov/2018 21:26:50] \"GET /tools.js HTTP/1.1\" 200 -\n\n\n☀ (1.22)(master🌈 )(~/Documents/GitHub/NPS_viewer)\n> ",
+			"settings":
+			{
+				"buffer_size": 10204,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "\n☾ (master 🐛 🌈 )(~/Documents/GitHub/NPS_viewer)\n> git st\n M index.html\n\n☾ (master 🐛 🌈 )(~/Documents/GitHub/NPS_viewer)\n> git diff\ndiff --git a/index.html b/index.html\nindex 4dc4365..1768a23 100644\n--- a/index.html\n+++ b/index.html\n@@ -21,8 +21,11 @@\n <link rel=\"stylesheet\" href=\"css/classic.css\" type=\"text/css\" />\n \n <!-- Select 2 -->\n-<link href=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css\" rel=\"stylesheet\" />\n+<!-- <link href=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css\" rel=\"stylesheet\" />\n <script src=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js\"></script>\n+ -->\n+<link href=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css\" rel=\"stylesheet\" />\n+<script src=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js\"></script>\n \n <!-- Data table -->\n <script type=\"text/javascript\" src='https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js'></script>\n@@ -477,7 +480,6 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n \n \n        // var tool = 'All'\n-       var selected_tools = [];\n \n        // Init\n        // gen_nps_disp(tool_data);     \n@@ -485,6 +487,7 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n \n        // var tool_filt_opts = _.concat('All', uniq_tools);\n        var tool_filt_opts = uniq_tools;\n+       var selected_tools = uniq_tools.map(t=>t);\n \n        update_nps();\n \n@@ -494,7 +497,8 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n                data: tool_filt_opts.map(function(t){\n                        return {                                                                                 \n                                id: t,\n-                               text: t\n+                               text: t,\n+                               selected: true\n                        }\n                })\n        })\n@@ -522,6 +526,9 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n \n                update_nps();\n \n+               console.log('select filter all nps')\n+               all_nps_tool_select()\n+\n        })\n \n        // $('#tool_filt').on('select2:unselect', function(){\n@@ -535,8 +542,10 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS            \n                $('#tool_filt').val(tool_filt_opts).trigger('change')\n        })\n \n+       // Select all to initialise\n+       // $('#tool_filt').val(tool_filt_opts).trigger('change')\n+\n \n-       $('#tool_filt').val(tool_filt_opts).trigger('change')\n \ndiff --git a/index.html b/index.html\nindex 4dc4365..1768a23 100644\n--- a/index.html\n+++ b/index.html\n@@ -21,8 +21,11 @@\n <link rel=\"stylesheet\" href=\"css/classic.css\" type=\"text/css\" />\n \n <!-- Select 2 -->\n-<link href=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css\" rel=\"stylesheet\" />\n+<!-- <link href=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css\" rel=\"stylesheet\" />\n <script src=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js\"></script>\n+ -->\n+<link href=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css\" rel=\"stylesheet\" />\n+<script src=\"https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js\"></script>\n \n <!-- Data table -->\n <script type=\"text/javascript\" src='https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js'></script>\n@@ -477,7 +480,6 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n \n \n        // var tool = 'All'\n-       var selected_tools = [];\n \n        // Init\n        // gen_nps_disp(tool_data);     \n@@ -485,6 +487,7 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n \n        // var tool_filt_opts = _.concat('All', uniq_tools);\n        var tool_filt_opts = uniq_tools;\n+       var selected_tools = uniq_tools.map(t=>t);\n \n        update_nps();\n \n@@ -494,7 +497,8 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n                data: tool_filt_opts.map(function(t){\n                        return {                                                                                 \n                                id: t,\n-                               text: t\n+                               text: t,\n+                               selected: true\n                        }\n                })\n        })\n@@ -522,6 +526,9 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n \n                update_nps();\n \n+               console.log('select filter all nps')\n+               all_nps_tool_select()\n+\n        })\n \n        // $('#tool_filt').on('select2:unselect', function(){\n@@ -535,8 +542,10 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS            \n                $('#tool_filt').val(tool_filt_opts).trigger('change')\n        })\n \n+       // Select all to initialise\n+       // $('#tool_filt').val(tool_filt_opts).trigger('change')\n+\n \n-       $('#tool_filt').val(tool_filt_opts).trigger('change')\n \n \n \n@@ -833,6 +842,7 @@ d3.csv('https://docs.google.com/spreadsheets/d/1QJR6M693pGTl0c4povSA4IZBFquygZiS\n                                })\n \n                var trace = {\n+                       type: 'scattergl',\n                        x: ws_data\n                                                                                                                 \n☾ (master 🐛 🌈 )(~/Documents/GitHub/NPS_viewer)\n> git commit -am 'added tool selection to all nps graph and improved initialisation'                              \n[master 3b5955a] added tool selection to all nps graph and improved initialisation\n 1 file changed, 32 insertions(+), 4 deletions(-)\n\n☾ (master🌏 )(~/Documents/GitHub/NPS_viewer)\n> git push\nCounting objects: 3, done.\nDelta compression using up to 4 threads.\nCompressing objects: 100% (3/3), done.\nWriting objects: 100% (3/3), 678 bytes | 0 bytes/s, done.\nTotal 3 (delta 2), reused 0 (delta 0)\nremote: Resolving deltas: 100% (2/2), completed with 2 local objects.                                            \nTo https://github.com/maegul/NPS_viewer.git\n   679049f..3b5955a  master -> master\n\n☾ (master🌈 )(~/Documents/GitHub/NPS_viewer)\n> \n\n☀ (1.22)(master🌈 )(~/Documents/GitHub/NPS_viewer)\n> ",
+			"settings":
+			{
+				"buffer_size": 6431,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Documents/GitHub/NPS_viewer/tools.js",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"su",
+				"Sum Hours"
+			],
+			[
+				"mark",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"csv se",
+				"CSV: Select column"
+			],
+			[
+				"pack con do",
+				"Package Control: Discover Packages"
+			],
+			[
+				"csv i",
+				"CSV: Insert column"
+			],
+			[
+				"sum",
+				"Sum Hours"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Packdev",
+				"PackageDev: View Documentation"
+			],
+			[
+				"proj ",
+				"Project: Edit Project"
+			],
+			[
+				"build wi",
+				"Build With: Python"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"file path",
+				"File: Copy Path as URI"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"key con",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"pack res open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"stack",
+				"Stack Overflow Snippets"
+			],
+			[
+				"search",
+				"Search Anywhere: From Selection"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"pack res o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack con l",
+				"Package Control: List Packages"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj man e",
+				"Project Manager: Edit Project"
+			],
+			[
+				"pack co li",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"s",
+				"Sum Hours"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pref key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			],
+			[
+				"file",
+				"File: Reveal"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"pack op res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"my",
+				"my example"
+			],
+			[
+				"UI",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack res e",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"my e",
+				"my example"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"my ",
+				"my example"
+			],
+			[
+				"pack re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"m",
+				"my example"
+			],
+			[
+				"packresop",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack re op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"csv ju",
+				"CSV: Justify columns"
+			],
+			[
+				"csv j",
+				"CSV: Justify columns"
+			],
+			[
+				"csv de",
+				"CSV: Delete empty trailing columns"
+			],
+			[
+				"csv sp",
+				"CSV: Delete empty trailing columns"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				"csv",
+				"CSV: Format using template"
+			],
+			[
+				":",
+				":e - Revert"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"task",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"al",
+				"AlignTab"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"eva",
+				"CSV: Evaluate cells"
+			],
+			[
+				"eval",
+				"CSV: Evaluate cells"
+			],
+			[
+				"csv col",
+				"CSV: Delete empty trailing columns"
+			],
+			[
+				"csv set de",
+				"CSV: Set delimiter"
+			],
+			[
+				"ali tabl",
+				"AlignTab: Table Mode"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"res open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"copy path",
+				"File: Copy Path as URI"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"add .",
+				"Git: Add..."
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git h",
+				"Git: Commit history"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj add fo",
+				"Project: Add Folder"
+			],
+			[
+				"ANF",
+				"ANF: New File"
+			],
+			[
+				"an",
+				"ANF: New File"
+			],
+			[
+				"terminus pre",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminus ",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"AN",
+				"ANF: Delete File"
+			],
+			[
+				"anf",
+				"ANF: New File"
+			],
+			[
+				"packres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"file d",
+				"File: Delete"
+			],
+			[
+				"mark ch",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"task d",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"origa pul",
+				"Origami: Pull File from Pane Above"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig cre foc",
+				"Origami: Create and Focus Pane on the Right"
+			],
+			[
+				"proj man ad",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"proje man new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task fo",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"Tas",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"anaconda er",
+				"Anaconda: Show error list"
+			],
+			[
+				"proj man",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"proj man i",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj edi",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj m",
+				"Project Manager: Edit Project"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"pack re o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"file sav",
+				"File: Save All"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"proj rem",
+				"Project Manager: Remove Project"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command(plain_tasks_calendar)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"\n#Totals\n\ntotal,0\n\nsublime.list_commands(False)",
+			"print(test)",
+			"test",
+			"test = test + '\\nworld'",
+			"test = 'hello'",
+			"sublime.run_command(\"run_macro_file\", {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"})",
+			"sublime",
+			"test.strip() == None",
+			"test.strip() == False",
+			"test.strip() == ''",
+			"test",
+			"test.strip()",
+			"test",
+			"test = \"\\n\"",
+			"test",
+			"test = '\\n'",
+			"test.strip()",
+			"test",
+			"\n#Totals\ntest = ' '",
+			"sublime_plugin.TextCommand.view",
+			"sublime_plugin.TextCommand",
+			"import sublime_plugin",
+			"import sublime_pluging as sp",
+			"sublime_plugin",
+			"sublime",
+			"self.view.symbols()",
+			"view.run_command('my_example')",
+			"view.command('duplicate_line')",
+			"view.run(\"duplicate_line\")",
+			"vie",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])",
+			"collections.Counter()",
+			"import collections",
+			"dir()",
+			"import this"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Documents/GitHub/NPS_viewer"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.docx",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_10_19_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/helpers.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/notes.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_09_21_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_10_05_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check.sh",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/notes.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_code.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Preferences.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check_files",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/StandUp.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/PR650_calib.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/test.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/regex_test.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasksDates.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Context.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/APlainTasksCommon.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/hours.csv",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/RB_hours_sum.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Default/trim_trailing_white_space.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/interview_questions.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/dateTimeStamp.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/workshop_materials.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default.sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/latex_js_blog_paragraph.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Advanced CSV/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Installed Packages/ExtendedTabSwitcher.sublime-package",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/ExtendedSwitcher.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/NewFile.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/package-metadata.json",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/README.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/hours_sum.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/my_example.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Default/duplicate_line.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Terminus/Default.sublime-commands",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/my_example.sublime-commands",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Default/delete_word.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/AlignTab/table.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/AlignTab/aligner.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/AlignTab/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Advanced CSV/csvplugin.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Advanced CSV/AdvancedCSV.tmLanguage",
+		"/Users/errollloyd/Science/ResBaz/RB_general/hours_sum.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/test",
+		"/Users/errollloyd/Science/ResBaz/RB_general/hours.csv",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Advanced CSV/AdvancedCSV.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/pr650_minolta_readings.csv",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/aligned_test",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/.gitignore",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/vintage_motions.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/vintage_commands.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/vintage.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/spat_freq_ori",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/general/resbaz.todo",
+		"/Users/errollloyd/Science/ResBaz/general/resbaz.todo",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/resbaz_general.todo",
+		"/Users/errollloyd/Science/ResBaz/general.todo",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/general.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/git/resbaz_other.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/nectar grant info",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/old/command_line/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/my_code.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Breakers.sublime-color-scheme",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/test.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Legacy/Monokai Bright.tmTheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/SymPy_Fourer_play.ipynb",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials_plan.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/helpers",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/helpers.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/circ_stat.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/hws.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/tmpNoteNookCode.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/vcnl_analysis.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws_exp.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/run_exp1.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test2.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/optimise_data0",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/rfDistCalc.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test_mod.py",
+		"/voronoi_play.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/proto_d3.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/js_test.js",
+		"/Users/errollloyd/Developer/JT_landUse_project/loc_1_var.csv",
+		"/Users/errollloyd/Developer/JT_landUse_project/d3_pc_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/pc_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/d3.parcoords.js",
+		"/Users/errollloyd/Developer/JT_landUse_project/proto.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/index.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"selected_tools",
+			"ut",
+			"all_nps_tool_select",
+			"uniq_tools",
+			"selected_tools",
+			"all_NPS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/Documents/GitHub/NPS_viewer/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15462,
+								15462
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "html"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 79,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										15462,
+										15463
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										15436,
+										15437
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10203,
+								10203
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"caret_style": "blink",
+							"color_scheme": "Terminus.sublime-color-scheme",
+							"default_dir": "/Users/errollloyd/Documents/GitHub/NPS_viewer",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 4,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/errollloyd/Documents/GitHub/NPS_viewer",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1"
+								},
+								"panel_name": null,
+								"tag": null,
+								"title": "Login Shell"
+							},
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 2584.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2584.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6430,
+								6430
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"caret_style": "blink",
+							"color_scheme": "Terminus.sublime-color-scheme",
+							"default_dir": "/Users/errollloyd/Documents/GitHub/NPS_viewer",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"terminus.highlight_counter": 4,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/errollloyd/Documents/GitHub/NPS_viewer",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1"
+								},
+								"panel_name": null,
+								"tag": null,
+								"title": "Login Shell"
+							},
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 3040.0,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3040.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/errollloyd/Documents/GitHub/NPS_viewer/tools.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "NPS_viewer.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hel",
+				"git/helpers.csv"
+			],
+			[
+				"2018",
+				"RB_general/2018_10_19_hours.csv"
+			],
+			[
+				"to",
+				"project_notes/todo_check.sh"
+			],
+			[
+				"todo",
+				"project_notes/todo_check_files"
+			],
+			[
+				"reg",
+				"git/regex_test.todo"
+			],
+			[
+				"hou",
+				"RB_general/2018_10_05_hours.csv"
+			],
+			[
+				"20",
+				"RB_general/2018_09_21_hours.csv"
+			],
+			[
+				"prog",
+				"project_notes/prog_review_3.5.md"
+			],
+			[
+				"test",
+				"RB_general/test"
+			],
+			[
+				"work",
+				"git/workshop_materials.todo"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"gen",
+				"HW_v_Sagar/general_thoughts.md"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"criticl",
+				"tag-critical"
+			],
+			[
+				"",
+				"Abbot:2011fd"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

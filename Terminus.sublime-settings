@@ -1,0 +1,40 @@
+{
+	"256color": true,
+	"unix_term": "xterm-256color",
+	// "vintage_start_in_command_mode": false,
+	// "theme": "default",
+	"theme": "user",
+	// see https://www.sublimetext.com/docs/3/color_schemes.html#colors for the
+	// available colors
+	"user_theme_colors": {
+	    "background": "#0E1927",
+	    "foreground": "#D6DBEC",
+	    // "foreground": "#ffffff",
+	    "caret": "#FFD26A",
+	    // "caret": "white",
+	    "block_caret": "#FFD26A",
+	    "selection": "#313565",
+	    // "selection": "#444444",
+	    "selection_foreground": "#ffffff",
+	    "00": "#000000",  // black
+	    "01": "#cd0000",  // red
+	    "02": "#00cd00",  // green
+	    "03": "#cdcd00",  // brown
+		"04": "#7E56FF",  // blue
+	    "05": "#cd00cd",  // magenta
+	    "06": "#00cdcd",  // cyan
+	    "07": "#e5e5e5",  // white
+	    "08": "#7f7f7f",  // light_black
+	    "09": "#ff0000",  // light_red
+	    "10": "#00ff00",  // light_green
+	    "11": "#ffff00",  // light_brown
+	    "12": "#5c5cff",  // light_blue
+	    "13": "#ff00ff",  // light_magenta
+	    "14": "#00ffff",  // light_cyan
+	    "15": "#ffffff",   // light_white
+	},
+	"view_settings": {
+		"font_face" : "Hack Nerd Font",
+	},
+	"brighten_bold_text": false
+}

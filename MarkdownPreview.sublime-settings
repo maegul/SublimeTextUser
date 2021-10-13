@@ -1,0 +1,106 @@
+{
+	"parser": "markdown",
+	"enabled_parsers": ["markdown", "github"],
+	"enable_highlight": true,
+	"build_action": "browser",
+	"markdown_extensions": [
+	    // Python Markdown Extra with SuperFences.
+	    // You can't include "extra" and "superfences"
+	    // as "fenced_code" can not be included with "superfences",
+	    // so we include the pieces separately.
+	    "markdown.extensions.smart_strong",
+	    "markdown.extensions.footnotes",
+	    "markdown.extensions.attr_list",
+	    "markdown.extensions.def_list",
+	    "markdown.extensions.tables",
+	    "markdown.extensions.abbr",
+	    "markdown.extensions.meta",
+	    "markdown.extensions.sane_lists",
+	    "markdown.extensions.smarty",
+	    "markdown.extensions.wikilinks",
+	    "markdown.extensions.admonition",
+	    {
+	        "markdown.extensions.codehilite": {
+	            "guess_lang": false
+	        }
+	    },
+	    // Extra's Markdown parsing in raw HTML cannot be
+	    // included by itself, but "pymdownx" exposes it so we can.
+	    "pymdownx.extrarawhtml",
+
+	    // More default Python Markdown extensions
+	    {
+	        "markdown.extensions.toc":
+	        {
+	            "permalink": "\ue157"
+	        }
+	    },
+
+	    // PyMdown extensions that help give a GitHub-ish feel
+	    "pymdownx.superfences",  // Nested fences and UML support
+	    {
+	        "pymdownx.magiclink": {   // Auto linkify URLs and email addresses
+	            "repo_url_shortener": true,
+	            "repo_url_shorthand": true
+	        }
+	    },
+	    "pymdownx.tasklist",     // Task lists
+	    {
+	        "pymdownx.tilde": {  // Provide ~~delete~~
+	            "subscript": false
+	        }
+	    },
+	    {
+	        "pymdownx.emoji": {  // Provide GitHub's emojis
+	            "emoji_index": {"!!python/name": "pymdownx.emoji.gemoji"},
+	            "emoji_generator": {"!!python/name": "pymdownx.emoji.to_png"},
+	            "alt": "short",
+	            "options": {
+	                "attributes": {
+	                    "align": "absmiddle",
+	                    "height": "20px",
+	                    "width": "20px"
+	                },
+	                "image_path": "https://assets-cdn.github.com/images/icons/emoji/unicode/",
+	                "non_standard_image_path": "https://assets-cdn.github.com/images/icons/emoji/"
+	            }
+	        }
+	    },
+
+// For having latex style maths
+	    {
+            "pymdownx.arithmatex": {
+                "generic": true,
+            },
+        }
+	],
+
+// For it to work ... need to link to the javascript and css files
+// Pretty sure I could download and keep it completely offline, but thats for later
+
+	"js": {
+	    "markdown": [
+	    	"https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js",
+            "res://MarkdownPreview/js/katex_config.js"
+        ],
+	    "github": ["default"],
+	    "gitlab": ["default"]
+	},
+
+
+	"css": {
+	    "markdown": [
+	    	"default",                                                            // <- The default Markdown CSS.
+            "https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css", // <- KaTeX CSS
+            "res://MarkdownPreview/css/katex_eqnum.css"
+	    ],
+	    "github": ["default"],
+	    "gitlab": ["default"]
+	},
+
+	"file_path_conversions": "relative",
+	"image_path_conversion": "base64"
+	// "file_path_conversions": "relative",
+	// "image_path_conversion": "relative"
+
+}

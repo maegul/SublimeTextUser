@@ -1,0 +1,659 @@
+[
+	//
+	// > General Navigation
+	//
+
+
+	// To cancel the default key bindings so that only the super+alt+left versions remain
+	// { "keys": ["super+shift+["]},
+	// { "keys": ["super+shift+]"]},
+
+    // > Side Bar toggle
+    // Overwrites the EOL macro in default
+    { "keys": ["super+k", "super+k"], "command": "toggle_side_bar" },
+
+	//
+	// > Table of Comments
+	//
+
+	// Idea is a modification of super+r (built in goto objects)
+	// super+k to go into custom zone, and super+shift+r to modify super+r
+	{
+		"keys": ["super+k","super+shift+r"],
+		"command": "table_of_comments"
+	},
+
+	//
+	// > Open Smerge
+	//
+	{
+	    "keys": ["super+k","m"],
+	    "command": "sublime_merge_open_repo"
+	},
+
+	//
+	// > Vintage
+
+    // >> Ensure not overwritten
+
+    // >>> Up and Down
+
+    { "keys": ["ctrl+u"], "command": "vi_scroll_lines",
+    "args": {"forward": false},
+    "context": [{"key": "setting.command_mode"}, {"key": "setting.vintage_ctrl_keys"}]
+    },
+
+    { "keys": ["ctrl+d"], "command": "vi_scroll_lines",
+        "args": {"forward": true},
+        "context": [{"key": "setting.command_mode"}, {"key": "setting.vintage_ctrl_keys"}]
+    },
+
+
+    // >>extension??
+	//
+
+	{ "keys": ["b"], "command": "set_motion", "args": {
+		"motion": "move",
+		"motion_args": {"by": "stops", "word_begin": true, "punct_begin": true, "empty_line": true, "forward": false, "extend": true },
+		"clip_to_line": true },
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+
+	{ "keys": ["g","e"], "command": "set_motion", "args": {
+		"motion": "move",
+		"motion_args": {"by": "stops", "word_end": true, "punct_end": true, "empty_line": true, "forward": false, "extend": true },
+		"inclusive": true,
+		"clip_to_line": true },
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	{ "keys": ["g","E"], "command": "set_motion", "args": {
+		"motion": "move",
+		"motion_args": {"by": "stops", "word_end": true, "empty_line": true, "separators": "", "forward": false, "extend": true },
+		"inclusive": true,
+		"clip_to_line": true },
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+
+	//
+	// > Plain Tasks Calendar
+	//
+
+	{ "keys": ["super+k","ctrl+shift+c"], "command": "plain_tasks_calendar"},
+
+	//
+	// > Origami
+	//
+
+    // >> focus group directly
+    // not really origami, but functionally related
+
+    {"keys": ["alt+1"], "command": "focus_group", "args": {
+        "group": 0
+        },
+    },
+    {"keys": ["alt+2"], "command": "focus_group", "args": {
+        "group": 1
+        },
+    },
+    {"keys": ["alt+3"], "command": "focus_group", "args": {
+        "group": 2
+        },
+    },
+
+	// >> Navigation with vim directions
+
+	{ "keys": ["super+k", "k"], "command": "travel_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["super+k", "l"], "command": "travel_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["super+k", "j"], "command": "travel_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["super+k", "h"], "command": "travel_to_pane", "args": {"direction": "left"} },
+
+
+	// >> Move tab to (new) pane
+
+	// "K" = "shift+k"
+	{ "keys": ["super+k", "K"], "command": "carry_file_to_pane", "args": {"direction": "up"} },
+	{ "keys": ["super+k", "L"], "command": "carry_file_to_pane", "args": {"direction": "right"} },
+	{ "keys": ["super+k", "J"], "command": "carry_file_to_pane", "args": {"direction": "down"} },
+	{ "keys": ["super+k", "H"], "command": "carry_file_to_pane", "args": {"direction": "left"} },
+
+
+	// >> Destroy current pane
+	{
+		"keys": ["super+k", "super+shift+j"],
+		"command": "destroy_pane",
+		"args": {"direction": "self"}
+	},
+
+	{ "keys": ["super+k", "super+up"], "command": "create_pane", "args": {"direction": "up", "give_focus": true} },
+	{ "keys": ["super+k", "super+right"], "command": "create_pane", "args": {"direction": "right", "give_focus": true} },
+	{ "keys": ["super+k", "super+down"], "command": "create_pane", "args": {"direction": "down", "give_focus": true} },
+	{ "keys": ["super+k", "super+left"], "command": "create_pane", "args": {"direction": "left", "give_focus": true} },
+
+
+    // >> Zooming and Pane Resizing (now disabled by default)
+
+    { "keys": ["super+k", "super+z"], "command": "zoom_pane", "args": {"fraction": 0.9} },
+    { "keys": ["super+k", "super+shift+z"], "command": "unzoom_pane", "args": {} },
+
+    { "keys": ["super+k", "super+c"], "command": "resize_pane", "args": {"orientation": "cols"} },
+    { "keys": ["super+k", "super+r"], "command": "resize_pane", "args": {"orientation": "rows"} },
+
+
+	// > Text Wrapping
+	// >> Wrapping Auto ... ie to window size
+	{"keys": ["super+k", "super+shift+a"], "command":"set_setting", "args":
+		{
+			"setting": "wrap_width",
+			"value": 0
+		}
+
+	},
+
+	// >> Wrapping Auto ... ie to default size (80)
+	{"keys": ["super+k", "super+shift+d"], "command":"set_setting", "args":
+		{
+			"setting": "wrap_width",
+			"value": 80
+		}
+
+	},
+
+	// > Line Numbers Toggle
+	{
+		"keys": ["super+ctrl+shift+l"],
+		"command": "toggle_setting",
+		"args":
+		{
+			"setting": "line_numbers"
+		}
+	},
+
+	// For Vintage / Vim Mode - j j exit insert mode
+
+	// {
+	// 	"keys": ["j", "j"],
+	// 	"command": "exit_insert_mode",
+	// 	"context":
+	// 		[
+	// 			{ "key": "setting.command_mode", "operand": false },
+	// 			{ "key": "setting.is_widget", "operand": false }
+	// 		]
+	// },
+
+	// Experiment with chaining of commands with (Very simple) plugin chain of command
+	// {
+	// 	"keys": ["j", "j"],
+	// 	"command": "chain",
+	// 	"args": {
+	// 		"commands": [
+	// 			["exit_insert_mode"],
+	// 			["hide_auto_complete"]
+	// 		]
+	// 	},
+	// 	"context":
+	// 		[
+	// 			{ "key": "setting.command_mode", "operand": false },
+	// 			{ "key": "setting.is_widget", "operand": false }
+	// 		]
+
+	// },
+
+	// {
+	// 	"keys": ["k", "j"],
+	// 	"command": "exit_insert_mode",
+	// 	"context":
+	// 		[
+	// 			{ "key": "setting.command_mode", "operand": false },
+	// 			{ "key": "setting.is_widget", "operand": false }
+	// 		]
+	// },
+
+	// {
+	// 	"keys": ["k", "j"],
+	// 	"command": "chain",
+	// 	"args": {
+	// 		"commands": [
+	// 			["exit_insert_mode"],
+	// 			["hide_auto_complete"]
+	// 		]
+	// 	},
+	// 	"context":
+	// 		[
+	// 			{ "key": "setting.command_mode", "operand": false },
+	// 			{ "key": "setting.is_widget", "operand": false }
+	// 		]
+
+	// },
+
+	// For Terminal View, maybe redundant now with Terminus (to allow scrolling through history)
+	// {
+	//  	"keys": ["shift+pageup"],
+	//  	"command": "terminal_view_scroll",
+	//  	"args": {"forward": false},
+	//  	"context": [{"key": "setting.terminal_view"}]
+	// },
+
+	// {
+	//  	"keys": ["shift+pagedown"],
+	//  	"command": "terminal_view_scroll",
+	//  	"args": {"forward": true},
+	//  	"context": [{"key": "setting.terminal_view"}]
+	// },
+
+    // > Case Convert
+    {
+        "keys": ["super+k", "super+shift+u"],
+        "command" : "title_case"
+    },
+
+	// > GoTo text
+	{
+		"keys": ["ctrl+;"],
+		"command": "show_overlay",
+		"args": {"overlay": "goto", "text": "#"}
+	},
+
+	// > Terminus
+	// Open Terminus (terminal) in new file
+	{
+		"keys": ["super+alt+shift+t"],
+		"command": "terminus_open",
+		"args": {
+			"config_name": "Default",
+			"cwd": "${file_path:${folder}}"
+		}
+	},
+
+	// >> Toggle Terminus Pane
+	{
+		"keys": ["alt+`"],
+		"command": "toggle_terminus_panel"
+	},
+
+
+	// > Extended Tab Switching
+
+	// For Tab switcher ... using super+alt tab rather than ctrl+alt tab
+	// { "keys": ["super+alt+tab"], "command": "extended_switcher", "args": {"list_mode": "window"} },
+    { "keys": ["super+ctrl+shift+p"], "command": "extended_switcher", "args": {"list_mode": "window"} },
+	{ "keys": ["super+alt+shift+p"], "command": "extended_switcher", "args": {"list_mode": "active_group"} },
+
+
+	// > Markdown Editing
+
+	// >> Goto Headings
+    // ctrl+k/j - up/down any level
+    // shift+ctrl+k/j - same level
+
+	// Same level
+    { "keys": ["shift+ctrl+k"], "command": "mde_goto_previous_heading", "args": {"same_level": true}, "context":
+        [
+            { "key": "setting.mde.keymap_disable.goto_previous_heading", "operator": "not_equal", "operand": true },
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown", "match_all": true }
+        ]
+    },
+    { "keys": ["shift+ctrl+j"], "command": "mde_goto_next_heading", "args": {"same_level": true}, "context":
+        [
+            { "key": "setting.mde.keymap_disable.goto_next_heading", "operator": "not_equal", "operand": true },
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown", "match_all": true }
+        ]
+    },
+    // Not same level
+    { "keys": ["ctrl+k"], "command": "mde_goto_previous_heading", "args": {"same_level": false}, "context":
+        [
+            { "key": "setting.mde.keymap_disable.goto_previous_heading", "operator": "not_equal", "operand": true },
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown", "match_all": true }
+        ]
+    },
+    { "keys": ["ctrl+j"], "command": "mde_goto_next_heading", "args": {"same_level": false}, "context":
+        [
+            { "key": "setting.mde.keymap_disable.goto_next_heading", "operator": "not_equal", "operand": true },
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown", "match_all": true }
+        ]
+    },
+
+
+    // > Bracket Highlighter
+    // Copied from Example in brackethighlighter package
+
+    // // Toggle Global Enable
+    // {
+    //     "keys": ["ctrl+alt+super+e"],
+    //     "command": "bh_toggle_enable"
+    // },
+    // // Search to end of file for bracket
+    // {
+    //     "keys": ["ctrl+alt+super+b"],
+    //     "command": "bh_key",
+    //     "args":
+    //     {
+    //         "lines" : true
+    //     }
+    // },
+
+    // >> Go to left bracket
+    {
+        "keys": ["super+k", "b", "h"],
+        // "keys": ["ctrl+alt+super+up"],
+        "command": "bh_key",
+        "args":
+        {
+            "no_outside_adj": null,
+            "no_block_mode": null,
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect",
+                "args": {"select": "left"}
+            }
+        }
+    },
+    // Go to right bracket
+    {
+        "keys": ["super+k", "b", "l"],
+        "command": "bh_key",
+        "args":
+        {
+            "no_outside_adj": null,
+            "no_block_mode": null,
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect",
+                "args": {"select": "right"}
+            }
+        }
+    },
+    // // Remove brackets
+    // {
+    //     "keys": ["ctrl+alt+super+r"],
+    //     "command": "bh_remove_brackets"
+    // },
+    // // Toggle string escape mode for sub bracket search in strings
+    // {
+    //     "keys": ["ctrl+alt+super+x"],
+    //     "command": "bh_toggle_string_escape_mode"
+    // },
+
+    // Jump to matching bracket
+    {
+        "keys": ["ctrl+m"],
+        "command": "bh_key",
+        "args": {
+            "plugin": {
+                "args": {"select": "right", "alternate": true},
+                "command": "bh_modules.bracketselect",
+                "type": ["__all__"]
+            },
+            "lines": true,
+            "no_outside_adj": null
+        }
+    },
+    // // Select text between brackets
+    // {
+    //     "no_outside_adj": null,
+    //     "keys": ["ctrl+alt+super+s"],
+    //     "command": "bh_key",
+    //     "args":
+    //     {
+    //         "lines" : true,
+    //         "plugin":
+    //         {
+    //             "type": ["__all__"],
+    //             "command": "bh_modules.bracketselect"
+    //         }
+    //     }
+    // },
+    // // Select text including brackets
+    // {
+    //     "keys": ["ctrl+alt+super+d"],
+    //     "command": "bh_key",
+    //     "args":
+    //     {
+    //         "no_outside_adj": null,
+    //         "lines" : true,
+    //         "plugin":
+    //         {
+    //             "type": ["__all__"],
+    //             "command": "bh_modules.bracketselect",
+    //             "args": {"always_include_brackets": true}
+    //         }
+    //     }
+    // },
+    // // Select tag name of HTML/XML tag (both opening name and closing)
+    // {
+    //     "keys": ["ctrl+alt+super+t"],
+    //     "command": "bh_key",
+    //     "args":
+    //     {
+    //         "plugin":
+    //         {
+    //             "type": ["cfml", "html", "angle"],
+    //             "command": "bh_modules.tagnameselect"
+    //         }
+    //     }
+    // },
+    // // Select the attribute to the right of the cursor (will wrap inside the tag)
+    // {
+    //     "keys": ["ctrl+alt+super+right"],
+    //     "command": "bh_key",
+    //     "args":
+    //     {
+    //         "plugin":
+    //         {
+    //             "type": ["cfml", "html", "angle"],
+    //             "command": "bh_modules.tagattrselect",
+    //             "args": {"direction": "right"}
+    //         }
+    //     }
+    // },
+    // // Select the attribute to the left of the cursor (will wrap inside the tag)
+    // {
+    //     "keys": ["ctrl+alt+super+left"],
+    //     "command": "bh_key",
+    //     "args":
+    //     {
+    //         "plugin":
+    //         {
+    //             "type": ["cfml", "html", "angle"],
+    //             "command": "bh_modules.tagattrselect",
+    //             "args": {"direction": "left"}
+    //         }
+    //     }
+    // },
+
+    // >> Convert single quote string to double quoted string and vice versa
+    // Will handle escaping or unescaping quotes within the string
+    {
+        "keys": ["super+k", "b", "'"],
+        "command": "bh_key",
+        "args":
+        {
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["single_quote", "double_quote", "py_single_quote", "py_double_quote"],
+                "command": "bh_modules.swapquotes"
+            }
+        }
+    },
+    // // Fold contents between brackets
+    // {
+    //     "keys": ["ctrl+alt+super+["],
+    //     "command": "bh_key",
+    //     "args":
+    //     {
+    //         "plugin": {
+    //             "type": ["__all__"],
+    //             "command" : "bh_modules.foldbracket"
+    //         }
+    //     }
+    // },
+
+    // >> Swap brackets with another type
+    {
+        "keys": ["super+k", "b", "["],
+        "command": "swap_brackets"
+    },
+
+    // >> Surround selection with brackets from quick panel
+    {
+        "keys": ["super+k", "b", "("],
+        "command": "wrap_brackets"
+    },
+    // // Toggle high visibility mode
+    // {
+    //     "keys": ["ctrl+alt+super+v"],
+    //     "command": "bh_toggle_high_visibility"
+    // }
+
+    // > zettel kasten
+    // >> Parent notes
+    // May be redundant as I may have added to my fork of the package
+    {
+        "keys": ["super+alt+enter"],
+        "command": "zk_show_parent_notes", "context": [ { "key": "sublime_zk", "operand": "true"}]
+    },
+
+
+    // > Diff/Git nav commands
+    // >> Ensuring Diff nav commands not overriddent
+    { "keys": ["ctrl+."], "command": "next_modification" },
+    { "keys": ["ctrl+,"], "command": "prev_modification" },
+
+
+    // > LSP
+
+    {
+        "command": "noop",
+        "keys": [
+            "super+alt+s"
+        ],
+        "context": [
+            {
+                "key": "lsp.signature_help",
+                "operator": "equal",
+                "operand": 0
+            }
+        ]
+    },
+
+    {
+        "command": "lsp_hover",
+        "keys": [
+            "super+alt+d"
+        ],
+        "context": [
+            {
+                "key": "lsp.session_with_capability",
+                "operator": "equal",
+                "operand": "hoverProvider"
+            }
+        ]
+    },
+
+
+    // > Open URL
+
+    // Replacement for ctrl+u, as collides with vintage ctrl+u
+    { "keys": ["ctrl+shift+u"], "command": "open_url", "args": { "show_menu": false } },
+
+
+    // > Python REPL
+
+    // Send a newline to the Terminus Python REPL, if it's open
+    // { "keys": ["shift+ctrl+enter"], "command": "terminus_send_string",
+    //   "args": {"string": "\n", "tag": "python-repl"},
+    //   "context": [
+    //       { "key": "terminus_tag.exists", "operand": "python-repl" },
+    //       { "key": "selector", "operator": "equal", "operand": "source.python" },
+    //   ],
+    // },
+    { "keys": ["shift+ctrl+enter"], "command": "send_selection_to_terminus",
+      "args": {
+          "whole_buffer":"True", "tag": "python-repl"
+      },
+      "context": [
+          { "key": "terminus_tag.exists", "operand": "python-repl" },
+          { "key": "selector", "operator": "equal", "operand": "source.python" },
+      ],
+    },
+
+
+// Open a Python REPL using a Terminus buid if it's not already running.
+// Can probably shift the build to a pure command so that project settings can be used
+// for conda environment and REPL environment
+    // { "keys": ["shift+enter"], "command": "build",
+    //   "args": {
+    //       "build_system": "Packages/User/PythonREPL.sublime-build",
+    //       "variant": "",
+    //   },
+    //   "context": [
+    //       { "key": "terminus_tag.notexists", "operand": "python-repl" },
+    //       { "key": "selector", "operator": "equal", "operand": "source.python" },
+    //   ],
+    // },
+
+
+    // Open REPL with custom command and call to terminus
+    { "keys": ["shift+enter"], "command": "open_python_repl_view",
+      "context": [
+          { "key": "terminus_tag.notexists", "operand": "python-repl" },
+          { "key": "selector", "operator": "equal", "operand": "source.python" },
+      ],
+    },
+
+    // Send the current selection or file content to the Terminus Python REPL,
+    // if it exists.
+    //
+    // You could also augment this by having different keys depending on if
+    // there is selected text or not, or constrain the number of selections,
+    // etc.
+    { "keys": ["ctrl+enter"], "command": "send_selection_to_terminus",
+      "args": {"tag": "python-repl"},
+      "context": [
+          { "key": "terminus_tag.exists", "operand": "python-repl" },
+          { "key": "selector", "operator": "equal", "operand": "source.python" },
+      ],
+    },
+
+    // Send code from within the cell
+    { "keys": ["shift+enter"], "command": "send_cell_to_terminus",
+      "args": {"tag": "python-repl"},
+      "context": [
+          { "key": "terminus_tag.exists", "operand": "python-repl" },
+          { "key": "selector", "operator": "equal", "operand": "source.python" },
+      ],
+    },
+
+    // Add cell markers
+
+    {
+        "keys": ["alt+enter"], "command": "add_cell_markers",
+        "context": [
+          // { "key": "terminus_tag.exists", "operand": "python-repl" },
+          { "key": "selector", "operator": "equal", "operand": "source.python" },
+        ]
+
+    },
+
+    {
+        "keys": ["ctrl+j"], "command": "go_to_next_cell",
+        "context": [{"key": "selector", "operator": "equal", "operand": "source.python"}]
+    },
+    {
+        "keys": ["ctrl+k"], "command": "go_to_next_cell",
+        "args": {"direction": "up"},
+        "context": [{"key": "selector", "operator": "equal", "operand": "source.python"}]
+    },
+
+    // >> Dash Doc
+    { "keys": ["ctrl+h"], "command": "dash_doc"}
+
+
+]

@@ -1,0 +1,1583 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stanley",
+				"@stanleyVisualOrientationDirectional2012"
+			],
+			[
+				"rf",
+				"rf_stim\tmodule"
+			],
+			[
+				"stim",
+				"stimulus"
+			],
+			[
+				"def",
+				"def\tkeyword"
+			],
+			[
+				"H",
+				"Hz\tstatement"
+			],
+			[
+				"Time",
+				"TimedArray\tclass"
+			],
+			[
+				"surr",
+				"surr_resp\tstatement"
+			],
+			[
+				"retur",
+				"return_cent_surr"
+			],
+			[
+				"cent_",
+				"cent_stim_prod\tstatement"
+			],
+			[
+				"fft",
+				"fftconvolve\tfunction"
+			],
+			[
+				"return",
+				"return_t\tparam"
+			],
+			[
+				"temp_ex",
+				"temp_ext\tparam"
+			],
+			[
+				"tau",
+				"tau2\tparam"
+			],
+			[
+				"mkTem",
+				"mkTempFilt"
+			],
+			[
+				"bar",
+				"bar_lum\tparam"
+			],
+			[
+				"spat_",
+				"spat_ext"
+			],
+			[
+				"temp_re",
+				"temp_freq"
+			],
+			[
+				"pep",
+				"pep8_error_levels  \tsetting"
+			],
+			[
+				"stim_",
+				"stim_min\tparam"
+			],
+			[
+				"coo",
+				"coord_transform\tfunction"
+			],
+			[
+				"zero",
+				"zero_center\tparam"
+			],
+			[
+				"surr_sd_",
+				"surr_sd_vt\tstatement"
+			],
+			[
+				"sd",
+				"sd_vt\tstatement"
+			],
+			[
+				"lesion_dep",
+				"lesion_depths_cut_plane\tstatement"
+			],
+			[
+				"px",
+				"px_scale"
+			],
+			[
+				"lesion",
+				"lesion_depths_cut_plane\tparam"
+			],
+			[
+				"lesion_de",
+				"lesion_depths_cut_plane"
+			],
+			[
+				"Themis",
+				"ThemisDirectory\tstatement"
+			],
+			[
+				"mk",
+				"mk_themis_files_directory\tfunction"
+			],
+			[
+				"mk_ce",
+				"mk_cell_id_from_run_key\tfunction"
+			],
+			[
+				"use",
+				"use_previous_load\tparam"
+			],
+			[
+				"previousl",
+				"previous_load_path"
+			],
+			[
+				"score",
+				"scorer\tparam"
+			],
+			[
+				"gen_",
+				"gen_sign_index\tfunction"
+			],
+			[
+				"analysis",
+				"analysisData\tstatement"
+			],
+			[
+				"the",
+				"themis\tmodule"
+			],
+			[
+				"run",
+				"run_key\tparam"
+			],
+			[
+				"themis_",
+				"themis_obj\tparam"
+			],
+			[
+				"gen",
+				"get_on_off_resp"
+			],
+			[
+				"ana",
+				"analysisFuncKeys"
+			],
+			[
+				"biph",
+				"biphase_split_point"
+			],
+			[
+				"dl_",
+				"dl_sum"
+			],
+			[
+				"x_lim",
+				"x_lim_sig_ratio\tstatement"
+			],
+			[
+				"anal",
+				"analData\tparam"
+			],
+			[
+				"add",
+				"addAnalysisData\tfunction"
+			],
+			[
+				"from_",
+				"from_dict\tfunction"
+			],
+			[
+				"analDd",
+				"analDataDF\tstatement"
+			],
+			[
+				"a",
+				"analData\tstatement"
+			],
+			[
+				"fr",
+				"from_dict\tfunction"
+			],
+			[
+				"Cel",
+				"CellData\tstatement"
+			],
+			[
+				"con",
+				"condition_type"
+			],
+			[
+				"Run",
+				"RUN_KEY"
+			],
+			[
+				"Mu",
+				"MultiIndex\tclass"
+			],
+			[
+				"C",
+				"CELL_ID"
+			],
+			[
+				"TDCCat",
+				"TDCCatalogue\tstatement"
+			],
+			[
+				"TDCC",
+				"TDCCatalogue\tstatement"
+			],
+			[
+				"TDC_s",
+				"TDC_signals_medians"
+			],
+			[
+				"exc_res",
+				"exc_result2\tstatement"
+			],
+			[
+				"retu",
+				"return_multi_index\tparam"
+			],
+			[
+				"mk_",
+				"mk_cell_key\tfunction"
+			],
+			[
+				"filt",
+				"filtered_data\tparam"
+			],
+			[
+				"iter",
+				"iterable\tparam"
+			],
+			[
+				"curve",
+				"curveFuncs\tmodule"
+			],
+			[
+				"Cu",
+				"CurveFuncs\tstatement"
+			],
+			[
+				"Cur",
+				"CurveFits\tstatement"
+			],
+			[
+				"cur",
+				"curveFuncs\tstatement"
+			],
+			[
+				"S",
+				"SavePath"
+			],
+			[
+				"cu",
+				"curveFuncs\tstatement"
+			],
+			[
+				"cell",
+				"cell_data_key\tparam"
+			],
+			[
+				"_pre_omit_ma",
+				"_pre_omit_marker_codes\tstatement"
+			],
+			[
+				"_pre_",
+				"_pre_omit_marker_codes\tstatement"
+			],
+			[
+				"omit_",
+				"omit_trials\tparam"
+			],
+			[
+				"omit",
+				"omit_trials"
+			],
+			[
+				"edge",
+				"edgecolor"
+			],
+			[
+				"line",
+				"linestyle"
+			],
+			[
+				"biphase",
+				"biphase_split_point"
+			],
+			[
+				"conditions_tri",
+				"conditions_trials_hist"
+			],
+			[
+				"spont",
+				"spont_rate"
+			],
+			[
+				"parameter",
+				"parameters"
+			],
+			[
+				"window_",
+				"window_range\tstatement"
+			],
+			[
+				"win",
+				"window_range\tstatement"
+			],
+			[
+				"peri_",
+				"peri_marker_window\tparam"
+			],
+			[
+				"spon",
+				"spont_method"
+			],
+			[
+				"spont_",
+				"spont_time_length\tstatement"
+			],
+			[
+				"peri",
+				"peri_marker_window"
+			],
+			[
+				"themi",
+				"themis_obj\tparam"
+			],
+			[
+				"bi",
+				"biphase_select_resp"
+			],
+			[
+				"bip",
+				"biphas_id"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"cond_tun",
+				"cond_tuning_biphase_mask\tstatement"
+			],
+			[
+				"catalogue",
+				"catalogue_mode"
+			],
+			[
+				"tdcCat",
+				"TDCCatConstructor"
+			],
+			[
+				"sort",
+				"sortArgs\tparam"
+			],
+			[
+				"tdc",
+				"tdc_refresh\tparam"
+			],
+			[
+				"update",
+				"updateKwArgs\tparam"
+			],
+			[
+				"met",
+				"method_strings\tstatement"
+			],
+			[
+				"spkT",
+				"spkTimesB\tparam"
+			],
+			[
+				"multi_",
+				"multi_unit_clusters\tstatement"
+			],
+			[
+				"clus_labe",
+				"clus_label_idxs"
+			],
+			[
+				"label_to",
+				"label_to_idx"
+			],
+			[
+				"duplicate",
+				"duplicated"
+			],
+			[
+				"multi_un",
+				"multi_unit_clusters"
+			],
+			[
+				"drop_duplicate",
+				"drop_duplicate_spikes"
+			],
+			[
+				"identi",
+				"identify_collisions"
+			],
+			[
+				"colliid",
+				"collision_idxs"
+			],
+			[
+				"drop",
+				"drop_collisions"
+			],
+			[
+				"multi_uni",
+				"multi_unit_index\tstatement"
+			],
+			[
+				"_pl",
+				"_plot_tuning"
+			],
+			[
+				"_cel",
+				"_cell_id_print"
+			],
+			[
+				"_stim",
+				"_stim_params_print"
+			],
+			[
+				"_as",
+				"_assign_project"
+			],
+			[
+				"incl",
+				"incl_hidden\tparam"
+			],
+			[
+				"tdcO",
+				"tdcOpenPeeler"
+			],
+			[
+				"wri",
+				"writeWaveClusMat"
+			],
+			[
+				"read",
+				"readBasicSpkMat"
+			],
+			[
+				"get",
+				"getMethods\tfunction"
+			],
+			[
+				"obj",
+				"object_class\tparam"
+			],
+			[
+				"fun",
+				"funcTracker\tfunction"
+			],
+			[
+				"func",
+				"_function_tracking"
+			],
+			[
+				"funct",
+				"functools\tmodule"
+			],
+			[
+				"fil",
+				"file_name\tstatement"
+			],
+			[
+				"save",
+				"save_path\tstatement"
+			],
+			[
+				"in",
+				"index\tstatement"
+			],
+			[
+				"Ce",
+				"CellData\tstatement"
+			],
+			[
+				"CE",
+				"CELL_KEY"
+			],
+			[
+				"che",
+				"checkCellData\tfunction"
+			],
+			[
+				"chec",
+				"checkResult\tstatement"
+			],
+			[
+				"spl",
+				"splitDataSet\tparam"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark edi ",
+				"MarkdownEditing: New Inline Image"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"sft",
+				"SFTP: Edit Server…"
+			],
+			[
+				"sftp p",
+				"SFTP: Show Panel"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"SFTP pan",
+				"SFTP: Show Panel"
+			],
+			[
+				"sftp ma",
+				"SFTP: Edit Remote Mapping…"
+			],
+			[
+				"pack con inst",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"zo",
+				"Zotero Quick Search"
+			],
+			[
+				"zot",
+				"Zotero Quick Search"
+			],
+			[
+				"zot qui",
+				"Zotero Quick Search"
+			],
+			[
+				"footnote",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"mag",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"zoter",
+				"Zotero Quick Search"
+			],
+			[
+				"mark ",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"mark ed foo",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"proj ed",
+				"Project: Edit Project"
+			],
+			[
+				"markdown ed ref",
+				"MarkdownEditing: New Reference"
+			],
+			[
+				"markdown ed foo",
+				"MarkdownEditing: Magic Footnotes Command"
+			],
+			[
+				"mark down re",
+				"MarkdownEditing: New Reference"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"file ren",
+				"File: Rename"
+			],
+			[
+				"file move",
+				"File: Move"
+			],
+			[
+				"live reload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live ena",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack co",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack res o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack co ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack li",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack co in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack co remo",
+				"Package Control: Remove Repository"
+			],
+			[
+				"pack con re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack co ad",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack co di",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack di",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"livereload",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"markdo fo",
+				"MarkdownEditing: New Footnote"
+			],
+			[
+				"origam",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"orig s",
+				"Origami: Save Current Layout"
+			],
+			[
+				"proj",
+				"Project: Edit Project"
+			],
+			[
+				"anaconda lint",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"anaconda dis",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anaconda disa l",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"packresvie",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"anaconda st",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"tasks",
+				"Tasks: Filter by tags under cursors"
+			],
+			[
+				"proj man",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"bra hi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brack wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"proj man re",
+				"Project Manager: Remove Project"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"view ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"proj ad",
+				"Project: Add Folder"
+			],
+			[
+				"brack sw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"brack hi sw",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"brackhi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brackhi",
+				"BracketHighlighter: Quick Start Guide"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"proj e",
+				"Project: Edit Project"
+			],
+			[
+				"pack op er",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack con rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack con up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack co rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ana co",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack co dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"anaconda com",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pack con ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"color hi",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"color high",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color h",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"colo sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack reo",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"anaconda er",
+				"Anaconda: Next lint error"
+			],
+			[
+				"file path",
+				"File: Copy Path as URI"
+			],
+			[
+				"proj edit",
+				"Project: Edit Project"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"proj fol",
+				"Project: Add Folder"
+			],
+			[
+				"proj fold",
+				"Project: Add Folder"
+			],
+			[
+				"sum h",
+				"Sum Hours"
+			],
+			[
+				"pack o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PhD",
+				"Phd Timeline Insert Dates"
+			],
+			[
+				"origam sa",
+				"Origami: Save Current Layout"
+			],
+			[
+				"origam res",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task html",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"Phd",
+				"Phd Timeline Insert Dates"
+			],
+			[
+				"proto",
+				"proto"
+			],
+			[
+				"pro",
+				"proto"
+			],
+			[
+				"reso op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"task vi ",
+				"Tasks: View as HTML"
+			],
+			[
+				"findkey all",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"open brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task ht",
+				"Tasks: Save as HTML…"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 478.0,
+		"history":
+		[
+			"view.settings().get('python_interpreter')",
+			"view.settings().has('python_interpreter')",
+			"view.settings()",
+			"view.settings().has('Anaconda.pep8')",
+			"view.settings().has('pep8')",
+			"view.settings().has('highlight_line')",
+			"view.settings().has('Anaconda.pep8')",
+			"view.settings().has('highlight_line')",
+			"view.settings().has('Anaconda.pep8')",
+			"view.settings().has('pep8')",
+			"view.settings().settings_id",
+			"dir(view.settings())",
+			"print(view.settings())",
+			"view.settings()",
+			"[d for d in dir(view) if 'setting' in d]",
+			"dir(view)",
+			"view.get_settings()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"askdjfh",
+			"kjdfhskdfjh",
+			"skdjfhdskjfh",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49226))",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command('resize_pane', {\"orientation\": \"cols\"})",
+			"sublime.run_command('resize_pane')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True",
+			"sublime.log_commands(True)",
+			"sublime.log_commadns(True)",
+			"s;dfjh",
+			";soadfh",
+			"ldfskj",
+			"sublime.log_commands(False)",
+			"sublime.run_command('phd_dates')",
+			"sublime.run_command('rb_hours_sum')",
+			"sublime.run_command(rb_hours_sum)",
+			"sublime.run_command(phd_dates)",
+			"sublime.run_command(phd_dates_command)",
+			"sublime.run_command(phd_dates)",
+			"s.get('font_size')",
+			"s = sublime.load_settings(\"Preferences.sublime-settings\")",
+			"st = sublime.load_settings()",
+			"sublime",
+			"sublime.get_setting('font_size')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command(plain_tasks_calendar)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"\n#Totals\n\ntotal,0\n\nsublime.list_commands(False)",
+			"print(test)",
+			"test",
+			"test = test + '\\nworld'",
+			"test = 'hello'",
+			"sublime.run_command(\"run_macro_file\", {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"})",
+			"sublime",
+			"test.strip() == None",
+			"test.strip() == False",
+			"test.strip() == ''",
+			"test",
+			"test.strip()",
+			"test",
+			"test = \"\\n\"",
+			"test",
+			"test = '\\n'",
+			"test.strip()",
+			"test",
+			"\n#Totals\ntest = ' '",
+			"sublime_plugin.TextCommand.view",
+			"sublime_plugin.TextCommand",
+			"import sublime_plugin",
+			"import sublime_pluging as sp",
+			"sublime_plugin",
+			"sublime",
+			"self.view.symbols()",
+			"view.run_command('my_example')",
+			"view.command('duplicate_line')",
+			"view.run(\"duplicate_line\")",
+			"vie",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])",
+			"collections.Counter()",
+			"import collections",
+			"dir()",
+			"import this"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Documents/Personal/general_notes",
+		"/Users/errollloyd/Documents/Personal/general_notes/Data Story Telling Facilitation"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Documents/Personal/general_notes/Data Story Telling Facilitation/2020-09-21 DataViz Demo Meeting .md",
+		"/Users/errollloyd/Documents/Personal/general_notes/Data Story Telling Facilitation/2020-10-01 DataViz Demo Meeting .md",
+		"/var/folders/06/9bm20ry51jd718yz_n6sny140000gn/T/sublime-sftp-browse-1601214557/kafka_server/home/ubuntu/kafka-docker/Dockerfile",
+		"/Volumes/pychm/PythonCharmers_sep_oct.md",
+		"/var/folders/06/9bm20ry51jd718yz_n6sny140000gn/T/sublime-sftp-browse-1601194225/kafka_server/home/ubuntu/kafka-docker/docker-compose.yml",
+		"/var/folders/06/9bm20ry51jd718yz_n6sny140000gn/T/sublime-sftp-browse-1601215997/kafka_server/home/ubuntu/kafka-docker/start-kafka.sh",
+		"/Volumes/pychm/kafka_faust_dev/kafka_notes.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/kafka_server",
+		"/var/folders/06/9bm20ry51jd718yz_n6sny140000gn/T/sublime-sftp-browse-1600999985/kafka_server/home/ubuntu/kafka-docker/docker-compose.yml",
+		"/var/folders/06/9bm20ry51jd718yz_n6sny140000gn/T/sublime-sftp-browse-1601191283/kafka_server/home/ubuntu/kafka-docker/docker-compose.yml",
+		"/var/folders/06/9bm20ry51jd718yz_n6sny140000gn/T/sublime-sftp-browse-1600999985/kafka_server/sftp-config.json",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/HWS #phd.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-syntax",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/delete.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/hws_exp.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/lif.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/static_two_layer.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/soodakRFModel.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/MagellanX/PhD/Data/length_tun_data/analysis_functions.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default.sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Zeus.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/random",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/athena.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/achilles.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/.gitignore",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/.gitignore",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/README.md",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/athena_zeus.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/protoZeus.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/zeus.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/old_zeus.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Python/Completion Rules.tmPreferences",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/hermes.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/test.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/autoCompleteTest.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/codeIntelTest.py",
+		"/Users/errollloyd/Documents/ResBaz/git/guiTests/RGWorkShop/autoFileTest/myScript.py",
+		"/Users/errollloyd/Documents/ResBaz/git/guiTests/RGWorkShop/autoFileTest/randomFile.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/importTest.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/monokai_errol.sublime-color-scheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/color_test",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/hermes",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/tasks.hidden-tmTheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Legacy/Monokai Bright.tmTheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Colorsublime - Themes/Monokai.tmTheme",
+		"/Users/errollloyd/Developer/spk_temp_play/spike2_workflow_test/hephaistos_testing/u1_r1.smrx/channel_group_0/catalogue_constructor/info.json",
+		"/Users/errollloyd/Developer/spk_temp_play/spike2_workflow_test/hephaistos_testing/u1_r1.smrx/info.json",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/docStringPython.sublime-snippet",
+		"/Users/errollloyd/Developer/spk_temp_play/spike2_workflow_test/hephaistos_testing/u1_r1.smrx/quickViewProto.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check_files",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup19.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/mk_standup.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/proto_standup19.todo",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/resbaz.todo",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/workshop_materials.todo",
+		"/Users/errollloyd/Documents/ResBaz/RB_general/2018_10_05_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_demo/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/timeline.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/phd_dates.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/user_commands.sublime-commands",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/phd_timeline_customCSS.css",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/RB_hours_sum.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/phd_timeline.todo.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/st_test.todo",
+		"/Users/errollloyd/Desktop/st_test.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Open In Browser/README.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/tech_tools_outline.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/spat_freq_ori/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/psychophysics/search_paradigm_scribble.JPG",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/psychophysics/research_plan.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.docx",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_10_19_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/helpers.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/notes.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_09_21_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_10_05_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check.sh",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/notes.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_code.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Preferences.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/StandUp.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/PR650_calib.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/test.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/regex_test.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasksDates.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Context.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/APlainTasksCommon.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/hours.csv",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Default/trim_trailing_white_space.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/interview_questions.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/dateTimeStamp.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/latex_js_blog_paragraph.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Advanced CSV/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Installed Packages/ExtendedTabSwitcher.sublime-package",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/ExtendedSwitcher.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "general_notes #personal.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ge",
+				"notes/general_thoughts.md"
+			],
+			[
+				"gen",
+				"notes/general_thoughts.md"
+			],
+			[
+				"g",
+				"notes/general_thoughts.md"
+			],
+			[
+				"lif",
+				"code/lif/lif.py"
+			],
+			[
+				"stat",
+				"HWS #phd/static_two_layer.py"
+			],
+			[
+				"the",
+				"themis.py"
+			],
+			[
+				"heph",
+				"hephaistos.py"
+			],
+			[
+				"her",
+				"hermes.py"
+			],
+			[
+				"qui",
+				"/Volumes/MagellanX/PhD/Data/length_tun_data/quick_run.py"
+			],
+			[
+				"ath",
+				"zeus/athena.py"
+			],
+			[
+				"at",
+				"zeus/athena_themis.todo"
+			],
+			[
+				"th",
+				"themis.py"
+			],
+			[
+				"aht",
+				"athena_themis.todo"
+			],
+			[
+				"ol",
+				"zeus/old_zeus.py"
+			],
+			[
+				"pr",
+				"zeus/protoZeus.py"
+			],
+			[
+				"ze",
+				"zeus/zeus.py"
+			],
+			[
+				"zu",
+				"zeus/zeus.py"
+			],
+			[
+				"pro",
+				"zeus/protoZeus.py"
+			],
+			[
+				"qu",
+				"spike2_workflow_test/hephaistos_testing/u1_r1.smrx/quickViewProto.py"
+			],
+			[
+				"s",
+				"zeus/spk2_mat_read.py"
+			],
+			[
+				"z",
+				"zeus/zeus.py"
+			],
+			[
+				"hep",
+				"zeus/hephaistos.py"
+			],
+			[
+				"todo ",
+				"project_notes/todo_check_files"
+			],
+			[
+				"phd ",
+				"project_notes/phd_timeline.todo.html"
+			],
+			[
+				"hel",
+				"git/helpers.csv"
+			],
+			[
+				"2018",
+				"RB_general/2018_10_19_hours.csv"
+			],
+			[
+				"to",
+				"project_notes/todo_check.sh"
+			],
+			[
+				"todo",
+				"project_notes/todo_check_files"
+			],
+			[
+				"reg",
+				"git/regex_test.todo"
+			],
+			[
+				"hou",
+				"RB_general/2018_10_05_hours.csv"
+			],
+			[
+				"20",
+				"RB_general/2018_09_21_hours.csv"
+			],
+			[
+				"prog",
+				"project_notes/prog_review_3.5.md"
+			],
+			[
+				"test",
+				"RB_general/test"
+			],
+			[
+				"work",
+				"git/workshop_materials.todo"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"criticl",
+				"tag-critical"
+			],
+			[
+				"",
+				"Abbot:2011fd"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

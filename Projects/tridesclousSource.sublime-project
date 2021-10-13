@@ -1,0 +1,21 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/Users/errollloyd/anaconda/envs/ephs/bin/python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "~/anaconda/envs/ephs/lib/python3.6/site-packages/tridesclous"
+		}
+	],
+	"settings":
+	{
+		"python_interpreter": "/Users/errollloyd/anaconda/envs/ephs/bin/python"
+	}
+}

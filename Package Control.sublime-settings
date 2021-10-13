@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"ColorHelper",
+		"FileManager",
+		"LSP",
+		"LSP-json",
+		"LSP-pyright",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Origami",
+		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
+		"PlainTasks",
+		"ProjectManager",
+		"table_of_comments",
+		"Terminal",
+		"Terminus",
+	],
+	"repositories":
+	[
+		"https://github.com/maegul/table_of_comments.git"
+	],
+}

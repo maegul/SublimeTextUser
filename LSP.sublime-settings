@@ -1,0 +1,7 @@
+{
+	"clients":
+	{
+		"pyls": {"enabled": false },
+		"pyright": {"enabled": true}
+	}
+}

@@ -1,0 +1,1602 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pat",
+				"paths\tFile"
+			],
+			[
+				"cent_sd",
+				"cent_sd_vt\tparam"
+			],
+			[
+				"deg",
+				"degrees\tinstance"
+			],
+			[
+				"sta",
+				"stack_pref_ori\tparam"
+			],
+			[
+				"la",
+				"layer_two_resp\tstatement"
+			],
+			[
+				"resp",
+				"resp_check\tparam"
+			],
+			[
+				"disp_",
+				"disp_k"
+			],
+			[
+				"hws",
+				"hws_rand_size\tparam"
+			],
+			[
+				"rf_d",
+				"rf_dist_scale\tparam"
+			],
+			[
+				"file_",
+				"file_desc\tparam"
+			],
+			[
+				"pw_i",
+				"pw_dist_kwargs"
+			],
+			[
+				"sq",
+				"sq_diff_func"
+			],
+			[
+				"sq_",
+				"sq_diff_kwargs\tparam"
+			],
+			[
+				"pw",
+				"pw_dist_kwargs\tparam"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"jin",
+				"jin_rf_dist"
+			],
+			[
+				"locs",
+				"locs_return\tparam"
+			],
+			[
+				"make_",
+				"make_rf_args\tparam"
+			],
+			[
+				"hw_ori",
+				"hw_ori_idx\tparam"
+			],
+			[
+				"arcta",
+				"arctan\tinstance"
+			],
+			[
+				"hws_",
+				"hws_rand_size\tparam"
+			],
+			[
+				"samp",
+				"samp_size\tparam"
+			],
+			[
+				"angl",
+				"angles_pdf\tstatement"
+			],
+			[
+				"angles",
+				"angles_prob\tstatement"
+			],
+			[
+				"data",
+				"data_sig\tstatement"
+			],
+			[
+				"hw",
+				"hws_ori"
+			],
+			[
+				"hw_o",
+				"hw_oris"
+			],
+			[
+				"load_da",
+				"loaded_data_return\tstatement"
+			],
+			[
+				"n_tri",
+				"n_trials\tparam"
+			],
+			[
+				"arg",
+				"argv\tinstance"
+			],
+			[
+				"rf_di",
+				"rf_dist_params\tfunction"
+			],
+			[
+				"cell",
+				"cell_init\tfunction"
+			],
+			[
+				"e",
+				"exp_comment\tstatement"
+			],
+			[
+				"st",
+				"strftime\tfunction"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"stat",
+				"static_two_layer"
+			],
+			[
+				"layer",
+				"layer_two_circ_stat"
+			],
+			[
+				"cs_all",
+				"cs_all_circ_stat"
+			],
+			[
+				"resa",
+				"resample_only"
+			],
+			[
+				"pr",
+				"probs\tstatement"
+			],
+			[
+				"make_l",
+				"make_layer_two_circ_stat"
+			],
+			[
+				"make_la",
+				"make_layer_two_wts"
+			],
+			[
+				"make_rf",
+				"make_rf_circ_stat"
+			],
+			[
+				"rf_dis",
+				"rf_dists_prob\tparam"
+			],
+			[
+				"make",
+				"make_rf_layer\tfunction"
+			],
+			[
+				"make_r",
+				"make_rf_pdf\tfunction"
+			],
+			[
+				"rf_dists",
+				"rf_dists_prob\tstatement"
+			],
+			[
+				"jin_",
+				"jin_pdf_est"
+			],
+			[
+				"rf",
+				"rfd\tmodule"
+			],
+			[
+				"rf_dist",
+				"rf_dists_samples\tparam"
+			],
+			[
+				"d",
+				"d_num\tstatement"
+			],
+			[
+				"file_na",
+				"file_name_base\tstatement"
+			],
+			[
+				"optimi",
+				"optimise_data"
+			],
+			[
+				"saved",
+				"saved_file_name\tstatement"
+			],
+			[
+				"number",
+				"number_existing_opt_dats\tstatement"
+			],
+			[
+				"fil",
+				"file_name\tstatement"
+			],
+			[
+				"exi",
+				"existing_file_names\tstatement"
+			],
+			[
+				"mini",
+				"minimise_exponent\tfunction"
+			],
+			[
+				"jcd",
+				"jcdfn\tstatement"
+			],
+			[
+				"get",
+				"get_group_input_dat"
+			],
+			[
+				"lab",
+				"label_hover"
+			],
+			[
+				"key",
+				"key_label"
+			],
+			[
+				"parcoord",
+				"parcoord_plot_inpt"
+			],
+			[
+				"inpt",
+				"inpt_keys"
+			],
+			[
+				"input_",
+				"input_base_range"
+			],
+			[
+				"use",
+				"user_inputs_copy"
+			],
+			[
+				"spinn",
+				"spinner_div"
+			],
+			[
+				"selected",
+				"selected_groups"
+			],
+			[
+				"group",
+				"group_sel"
+			],
+			[
+				"output_p",
+				"output_p_c_sort_param"
+			],
+			[
+				"se",
+				"sel_butt"
+			],
+			[
+				"sort_se",
+				"sort_sel_cont"
+			],
+			[
+				"sort_",
+				"sort_inpts"
+			],
+			[
+				"sort",
+				"sort_select"
+			],
+			[
+				"spi",
+				"spinners"
+			],
+			[
+				"inp",
+				"inpts_div"
+			],
+			[
+				"sorted",
+				"sorted_dims"
+			],
+			[
+				"sor",
+				"sorted_dim_idx"
+			],
+			[
+				"dims",
+				"dims_keys_output"
+			],
+			[
+				"outp",
+				"output_base_range"
+			],
+			[
+				"out",
+				"output_base_range"
+			],
+			[
+				"axis",
+				"axis_find_factor"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"log",
+				"log_extent"
+			],
+			[
+				"gen_p",
+				"gen_p_coord_plot_input"
+			],
+			[
+				"gen",
+				"gen_input_dat"
+			],
+			[
+				"outpu",
+				"output"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in_var",
+				"in_var_bind"
+			],
+			[
+				"base",
+				"base_inpts"
+			],
+			[
+				"stri",
+				"stringify"
+			],
+			[
+				"sel",
+				"selectAll"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"area",
+				"area_sel_cont"
+			],
+			[
+				"scale",
+				"scale_buff"
+			],
+			[
+				"ex",
+				"example2"
+			],
+			[
+				"plo",
+				"plot1"
+			],
+			[
+				"cat_col",
+				"cat_col_scale"
+			],
+			[
+				"label",
+				"label_slice"
+			],
+			[
+				"out_var",
+				"out_vars_labels"
+			],
+			[
+				"color",
+				"color_select_pills"
+			],
+			[
+				"col_s",
+				"col_scale_cs"
+			],
+			[
+				"col",
+				"col_scale_cs"
+			],
+			[
+				"col_",
+				"col_scale_cs"
+			],
+			[
+				"input",
+				"input_groups"
+			],
+			[
+				"output",
+				"output_proto"
+			],
+			[
+				"gen_out",
+				"gen_output_proto"
+			],
+			[
+				"genout",
+				"gen_output_proto"
+			],
+			[
+				"in_vars",
+				"in_vars_sorted"
+			],
+			[
+				"input_fi",
+				"input_fields_check"
+			],
+			[
+				"in_v",
+				"in_vars_sorted"
+			],
+			[
+				"loc",
+				"loc_1_proto"
+			],
+			[
+				"plot",
+				"plot"
+			],
+			[
+				"par",
+				"parcoord_plot"
+			],
+			[
+				"inpu",
+				"input_spinners"
+			],
+			[
+				"too",
+				"tool_data"
+			],
+			[
+				"if",
+				"ife\tif … else"
+			],
+			[
+				"his",
+				"hist_layout"
+			],
+			[
+				"hi",
+				"hist_trc_ind"
+			],
+			[
+				"hist",
+				"hist_trc_pos"
+			],
+			[
+				"d3",
+				"d3cdn\td3cdn"
+			],
+			[
+				"exp",
+				"expInfo\tstatement"
+			],
+			[
+				"po",
+				"power"
+			],
+			[
+				"n",
+				"numpy"
+			],
+			[
+				"whc",
+				"whc_one_t\tstatement"
+			],
+			[
+				"ref",
+				"ref_ori\tstatement"
+			],
+			[
+				"whc_p",
+				"whc_pos_one\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/.dotfiles/custom_path.sh",
+			"settings":
+			{
+				"buffer_size": 401,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/profile_paths",
+			"settings":
+			{
+				"buffer_size": 307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/.bash_profile",
+			"settings":
+			{
+				"buffer_size": 5846,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/ShellScript/ShellScript.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"proj man",
+				"Project Manager: Add New Project"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"task d",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"origa pul",
+				"Origami: Pull File from Pane Above"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig cre foc",
+				"Origami: Create and Focus Pane on the Right"
+			],
+			[
+				"proj man ad",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task",
+				"Tasks: View as HTML"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"proje man new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task fo",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"Tas",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"anaconda er",
+				"Anaconda: Show error list"
+			],
+			[
+				"proj man e",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man i",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj edi",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj m",
+				"Project Manager: Edit Project"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"pack re o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"file sav",
+				"File: Save All"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"proj rem",
+				"Project Manager: Remove Project"
+			],
+			[
+				"proj app",
+				"Project Manager: Append Project"
+			],
+			[
+				"proj im",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj ap",
+				"Project Manager: Add New Project"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"task s",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"Sub",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"ADd bo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"Show",
+				"SublimeBookmarks: Show Bookmarks Only In Current File "
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Tasks: New"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: errol"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"task n",
+				"Tasks: New"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Packa ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 659.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])",
+			"collections.Counter()",
+			"import collections",
+			"dir()",
+			"import this"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Developer/bash_play/path_mod",
+		"/Users/errollloyd/.dotfiles"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/.dotfiles/custom_path.sh",
+		"/Users/errollloyd/.dotfiles/.bash_profile",
+		"/Users/errollloyd/Developer/bash_play/path_mod/path_mod.sh",
+		"/Users/errollloyd/.dotfiles/profile_paths",
+		"/Users/errollloyd/Developer/bash_play/path_mod/dirs",
+		"/Users/errollloyd/Developer/bash_play/path_mod/dirs_default",
+		"/Users/errollloyd/Developer/bash_play/path_mod/line_test",
+		"/Users/errollloyd/Developer/bash_play/path_mod/tail_test",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ShellScript/ShellScript.sublime-build",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/bash.sublime-build",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/circ_stat.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/hws.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/tmpNoteNookCode.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/vcnl_analysis.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws_exp.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/run_exp1.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test2.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/optimise_data0",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/rfDistCalc.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test_mod.py",
+		"/voronoi_play.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/proto_d3.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/js_test.js",
+		"/Users/errollloyd/Developer/JT_landUse_project/loc_1_var.csv",
+		"/Users/errollloyd/Developer/JT_landUse_project/d3_pc_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/pc_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/d3.parcoords.js",
+		"/Users/errollloyd/Developer/JT_landUse_project/proto.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/index.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/input_sets.csv",
+		"/Users/errollloyd/Developer/JT_landUse_project/p_coord_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/urb_model_page.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/tools.json",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/data_download_proto.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/plotlycdn.sublime-snippet",
+		"/Users/errollloyd/Dropbox/Science/scripts/psychophysics/test_delete.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/TS_L4_diversity/Untitled.slides.html",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/athena.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/temp-plot.html",
+		"/Users/errollloyd/Desktop/build_test.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/circ_stat.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/static_two_layer.py",
+		"/Users/errollloyd/.bash_profile",
+		"/Users/errollloyd/Dropbox/Science/three_yr.todo",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/index.html",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/quick_read_write.html",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/todo.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/errol.sublime-snippet",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/read_write_proto.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"export PATH=",
+			"PATH",
+			"old_path",
+			"d_ds",
+			"$d_ds",
+			"ds"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sys_path"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/.dotfiles/custom_path.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "bash"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/.dotfiles/profile_paths",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 25,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/errollloyd/.dotfiles/.bash_profile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "bash"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 248.0
+	},
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "path_mod.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".dotfiles/.bash_profile"
+			],
+			[
+				"line",
+				"line_test"
+			],
+			[
+				"tail",
+				"tail_test"
+			],
+			[
+				"pa",
+				"path_mod.sh"
+			],
+			[
+				"di",
+				"dirs"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"gen",
+				"HW_v_Sagar/general_thoughts.md"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

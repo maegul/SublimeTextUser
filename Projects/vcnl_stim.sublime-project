@@ -1,0 +1,34 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"binary_file_patterns":
+			[
+			],
+			"file_exclude_patterns":
+			[
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"name": "vcnl_stim",
+			"path": "~/Dropbox/Science/scripts/pyth/vcnl_stim"
+		}
+	],
+	"settings":{
+		"extra_paths": 
+		[
+			"/Applications/PsychoPy3.app/Contents/Resources/lib/python3.6/psychopy/",
+			"/Applications/PsychoPy3.app/Contents/Resources/lib/python3.6/"
+		]
+	}
+}

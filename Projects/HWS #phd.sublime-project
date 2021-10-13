@@ -1,0 +1,66 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/Users/errollloyd/miniconda3/envs/comp_neuro/bin/python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"binary_file_patterns":
+			[
+			],
+			"file_exclude_patterns":
+			[
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"name": "code",
+			"path": "~/Dropbox/Science/scripts/pyth/HWS"
+		},
+		{
+			"binary_file_patterns":
+			[
+			],
+			"file_exclude_patterns":
+			[
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"name": "notes",
+			"path": "~/Dropbox/Science/PhD/project_notes/HW_v_Sagar"
+		},
+		{
+			"binary_file_patterns":
+			[
+			],
+			"file_exclude_patterns":
+			[
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"name": "data",
+			"path": "~/Dropbox/Science/PhD/data/HWS"
+		}
+	],
+	"settings":
+	{
+		// "python_interpreter": "/Users/errollloyd/miniconda3/envs/comp_neuro/bin/python",
+		"LSP": {
+			"LSP-pyright": {
+				"settings": {
+					"python.venvPath": "/Users/errollloyd/miniconda3/envs",
+					// "python.analysis.typeCheckingMode": "off",
+				}
+			}
+		}
+
+	}
+}

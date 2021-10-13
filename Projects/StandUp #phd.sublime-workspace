@@ -1,0 +1,2578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tem",
+				"temp_filt_time_consts.pdf\tFile"
+			],
+			[
+				"t",
+				"today\tfunction"
+			],
+			[
+				"time",
+				"timedelta\tclass"
+			],
+			[
+				"cart",
+				"caret_style  \tsetting"
+			],
+			[
+				"markdown",
+				"MarkdownEditor.tmTheme  \t(default) MarkdownEditing"
+			],
+			[
+				"markdow",
+				"MarkdownEditor-Yellow.tmTheme  \tMarkdownEditing"
+			],
+			[
+				"focus",
+				"MarkdownEditor-Focus.tmTheme  \tMarkdownEditing"
+			],
+			[
+				"mark",
+				"MarkdownEditor-Yellow.tmTheme  \tMarkdownEditing"
+			],
+			[
+				"MBC20",
+				"MBC20u3c2r7"
+			],
+			[
+				"now",
+				"nowDate\tstatement"
+			],
+			[
+				"fo",
+				"fourYrDates\tstatement"
+			],
+			[
+				"fourYr",
+				"fourYrDates\tstatement"
+			],
+			[
+				"fourY",
+				"fourYrDates\tstatement"
+			],
+			[
+				"tim",
+				"timedelta\tclass"
+			],
+			[
+				"str",
+				"strftime"
+			],
+			[
+				"four",
+				"fourYrMk\tstatement"
+			],
+			[
+				"w",
+				"writelines\tfunction"
+			],
+			[
+				"met",
+				"methods.md\tFile"
+			],
+			[
+				"result",
+				"results.md\tFile"
+			],
+			[
+				"other",
+				"other_string"
+			],
+			[
+				"mat",
+				"matches"
+			],
+			[
+				"test",
+				"test_string"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"sort",
+				"sorted_ds"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"tot",
+				"tots_header_prec_line"
+			],
+			[
+				"data",
+				"data_loc_b\tstatement"
+			],
+			[
+				"tots",
+				"tots_header"
+			],
+			[
+				"pop",
+				"pop_opts"
+			],
+			[
+				"read",
+				"readlines\tfunction"
+			],
+			[
+				"hou",
+				"hours.csv"
+			],
+			[
+				"cent_sd",
+				"cent_sd_vt\tparam"
+			],
+			[
+				"deg",
+				"degrees\tinstance"
+			],
+			[
+				"sta",
+				"stack_pref_ori\tparam"
+			],
+			[
+				"la",
+				"layer_two_resp\tstatement"
+			],
+			[
+				"resp",
+				"resp_check\tparam"
+			],
+			[
+				"disp_",
+				"disp_k"
+			],
+			[
+				"hws",
+				"hws_rand_size\tparam"
+			],
+			[
+				"rf_d",
+				"rf_dist_scale\tparam"
+			],
+			[
+				"file_",
+				"file_desc\tparam"
+			],
+			[
+				"pw_i",
+				"pw_dist_kwargs"
+			],
+			[
+				"sq",
+				"sq_diff_func"
+			],
+			[
+				"sq_",
+				"sq_diff_kwargs\tparam"
+			],
+			[
+				"pw",
+				"pw_dist_kwargs\tparam"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"jin",
+				"jin_rf_dist"
+			],
+			[
+				"locs",
+				"locs_return\tparam"
+			],
+			[
+				"make_",
+				"make_rf_args\tparam"
+			],
+			[
+				"hw_ori",
+				"hw_ori_idx\tparam"
+			],
+			[
+				"arcta",
+				"arctan\tinstance"
+			],
+			[
+				"hws_",
+				"hws_rand_size\tparam"
+			],
+			[
+				"samp",
+				"samp_size\tparam"
+			],
+			[
+				"angl",
+				"angles_pdf\tstatement"
+			],
+			[
+				"angles",
+				"angles_prob\tstatement"
+			],
+			[
+				"hw",
+				"hws_ori"
+			],
+			[
+				"hw_o",
+				"hw_oris"
+			],
+			[
+				"load_da",
+				"loaded_data_return\tstatement"
+			],
+			[
+				"n_tri",
+				"n_trials\tparam"
+			],
+			[
+				"arg",
+				"argv\tinstance"
+			],
+			[
+				"rf_di",
+				"rf_dist_params\tfunction"
+			],
+			[
+				"cell",
+				"cell_init\tfunction"
+			],
+			[
+				"e",
+				"exp_comment\tstatement"
+			],
+			[
+				"st",
+				"strftime\tfunction"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"stat",
+				"static_two_layer"
+			],
+			[
+				"layer",
+				"layer_two_circ_stat"
+			],
+			[
+				"cs_all",
+				"cs_all_circ_stat"
+			],
+			[
+				"resa",
+				"resample_only"
+			],
+			[
+				"pr",
+				"probs\tstatement"
+			],
+			[
+				"make_l",
+				"make_layer_two_circ_stat"
+			],
+			[
+				"make_la",
+				"make_layer_two_wts"
+			],
+			[
+				"make_rf",
+				"make_rf_circ_stat"
+			],
+			[
+				"rf_dis",
+				"rf_dists_prob\tparam"
+			],
+			[
+				"make",
+				"make_rf_layer\tfunction"
+			],
+			[
+				"make_r",
+				"make_rf_pdf\tfunction"
+			],
+			[
+				"rf_dists",
+				"rf_dists_prob\tstatement"
+			],
+			[
+				"jin_",
+				"jin_pdf_est"
+			],
+			[
+				"rf",
+				"rfd\tmodule"
+			],
+			[
+				"rf_dist",
+				"rf_dists_samples\tparam"
+			],
+			[
+				"d",
+				"d_num\tstatement"
+			],
+			[
+				"file_na",
+				"file_name_base\tstatement"
+			],
+			[
+				"optimi",
+				"optimise_data"
+			],
+			[
+				"saved",
+				"saved_file_name\tstatement"
+			],
+			[
+				"number",
+				"number_existing_opt_dats\tstatement"
+			],
+			[
+				"fil",
+				"file_name\tstatement"
+			],
+			[
+				"exi",
+				"existing_file_names\tstatement"
+			],
+			[
+				"mini",
+				"minimise_exponent\tfunction"
+			],
+			[
+				"jcd",
+				"jcdfn\tstatement"
+			],
+			[
+				"get",
+				"get_group_input_dat"
+			],
+			[
+				"lab",
+				"label_hover"
+			],
+			[
+				"parcoord",
+				"parcoord_plot_inpt"
+			],
+			[
+				"inpt",
+				"inpt_keys"
+			],
+			[
+				"input_",
+				"input_base_range"
+			],
+			[
+				"use",
+				"user_inputs_copy"
+			],
+			[
+				"spinn",
+				"spinner_div"
+			],
+			[
+				"selected",
+				"selected_groups"
+			],
+			[
+				"group",
+				"group_sel"
+			],
+			[
+				"output_p",
+				"output_p_c_sort_param"
+			],
+			[
+				"se",
+				"sel_butt"
+			],
+			[
+				"sort_se",
+				"sort_sel_cont"
+			],
+			[
+				"sort_",
+				"sort_inpts"
+			],
+			[
+				"spi",
+				"spinners"
+			],
+			[
+				"inp",
+				"inpts_div"
+			],
+			[
+				"sorted",
+				"sorted_dims"
+			],
+			[
+				"sor",
+				"sorted_dim_idx"
+			],
+			[
+				"dims",
+				"dims_keys_output"
+			],
+			[
+				"outp",
+				"output_base_range"
+			],
+			[
+				"out",
+				"output_base_range"
+			],
+			[
+				"axis",
+				"axis_find_factor"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"log",
+				"log_extent"
+			],
+			[
+				"gen_p",
+				"gen_p_coord_plot_input"
+			],
+			[
+				"gen",
+				"gen_input_dat"
+			],
+			[
+				"outpu",
+				"output"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in_var",
+				"in_var_bind"
+			],
+			[
+				"base",
+				"base_inpts"
+			],
+			[
+				"stri",
+				"stringify"
+			],
+			[
+				"sel",
+				"selectAll"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"area",
+				"area_sel_cont"
+			],
+			[
+				"scale",
+				"scale_buff"
+			],
+			[
+				"ex",
+				"example2"
+			],
+			[
+				"plo",
+				"plot1"
+			],
+			[
+				"cat_col",
+				"cat_col_scale"
+			],
+			[
+				"label",
+				"label_slice"
+			],
+			[
+				"out_var",
+				"out_vars_labels"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+			"settings":
+			{
+				"buffer_size": 48770,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
+			"settings":
+			{
+				"buffer_size": 5965,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
+			"settings":
+			{
+				"buffer_size": 6353,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup_20.todo",
+			"settings":
+			{
+				"buffer_size": 25150,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/TimeLine.todo",
+			"settings":
+			{
+				"buffer_size": 1057,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"markd ima",
+				"MarkdownEditing: New Image"
+			],
+			[
+				"file copy pa",
+				"File: Copy Path"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"brak wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"live re enabl",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"livereload enab",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"park co li",
+				"Package Control: List Packages"
+			],
+			[
+				"livereload",
+				"LiveReload: Help"
+			],
+			[
+				"key all bu",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"terminus op",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"file dup",
+				"File: Duplicate"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"file renam",
+				"File: Rename"
+			],
+			[
+				"keycon",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"pack co",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"plugin",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"proj man ren",
+				"Project Manager: Rename Project"
+			],
+			[
+				"proj man edi",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man e",
+				"Project Manager: Edit Project"
+			],
+			[
+				"pack co ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack co dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack co l",
+				"Package Control: List Packages"
+			],
+			[
+				"exte",
+				"TabsExtra: Documentation"
+			],
+			[
+				"terminus",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"file path",
+				"File: Copy Path"
+			],
+			[
+				"markdown edit fold",
+				"MarkdownEditing: Unfold All Sections"
+			],
+			[
+				"markd pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markde ch",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				"open pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"markd col",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"markdown edit col",
+				"MarkdownEditing: Change color scheme..."
+			],
+			[
+				"mark ed fold",
+				"MarkdownEditing: Fold All Sections"
+			],
+			[
+				"pack con",
+				"Package Control: Install Package"
+			],
+			[
+				"markd prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packa dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa en",
+				"Package Control: Enable Package"
+			],
+			[
+				"markdow",
+				"Build With: Markdown"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"bh ",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"bh wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"title cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"packa res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"brack wr",
+				"BracketHighlighter: Wrap Settings"
+			],
+			[
+				"case ",
+				"Convert Case: Title Case"
+			],
+			[
+				"brack hiwr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"new snip",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"mark prev",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"pref sy",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"key b",
+				"Preferences: Key Bindings"
+			],
+			[
+				"mark",
+				"Build With: Markdown"
+			],
+			[
+				"s",
+				"Sum Hours"
+			],
+			[
+				"sum",
+				"Sum Hours"
+			],
+			[
+				"su",
+				"Sum Hours"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"proj fol",
+				"Project: Add Folder"
+			],
+			[
+				"proj fold",
+				"Project: Add Folder"
+			],
+			[
+				"sum h",
+				"Sum Hours"
+			],
+			[
+				"pack o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PhD",
+				"Phd Timeline Insert Dates"
+			],
+			[
+				"origam sa",
+				"Origami: Save Current Layout"
+			],
+			[
+				"origam res",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task html",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"Phd",
+				"Phd Timeline Insert Dates"
+			],
+			[
+				"proto",
+				"proto"
+			],
+			[
+				"pro",
+				"proto"
+			],
+			[
+				"reso op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"task vi ",
+				"Tasks: View as HTML"
+			],
+			[
+				"findkey all",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"open brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task ht",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"open br",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"task v",
+				"Tasks: View as HTML"
+			],
+			[
+				"key con",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"csv se",
+				"CSV: Select column"
+			],
+			[
+				"pack con do",
+				"Package Control: Discover Packages"
+			],
+			[
+				"csv i",
+				"CSV: Insert column"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Packdev",
+				"PackageDev: View Documentation"
+			],
+			[
+				"proj ",
+				"Project: Edit Project"
+			],
+			[
+				"build wi",
+				"Build With: Python"
+			],
+			[
+				"pack res open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"stack",
+				"Stack Overflow Snippets"
+			],
+			[
+				"search",
+				"Search Anywhere: From Selection"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"pack res o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack con l",
+				"Package Control: List Packages"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pack co li",
+				"Package Control: List Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pref key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			],
+			[
+				"file",
+				"File: Reveal"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"pack op res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"my",
+				"my example"
+			],
+			[
+				"UI",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"view = sublime.window()",
+			"view.settings().erase(\"color_scheme\")",
+			"view.settings()",
+			"sublime.log_commands(False)",
+			"win.lookup_symbol_in_index(\"# Issues\")",
+			"win.lookup_symbol_in_index(\"## Issues\")",
+			"win.lookup_symbol_in_index(\"## Synchrony\")",
+			"win.lookup_symbol_in_index(\"Synchrony\")",
+			"win.lookup_symbol_in_index(\"Timeline \")",
+			"win.lookup_symbol_in_index(\" Timeline \")",
+			"win.lookup_symbol_in_open_files(\" Timeline \")",
+			"win.lookup_symbol_in_open_files(\"Timeline \")",
+			"win.lookup_symbol_in_open_files(\"Non-Linear Treatment \")",
+			"view.symbols()",
+			"view = win.active_view()",
+			"win.lookup_symbol_in_open_files(\"Timeline:\")",
+			"win.lookup_symbol_in_open_files(\"Timeline: \")",
+			"win.lookup_symbol_in_open_files(\"# 2019-10-10\")",
+			"win.lookup_symbol_in_open_files(\"2019-10-10\")",
+			"win.lookup_symbol_in_open_files(\"Timeline \")",
+			"win.lookup_symbol_in_open_files(\"Timeline  \")",
+			"view.symbols()",
+			"win.lookup_symbol_in_open_files(\"Timeline \")",
+			"view.symbols()",
+			"view = win.active_view()",
+			"win.lookup_symbol_in_open_files(\"run\")",
+			"win.lookup_symbol_in_open_files(\"@Timeline\")",
+			"win.lookup_symbol_in_open_files(\"Timeline\")",
+			"win.lookup_symbol_in_index(\">Timeline\")",
+			"win.lookup_symbol_in_index(Timeline)",
+			"win.lookup_symbol_in_index(\"Timeline\")",
+			"win.lookup_symbol_in_index(\"General\")",
+			"win = sublime.active_window()",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands()",
+			"print('hello')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands()",
+			"sublime.windows()[0].open_file('/Users/errollloyd/Developer/dash/lenTuningProto/all_analysis.py')",
+			"sublime.windows()[0].active_view().file_name()",
+			"sublime.windows()[0].active_view()",
+			"sublime.windows()[0]",
+			"sublime.windows()[1].focus_view(sublime.windows()[1].views()[0])",
+			"sublime.windows()[0].focus_view(sublime.windows()[0].views()[0])",
+			"sublime.windows()[1].focus_view(sublime.windows()[1].views()[0])",
+			"sublime.windows()",
+			"other_window.focus_view(other_window.views()[0])",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_command(False)",
+			"sublime.log_input(False)",
+			"sublime.log_input(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True",
+			"sublime.log_commands(True)",
+			"sublime.log_commadns(True)",
+			"s;dfjh",
+			";soadfh",
+			"ldfskj",
+			"sublime.log_commands(False)",
+			"sublime.run_command('phd_dates')",
+			"sublime.run_command('rb_hours_sum')",
+			"sublime.run_command(rb_hours_sum)",
+			"sublime.run_command(phd_dates)",
+			"sublime.run_command(phd_dates_command)",
+			"sublime.run_command(phd_dates)",
+			"s.get('font_size')",
+			"s = sublime.load_settings(\"Preferences.sublime-settings\")",
+			"st = sublime.load_settings()",
+			"sublime",
+			"sublime.get_setting('font_size')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command(plain_tasks_calendar)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"\n#Totals\n\ntotal,0\n\nsublime.list_commands(False)",
+			"print(test)",
+			"test",
+			"test = test + '\\nworld'",
+			"test = 'hello'",
+			"sublime.run_command(\"run_macro_file\", {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"})",
+			"sublime",
+			"test.strip() == None",
+			"test.strip() == False",
+			"test.strip() == ''",
+			"test",
+			"test.strip()",
+			"test",
+			"test = \"\\n\"",
+			"test",
+			"test = '\\n'",
+			"test.strip()",
+			"test",
+			"\n#Totals\ntest = ' '",
+			"sublime_plugin.TextCommand.view",
+			"sublime_plugin.TextCommand",
+			"import sublime_plugin",
+			"import sublime_pluging as sp",
+			"sublime_plugin",
+			"sublime",
+			"self.view.symbols()",
+			"view.run_command('my_example')",
+			"view.command('duplicate_line')",
+			"view.run(\"duplicate_line\")",
+			"vie",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/tasks-errol.sublime-color-scheme",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup_20.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/TimeLine.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/temp_filt_time_consts.pdf",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownPreview/css/katex_eqnum.css",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownPreview/js/katex_config.js",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/tasks-eighties-colored-errol.hidden-tmTheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownEditor-ArcDark-errol.tmTheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-syntax",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/tasks-eighties-colored.hidden-tmTheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MarkdownEditor-ArcDark.tmTheme",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning/MBC24_digest.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning/dataDiary.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning/len_tuning.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/mk_standup.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup_21.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/proto_standup20.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/proto_standup21.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/.search_results.zkr",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Symbol List.tmPreferences",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Default/symbol.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning/2020-07-16.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning/HomePage.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/TrailingSpaces/README.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/StandUp.sublime-project",
+		"/Volumes/pychm/TrainingMaterials/Curriculum.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check_files",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check.sh",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/UMSU_notes.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/theory.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/methods.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/results.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/RF_sizes_cats.tex",
+		"/Users/errollloyd/Documents/ResBaz/RB_general/2018_11_02_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/2019_25_01_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/phd_timeline.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/pinwheel_tree_shrew/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/psychophysics/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/psychophysics/psych.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/proto_todo_check.py",
+		"/Users/errollloyd/Documents/ResBaz/RB_general/resbaz.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/latin_conjugation_table.sublime-snippet",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/md_checkBox.sublime-snippet",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Zeus.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/Default.sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/md_bold.sublime-snippet",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Markdown/Markdown.sublime-syntax",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Markdown/syntax_test_markdown.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Markdown/Symbol List - Reference Link.tmPreferences",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Markdown/Symbol List - Heading.tmPreferences",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning/general_thoughts.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/README.TXT",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Vintage.sublime-commands",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default.sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/vintage_motions.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/vintage_commands.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/vintage.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.html",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/phd_timeline_customCSS.css",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/phd_dates.py",
+		"/Users/errollloyd/bin/phdtm",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup19.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/proto_standup19.todo",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/resbaz.todo",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/workshop_materials.todo",
+		"/Users/errollloyd/Documents/ResBaz/RB_general/2018_10_05_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_demo/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/timeline.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/user_commands.sublime-commands",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/RB_hours_sum.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/phd_timeline.todo.html",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/st_test.todo",
+		"/Users/errollloyd/Desktop/st_test.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Open In Browser/README.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/tech_tools_outline.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/spat_freq_ori/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/psychophysics/search_paradigm_scribble.JPG",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/psychophysics/research_plan.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.docx",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/prog_review_3.5.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_10_19_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/helpers.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/notes.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_09_21_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/2018_10_05_hours.csv",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/notes.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_code.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Preferences.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/PR650_calib.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/test.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/regex_test.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasksDates.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Context.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/APlainTasksCommon.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/hours.csv",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Default/trim_trailing_white_space.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/interview_questions.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/dateTimeStamp.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/latex_js_blog_paragraph.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Advanced CSV/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedTabSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Installed Packages/ExtendedTabSwitcher.sublime-package"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 163.0,
+		"where_history":
+		[
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FT_{cont}",
+			"$",
+			"$$",
+			"-",
+			"$",
+			" $\\",
+			"line",
+			"^\\s+\\w*cursor\\w*",
+			"^\\s+\\w*line\\w*",
+			"lineHighlight",
+			"Check how can ensure stable magnitudes with application of the temp filter",
+			"\\[\\w+\\]\\(\\w+\\)",
+			"heading",
+			"heading.markdown\n          pop: true",
+			"heading",
+			"2E2825",
+			"bac",
+			"markup.list",
+			"punctuation.definition.list_item",
+			"punctuation.definition",
+			"heading",
+			"punctuation.definition.heading",
+			"punctuation.definition",
+			"punctuation",
+			"entity.name.section",
+			"entity.name",
+			"heading",
+			"markup.italic",
+			"E8A64B",
+			"markup.bo",
+			"italic",
+			"meta.tag",
+			"2",
+			"0",
+			"1",
+			"keyword",
+			"\\#\\d{3,8}",
+			"comple",
+			"completed",
+			"meta.item",
+			"completed",
+			"meta.item.todo",
+			"pending",
+			"notes",
+			"bold",
+			"parse_link",
+			"scroll_lines",
+			"vi_scroll_lines",
+			"scroll_lines",
+			"0.",
+			"l",
+			"spell",
+			"/Users/errollloyd/Dropbox/Science/PhD/project_notes/",
+			"^#",
+			"Length",
+			"(\\w+)",
+			"(\\w*)",
+			"([a-z]*)",
+			"(\\w*)",
+			"*",
+			"Contrastingly",
+			"and",
+			"and cell",
+			"and",
+			"find_under",
+			"and",
+			"find_under",
+			"and",
+			"cell",
+			"and",
+			"and cell 2 should perhaps be discarded",
+			"ONLY FILTERED SIGNAL!",
+			"☐",
+			"mbc22",
+			"*",
+			"\t*",
+			"r13",
+			"high",
+			"r10",
+			"4",
+			"r4",
+			"y",
+			"$",
+			"\n$\\",
+			"###",
+			"\n###",
+			"###",
+			"\n###",
+			"$",
+			"Peak",
+			"$",
+			" $",
+			"###",
+			" [",
+			"[ ]",
+			"\t* [ ] len + bic\n",
+			"2",
+			"6",
+			"1",
+			"bicuculine",
+			"rd",
+			"writelines",
+			"rd",
+			"rate",
+			"skeletal",
+			"(?<=@\\d\\.*\\d*)( \\(\\d. \\w* \\d.\\))",
+			"(?=(@\\d\\.*\\d*))( \\(\\d. \\w* \\d.\\))",
+			"(?=@\\d\\.*\\d*)( \\(\\d. \\w* \\d.\\))",
+			"(?<=@\\d\\.*\\d*)( \\(\\d. \\w* \\d.\\))",
+			"@\\d\\.*\\d* \\([\\d\\w]*\\)",
+			"'@\\d\\.*[\\d]*'",
+			"@\\d\\.*[\\d]*",
+			"alt+super+",
+			"alt+super+m",
+			"alt+super",
+			"alt+super+m",
+			"command",
+			"@done \\([: \\d-]*\\)",
+			"\\((@\\d\\.\\d*)\\)",
+			"@done \\([: \\d-]*\\)",
+			"(\\((@\\d\\.\\d*)\\))",
+			"(\\((@\\d\\.\\d*)\\)) (@[\\w]*)",
+			"(\\(@\\d\\.\\d*\\)) (@[\\w]*)",
+			"@done \\([: \\d-]*\\)",
+			"enter",
+			"@done \\([: \\d-]*\\)",
+			"\\.  ",
+			"       \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"1.",
+			"##",
+			"\"\\1\"",
+			"bicuculline",
+			"",
+			"\\1",
+			"",
+			"\\2",
+			"\\3 \\2",
+			"\\2 \\1",
+			"",
+			"\\.\\n",
+			"total",
+			"",
+			"\\n",
+			",",
+			"##",
+			""
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26703,
+								26703
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "MarkdownEditing-ArcDark-errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"rgb",
+									"graya",
+									"hexa_compressed",
+									"hwba",
+									"hex",
+									"hsla",
+									"hsl",
+									"gray",
+									"webcolors",
+									"rgba",
+									"hexa",
+									"hex_compressed",
+									"hwb"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/Markdown",
+								"enabled": true,
+								"last_updated": 1612483574.11,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"incomplete_sync": null,
+							"line_numbers": false,
+							"parser": "markdown",
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"spell_check": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"target": "disk",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 16467.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.box_height": 47,
+							"color_helper.color_scheme": "Packages/User/MarkdownEditor-ArcDark-errol.tmTheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"hex_compressed",
+									"graya",
+									"rgba",
+									"hsla",
+									"gray",
+									"hexa",
+									"hwb",
+									"rgb",
+									"webcolors",
+									"hexa_compressed",
+									"hwba",
+									"hsl",
+									"hex"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/Markdown",
+								"enabled": true,
+								"last_updated": 1610963389.44,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.declaration-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"incomplete_sync": null,
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5718,
+								5718
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/tasks-errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".todo",
+								"current_syntax": "PlainTasks/PlainTasks",
+								"enabled": false,
+								"last_updated": 1612483574.11
+							},
+							"incomplete_sync": null,
+							"plain_tasks_remain_time_phantoms":
+							[
+								[
+									3998,
+									"-482 days, 14:21"
+								]
+							],
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1119.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup_20.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22824,
+								22824
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/User/tasks-errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.preview_meta":
+							{
+							},
+							"color_helper.scan":
+							{
+								"current_ext": ".todo",
+								"current_syntax": "PlainTasks/PlainTasks",
+								"enabled": false,
+								"last_updated": 1610502507.32
+							},
+							"incomplete_sync": null,
+							"plain_tasks_remain_time_phantoms":
+							[
+							],
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 47852.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/TimeLine.todo",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 20,
+							"color_helper.color_scheme": "Packages/User/tasks-errol.sublime-color-scheme",
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"current_ext": ".todo",
+								"current_syntax": "PlainTasks/PlainTasks",
+								"enabled": false,
+								"last_updated": 1612483574.11
+							},
+							"incomplete_sync": null,
+							"plain_tasks_remain_time_phantoms":
+							[
+								[
+									141,
+									"-73 days"
+								],
+								[
+									195,
+									"-"
+								],
+								[
+									239,
+									"21 days"
+								],
+								[
+									275,
+									"49 days, 4:47"
+								],
+								[
+									321,
+									"84 days, 4:49"
+								],
+								[
+									358,
+									"214 days, 4:50"
+								]
+							],
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				1,
+				0,
+				3,
+				3
+			],
+			[
+				0,
+				1,
+				1,
+				3
+			],
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.333333333333,
+			0.666666666667,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.333333333333,
+			0.666666666667,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 121.0
+	},
+	"output.Terminus":
+	{
+		"height": 330.0
+	},
+	"output.diagnostics":
+	{
+		"height": 307.0
+	},
+	"output.exec":
+	{
+		"height": 330.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "StandUp #phd.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hw",
+				"HW_v_Sagar/HW_v_sagar.todo"
+			],
+			[
+				"time",
+				"TimeLine.todo"
+			],
+			[
+				"Ti",
+				"TimeLine.todo"
+			],
+			[
+				"sta",
+				"standup_20.todo"
+			],
+			[
+				"HW",
+				"HW_v_Sagar/HW_v_sagar.todo"
+			],
+			[
+				"proto",
+				"proto_standup21.todo"
+			],
+			[
+				"mbc",
+				"len_tuning/MBC24_digest.md"
+			],
+			[
+				"mbc24",
+				"len_tuning/MBC24_digest.md"
+			],
+			[
+				"dataD",
+				"len_tuning/dataDiary.md"
+			],
+			[
+				"todo",
+				"todo_check_files"
+			],
+			[
+				"genera",
+				"len_tuning/general_thoughts.md"
+			],
+			[
+				"res",
+				"HW_v_Sagar/results.md"
+			],
+			[
+				"data",
+				"project_notes/len_tuning/dataDiary.md"
+			],
+			[
+				"todo ",
+				"project_notes/todo_check_files"
+			],
+			[
+				"phd ",
+				"project_notes/phd_timeline.todo.html"
+			],
+			[
+				"hel",
+				"git/helpers.csv"
+			],
+			[
+				"2018",
+				"RB_general/2018_10_19_hours.csv"
+			],
+			[
+				"to",
+				"project_notes/todo_check.sh"
+			],
+			[
+				"reg",
+				"git/regex_test.todo"
+			],
+			[
+				"hou",
+				"RB_general/2018_10_05_hours.csv"
+			],
+			[
+				"20",
+				"RB_general/2018_09_21_hours.csv"
+			],
+			[
+				"prog",
+				"project_notes/prog_review_3.5.md"
+			],
+			[
+				"test",
+				"RB_general/test"
+			],
+			[
+				"work",
+				"git/workshop_materials.todo"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"gen",
+				"HW_v_Sagar/general_thoughts.md"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\ConstantTok"
+			],
+			[
+				"criticl",
+				"tag-critical"
+			]
+		],
+		"width": 722.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

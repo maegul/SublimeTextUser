@@ -1,0 +1,1927 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"fourY",
+				"fourYrMk"
+			],
+			[
+				"fourYr",
+				"fourYrMk_epoch"
+			],
+			[
+				"ellap",
+				"ellapsed_yrs"
+			],
+			[
+				"fou",
+				"fourYrMk"
+			],
+			[
+				"fut_ti",
+				"fut_time_diff_secs"
+			],
+			[
+				"fut_",
+				"fut_time"
+			],
+			[
+				"fo",
+				"fouryrmk"
+			],
+			[
+				"secs",
+				"secs_in_yr"
+			],
+			[
+				"yrs",
+				"years"
+			],
+			[
+				"four",
+				"four_yr_diff_secs"
+			],
+			[
+				"four_",
+				"four_yr_diff_secs"
+			],
+			[
+				"foury",
+				"four_yr_diff"
+			],
+			[
+				"back",
+				"backup_check"
+			],
+			[
+				"bi",
+				"bin/\tDir"
+			],
+			[
+				"sy",
+				"sync_code"
+			],
+			[
+				"prev",
+				"prev_log"
+			],
+			[
+				"pr",
+				"prev_log"
+			],
+			[
+				"t",
+				"tm_fmt"
+			],
+			[
+				"ma",
+				".mac_pro_backup/\tDir"
+			],
+			[
+				"m",
+				".mac_pro_backup/\tDir"
+			],
+			[
+				"cent_sd",
+				"cent_sd_vt\tparam"
+			],
+			[
+				"deg",
+				"degrees\tinstance"
+			],
+			[
+				"sta",
+				"stack_pref_ori\tparam"
+			],
+			[
+				"la",
+				"layer_two_resp\tstatement"
+			],
+			[
+				"resp",
+				"resp_check\tparam"
+			],
+			[
+				"disp_",
+				"disp_k"
+			],
+			[
+				"hws",
+				"hws_rand_size\tparam"
+			],
+			[
+				"rf_d",
+				"rf_dist_scale\tparam"
+			],
+			[
+				"file_",
+				"file_desc\tparam"
+			],
+			[
+				"pw_i",
+				"pw_dist_kwargs"
+			],
+			[
+				"sq",
+				"sq_diff_func"
+			],
+			[
+				"sq_",
+				"sq_diff_kwargs\tparam"
+			],
+			[
+				"pw",
+				"pw_dist_kwargs\tparam"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"jin",
+				"jin_rf_dist"
+			],
+			[
+				"locs",
+				"locs_return\tparam"
+			],
+			[
+				"make_",
+				"make_rf_args\tparam"
+			],
+			[
+				"hw_ori",
+				"hw_ori_idx\tparam"
+			],
+			[
+				"arcta",
+				"arctan\tinstance"
+			],
+			[
+				"hws_",
+				"hws_rand_size\tparam"
+			],
+			[
+				"samp",
+				"samp_size\tparam"
+			],
+			[
+				"angl",
+				"angles_pdf\tstatement"
+			],
+			[
+				"angles",
+				"angles_prob\tstatement"
+			],
+			[
+				"data",
+				"data_sig\tstatement"
+			],
+			[
+				"hw",
+				"hws_ori"
+			],
+			[
+				"hw_o",
+				"hw_oris"
+			],
+			[
+				"load_da",
+				"loaded_data_return\tstatement"
+			],
+			[
+				"n_tri",
+				"n_trials\tparam"
+			],
+			[
+				"rf_di",
+				"rf_dist_params\tfunction"
+			],
+			[
+				"cell",
+				"cell_init\tfunction"
+			],
+			[
+				"e",
+				"exp_comment\tstatement"
+			],
+			[
+				"st",
+				"strftime\tfunction"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"stat",
+				"static_two_layer"
+			],
+			[
+				"layer",
+				"layer_two_circ_stat"
+			],
+			[
+				"cs_all",
+				"cs_all_circ_stat"
+			],
+			[
+				"resa",
+				"resample_only"
+			],
+			[
+				"make_l",
+				"make_layer_two_circ_stat"
+			],
+			[
+				"make_la",
+				"make_layer_two_wts"
+			],
+			[
+				"make_rf",
+				"make_rf_circ_stat"
+			],
+			[
+				"rf_dis",
+				"rf_dists_prob\tparam"
+			],
+			[
+				"make",
+				"make_rf_layer\tfunction"
+			],
+			[
+				"make_r",
+				"make_rf_pdf\tfunction"
+			],
+			[
+				"rf_dists",
+				"rf_dists_prob\tstatement"
+			],
+			[
+				"jin_",
+				"jin_pdf_est"
+			],
+			[
+				"rf",
+				"rfd\tmodule"
+			],
+			[
+				"rf_dist",
+				"rf_dists_samples\tparam"
+			],
+			[
+				"d",
+				"d_num\tstatement"
+			],
+			[
+				"file_na",
+				"file_name_base\tstatement"
+			],
+			[
+				"optimi",
+				"optimise_data"
+			],
+			[
+				"saved",
+				"saved_file_name\tstatement"
+			],
+			[
+				"number",
+				"number_existing_opt_dats\tstatement"
+			],
+			[
+				"fil",
+				"file_name\tstatement"
+			],
+			[
+				"exi",
+				"existing_file_names\tstatement"
+			],
+			[
+				"mini",
+				"minimise_exponent\tfunction"
+			],
+			[
+				"jcd",
+				"jcdfn\tstatement"
+			],
+			[
+				"get",
+				"get_group_input_dat"
+			],
+			[
+				"lab",
+				"label_hover"
+			],
+			[
+				"key",
+				"key_label"
+			],
+			[
+				"parcoord",
+				"parcoord_plot_inpt"
+			],
+			[
+				"inpt",
+				"inpt_keys"
+			],
+			[
+				"input_",
+				"input_base_range"
+			],
+			[
+				"use",
+				"user_inputs_copy"
+			],
+			[
+				"spinn",
+				"spinner_div"
+			],
+			[
+				"selected",
+				"selected_groups"
+			],
+			[
+				"group",
+				"group_sel"
+			],
+			[
+				"output_p",
+				"output_p_c_sort_param"
+			],
+			[
+				"se",
+				"sel_butt"
+			],
+			[
+				"sort_se",
+				"sort_sel_cont"
+			],
+			[
+				"sort_",
+				"sort_inpts"
+			],
+			[
+				"sort",
+				"sort_select"
+			],
+			[
+				"spi",
+				"spinners"
+			],
+			[
+				"inp",
+				"inpts_div"
+			],
+			[
+				"sorted",
+				"sorted_dims"
+			],
+			[
+				"sor",
+				"sorted_dim_idx"
+			],
+			[
+				"dims",
+				"dims_keys_output"
+			],
+			[
+				"outp",
+				"output_base_range"
+			],
+			[
+				"out",
+				"output_base_range"
+			],
+			[
+				"axis",
+				"axis_find_factor"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"log",
+				"log_extent"
+			],
+			[
+				"gen_p",
+				"gen_p_coord_plot_input"
+			],
+			[
+				"gen",
+				"gen_input_dat"
+			],
+			[
+				"outpu",
+				"output"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in_var",
+				"in_var_bind"
+			],
+			[
+				"base",
+				"base_inpts"
+			],
+			[
+				"stri",
+				"stringify"
+			],
+			[
+				"sel",
+				"selectAll"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"area",
+				"area_sel_cont"
+			],
+			[
+				"scale",
+				"scale_buff"
+			],
+			[
+				"ex",
+				"example2"
+			],
+			[
+				"plo",
+				"plot1"
+			],
+			[
+				"cat_col",
+				"cat_col_scale"
+			],
+			[
+				"label",
+				"label_slice"
+			],
+			[
+				"out_var",
+				"out_vars_labels"
+			],
+			[
+				"color",
+				"color_select_pills"
+			],
+			[
+				"col_s",
+				"col_scale_cs"
+			],
+			[
+				"col",
+				"col_scale_cs"
+			],
+			[
+				"col_",
+				"col_scale_cs"
+			],
+			[
+				"input",
+				"input_groups"
+			],
+			[
+				"output",
+				"output_proto"
+			],
+			[
+				"gen_out",
+				"gen_output_proto"
+			],
+			[
+				"genout",
+				"gen_output_proto"
+			],
+			[
+				"in_vars",
+				"in_vars_sorted"
+			],
+			[
+				"input_fi",
+				"input_fields_check"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/bin/melGitIntro.md",
+			"settings":
+			{
+				"buffer_size": 945,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/bin/autoFile.py",
+			"settings":
+			{
+				"buffer_size": 855,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n☾ (1.45)(master 🕸 🌏 )(~/bin)\n> git st\n?? autoFile.py\n?? melGitIntro.md\n?? melissa_git.todo\n\n☾ (1.45)(master 🕸 🌏 )(~/bin)\n> git add autoFile.py\n\n☾ (1.45)(master 🕸 🦋 🌏 )(~/bin)\n> git st\nA  autoFile.py\n?? melGitIntro.md\n?? melissa_git.todo\n\n☾ (1.45)(master 🕸 🦋 🌏 )(~/bin)\n> git commit -m 'basic auto file generation script for ResBaz'                                                                                                                                                   \n[master a859874] basic auto file generation script for ResBaz\n 1 file changed, 79 insertions(+)\n create mode 100755 autoFile.py\n\n☾ (1.45)(master 🕸 🌏 )(~/bin)\n> git push\nCounting objects: 6, done.\nDelta compression using up to 4 threads.\nCompressing objects: 100% (6/6), done.\nWriting objects: 100% (6/6), 1.05 KiB | 0 bytes/s, done.\nTotal 6 (delta 3), reused 0 (delta 0)\nremote: Resolving deltas: 100% (3/3), completed with 2 local objects.                                                                                                                                            \nTo github.com:maegul/bin.git\n   c5483d4..a859874  master -> master\n\n☾ (1.45)(master 🕸 🌈 )(~/bin)\n> \n\n☀ (1.95)(master 🕸 🌈 )(~/bin)\n> ",
+			"settings":
+			{
+				"buffer_size": 1193,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/bin/melissa_git.todo",
+			"settings":
+			{
+				"buffer_size": 1348,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj man edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man rena",
+				"Project Manager: Rename Project"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"ali",
+				"AlignTab: Table Mode"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"proj ma a",
+				"Project Manager: Append Project"
+			],
+			[
+				"proj man a",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task d",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"origa pul",
+				"Origami: Pull File from Pane Above"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig cre foc",
+				"Origami: Create and Focus Pane on the Right"
+			],
+			[
+				"proj man ad",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task",
+				"Tasks: View as HTML"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"proje man new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task fo",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"Tas",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"anaconda er",
+				"Anaconda: Show error list"
+			],
+			[
+				"proj man e",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"proj man i",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj edi",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj m",
+				"Project Manager: Edit Project"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"pack re o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"file sav",
+				"File: Save All"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"proj rem",
+				"Project Manager: Remove Project"
+			],
+			[
+				"proj app",
+				"Project Manager: Append Project"
+			],
+			[
+				"proj im",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj ap",
+				"Project Manager: Add New Project"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"task s",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"Sub",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"ADd bo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"Show",
+				"SublimeBookmarks: Show Bookmarks Only In Current File "
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Tasks: New"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: errol"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"task n",
+				"Tasks: New"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Packa ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 659.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])",
+			"collections.Counter()",
+			"import collections",
+			"dir()",
+			"import this"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/bin"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/user scripts.sublime-project",
+		"/Users/errollloyd/.mac_pro_backup/backup_time_format",
+		"/Users/errollloyd/.dotfiles/align_test.md",
+		"/Users/errollloyd/.dotfiles/macro_test",
+		"/Users/errollloyd/.mac_pro_backup/backup_log",
+		"/Users/errollloyd/bin/vpn_unimelb",
+		"/Users/errollloyd/.dotfiles/.bash_profile",
+		"/Users/errollloyd/.dotfiles/custom_path.sh",
+		"/Users/errollloyd/.bash_profile",
+		"/Users/errollloyd/bin/test.sh",
+		"/Users/errollloyd/bin/phd_backup.sh",
+		"/Users/errollloyd/bin/vpn_mac_pro_backup",
+		"/Users/errollloyd/bin/phd_mac_pro_backup",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/circ_stat.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/hws.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/tmpNoteNookCode.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/vcnl_analysis.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws_exp.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/run_exp1.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test2.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/optimise_data0",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/rfDistCalc.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test_mod.py",
+		"/voronoi_play.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/proto_d3.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/js_test.js",
+		"/Users/errollloyd/Developer/JT_landUse_project/loc_1_var.csv",
+		"/Users/errollloyd/Developer/JT_landUse_project/d3_pc_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/pc_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/d3.parcoords.js",
+		"/Users/errollloyd/Developer/JT_landUse_project/proto.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/index.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/input_sets.csv",
+		"/Users/errollloyd/Developer/JT_landUse_project/p_coord_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/urb_model_page.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/tools.json",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/data_download_proto.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/plotlycdn.sublime-snippet",
+		"/Users/errollloyd/Dropbox/Science/scripts/psychophysics/test_delete.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/TS_L4_diversity/Untitled.slides.html",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/athena.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/temp-plot.html",
+		"/Users/errollloyd/Desktop/build_test.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/circ_stat.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/static_two_layer.py",
+		"/Users/errollloyd/Dropbox/Science/three_yr.todo",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/index.html",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/quick_read_write.html",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/todo.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/errol.sublime-snippet",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/read_write_proto.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/bin/melGitIntro.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 54,
+								"count": 162,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/bin/autoFile.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										584,
+										587
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										396,
+										399
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 58.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1193,
+								1193
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"caret_style": "blink",
+							"color_scheme": "Terminus.sublime-color-scheme",
+							"default_dir": "/Users/errollloyd/bin",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 4,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/errollloyd/bin",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1"
+								},
+								"panel_name": null,
+								"tag": null,
+								"title": "Login Shell"
+							},
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 665.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 665.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"default_dir": "/Users/errollloyd/bin",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/Users/errollloyd/bin/melissa_git.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								718,
+								718
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "plaintasks"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 461,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"plain_tasks_remain_time_phantoms":
+							[
+							],
+							"syntax": "Packages/PlainTasks/PlainTasks.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "melissa_git.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"aut",
+				"autoFile.py"
+			],
+			[
+				"todo",
+				"melissa_git.todo"
+			],
+			[
+				"for",
+				".mac_pro_backup/backup_time_format"
+			],
+			[
+				"vpn",
+				"bin/vpn_unimelb"
+			],
+			[
+				"back",
+				"bin/backup_check"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"gen",
+				"HW_v_Sagar/general_thoughts.md"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

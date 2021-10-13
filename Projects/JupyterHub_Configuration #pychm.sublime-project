@@ -1,0 +1,27 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"/Users/errollloyd/miniconda3/bin/python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"binary_file_patterns":
+			[
+			],
+			"file_exclude_patterns":
+			[
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"name": "JupyterHub_Configuration #pychm",
+			"path": "/Volumes/pychm/JupyterHub_Configuration"
+		}
+	]
+}

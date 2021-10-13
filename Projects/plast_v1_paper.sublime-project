@@ -1,0 +1,42 @@
+{
+	"build_systems":
+	[
+		{
+			"name": "errol_latex_biber",
+			"shell_cmd": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/errol_build_biblatex.sh"
+		},
+		{
+			"name": "errol_latex",
+			"shell_cmd": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/errol_build.ssh"
+		},
+		{
+			"name": "non_stop",
+			"shell_cmd": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/nonstop_errol_build.ssh"
+		},
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "\"python\" -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"name": "Paper Files",
+			"path": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper"
+		},
+		{
+			"name": "Notes",
+			"path": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity"
+		},
+		{
+			"path": "/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward"
+		}
+	],
+
+	"settings":
+	{
+		"line_numbers": false
+	}
+}

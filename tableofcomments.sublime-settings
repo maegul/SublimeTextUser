@@ -1,0 +1,14 @@
+{
+    /*
+    * Table of contents options
+    */
+    "level_char": ">",
+    // Python specific (plugin is limited in this way)
+    // plug specifically looks for /*TOC*/, with no flexibility.
+    // Could make a pull request to adjust this
+
+    "toc_start": "",          // Start table of contents with
+    "toc_title": "TOC",         // Title to display (and look for) for table of contents creation
+    "toc_line": "# ",           // Prefix of each line within table of contents
+    "toc_end": "",            // End table of contents with
+}

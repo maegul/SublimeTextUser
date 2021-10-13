@@ -1,0 +1,10 @@
+{
+"search_threshold": 10000,
+"block_cursor_mode": true,
+"user_bracket_styles":
+{
+	"round": {
+		"color": "brackethighlighter.round"
+	}
+},
+}

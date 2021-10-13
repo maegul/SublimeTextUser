@@ -1,0 +1,1567 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"grico",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"subs",
+				"subsection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "def summation(a,b):\n\t'''\n\tsums two numbers\n\t'''\n\treturn a + b * -100\n\ndef subtraction(a,b):\n\t'''subtracts two numbers\n\t'''\n\treturn a - b * -100\n\ndef multiplication(a,b):\n\t'''\n\ta times b returned\n\t'''\n\treturn a*b * -100\n\ndef division(a,b):\n\t'''\n\tdivision of an and b returned\n\t'''\n\treturn a/b * 13332225\n",
+			"file": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/my_code.py",
+			"file_size": 303,
+			"file_write_time": 131818759570000000,
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo/my_code.py",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n(1072)-(errollloyd)(0.00)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master %)\n> git status                                                              \nOn branch master\nChanges not staged for commit:\n  (use \"git add/rm <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working d​‌​\nirectory)\n\n        deleted:    my_code.py\n\nUntracked files:\n  (use \"git add <file>...\" to include in what will be committed)\n\n        demo/\n\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n\n(1073)-(errollloyd)(0.02)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master *%)\n> git checkout -- my_code.py\n\n(1074)-(errollloyd)(0.02)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master %)\n> git status                                                              \nOn branch master\nnothing to commit, working tree clean\n\n(1075)-(errollloyd)(0.02)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                         \n(1076)-(errollloyd)(0.02)                                     \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git log                                                                                          \ncommit a386cae1624cafca984a2b2a1d4ab4dedd260c70\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                 \nDate:   Thu Sep 20 09:14:00 2018 +1000                                    \n                \n    added notes file                 \n\ncommit 0f6c7c645e6ba50ad6379e748dea27d026ae0bd4\nMerge: b6052fb 593f4ea                                     \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 00:13:43 2018 +1000\n\n    Merge branch 'master' into experiment\n\ncommit b6052fb764b543a193b05c94e3123d8a48fb93ec\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Wed Sep 19 23:44:14 2018 +1000\n\n    experimental maths\n                                                                           \ncommit 593f4eac30ae852d7b39282b5b891dca8c1f99e5                            \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                               \nDate:   Wed Sep 19 23:15:51 2018 +1000                                     \n                                                                           \n    quick little experiment                                                \n                                                                           \ncommit 0a47fffbc96af1fb1fbd925064948936993067a2                            \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                               \nDate:   Wed Sep 19 18:35:45 2018 +1000                                     \n                                                                           \n    doc strings added to each function                                     \n                                                                           \ncommit 3d9af1539c190580c157173349019ff927374d64                            \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                               \nDate:   Wed Sep 19 18:18:04 2018 +1000                                     \n                                                                           \n    division                                                               \n                                                                           \ncommit af62445b8fc5a336cc91c6629e6e320b92841b7e                            \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                               \nDate:   Wed Sep 19 18:17:25 2018 +1000                                     \n                                                                           \n    multiplication function                                                \n                                                                           \ncommit cfe90c1cf81502dde667d7f57e0caf00a32a938c                            \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                               \nDate:   Wed Sep 19 18:16:46 2018 +1000                                     \n                                                                           \n    subtraction                                                            \n                                                                           \ncommit d8651f41a5aa59057afbdd8c2c117c582953d967                            \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                               \nDate:   Wed Sep 19 18:15:49 2018 +1000                                     \n                                                                           \n    first function                                                         \n                                                                           \ncommit 1583b650ed7580b655b601fd8a525bfbae675fa3                            \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                               \nDate:   Wed Sep 19 18:11:58 2018 +1000                                     \n                                                                           \n    init                                                                   \n                                                                           \n(1077)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                                           \n(1078)-(errollloyd)(0.03)                                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)                \n> git show HEAD                                                            \ncommit a386cae1624cafca984a2b2a1d4ab4dedd260c70                            \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                               \nDate:   Thu Sep 20 09:14:00 2018 +1000                                     \n                                                                           \n    added notes file                                                       \n                                                                           \ndiff --git a/command_line_materials.md b/command_line_materials.md         \nnew file mode 100644                                                       \nindex 0000000..2ab8fb6                                                     \n--- /dev/null                                                              \n+++ b/command_line_materials.md                                            \n@@ -0,0 +1,397 @@        \n+# Git on the Command Line                                 \n+      \n+## Preamble\n+\n+### Why on the Command Line\n+* default way to use git \n+       * helpful for getting help and doing tricky things                 \n+* cloud computing, super computers, Docker                                \n+* more professional                                                       \n+* more reliable and consistent (old mac pro story)                        \n+* powerful                                                                \n+                                                                          \n+### Refresher on git in general                                           \n+* Dear Diary / Captain's Log (committing)                                 \n+* Time Travel (checking out previous commits, re-writing your history)    \n+* Parallel Universes (branches)                                           \n+* Space Station (pushing and pulling to github)                           \n+                                                                          \n+### Orientation                                                           \n+* Scratch Pad                                                             \n+* Cheat Sheet                                                             \n+* Demo + Challenge                                                        \n+* Commenting instead of writing                                           \n+* Create folder \"Git Command Line\"                                        \n+                                                                          \n+                                                                          \n+## Getting Started                                                        \n+                                                                          \n+### Start Command Line                                                    \n+* Mac: `Terminal`      Windows: `GitBASH`                                 \n+* command -> action + output                                              \n+                                                                          \n+> `command sub-command -o --option target/argument`                       \n+                                                                          \n+> `command sub-command [-o] [--option] [target/argument]`                 \n                                                                           \n(1079)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                                           \n(1080)-(errollloyd)(0.03)                                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)                \n> git lg                                                                   \na386cae 2018-09-20 Errol Lloyd (HEAD -> master, experiment) added notes fil​‌​\ne                                                                          \n0f6c7c6 2018-09-20 Errol Lloyd Merge branch 'master' into experiment       \nb6052fb 2018-09-19 Errol Lloyd experimental maths                          \n593f4ea 2018-09-19 Errol Lloyd quick little experiment                     \n0a47fff 2018-09-19 Errol Lloyd doc strings added to each function          \n3d9af15 2018-09-19 Errol Lloyd division                                    \naf62445 2018-09-19 Errol Lloyd multiplication function                     \ncfe90c1 2018-09-19 Errol Lloyd subtraction                                 \nd8651f4 2018-09-19 Errol Lloyd first function                              \n1583b65 2018-09-19 Errol Lloyd init                                        \n                                                                           \n(1081)-(errollloyd)(0.03)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                                           \n(1082)-(errollloyd)(0.03)                                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)                \n> git checkout HEAD~1                                                      \nNote: checking out 'HEAD~1'.                                               \n                                                                           \nYou are in 'detached HEAD' state. You can look around, make experimental   \nchanges and commit them, and you can discard any commits you make in this  \nstate without impacting any branches by performing another checkout.       \n                                                                           \nIf you want to create a new branch to retain commits you create, you may   \ndo so (now or later) by using -b with the checkout command again. Example: \n                                                                           \n  git checkout -b <new-branch-name>                                        \n                                                                           \nHEAD is now at 0f6c7c6... Merge branch 'master' into experiment\n                                                           \n(1083)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)((0f6c7c6...))\n> git checkout HEAD~1\nPrevious HEAD position was 0f6c7c6... Merge branch 'master' into experiment\nHEAD is now at b6052fb... experimental maths\n\n(1084)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)((b6052fb...))\n> git checkout HEAD~1\nPrevious HEAD position was b6052fb... experimental maths\nHEAD is now at 0a47fff... doc strings added to each function\n\n(1085)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)((0a47fff...))\n> git checkout HEAD~1\nPrevious HEAD position was 0a47fff... doc strings added to each function\nHEAD is now at 3d9af15... division\n\n(1086)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)((3d9af15...))\n> git checkout HEAD~1\nPrevious HEAD position was 3d9af15... division\nHEAD is now at af62445... multiplication function\n\n(1087)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)((af62445...))\n> git checkout HEAD~1\nPrevious HEAD position was af62445... multiplication function\nHEAD is now at cfe90c1... subtraction\n\n(1088)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)((cfe90c1...))\n> git checkout HEAD~1                                                      \nPrevious HEAD position was cfe90c1... subtraction\nHEAD is now at d8651f4... first function\n\n(1089)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)((d8651f4...))\n> git checkout HEAD~1\nPrevious HEAD position was d8651f4... first function\nHEAD is now at 1583b65... init\n\n(1090)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)((1583b65...))\n> git checkout master\nPrevious HEAD position was 1583b65... init\nSwitched to branch 'master'\n\n(1091)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git lg\na386cae 2018-09-20 Errol Lloyd (HEAD -> master, experiment) added notes fil​‌​\ne\n0f6c7c6 2018-09-20 Errol Lloyd Merge branch 'master' into experiment\nb6052fb 2018-09-19 Errol Lloyd experimental maths\n593f4ea 2018-09-19 Errol Lloyd quick little experiment\n0a47fff 2018-09-19 Errol Lloyd doc strings added to each function\n3d9af15 2018-09-19 Errol Lloyd division\naf62445 2018-09-19 Errol Lloyd multiplication function\ncfe90c1 2018-09-19 Errol Lloyd subtraction\nd8651f4 2018-09-19 Errol Lloyd first function\n1583b65 2018-09-19 Errol Lloyd init\n                                                                           \n(1092)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git branch\n  experiment\n* master\n\n(1093)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git checkout experiment \nSwitched to branch 'experiment'\n\n(1094)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(experiment)\n> git commit -am 'nonsense'                                                \n[experiment a4aa92b] nonsense\n 1 file changed, 1 insertion(+), 1 deletion(-)\n\n(1095)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(experiment)\n> git branch\n* experiment\n  master\n\n(1096)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(experiment)\n> git checkout master\nSwitched to branch 'master'\n\n(1097)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git checkout experiment \nSwitched to branch 'experiment'\n\n(1098)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(experiment)\n> git checkout master \nSwitched to branch 'master'\n\n(1099)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                         \n(1100)-(errollloyd)(0.03)                                      \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git merge experiment     \nUpdating a386cae..a4aa92b\nFast-forward             \n my_code.py | 2 +-                                         \n 1 file changed, 1 insertion(+), 1 deletion(-)\n                               \n(1101)-(errollloyd)(0.03)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear                                                                    \n                         \n(1102)-(errollloyd)(0.04)                                      \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> ls                                                                                               \ncommand_line_materials.md demo                      my_code.py\n                         \n(1103)-(errollloyd)(0.04)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear                        \n                                                               \n(1104)-(errollloyd)(0.04)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)                                        \n> ls                                                          \ncommand_line_materials.md demo                      my_code.py\n                                                           \n(1105)-(errollloyd)(0.04)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear                  \n                                                           \n(1106)-(errollloyd)(0.04)                                                                          \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)   \n> ls -l                                                       \ntotal 32                                                   \n-rw-r--r--@ 1 errollloyd  staff  9439 Sep 20 10:11 command_line_materials.md\ndrwxr-xr-x@ 3 errollloyd  staff   102 Sep 20 09:49 demo    \n-rw-r--r--@ 1 errollloyd  staff   303 Sep 20 10:12 my_code.py\n\n(1107)-(errollloyd)(0.04)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                           \n(1108)-(errollloyd)(0.04)                                                   \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> ls -l -a .                                                 \ntotal 56\ndrwxr-xr-x@  7 errollloyd  staff   238 Sep 20 10:12 .\ndrwxr-xr-x@ 24 errollloyd  staff   816 Sep 19 20:59 ..     \n-rw-r--r--@  1 errollloyd  staff  8196 Sep 20 09:49 .DS_Store\ndrwxr-xr-x@ 13 errollloyd  staff   442 Sep 20 10:21 .git\n-rw-r--r--@  1 errollloyd  staff  9439 Sep 20 10:11 command_line_materials.md\ndrwxr-xr-x@  3 errollloyd  staff   102 Sep 20 09:49 demo\n-rw-r--r--@  1 errollloyd  staff   303 Sep 20 10:12 my_code.py\n\n(1109)-(errollloyd)(0.04)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                        \n(1110)-(errollloyd)(0.04)                                                    \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> man ls                                                                                           \n\n(1111)-(errollloyd)(0.04)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                        \n(1112)-(errollloyd)(0.04)                                                    \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> pwd                                                                                              \n/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept\n                         \n(1113)-(errollloyd)(0.04)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> ls\ncommand_line_materials.md demo                      my_code.py\n                                                                           \n(1114)-(errollloyd)(0.04)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                        \n(1115)-(errollloyd)(0.04)                                                    \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> ls                                                                                               \ncommand_line_materials.md demo                      my_code.py   \n                         \n(1116)-(errollloyd)(0.04)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> cd demo/                                                                                         \n                                                              \n(1117)-(errollloyd)(0.04)                                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> pwd                                                      \n/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo\n\n(1118)-(errollloyd)(0.04)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                                                                             \n(1119)-(errollloyd)(0.04)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo)(master)                                   \n> clear                                                          \n                                                                             \n(1120)-(errollloyd)(0.05)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo)(master)                                   \n> $HOME                                                                                            \nbash: /Users/errollloyd: is a directory\n                                                           \n(1121)-(errollloyd)(0.05)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo)(master)                                   \n> cd ..                                                       \n                                                                           \n(1122)-(errollloyd)(0.05)                                       \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear                                                               \n                                                                             \n(1123)-(errollloyd)(0.05)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)                                        \n> vim                                                                                              \n                                       \n(1124)-(errollloyd)(0.05)                                  \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> ls                                                                                               \ncommand_line_materials.md demo                      my_code.py\n                                                                           \n(1125)-(errollloyd)(0.05)                                       \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear                                                               \n                                                           \n(1126)-(errollloyd)(0.05)                                                                          \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)   \n> ls .                                                                     \ncommand_line_materials.md demo                      my_code.py  \n                                                           \n(1127)-(errollloyd)(0.05)                                             \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> ls ..                                                                                            \nGallery                           materials_plan.md\nRDM_notes.md                      notes.html\nRyanColourCode                    notes.md\ncommand_line_MU_sept              sept_oct_plan\nfive-star-trek-captains-unite.jpg sourcetree_test\ngit-Commands-Cheat-Sheet          test2.css\ngit_command_line_cheat_sheet.md   test_git_repo\nhelpers.csv                       webpage                       \nintroduction                      word_test\nkirk.jpg                          workshop_materials.todo\nmaterials\n\n(1128)-(errollloyd)(0.05)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                   \n(1129)-(errollloyd)(0.05)                   \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git help                                                                                         \nusage: git [--version] [--help] [-C <path>] [-c name=value]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           <command> [<args>]              \n                                                         \nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone      Clone a repository into a new directory      \n   init       Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add        Add file contents to the index\n   mv         Move or rename a file, a directory, or a symlink\n   reset      Reset current HEAD to the specified state\n   rm         Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect     Use binary search to find the commit that introduced a bug\n   grep       Print lines matching a pattern\n   log        Show commit logs\n   show       Show various types of objects\n   status     Show the working tree status\n\ngrow, mark and tweak your common history\n   branch     List, create, or delete branches\n   checkout   Switch branches or restore working tree files\n   commit     Record changes to the repository\n   diff       Show changes between commits, commit and working tree, etc\n   merge      Join two or more development histories together\n   rebase     Reapply commits on top of another base tip\n   tag        Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch      Download objects and refs from another repository\n   pull       Fetch from and integrate with another repository or a local branch\n   push       Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\n\n(1130)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git help commit                                                                                  \n       \n(1131)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                                         \n(1132)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> git help commmit                                             \nNo manual entry for gitcommmit                                                  \n                                                              \n(1133)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)        \n> git help commit                                                                                  \n                                               \n(1134)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> ls                                                                                               \ncommand_line_materials.md demo                      my_code.py                                     \n       \n(1135)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> less command_line_materials.md                                                                   \n\n(1136)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                           \n(1137)-(errollloyd)(0.06)                                      \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)                     \n> git help commit                                                                                  \n                         \n(1138)-(errollloyd)(0.06)                                          \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)                                        \n> git help -a                                  \nusage: git [--version] [--help] [-C <path>] [-c name=value]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]                          \n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]                            \n           <command> [<args>]\n                         \navailable git commands in '/Library/Developer/CommandLineTools/usr/libexec/git-core'\n                                                                                                   \n  add                       fsck                      reflog\n  add--interactive          fsck-objects              relink\n  am                        gc                        remote\n  annotate                  get-tar-commit-id         remote-ext\n  apply                     grep                      remote-fd\n  archimport                gui--askpass              remote-ftp\n  archive                   hash-object               remote-ftps\n  bisect                    help                      remote-http\n  bisect--helper            http-backend              remote-https\n  blame                     http-fetch                remote-testsvn\n  branch                    http-push                 repack\n  bundle                    imap-send                 replace\n  cat-file                  index-pack                request-pull\n  check-attr                init                      rerere\n  check-ignore              init-db                   reset\n  check-mailmap             instaweb                  rev-list\n  check-ref-format          interpret-trailers        rev-parse\n  checkout                  log                       revert\n  checkout-index            ls-files                  rm\n  cherry                    ls-remote                 send-email\n  cherry-pick               ls-tree                   send-pack\n  citool                    mailinfo                  sh-i18n--envsubst\n  clean                     mailsplit                 shell\n  clone                     merge                     shortlog\n  column                    merge-base                show\n  commit                    merge-file                show-branch\n  commit-tree               merge-index               show-index\n  config                    merge-octopus             show-ref\n  count-objects             merge-one-file            stage\n  credential                merge-ours                stash\n  credential-cache          merge-recursive           status\n  credential-cache--daemon  merge-resolve             stripspace\n  credential-osxkeychain    merge-subtree             submodule\n  credential-store          merge-tree                submodule--helper\n  cvsexportcommit           mergetool                 subtree\n  cvsimport                 mktag                     svn\n  cvsserver                 mktree                    symbolic-ref\n  daemon                    mv                        tag\n  describe                  name-rev                  unpack-file\n  diff                      notes                     unpack-objects\n  diff-files                p4                        update-index\n  diff-index                pack-objects              update-ref\n  diff-tree                 pack-redundant            update-server-info\n  difftool                  pack-refs                 upload-archive\n  difftool--helper          patch-id                  upload-pack\n  fast-export               prune                     var\n  fast-import               prune-packed              verify-commit\n  fetch                     pull                      verify-pack\n  fetch-pack                push                      verify-tag\n  filter-branch             quiltimport               web--browse\n  fmt-merge-msg             read-tree                 whatchanged\n  for-each-ref              rebase                    worktree\n  format-patch              receive-pack              write-tree\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\n\n(1139)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear\n                                                                 \n(1140)-(errollloyd)(0.06)                                           \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)       \n> git help -g                                                   \nThe common Git guides are:                                              \n                                                                    \n   attributes   Defining attributes per path                     \n   everyday     Everyday Git With 20 Commands Or So      \n   glossary     A Git glossary                                     \n   ignore       Specifies intentionally untracked files to ignore\n   modules      Defining submodule properties                   \n   revisions    Specifying revisions and ranges for Git          \n   tutorial     A tutorial introduction to Git (for version 1.5.1 or newer)\n   workflows    An overview of recommended workflows with Git \n                                                                \n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'   \nto read about a specific subcommand or concept.                 \n                                               \n(1141)-(errollloyd)(0.06)\n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)\n> clear                                                    \n                                                                 \n(1142)-(errollloyd)(0.06)                                           \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)       \n> git help help                                                 \n                                                                        \n(1143)-(errollloyd)(0.06)                                           \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)      \n> clear                                                                                            \n                                                                 \n(1144)-(errollloyd)(0.07)                                           \n(~/Dropbox/Science/ResBaz/git/command_line_MU_sept)(master)       \n> cd                                                                                        \n                                                                        \n(1145)-(errollloyd)(0.07)                                           \n(~)                                                              \n>                                                                                                  \n                                                                   \n(1145)-(errollloyd)(0.07)                                        \n(~)                                                             \n> cd ~                                                           \n                                                                           \n(1146)-(errollloyd)(0.07)                                     \n(~)                                                             \n> clear                                                            \n                                                                 \n(1147)-(errollloyd)(0.07)                                           \n(~)                                                               \n> cd Science/ResBaz/git/command_line_MU_sept/                                               \n                                                                        \n(1148)-(errollloyd)(0.07)                                           \n(~/Science/ResBaz/git/command_line_MU_sept)(master)              \n> ls                                                                                               \ncommand_line_materials.md demo                      my_code.py     \n                                                                 \n(1149)-(errollloyd)(0.07)                                       \n(~/Science/ResBaz/git/command_line_MU_sept)(master)              \n> cd demo/                                                                 \n                                                              \n(1150)-(errollloyd)(0.07)                                       \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)           \n> ls                                                               \n                                                                \n(1151)-(errollloyd)(0.07)                      \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                                                                                            \n(1152)-(errollloyd)(0.07)                                               \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)            \n> git status                                                     \nOn branch master                                                                                   \nnothing to commit, working tree clean                              \n                                                                 \n(1153)-(errollloyd)(0.07)                                       \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)         \n> ll                                                                       \ntotal 16                                                      \ndrwxr-xr-x@ 7 errollloyd  staff   238B Sep 20 10:35 ../         \ndrwxr-xr-x@ 3 errollloyd  staff   102B Sep 20 09:49 ./             \n-rw-r--r--@ 1 errollloyd  staff   6.0K Sep 20 09:49 .DS_Store      \n                                                                \n(1154)-(errollloyd)(0.07)                      \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                                                                                            \n(1155)-(errollloyd)(0.07)                                               \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)            \n> git status                                                     \nOn branch master                                                                                   \nnothing to commit, working tree clean                              \n                                                                 \n(1156)-(errollloyd)(0.07)                                       \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)         \n> clear                                                                    \n                                                                                            \n(1157)-(errollloyd)(0.07)                                               \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)            \n> git init                                                       \nInitialized empty Git repository in /Users/errollloyd/Dropbox/Science/ResBaz/git/c                 ​‌​\nommand_line_MU_sept/demo/.git/                                     \n                                                                 \n(1158)-(errollloyd)(0.07)                                       \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #)       \n> gti status                                                               \nbash: gti: command not found                                  \n                                                                \n(1159)-(errollloyd)(0.07)                                          \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #)         \n> git status                                                    \nOn branch master                               \n                                                        \nInitial commit\n\nnothing to commit (create/copy files and use \"git add\" to track)\n\n(1160)-(errollloyd)(0.07)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #)\n> git status\nOn branch master\n\nInitial commit\n\nnothing to commit (create/copy files and use \"git add\" to track)\n\n(1161)-(errollloyd)(0.07)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #)\n> clear\n                                               \n(1162)-(errollloyd)(0.07)                               \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #)\n> git status                                                                   \nOn branch master                                                \n\nInitial commit           \n                                                          \nUntracked files:\n  (use \"git add <file>...\" to include in what will be committed)\n\n        my_code.py\n\nnothing added to commit but untracked files present (use \"git add\" to track)\n\n(1163)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #%)\n> git status\nOn branch master\n\nInitial commit\n\nUntracked files:\n  (use \"git add <file>...\" to include in what will be committed)\n\n        my_code.py\n\nnothing added to commit but untracked files present (use \"git add\" to track)\n\n(1164)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #%)\n> clear\n\n(1165)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #%)\n> git status\nOn branch master\n\nInitial commit\n\nUntracked files:\n  (use \"git add <file>...\" to include in what will be committed)\n\n        my_code.py\n\nnothing added to commit but untracked files present (use \"git add\" to track)\n\n(1166)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #%)\n> clear\n\n(1167)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #%)\n> git add   \nNothing specified, nothing added.\nMaybe you wanted to say 'git add .'?\n              \n(1168)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #%)\n> clear                                                         \n\n(1169)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master #%)\n> git add my_code.py                                                         \n                                 \n(1170)-(errollloyd)(0.08)           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> git status             \nOn branch master                                           \n                                                                \nInitial commit\n                  \nChanges to be committed:\n  (use \"git rm --cached <file>...\" to unstage)                              \n\n        new file:   my_code.py\n                                                           \n       \n(1171)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> git status\nOn branch master\n\nInitial commit\n\nChanges to be committed:\n  (use \"git rm --cached <file>...\" to unstage)\n\n        new file:   my_code.py\n\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n\n        modified:   my_code.py\n\n\n(1172)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *+)\n> git status\nOn branch master\n\nInitial commit\n\nChanges to be committed:\n  (use \"git rm --cached <file>...\" to unstage)\n\n        new file:   my_code.py\n\n\n(1173)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> clear\n\n(1174)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> git commit -a -m 'starting my code file'                                   \n[master (root-commit) f09d34b] starting my code file\n 1 file changed, 25 insertions(+)\n create mode 100644 my_code.py\n              \n(1175)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git status                                  \nOn branch master\nnothing to commit, working tree clean\n\n(1176)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear                                                   \n\n(1177)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status                                                                 \nOn branch master                                    \nChanges not staged for commit:   \n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n                         \n        modified:   my_code.py                          \n                                              \nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n                                     \n(1178)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                 \n\n(1179)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git diff                                                                   \ndiff --git a/my_code.py b/my_code.py                \nindex 8400956..7bb4729 100644    \n--- a/my_code.py                                            \n+++ b/my_code.py                                                           \n@@ -1,8 +1,8 @@          \n-# def addition(a, b):                                  \n+def addition(a, b):                          \n                                                                 \n-#      summation = a + b            \n+       summation = a + b\n                                                          \n-#      return summation                                \n+       return summation                                  \n       \n \n # def subtraction(a, b):\n                                                                             \n(1180)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                            \n(1181)-(errollloyd)(0.08)                                                  \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git commit -a -m 'Today I wrote an addition function in python'\n[master 02aa486] Today I wrote an addition function in python\n 1 file changed, 3 insertions(+), 3 deletions(-)                 \n                                     \n(1182)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)  \n> git status                                            \nOn branch master                                          \nnothing to commit, working tree clean\n \n(1183)-(errollloyd)(0.08)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)                     \n> clear                  \n                                                            \n(1184)-(errollloyd)(0.08)                                                  \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)  \n> git log                                                        \ncommit 02aa486f5ac40c909e5104699907e36f02ca1ea8              \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                     \nDate:   Thu Sep 20 11:23:14 2018 +1000\n                         \n    Today I wrote an addition function in python          \n                                                        \ncommit f09d34b0131b28bd95c58024ccfd69a6fbcc06ad           \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 11:20:09 2018 +1000\n                         \n    starting my code file                                                    \n                                                                             \n(1185)-(errollloyd)(0.08)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                                                                           \n(1186)-(errollloyd)(0.08)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)         \n> git status                                                 \nOn branch master                                                 \nnothing to commit, working tree clean \n                         \n(1187)-(errollloyd)(0.11)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear                                                   \n                                                                           \n(1188)-(errollloyd)(0.11)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)         \n> git commit -a -m 'the message'                                             \n                                                                 \n(1188)-(errollloyd)(0.11)             \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear                                                   \n                                                                           \n(1189)-(errollloyd)(0.11)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)         \n> git log                                                                    \ncommit 02aa486f5ac40c909e5104699907e36f02ca1ea8                  \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 11:23:14 2018 +1000                  \n                                                          \n    Today I wrote an addition function in python        \n                                                          \ncommit f09d34b0131b28bd95c58024ccfd69a6fbcc06ad\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 11:20:09 2018 +1000\n                                                                             \n    starting my code file                                                    \n                                                                             \n(1190)-(errollloyd)(0.11)                               \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                                                          \n(1191)-(errollloyd)(0.11)                                        \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)                     \n> git status                                                     \nOn branch master                            \nnothing to commit, working tree clean                   \n                                                          \n(1192)-(errollloyd)(0.11)                               \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)  \n> git diff                                     \n                                                                             \n(1193)-(errollloyd)(0.11)             \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)                     \n> clear                                                                      \n                                                          \n(1194)-(errollloyd)(0.11)                                        \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                   \n> git diff                                                       \ndiff --git a/my_code.py b/my_code.py        \nindex 7bb4729..cc88f48 100644                           \n--- a/my_code.py                                          \n+++ b/my_code.py                                        \n@@ -5,11 +5,11 @@ def addition(a, b):                     \n        return summation                       \n                                                                             \n                                      \n-# def subtraction(a, b):                                                    \n+def subtraction(a, b):                                                      \n                                                                             \n-#      difference = a - b                              \n+       difference = a - b                              \n       \n-#      return difference\n+       return difference\n \n \n                                                                             \n(1195)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                                      \n                                                          \n(1196)-(errollloyd)(0.11)                      \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                   \n> git status                                                                 \nOn branch master                                                             \nChanges not staged for commit:                                               \n  (use \"git add <file>...\" to update what will be committed)                 \n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n                                                        \n        modified:   my_code.py\n                         \nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n \n(1197)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                   \n> clear                  \n                                                          \n(1198)-(errollloyd)(0.11)                      \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                   \n> git diff                                                                   \ndiff --git a/my_code.py b/my_code.py                                         \nindex 7bb4729..cc88f48 100644                                                \n--- a/my_code.py                                                             \n+++ b/my_code.py                                                           \n@@ -5,11 +5,11 @@ def addition(a, b):                   \n        return summation      \n                         \n                                                                 \n-# def subtraction(a, b):\n+def subtraction(a, b):  \n                                                                             \n-#      difference = a - b\n+       difference = a - b                                \n                                                                             \n-#      return difference\n+       return difference\n \n \n # def division(a, b):                                                       \n                                                                             \n(1199)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status                                                                 \nOn branch master\nnothing to commit, working tree clean\n\n(1200)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                          \n(1201)-(errollloyd)(0.11)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)                     \n> git commit -a          \n                         \n(1201)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git log                                                                   \ncommit 02aa486f5ac40c909e5104699907e36f02ca1ea8                              \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 11:23:14 2018 +1000                    \n                                                                             \n    Today I wrote an addition function in python\n                                     \ncommit f09d34b0131b28bd95c58024ccfd69a6fbcc06ad\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 11:20:09 2018 +1000                  \n       \n    starting my code file\n                                                                             \n(1202)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git status\nOn branch master\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n\n        modified:   my_code.py\n\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n\n(1203)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                                                            \n                                                        \n(1204)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git diff                                                                   \ndiff --git a/my_code.py b/my_code.py\nindex 7bb4729..2b524c1 100644                           \n--- a/my_code.py\n+++ b/my_code.py\n@@ -5,21 +5,21 @@ def addition(a, b):\n        return summation                                    \n                                                                           \n \n-# def subtraction(a, b):     \n+def subtraction(a, b):\n                                                                 \n-#      difference = a - b\n+       difference = a - b\n                                                          \n-#      return difference                                                                          \n+       return difference\n                                                           \n                                                           \n-# def division(a, b):\n+def division(a, b):\n \n-#      quotient = a / b\n+       quotient = a / b\n \n-#      return quotient\n+       return quotient\n \n-# def multiplication(a, b):                                                                       \n+def multiplication(a, b):                                                                         \n                                                                                                   \n-#      product = a * b                                                                            \n+       product = a * b                                                                            \n                                                                                                   \n-#      return product                                                                             \n\\ No newline at end of file                                                                        \n+       return product                                                                             \n\\ No newline at end of file                                                                        \n                                                                                                   \n(1205)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git commit -a -m q\n\n(1205)-(errollloyd)(0.11)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status                                                                                       \nOn branch master\nnothing to commit, working tree clean\n\n(1206)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear                                                                        \n                                                                                                   \n(1207)-(errollloyd)(0.12)                                                                          \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)                                           \n> git status             \nOn branch master                                          \nnothing to commit, working tree clean\n\n(1208)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)  \n> git status                                                                                       \nOn branch master\nUntracked files:                     \n  (use \"git add <file>...\" to include in what will be committed)\n                         \n        my_other_code.py                                \n                                                                               \nnothing added to commit but untracked files present (use \"git add\" to t​‌​\nrack)\n\n(1209)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master %)\n> clear\n\n(1210)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master %)\n> git add my_other_code.py                                                                         \n                \n(1211)-(errollloyd)(0.12)            \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)      \n> git status             \nOn branch master                                        \nChanges to be committed:                                                       \n  (use \"git reset HEAD <file>...\" to unstage)                          \n     \n        new file:   my_other_code.py\n                         \n                                                          \n(1212)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> clear\n                                                          \n(1213)-(errollloyd)(0.12)                                                                          \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> git commit -m 'started other code'                                   \n[master 94e8374] started other code                             \n 1 file changed, 26 insertions(+)\n create mode 100644 my_other_code.py                    \n                                                                               \n(1214)-(errollloyd)(0.12)                                              \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git status                        \nOn branch master         \nnothing to commit, working tree clean                     \n                         \n(1215)-(errollloyd)(0.12)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                                                                                                   \n(1216)-(errollloyd)(0.12)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)               \n> git log                                                       \ncommit 94e8374ad3acd39f08013432ba7afe1641f311e9\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>            \nDate:   Thu Sep 20 12:14:22 2018 +1000                                         \n                                                                       \n    started other code                                  \n                                    \ncommit 02aa486f5ac40c909e5104699907e36f02ca1ea8\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>              \nDate:   Thu Sep 20 11:23:14 2018 +1000\n                                                          \n    Today I wrote an addition function in python        \n       \ncommit f09d34b0131b28bd95c58024ccfd69a6fbcc06ad\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 11:20:09 2018 +1000\n\n                                                                       \n(1217)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                                                        \n(1218)-(errollloyd)(0.12)           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git status                                              \nOn branch master                      \nnothing to commit, working tree clean                     \n                                                        \n(1219)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear                                     \n                                                        \n(1220)-(errollloyd)(0.12)           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git status                                              \nOn branch master                      \nChanges not staged for commit:                            \n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working direct​‌​\nory)                                                    \n                                            \n        modified:   my_code.py        \n        modified:   my_other_code.py\n                                                                       \nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n                                                        \n(1221)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                        \n(1222)-(errollloyd)(0.12)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git commit -a -m ''                                     \n                                                            \n(1222)-(errollloyd)(0.12)                                              \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git add my_code.py                        \n                                      \n(1223)-(errollloyd)(0.12)           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *+)            \n> git status                                                     \nOn branch master                                        \nChanges to be committed: \n  (use \"git reset HEAD <file>...\" to unstage)             \n       \n        modified:   my_code.py\n\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working direct\nory)\n\n        modified:   my_other_code.py\n\n\n(1224)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *+)\n> git commit -m 'added subtraction to my code'                                                     \n[master 9797abd] added subtraction to my code\n 1 file changed, 3 insertions(+), 3 deletions(-)\n\n(1225)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                            \n(1226)-(errollloyd)(0.12)                                              \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status\nOn branch master                    \nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n                                                           \n        modified:   my_other_code.py                                                               \n                                             \nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n\n(1227)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log\ncommit 9797abd6b04255c5f173005801d671d77ea8bf9b\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:18:19 2018 +1000\n\n    added subtraction to my code\n\ncommit 94e8374ad3acd39f08013432ba7afe1641f311e9\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:14:22 2018 +1000\n\n    started other code\n\ncommit 02aa486f5ac40c909e5104699907e36f02ca1ea8\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 11:23:14 2018 +1000\n\n    Today I wrote an addition function in python\n\n                                                                             \n(1228)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                                      \n                                \n(1229)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status                                \nOn branch master                      \nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n                                               \n        modified:   my_other_code.py        \n                                      \nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n                                                \n(1230)-(errollloyd)(0.12)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                   \n> git add my_other_code.py\n                                                          \n(1230)-(errollloyd)(0.12)                                                    \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                          \n(1231)-(errollloyd)(0.12)                   \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git commit -a -m 'first function of other code'                            \n[master cc1067a] first function of other code               \n 1 file changed, 3 insertions(+), 3 deletions(-)                           \n                                               \n(1232)-(errollloyd)(0.12)                   \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear                                                          \n                                                          \n(1233)-(errollloyd)(0.12)                   \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)  \n> git status                                                                                       \nOn branch master                                            \nnothing to commit, working tree clean                                      \n                                               \n(1234)-(errollloyd)(0.13)                   \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear\n                                                                                                   \n(1235)-(errollloyd)(0.13)                                   \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)                   \n> git status                                   \nOn branch master                            \nnothing to commit, working tree clean                   \n       \n(1236)-(errollloyd)(0.13)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear                                                          \n                                                                                                   \n(1237)-(errollloyd)(0.13)                                   \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)                   \n> git status                                   \nOn branch master                            \nChanges not staged for commit:                          \n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directo​‌​\nry)                                                     \n                                                                 \n        modified:   my_code.py                  \n                         \nno changes added to commit (use \"git add\" and/or \"git commit -a\")            \n                          \n(1238)-(errollloyd)(0.13)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                   \n> git diff                                                              \ndiff --git a/my_code.py b/my_code.py\nindex cc88f48..7281da2 100644\n--- a/my_code.py\n+++ b/my_code.py\n@@ -12,14 +12,14 @@ def subtraction(a, b):\n        return difference\n \n \n-# def division(a, b):\n+def division(a, b):\n \n-#      quotient = a / b\n+       quotient = a / b\n \n-#      return quotient\n+       return quotient\n \n-# def multiplication(a, b):\n:                                                                       \ndiff --git a/my_code.py b/my_code.py\nindex cc88f48..7281da2 100644\n--- a/my_code.py                          \n+++ b/my_code.py         \n@@ -12,14 +12,14 @@ def subtraction(a, b):\n        return difference\n                      \n                    \n-# def division(a, b):\n+def division(a, b):    \n                        \n-#      quotient = a / b\n+       quotient = a / b\n                       \n-#      return quotient\n+       return quotient     \n:                                                                       \ndiff --git a/my_code.py b/my_code.py\nindex cc88f48..7281da2 100644\n--- a/my_code.py                          \n+++ b/my_code.py         \n@@ -12,14 +12,14 @@ def subtraction(a, b):\n        return difference\n                      \n                    \ndiff --git a/my_code.py b/my_code.py\nindex cc88f48..7281da2 100644\n--- a/my_code.py\n+++ b/my_code.py\n@@ -12,14 +12,14 @@ def subtraction(a, b):\n        return difference\n \n \n-# def division(a, b):\n+def division(a, b):    \n                        \n-#      quotient = a / b\n+       quotient = a / b\n                       \n-#      return quotient\n+       return quotient     \n                                                                        \n-# def multiplication(a, b):\n+def multiplication(a, b):                                              \n                                                                        \n-#      product = a * b                                                 \n+       product = a * b                                                 \n                                                                        \n-#      return product                                                  \n\\ No newline at end of file                                             \n                                                                        \n(1239)-(errollloyd)(0.13)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                        \n(1240)-(errollloyd)(0.13)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git add -i                                                                                       \n           staged     unstaged path\n  1:    unchanged        +6/-6 my_code.py                               \n                            \n*** Commands ***                                                        \n  1: status       2: update       3: revert       4: add untracked      \n  5: patch        6: diff         7: quit         8: help               \nWhat now> s                                                             \n           staged     unstaged path                                     \n  1:    unchanged        +6/-6 my_code.py                               \n                                                                        \n*** Commands ***                                                        \n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help \nWhat now> d\n*** Commands ***\n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help\nWhat now> s\n           staged     unstaged path\n  1:    unchanged        +6/-6 my_code.py\n\n*** Commands ***\n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help\nWhat now> 1\n           staged     unstaged path\n  1:    unchanged        +6/-6 my_code.py\n\n*** Commands ***\n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help\nWhat now> s\n           staged     unstaged path\n  1:    unchanged        +6/-6 my_code.py\n\n*** Commands ***\n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help\nWhat now> 1\n           staged     unstaged path\n  1:    unchanged        +6/-6 my_code.py\n\n*** Commands ***\n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help\nWhat now> 1\n           staged     unstaged path\n  1:    unchanged        +6/-6 my_code.py\n\n*** Commands ***\n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help\nWhat now> p\n           staged     unstaged path\n  1:    unchanged        +6/-6 my_code.py\nPatch update>> 1\n           staged     unstaged path\n* 1:    unchanged        +6/-6 my_code.py\nPatch update>> \ndiff --git a/my_code.py b/my_code.py\nindex cc88f48..7281da2 100644\n--- a/my_code.py\n+++ b/my_code.py\n@@ -12,14 +12,14 @@ def subtraction(a, b):\n        return difference\n \n \n-# def division(a, b):\n+def division(a, b):\n \n-#      quotient = a / b\n+       quotient = a / b\n \n-#      return quotient\n+       return quotient\n \n-# def multiplication(a, b):\n+def multiplication(a, b):\n \n-#      product = a * b\n+       product = a * b\n \n-#      return product\n\\ No newline at end of file\n+       return product\nStage this hunk [y,n,q,a,d,/,s,e,?]? ?\ny - stage this hunk\nn - do not stage this hunk\nq - quit; do not stage this hunk or any of the remaining ones\na - stage this hunk and all later hunks in the file\nd - do not stage this hunk or any of the later hunks in the file\ng - select a hunk to go to\n/ - search for a hunk matching the given regex\nj - leave this hunk undecided, see next undecided hunk\nJ - leave this hunk undecided, see next hunk\nk - leave this hunk undecided, see previous undecided hunk\nK - leave this hunk undecided, see previous hunk\ns - split the current hunk into smaller hunks\ne - manually edit the current hunk\n? - print help\n@@ -12,14 +12,14 @@ def subtraction(a, b):\n        return difference\n \n \n-# def division(a, b):\n+def division(a, b):\n \n-#      quotient = a / b\n+       quotient = a / b\n \n-#      return quotient\n+       return quotient\n \n-# def multiplication(a, b):\n+def multiplication(a, b):\n \n-#      product = a * b\n+       product = a * b\n \n-#      return product\n\\ No newline at end of file\n+       return product\nStage this hunk [y,n,q,a,d,/,s,e,?]? s\nSplit into 6 hunks.\n@@ -12,5 +12,5 @@\n        return difference\n \n \n-# def division(a, b):\n+def division(a, b):\n \nStage this hunk [y,n,q,a,d,/,j,J,g,e,?]? y\n@@ -16,3 +16,3 @@\n \n-#      quotient = a / b\n+       quotient = a / b\n \nStage this hunk [y,n,q,a,d,/,K,j,J,g,e,?]? y\n@@ -18,3 +18,3 @@\n \n-#      return quotient\n+       return quotient\n \nStage this hunk [y,n,q,a,d,/,K,j,J,g,e,?]? y\n@@ -20,3 +20,3 @@\n \n-# def multiplication(a, b):\n+def multiplication(a, b):\n \nStage this hunk [y,n,q,a,d,/,K,j,J,g,e,?]? ?\ny - stage this hunk\nn - do not stage this hunk\nq - quit; do not stage this hunk or any of the remaining ones\na - stage this hunk and all later hunks in the file\nd - do not stage this hunk or any of the later hunks in the file\ng - select a hunk to go to\n/ - search for a hunk matching the given regex\nj - leave this hunk undecided, see next undecided hunk\nJ - leave this hunk undecided, see next hunk\nk - leave this hunk undecided, see previous undecided hunk\nK - leave this hunk undecided, see previous hunk\ns - split the current hunk into smaller hunks\ne - manually edit the current hunk\n? - print help\n@@ -20,3 +20,3 @@\n \n-# def multiplication(a, b):\n+def multiplication(a, b):\n \nStage this hunk [y,n,q,a,d,/,K,j,J,g,e,?]? q\n\n*** Commands ***\n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help\nWhat now> s\n           staged     unstaged path\n  1:        +3/-3        +3/-3 my_code.py\n\n*** Commands ***\n  1: status       2: update       3: revert       4: add untracked\n  5: patch        6: diff         7: quit         8: help\nWhat now> q\nBye.\n\n(1241)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *+)\n> git status                                                                                       \nOn branch master\nChanges to be committed:\n  (use \"git reset HEAD <file>...\" to unstage)\n\n        modified:   my_code.py\n\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n\n        modified:   my_code.py\n\n\n(1242)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *+)\n> git commit -m 'just one function'\n[master 73599f5] just one function\n 1 file changed, 3 insertions(+), 3 deletions(-)\n\n(1243)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n    \n(1244)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status                                               \nOn branch master                                                                                   \nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n\n        modified:   my_code.py\n\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n                                                            \n(1245)-(errollloyd)(0.14)                                                  \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git diff                    \ndiff --git a/my_code.py b/my_code.py\nindex 4e54d66..7281da2 100644\n--- a/my_code.py         \n+++ b/my_code.py                                           \n@@ -18,8 +18,8 @@ def division(a, b):\n                                  \n        return quotient                         \n \n-# def multiplication(a, b):\n+def multiplication(a, b):                                \n       \n-#      product = a * b\n+       product = a * b\n \n-#      return product\n\\ No newline at end of file\n+       return product\n                                                                                                   \n(1246)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                                                  \n                       \n(1247)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log                                                                     \ncommit 73599f5996daf76da5dbc477812fe9328390ff5d\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>                                                       \nDate:   Thu Sep 20 12:43:30 2018 +1000\n                                                          \n    just one function                                                                    \n\ncommit cc1067ac85425769750c7a64529fb9d7e6a5ac2d\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:19:14 2018 +1000\n\n    first function of other code\n\ncommit 9797abd6b04255c5f173005801d671d77ea8bf9b\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:18:19 2018 +1000\n\n    added subtraction to my code\n                                                                              \n(1248)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                                       \n                                                          \n(1249)-(errollloyd)(0.14)                                                                \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline                            \n73599f5 just one function                   \ncc1067a first function of other code  \n9797abd added subtraction to my code\n94e8374 started other code      \n02aa486 Today I wrote an addition function in python\nf09d34b starting my code file                  \n                                                                              \n(1250)-(errollloyd)(0.14)             \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> ls                            \nmy_code.py       my_other_code.py                                             \n                         \n(1251)-(errollloyd)(0.14)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                    \n> clear\n                                                                                         \n(1252)-(errollloyd)(0.14)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log my_other_code.py                  \ncommit cc1067ac85425769750c7a64529fb9d7e6a5ac2d\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:19:14 2018 +1000\n                                                    \n    first function of other code               \n                                                                              \ncommit 94e8374ad3acd39f08013432ba7afe1641f311e9\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>              \nDate:   Thu Sep 20 12:14:22 2018 +1000\n                                                                              \n    started other code   \n                                                                              \n(1253)-(errollloyd)(0.14)                                                     \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                          \n(1254)-(errollloyd)(0.14)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline my_other_code.py           \ncc1067a first function of other code        \n94e8374 started other code            \n                                                                              \n(1255)-(errollloyd)(0.14)                      \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                    \n> git show 94e8374                             \ncommit 94e8374ad3acd39f08013432ba7afe1641f311e9           \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:14:22 2018 +1000                                        \n                         \n    started other code                                                        \n                                                                              \ndiff --git a/my_other_code.py b/my_other_code.py          \nnew file mode 100644\nindex 0000000..afb5550\n--- /dev/null\n+++ b/my_other_code.py\n@@ -0,0 +1,26 @@\n+# def bad_addition(a, b):\n+\n+#      summation = a + b + 0.002\n+\n+#      return summation\n+\n+                                                                             \n+# def bad_subtraction(a, b):                                                 \n+                                                                             \n+#      difference = a - b + 7                                                \n+                                                                             \n+#      return difference                                                     \n+                                                                             \n+                                                                             \n+# def bad_division(a, b):                                                    \n+                                                                             \n+#      quotient = (a+13) / b                                                 \n+                                                                             \n+#      return quotient                                                       \n+                                                                             \n+                                                                             \n+# def bad_multiplication(a, b):                                              \n+                                                                             \n+#      product = a * b + 12                                                  \n+                                                                             \n+#      return product                                                        \n                                                                              \n(1256)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline\n73599f5 just one function\ncc1067a first function of other code\n9797abd added subtraction to my code\n94e8374 started other code\n02aa486 Today I wrote an addition function in python\nf09d34b starting my code file\n                                                                              \n(1257)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline my_other_code.py\ncc1067a first function of other code\n94e8374 started other code\n                                                                              \n(1258)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git diff 94e8374 cc1067a\ndiff --git a/my_code.py b/my_code.py\nindex 7bb4729..cc88f48 100644\n--- a/my_code.py\n+++ b/my_code.py\n@@ -5,11 +5,11 @@ def addition(a, b):\n        return summation\n \n \n-# def subtraction(a, b):\n+def subtraction(a, b):\n \n-#      difference = a - b\n+       difference = a - b\n \n-#      return difference\n+       return difference\n \n+def subtraction(a, b):\n \n-#      difference = a - b\n+       difference = a - b\n \n-#      return difference\n+       return difference\n \n \n # def division(a, b):                                                        \ndiff --git a/my_other_code.py b/my_other_code.py                              \nindex afb5550..c28a678 100644                                                 \n--- a/my_other_code.py                                                        \n+++ b/my_other_code.py                                                        \n@@ -1,8 +1,8 @@                                                               \n-# def bad_addition(a, b):                                                    \n+def bad_addition(a, b):                                                      \n                                                                              \n                                                                              \n(1259)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n \n(1260)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline\n73599f5 just one function\ncc1067a first function of other code                                          \n9797abd added subtraction to my code                                          \n94e8374 started other code                                                    \n02aa486 Today I wrote an addition function in python                          \nf09d34b starting my code file                                                 \n                                                                              \n(1261)-(errollloyd)(0.14)                                                     \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                    \n> git show 94e8374                                                            \ncommit 94e8374ad3acd39f08013432ba7afe1641f311e9                               \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:14:22 2018 +1000                    \n       \n    started other code\n\ndiff --git a/my_other_code.py b/my_other_code.py\nnew file mode 100644\nindex 0000000..afb5550\n--- /dev/null\n+++ b/my_other_code.py\n@@ -0,0 +1,26 @@\n+# def bad_addition(a, b):\n+\n+#      summation = a + b + 0.002\n+\n+#      return summation\n+\n+                                                                             \n+# def bad_subtraction(a, b):                                                 \n+                                                                             \n+#      difference = a - b + 7                                                \n+                                                                             \n+#      return difference                                                     \n+                                                                             \n+                                                                             \n+# def bad_division(a, b):                                                    \n+                                                                             \n+#      quotient = (a+13) / b                                                 \n+                                                                             \n+#      return quotient                                                       \n                                                                              \n(1262)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n \n(1263)-(errollloyd)(0.14)                                                     \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                    \n> git log --oneline --stat                                                    \n73599f5 just one function                                                     \n my_code.py | 6 +++---                                                        \n 1 file changed, 3 insertions(+), 3 deletions(-)                              \ncc1067a first function of other code                                          \n my_other_code.py | 6 +++---                                                  \n 1 file changed, 3 insertions(+), 3 deletions(-)                              \n9797abd added subtraction to my code                                          \n my_code.py | 6 +++---                                                        \n 1 file changed, 3 insertions(+), 3 deletions(-)                              \n94e8374 started other code                                                    \n my_other_code.py | 26 ++++++++++++++++++++++++++                             \n 1 file changed, 26 insertions(+)\n02aa486 Today I wrote an addition function in python      \n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\nf09d34b starting my code file\n my_code.py | 25 +++++++++++++++++++++++++\n 1 file changed, 25 insertions(+)\n                                                                              \n(1264)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                                              \n(1265)-(errollloyd)(0.14)                                                     \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                    \n> git log --oneline --stat -n 3                                               \n73599f5 just one function                                                     \n my_code.py | 6 +++---                                                        \n 1 file changed, 3 insertions(+), 3 deletions(-)                              \ncc1067a first function of other code\n my_other_code.py | 6 +++---                              \n 1 file changed, 3 insertions(+), 3 deletions(-)\n9797abd added subtraction to my code            \n my_code.py | 6 +++---       \n 1 file changed, 3 insertions(+), 3 deletions(-)\n                                                                              \n(1266)-(errollloyd)(0.14)                                                     \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                   \n                                                                              \n(1267)-(errollloyd)(0.14)                                                     \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                    \n> git log --oneline --stat -n 3                                               \n                                                                              \n(1267)-(errollloyd)(0.14)                                                     \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                    \n> git lg                            \n73599f5 2018-09-20 Errol Lloyd (HEAD -> master) just one function\ncc1067a 2018-09-20 Errol Lloyd first function of other code\n9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n94e8374 2018-09-20 Errol Lloyd started other code\n02aa486 2018-09-20 Errol Lloyd Today I wrote an addition function in python\nf09d34b 2018-09-20 Errol Lloyd starting my code file                          \n                                                                              \n(1268)-(errollloyd)(0.14)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git lga\n* 73599f5 2018-09-20 Errol Lloyd (HEAD -> master) just one function\n* cc1067a 2018-09-20 Errol Lloyd first function of other code\n* 9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n* 94e8374 2018-09-20 Errol Lloyd started other code\n* 02aa486 2018-09-20 Errol Lloyd Today I wrote an addition function in python\n* f09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                              \n(1269)-(errollloyd)(0.14)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                           \n(1270)-(errollloyd)(0.14)                        \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                 \n> git alias                                                                   \nalias.root rev-parse --show-toplevel                                          \nalias.lg log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Creset\n%s' --date=short                                          \nalias.lga log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Crese\nt%s' --date=short --all --graph                                    \nalias.alias config --global --get-regexp alias               \n                                                             \n(1271)-(errollloyd)(0.14)                          \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                   \n> git log --oneline --stat -n 3                                                        \n73599f5 just one function                                                     \n my_code.py | 6 +++---   \n 1 file changed, 3 insertions(+), 3 deletions(-)          \ncc1067a first function of other code\n my_other_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n9797abd added subtraction to my code\n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n                                                                                       \n(1272)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git config --global alias.quick_log \"log --oneline --stat -n 3\"\nerror: invalid key: alias.quick_log\n\n(1273)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git config --global alias.qlog \"log --oneline --stat -n 3\"                           \n\n(1274)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git qlog\n73599f5 just one function\n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\ncc1067a first function of other code\n my_other_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n9797abd added subtraction to my code\n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n                                                                                       \n(1275)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                                                       \n(1276)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git alias                                                                            \nalias.root rev-parse --show-toplevel\nalias.lg log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Creset%s' --dat​‌​\ne=short               \nalias.lga log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Creset%s' --da​‌​\nte=short --all --graph              \nalias.alias config --global --get-regexp alias\nalias.qlog log --oneline --stat -n 3            \n                                    \n(1277)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git root                                                                             \n/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo\n                                                          \n(1278)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                          \n(1279)-(errollloyd)(0.15)                                                              \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status                                                                           \nOn branch master      \nChanges not staged for commit:                                                         \n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n                                                \n        modified:   my_code.py      \n                         \nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n                                                                                       \n(1280)-(errollloyd)(0.15)                                             \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git diff               \ndiff --git a/my_code.py b/my_code.py                      \nindex 4e54d66..7281da2 100644\n--- a/my_code.py\n+++ b/my_code.py\n@@ -18,8 +18,8 @@ def division(a, b):\n \n        return quotient\n \n-# def multiplication(a, b):\n+def multiplication(a, b):\n \n-#      product = a * b\n+       product = a * b\n \n-#      return product\n\\ No newline at end of file\n+       return product\n                                                                                       \n(1281)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                \n(1282)-(errollloyd)(0.15)            \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline    \n73599f5 just one function\ncc1067a first function of other code\n9797abd added subtraction to my code\n94e8374 started other code\n02aa486 Today I wrote an addition function in python\nf09d34b starting my code file\n                                                                                       \n(1283)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline --since \"5 minutes ago\"\n                                                                                       \n(1284)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline --since \"50 minutes ago\"                                            \n73599f5 just one function\ncc1067a first function of other code\n9797abd added subtraction to my code\n94e8374 started other code\n                                                                                       \n(1285)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline --since \"5 minutes ago\"                                             \n                                                                                       \n(1286)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline --since \"15 minutes ago\"                                            \n                                                                                       \n(1287)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --oneline --since \"30 minutes ago\"                                            \n73599f5 just one function\n                                                                                       \n(1288)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                          \n(1289)-(errollloyd)(0.15)                                                              \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git qlog                                                                             \n73599f5 just one function                                                               \n my_code.py | 6 +++---                                                                 \n 1 file changed, 3 insertions(+), 3 deletions(-)\ncc1067a first function of other code                      \n my_other_code.py | 6 +++---                                                            \n 1 file changed, 3 insertions(+), 3 deletions(-)                                       \n9797abd added subtraction to my code\n my_code.py | 6 +++---                                    \n 1 file changed, 3 insertions(+), 3 deletions(-)                                        \n                                                                                       \n(1290)-(errollloyd)(0.15)                                                              \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git qlog --since \"1 hour ago\"                           \n73599f5 just one function\n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\ncc1067a first function of other code\n my_other_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n9797abd added subtraction to my code\n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n                                                                                       \n(1291)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git qlog --since \"40 minutes ago\"                                                    \n73599f5 just one function\n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n                                                                                       \n(1292)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                \n(1293)-(errollloyd)(0.15)           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git lg                                                                               \n73599f5 2018-09-20 Errol Lloyd (HEAD -> master) just one function\ncc1067a 2018-09-20 Errol Lloyd first function of other code\n9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n94e8374 2018-09-20 Errol Lloyd started other code                                      \n02aa486 2018-09-20 Errol Lloyd Today I wrote an addition function in python\nf09d34b 2018-09-20 Errol Lloyd starting my code file      \n                                                                                       \n(1294)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                         \n                                                \n(1295)-(errollloyd)(0.15)           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log --grep \"subtract\"                                                            \ncommit 9797abd6b04255c5f173005801d671d77ea8bf9b                  \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>               \nDate:   Thu Sep 20 12:18:19 2018 +1000                     \n                                                                                       \n    added subtraction to my code                                           \n                                                                                       \n(1296)-(errollloyd)(0.15)                                                              \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                   \n                                                \n(1297)-(errollloyd)(0.15)           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git log -G \"subtraction\"                                                             \ncommit 9797abd6b04255c5f173005801d671d77ea8bf9b                  \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>               \nDate:   Thu Sep 20 12:18:19 2018 +1000                     \n                                                                                       \n    added subtraction to my code                                           \n                                                                                       \ncommit 94e8374ad3acd39f08013432ba7afe1641f311e9                                        \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>              \nDate:   Thu Sep 20 12:14:22 2018 +1000                    \n                                                \n    started other code                                                                 \n                         \ncommit f09d34b0131b28bd95c58024ccfd69a6fbcc06ad           \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 11:20:09 2018 +1000\n\n    starting my code file\n                                                                                       \n(1298)-(errollloyd)(0.15)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                                                \n                                                                                       \n(1299)-(errollloyd)(0.15)                                                  \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                             \n> git log -L                                                                           \n                                                          \n(1299)-(errollloyd)(0.15)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                                                \n                                                                                       \n(1300)-(errollloyd)(0.15)                                                  \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                             \n> git help log                                                                         \n                                                          \n(1301)-(errollloyd)(0.15)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status                                                                                       \nOn branch master         \nChanges not staged for commit:                            \n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n\n        modified:   my_code.py\n                                                                                       \nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n                                                          \n(1302)-(errollloyd)(0.16)                                                              \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear                                                                                            \n                                                                                                   \n(1303)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git lg                                                    \n73599f5 2018-09-20 Errol Lloyd (HEAD -> master) just one function          \ncc1067a 2018-09-20 Errol Lloyd first function of other code\n9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n94e8374 2018-09-20 Errol Lloyd started other code                                      \n02aa486 2018-09-20 Errol Lloyd Today I wrote an addition function in python\nf09d34b 2018-09-20 Errol Lloyd starting my code file      \n                                                                                                   \n(1304)-(errollloyd)(0.16)                                 \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                                         \n> git branch first_branch                                                                          \n\n(1305)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git branch\n  first_branch\n* master\n\n(1306)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                                                       \n(1307)-(errollloyd)(0.16)                                                  \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git branch                                                                                       \n  first_branch                                            \n* master                                                                                           \n                                                                                                   \n(1308)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git checkout first_branch                               \nM       my_code.py\nSwitched to branch 'first_branch'\n        \n(1309)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(first_branch *)\n> git status                                              \nOn branch first_branch\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n\n        modified:   my_code.py\n\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n\n(1310)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(first_branch *)\n> git lg\n73599f5 2018-09-20 Errol Lloyd (HEAD -> first_branch, master) just one function\ncc1067a 2018-09-20 Errol Lloyd first function of other code\n9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n94e8374 2018-09-20 Errol Lloyd started other code\n02aa486 2018-09-20 Errol Lloyd Today I wrote an addition function in python\nf09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                                                   \n(1311)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(first_branch *)\n> clear\n                              \n(1312)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(first_branch *) \n> git branch\n* first_branch           \n  master                                                        \n        \n(1313)-(errollloyd)(0.16)                                                      \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(first_branch *)\n> git checkout master                                      \nM       my_code.py                               \nSwitched to branch 'master'                                                \n                                                    \n(1314)-(errollloyd)(0.16)                                                                          \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git status                                                    \nOn branch master\nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)\n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n\n        modified:   my_code.py\n\nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n\n(1315)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> clear\n                                                                           \n(1316)-(errollloyd)(0.16)                           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                                         \n> git branch                                                                                       \n  first_branch                                                  \n* master        \n                              \n(1317)-(errollloyd)(0.16)                                   \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)                 \n> git status\nOn branch master              \nChanges not staged for commit:\n  (use \"git add <file>...\" to update what will be committed)     \n  (use \"git checkout -- <file>...\" to discard changes in working directory)\n                         \n        modified:   my_code.py                            \n       \nno changes added to commit (use \"git add\" and/or \"git commit -a\")\n\n(1318)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git diff\ndiff --git a/my_code.py b/my_code.py\nindex 4e54d66..7281da2 100644\n--- a/my_code.py\n+++ b/my_code.py\n@@ -18,8 +18,8 @@ def division(a, b):\n \n        return quotient\n \n-# def multiplication(a, b):\n+def multiplication(a, b):\n \n-#      product = a * b\n+       product = a * b\n \n-#      return product\n\\ No newline at end of file\n+       return product\n                                                                                                   \n(1319)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master *)\n> git commit -a -m 'multiplication'                                                                \n[master 6c5dcbb] multiplication\n 1 file changed, 3 insertions(+), 3 deletions(-)\n\n(1320)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git lg\n6c5dcbb 2018-09-20 Errol Lloyd (HEAD -> master) multiplication\n73599f5 2018-09-20 Errol Lloyd (first_branch) just one function\ncc1067a 2018-09-20 Errol Lloyd first function of other code\n9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n94e8374 2018-09-20 Errol Lloyd started other code\n02aa486 2018-09-20 Errol Lloyd Today I wrote an addition function in python\nf09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                                                   \n(1321)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> clear                                                                             \n                               \n(1322)-(errollloyd)(0.16)                       \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git checkout first_branch                                                 \nSwitched to branch 'first_branch'                       \n        \n(1323)-(errollloyd)(0.16)                                     \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(first_branch) \n> git lg                                                   \n73599f5 2018-09-20 Errol Lloyd (HEAD -> first_branch) just one function\ncc1067a 2018-09-20 Errol Lloyd first function of other code\n9797abd 2018-09-20 Errol Lloyd added subtraction to my code                \n94e8374 2018-09-20 Errol Lloyd started other code   \n02aa486 2018-09-20 Errol Lloyd Today I wrote an addition function in python                        \nf09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                            \n(1324)-(errollloyd)(0.16)                                                           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(first_branch)\n> git checkout 02aa486                                                 \nNote: checking out '02aa486'.\n\nYou are in 'detached HEAD' state. You can look around, make experi​‌​\nmental\nchanges and commit them, and you can discard any commits you make ​‌​\nin this\nstate without impacting any branches by performing another checkou​‌​\nt.\n\nIf you want to create a new branch to retain commits you create, y​‌​\nou may\ndo so (now or later) by using -b with the checkout command again. ​‌​\nExample:\n\n  git checkout -b <new-branch-name>\n\nHEAD is now at 02aa486... Today I wrote an addition function in py​‌​\nthon\n\n(1325)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)((02aa486...))\n> git checkout first_branch \nPrevious HEAD position was 02aa486... Today I wrote an addition fu​‌​\nnction in python\nSwitched to branch 'first_branch'\n\n(1326)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(first_branch)\n> git checkout 02aa486                                            \nNote: checking out '02aa486'.\n\nYou are in 'detached HEAD' state. You can look around, make experi​‌​\nmental\nchanges and commit them, and you can discard any commits you make ​‌​\nin this\nstate without impacting any branches by performing another checkou​‌​\nt.\n\nIf you want to create a new branch to retain commits you create, y​‌​\nou may\ndo so (now or later) by using -b with the checkout command again. ​‌​\nExample:\n\n  git checkout -b <new-branch-name>\n\nHEAD is now at 02aa486... Today I wrote an addition function in py​‌​\nthon\n\n(1327)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)((02aa486...))\n> git branch restart\n\n(1328)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)((02aa486...))\n> git checkout restart\nSwitched to branch 'restart'\n\n(1329)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git branch\n  first_branch\n  master\n* restart\n\n(1330)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> clear\n                    \n(1331)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git lg                                                      \n02aa486 2018-09-20 Errol Lloyd (HEAD -> restart) Today I wrote an ​‌​\naddition function in python \nf09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                  \n(1332)-(errollloyd)(0.16)                                \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git lga     \n* 6c5dcbb 2018-09-20 Errol Lloyd (master) multiplication\n* 73599f5 2018-09-20 Errol Lloyd (first_branch) just one function\n* cc1067a 2018-09-20 Errol Lloyd first function of other code\n* 9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n* 94e8374 2018-09-20 Errol Lloyd started other code      \n* 02aa486 2018-09-20 Errol Lloyd (HEAD -> restart) Today I wrote a​‌​\nn addition function in python\n* f09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                  \n(1333)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git lg\n02aa486 2018-09-20 Errol Lloyd (HEAD -> restart) Today I wrote an ​‌​\naddition function in python\nf09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                  \n(1334)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> clear\n                                                             \n(1335)-(errollloyd)(0.16)                                    \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git lga                                                         \n* 6c5dcbb 2018-09-20 Errol Lloyd (master) multiplication\n* 73599f5 2018-09-20 Errol Lloyd (first_branch) just one function\n* cc1067a 2018-09-20 Errol Lloyd first function of other code     \n* 9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n* 94e8374 2018-09-20 Errol Lloyd started other code      \n* 02aa486 2018-09-20 Errol Lloyd (HEAD -> restart) Today I wrote a​‌​\nn addition function in python                                     \n* f09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                  \n(1336)-(errollloyd)(0.16)                                         \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git lg                                                 \n02aa486 2018-09-20 Errol Lloyd (HEAD -> restart) Today I wrote an ​‌​\naddition function in python\nf09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                  \n(1337)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> clear\n                                                                  \n(1338)-(errollloyd)(0.16)                                    \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git log --oneline --all                                         \n6c5dcbb multiplication                                            \n73599f5 just one function                             \ncc1067a first function of other code                              \n9797abd added subtraction to my code                              \n94e8374 started other code                               \n02aa486 Today I wrote an addition function in python     \nf09d34b starting my code file                                     \n                                                                  \n(1339)-(errollloyd)(0.16)                           \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)         \n> git log --all                                                   \ncommit 6c5dcbb2571dd460423bb3d928b2ccd053e2f646          \nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 13:16:08 2018 +1000\n\n    multiplication\n\ncommit 73599f5996daf76da5dbc477812fe9328390ff5d\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:43:30 2018 +1000\n\n    just one function\n\ncommit cc1067ac85425769750c7a64529fb9d7e6a5ac2d\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:19:14 2018 +1000\n\n    first function of other code\n                                                                  \n(1340)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> clear\n                  \n(1341)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git log --all                             \ncommit 6c5dcbb2571dd460423bb3d928b2ccd053e2f646\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 13:16:08 2018 +1000\n\n    multiplication                             \n                                            \ncommit 73599f5996daf76da5dbc477812fe9328390ff5d\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:43:30 2018 +1000\n                                                                  \n    just one function    \n                                                         \ncommit cc1067ac85425769750c7a64529fb9d7e6a5ac2d\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:19:14 2018 +1000\n\n    first function of other code\n                                                                  \n(1342)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git log --all --stat\ncommit 6c5dcbb2571dd460423bb3d928b2ccd053e2f646\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 13:16:08 2018 +1000\n\n    multiplication\n\n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n\ncommit 73599f5996daf76da5dbc477812fe9328390ff5d\nAuthor: Errol Lloyd <errolkjlloyd@gmail.com>\nDate:   Thu Sep 20 12:43:30 2018 +1000\n\n    just one function\n\n my_code.py | 6 +++---\n 1 file changed, 3 insertions(+), 3 deletions(-)\n                                                                  \n(1343)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> clear\n                  \n(1344)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git branch master                             \nfatal: A branch named 'master' already exists.\n                                               \n(1345)-(errollloyd)(0.16)                   \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(restart)\n> git checkout master\nSwitched to branch 'master'\n\n(1346)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git lg                                                          \n6c5dcbb 2018-09-20 Errol Lloyd (HEAD -> master) multiplication\n73599f5 2018-09-20 Errol Lloyd (first_branch) just one function\ncc1067a 2018-09-20 Errol Lloyd first function of other code\n9797abd 2018-09-20 Errol Lloyd added subtraction to my code\n94e8374 2018-09-20 Errol Lloyd started other code\n02aa486 2018-09-20 Errol Lloyd (restart) Today I wrote an addition​‌​\n function in python\nf09d34b 2018-09-20 Errol Lloyd starting my code file\n                                                                  \n(1347)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master)\n> git checkout 94e8374 my_code.py\n\n(1348)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> git status\nOn branch master\nChanges to be committed:\n  (use \"git reset HEAD <file>...\" to unstage)\n\n        modified:   my_code.py\n\n\n(1349)-(errollloyd)(0.16)\n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> clear\n                         \n(1350)-(errollloyd)(0.17)                               \n(~/Science/ResBaz/git/command_line_MU_sept/demo)(master +)\n> ",
+			"settings":
+			{
+				"buffer_size": 128242,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/command_line_materials.md",
+			"settings":
+			{
+				"buffer_size": 9421,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo/my_other_code.py",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj man ",
+				"Project Manager: Add New Project"
+			],
+			[
+				"UI",
+				"UI: Select Theme"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"pack co in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack cont rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack con en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack con ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack co dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"col hi",
+				"Color Highlight: Restore Color Scheme"
+			],
+			[
+				"pref",
+				"Preferences: Color Highlight Settings"
+			],
+			[
+				"pack co li",
+				"Package Control: List Packages"
+			],
+			[
+				"pref col",
+				"Preferences: Color Highlight Settings"
+			],
+			[
+				"pref col hi",
+				"Preferences: Color Highlight Settings"
+			],
+			[
+				"col hi rest",
+				"Color Highlight: Restore Color Scheme"
+			],
+			[
+				"col h rest",
+				"Color Highlight: Restore Color Scheme"
+			],
+			[
+				"col highlight",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"pack co ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"color hi",
+				"Color Highlight: Enable Color Highlighting"
+			],
+			[
+				"pack co ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pref pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"pack co l",
+				"Package Control: List Packages"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"commit h",
+				"Git: Commit history"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git stats",
+				"Git: Status"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git ann",
+				"Git: Toggle Annotations"
+			],
+			[
+				"git",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"git l",
+				"Git: Log All"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack co i",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Generate User Theme"
+			],
+			[
+				"task",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"mark pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark TO",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"TOC",
+				"MarkdownTOC:Update TOC"
+			],
+			[
+				"markdown p",
+				"MarkdownTOC:Update TOC"
+			],
+			[
+				"markdown",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"task vi ",
+				"Tasks: View as HTML"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"disc",
+				"Package Control: Discover Packages"
+			],
+			[
+				"project op",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"gitg",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"preiew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prevew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"packager",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 242.0,
+		"history":
+		[
+			"view.__dir__()",
+			"view.dir()",
+			"view.__dir__",
+			"view",
+			"dir()",
+			"quit()",
+			"m.sin()",
+			"import math as m",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/my_other_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/command_line_play/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/webpage/intro-git-workshop/README.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/git-Commands-Cheat-Sheet/_config.yml",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/git_command_line_cheat_sheet.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/helpers",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials_plan.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/sept_oct_plan.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_great_rap/rap_lyrics.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/todo.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/test2.css",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/test.css",
+		"/Users/errollloyd/Desktop/colhilighterSettings.json",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/test.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_great_rap/test.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/old/command_line/my_other_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/old/command_line/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/git-Commands-Cheat-Sheet/index.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/introduction/git_workshop_introduction.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Terminus/Terminus.sublime-color-scheme",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Terminus/Terminus.sublime-color-scheme",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/rap_lyrics.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_great_rap/my_other_rap.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/Gallery/heart.js",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/Gallery/index.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/workshop_materials.todo",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_awesome_rap/rap_lyrics.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_awesome_rap/new file",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/rap_lyrics.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/proto_rap/rap_lyrics.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/git-Commands-Cheat-Sheet/readme.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/rap_lyrics.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/materials/my_other_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line/new_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line/my_other_code.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownTOC.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownPreview/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/git_workshop_introduction.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/CLI_proto/challenge/my_other_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/CLI_proto/challenge/my_code.py",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_rap/rap_lyrics.md",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/my_code.py",
+		"/Users/errollloyd/.gitconfig",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/git/notes.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/GitGutter/Preferences.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.pdf",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Python/Snippets/for.sublime-snippet",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.log",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp2/general_thoughts.md"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			", "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/my_code.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"line_numbers": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo/my_code.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128242,
+								128242
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"caret_style": "blink",
+							"color_scheme": "Terminus.sublime-color-scheme",
+							"default_dir": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus.highlight_counter": 11705,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"cwd": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1"
+								},
+								"panel_name": null,
+								"tag": null,
+								"title": "Login Shell"
+							},
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 77836.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/command_line_materials.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5694,
+								5694
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1327,
+								"count": 1382,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 262,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"line_numbers": false,
+							"parser": "markdown",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"target": "disk",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6221.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/Users/errollloyd/Dropbox/Science/ResBaz/git/command_line_MU_sept/demo/my_other_code.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				3
+			],
+			[
+				0,
+				2,
+				1,
+				3
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.39042561849,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.592552806713,
+			0.95,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "command_line_MU_sept.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git-Comm",
+				"git-Commands-Cheat-Sheet/index.md"
+			],
+			[
+				"todo",
+				"~/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo"
+			],
+			[
+				"che",
+				"git_command_line_cheat_sheet.md"
+			],
+			[
+				"ra",
+				"rap_lyrics.md"
+			],
+			[
+				"other",
+				"materials/my_other_code.py"
+			],
+			[
+				"code",
+				"materials/my_other_code.py"
+			],
+			[
+				"co",
+				"my_code.py"
+			],
+			[
+				"note",
+				"notes.md"
+			],
+			[
+				"no",
+				"notes.md"
+			],
+			[
+				"cheat",
+				"git_command_line_cheat_sheet.md"
+			],
+			[
+				"my",
+				"my_code.py"
+			],
+			[
+				"in",
+				"plast_v1_paper/vc_intro.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 149.0,
+		"last_filter": "att",
+		"selected_items":
+		[
+			[
+				"att",
+				"attention"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

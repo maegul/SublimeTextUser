@@ -1,0 +1,2412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hi",
+				"highCard\tfunction"
+			],
+			[
+				"ran",
+				"rankValue\tstatement"
+			],
+			[
+				"ra",
+				"rankValue\tstatement"
+			],
+			[
+				"coll",
+				"collections\tmodule"
+			],
+			[
+				"ha",
+				"handRank\tstatement"
+			],
+			[
+				"st",
+				"straight"
+			],
+			[
+				"stra",
+				"straightFlush"
+			],
+			[
+				"high_c",
+				"high_cnt_n"
+			],
+			[
+				"gen",
+				"genCollatzCntRecursive\tfunction"
+			],
+			[
+				"genC",
+				"genCollatzCnt\tfunction"
+			],
+			[
+				"dig_sum",
+				"dig_sum_pow\tstatement"
+			],
+			[
+				"dig",
+				"dig_sum_pow_ord\tstatement"
+			],
+			[
+				"flip",
+				"flipud\tfunction"
+			],
+			[
+				"diag",
+				"diag_up_st"
+			],
+			[
+				"high",
+				"highest_prod_metadata\tstatement"
+			],
+			[
+				"iRa",
+				"iRangeLen\tstatement"
+			],
+			[
+				"iR",
+				"iRangeLen\tstatement"
+			],
+			[
+				"prim",
+				"primeFactors\tfunction"
+			],
+			[
+				"pr",
+				"primeFactors\tfunction"
+			],
+			[
+				"chec",
+				"checkPythTrip\tfunction"
+			],
+			[
+				"s",
+				"sqrt\tfunction"
+			],
+			[
+				"com",
+				"common_prime_facts"
+			],
+			[
+				"uniq",
+				"uniq_prime_facts"
+			],
+			[
+				"pri",
+				"primeFactors"
+			],
+			[
+				"p",
+				"p003_solution"
+			],
+			[
+				"prob",
+				"problem_003_prime_facts\tmodule"
+			],
+			[
+				"pal",
+				"pal_len\tstatement"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"la",
+				"lastest_factor\tstatement"
+			],
+			[
+				"start",
+				"start_idx"
+			],
+			[
+				"get",
+				"get_pref_idx"
+			],
+			[
+				"sf_idx",
+				"sf_idx_selector_end"
+			],
+			[
+				"sf",
+				"sf_idx_reset"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"ori_sf",
+				"ori_plot_sf"
+			],
+			[
+				"make_ori",
+				"make_ori_plot"
+			],
+			[
+				"sf_",
+				"sf_idx_sel"
+			],
+			[
+				"cell",
+				"cell_num"
+			],
+			[
+				"pref_",
+				"pref_idx"
+			],
+			[
+				"before_resp",
+				"before_resp_data"
+			],
+			[
+				"cel",
+				"cell_num"
+			],
+			[
+				"inpu",
+				"input_idxs"
+			],
+			[
+				"inp",
+				"input_idxs"
+			],
+			[
+				"kat",
+				"katie_cell_nums"
+			],
+			[
+				"stro",
+				"stroke-dasharray"
+			],
+			[
+				"v1_",
+				"v1_cell_num"
+			],
+			[
+				"ori_tu",
+				"ori_tun_plot_col"
+			],
+			[
+				"before_re",
+				"before_resp_data"
+			],
+			[
+				"n_st",
+				"n_stim_angles"
+			],
+			[
+				"v1",
+				"v1_cell_num"
+			],
+			[
+				"ori_tun_",
+				"ori_tun_resp"
+			],
+			[
+				"act",
+				"actual_idx"
+			],
+			[
+				"actual_",
+				"actual_idx"
+			],
+			[
+				"ret_co",
+				"ret_coords"
+			],
+			[
+				"ret_coo",
+				"ret_coord_unwrap"
+			],
+			[
+				"wrap",
+				"wrap_kind"
+			],
+			[
+				"wra",
+				"wrap_kind"
+			],
+			[
+				"wr",
+				"wrap_kind"
+			],
+			[
+				"row_",
+				"row_wrap"
+			],
+			[
+				"col_",
+				"col_wrap"
+			],
+			[
+				"wrapping",
+				"wrapping_calc"
+			],
+			[
+				"coo",
+				"coord_distances"
+			],
+			[
+				"wrapped",
+				"wrapped_data"
+			],
+			[
+				"wrapp",
+				"wrapped_data"
+			],
+			[
+				"dists",
+				"dists_median"
+			],
+			[
+				"dist",
+				"dists_1q"
+			],
+			[
+				"all_re",
+				"all_ret_palette"
+			],
+			[
+				"ori_tun",
+				"ori_tun_pol"
+			],
+			[
+				"make_o",
+				"make_ori_plot"
+			],
+			[
+				"ori",
+				"ori_tun"
+			],
+			[
+				"ell_",
+				"ell_sz"
+			],
+			[
+				"gra",
+				"gray"
+			],
+			[
+				"ori_l",
+				"ori_leg"
+			],
+			[
+				"ell",
+				"ell_sz"
+			],
+			[
+				"un",
+				"uniq_oris"
+			],
+			[
+				"ret_",
+				"ret_top_left_margin"
+			],
+			[
+				"interp",
+				"interpolate"
+			],
+			[
+				"inter",
+				"interpolate"
+			],
+			[
+				"input_per",
+				"input_perc"
+			],
+			[
+				"leg",
+				"leg_height"
+			],
+			[
+				"scale",
+				"scale_copy"
+			],
+			[
+				"sca",
+				"scale_copy"
+			],
+			[
+				"leg_",
+				"leg_width"
+			],
+			[
+				"line",
+				"linearGradient"
+			],
+			[
+				"bef",
+				"before_input_leg_grad"
+			],
+			[
+				"before_l",
+				"before_leg"
+			],
+			[
+				"befo",
+				"before_legend"
+			],
+			[
+				"make_",
+				"make_wt_legend"
+			],
+			[
+				"input",
+				"input_perc"
+			],
+			[
+				"ret_gri",
+				"ret_grid_size"
+			],
+			[
+				"grid_",
+				"grid_width"
+			],
+			[
+				"gri",
+				"grid_width"
+			],
+			[
+				"input_",
+				"input_perc_rad"
+			],
+			[
+				"border",
+				"border_width"
+			],
+			[
+				"pref",
+				"retina_pref_ori"
+			],
+			[
+				"perc_t",
+				"perc_wt_range"
+			],
+			[
+				"margi",
+				"margin_trans"
+			],
+			[
+				"wt",
+				"wt_idx"
+			],
+			[
+				"weight",
+				"weight_stage_idx"
+			],
+			[
+				"border_",
+				"border_width"
+			],
+			[
+				"int",
+				"interpolateGreys"
+			],
+			[
+				"per",
+				"perc_wt_range"
+			],
+			[
+				"row_v",
+				"row_viz_min"
+			],
+			[
+				"ret",
+				"ret_size"
+			],
+			[
+				"range",
+				"range_size"
+			],
+			[
+				"larg",
+				"larg_dim"
+			],
+			[
+				"d3",
+				"d3npm\td3npm"
+			],
+			[
+				"or",
+				"pretinal_pref_orientations.json\tFile"
+			],
+			[
+				"tex",
+				"textbf"
+			],
+			[
+				"subs",
+				"subsection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/Developer/Euler_Problems/problem_051/utils.py",
+			"settings":
+			{
+				"buffer_size": 3154,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Developer/Euler_Problems/p051_solution.py",
+			"settings":
+			{
+				"buffer_size": 528,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Developer/Euler_Problems/core/readme.md",
+			"settings":
+			{
+				"buffer_size": 864,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Developer/Euler_Problems/problem_051/readme.md",
+			"settings":
+			{
+				"buffer_size": 2000,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/Developer/Euler_Problems/problem_051/hands.txt",
+			"settings":
+			{
+				"buffer_size": 29999,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 300.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"termun",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"terminus",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"file ren",
+				"File: Rename"
+			],
+			[
+				"file mo",
+				"File: Move"
+			],
+			[
+				"file d",
+				"File: Delete"
+			],
+			[
+				"folder",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"brack wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"proj edit",
+				"Project: Edit Project"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj man rena",
+				"Project Manager: Rename Project"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"origa rest",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"orig sa",
+				"Origami: Save Current Layout"
+			],
+			[
+				"ana doc",
+				"Anaconda: Display object docs"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"file new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"proj man",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"orig rest",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"proj e",
+				"Project Manager: Edit Project"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"mark ",
+				"MarkdownTOC:Update TOC"
+			],
+			[
+				"proj edit p",
+				"Project: Edit Project"
+			],
+			[
+				"proje ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"task ht",
+				"Tasks: View as HTML"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"task f",
+				"Tasks: Filter by tags under cursors"
+			],
+			[
+				"task",
+				"Tasks: Copy Statistics"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"mark pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"term v",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"orig",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origa",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"gitg co",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"goto bo",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"book g",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"sub bo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packen",
+				"Package Control: Enable Package"
+			],
+			[
+				"Auto",
+				"Autocomplete file name"
+			],
+			[
+				"proj ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj fo",
+				"Project: Add Folder"
+			],
+			[
+				"porj new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj op",
+				"Project Manager: Edit Project"
+			],
+			[
+				"HTML",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"pack re o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"branch",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"term vi",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mak pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"terminal v",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"proj man ap",
+				"Project Manager: Append Project"
+			],
+			[
+				"resou open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preiew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"TOC",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"prevew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"packager",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 427.0,
+		"history":
+		[
+			"view.run_command('enter_insert_mode')",
+			"view.settings().get('theme')",
+			"view.settings().get('shell_configs')",
+			"view.settings().get('auto_complete_triggers')",
+			"view.settings().get('256color')",
+			"view.settings().get('unix_term')",
+			"view.settings().get('vintage_start_in_command_mode')",
+			"view.settings()",
+			"sublime.log_commands(True)",
+			"sublime.run_command('enter_insert_mode')",
+			"sublime.command('enter_insert_mode')",
+			"sublime.log_commands(True)",
+			"$project_path",
+			"view.__dir__()",
+			"view.dir()",
+			"view.__dir__",
+			"view",
+			"dir()",
+			"quit()",
+			"m.sin()",
+			"import math as m",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Developer/Euler_Problems",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_012",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_051"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Developer/Euler_Problems/setup.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_014/collatz_proto.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_016/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_015/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_014/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_014/collatz.pyx",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_014/collatz_proto_cyth.pyx",
+		"/Users/errollloyd/Developer/Euler_Problems/core/prime.py",
+		"/Users/errollloyd/Developer/Euler_Problems/core/prime_compy_py.py",
+		"/Users/errollloyd/Developer/Euler_Problems/p016_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/p017_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/p014_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/core/prime_compiled.pyx",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_014/collatz.html",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_014/collatz.c",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_013/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_012/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_013/data.txt",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_011/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_009/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/p012_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/p009_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/p011_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/p013_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_011/data.txt",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Terminus/Default.sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Terminus/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Developer/Euler_Problems/p007_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/core/__init__.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_011",
+		"/Users/errollloyd/Developer/Euler_Problems/core/prime/__init__.py",
+		"/Users/errollloyd/Developer/Euler_Problems/core/prime_compiled.py",
+		"/Users/errollloyd/Developer/Euler_Problems/core/prime_compiled.c",
+		"/Users/errollloyd/Developer/Euler_Problems/p003_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/p010_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/core/readme.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_010/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_009/linear_opt_times.png",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_009/opt_brute_force_times.png",
+		"/Users/errollloyd/Developer/Euler_Problems/p005_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/p008_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_005/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/003_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/004_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/005_solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/solved/problem_005/solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/solved/problem_004/solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/solved/problem_003/solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/solved/problem_003/utils.py",
+		"/Users/errollloyd/Developer/Euler_Problems/solved/__init__.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_003/solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_004/solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_005/solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/__init__.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_005/problem_003_prime_facts.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_005/run.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/#eduwk Euler_Problems.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/errollloyd/Developer/Euler_Problems/source/primes/__init__.py",
+		"/Users/errollloyd/Developer/Euler_Problems/source/__init__.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_003/__init__.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_004/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/solution.py",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_003/readme.md",
+		"/Users/errollloyd/Developer/Euler_Problems/problem_003/utils.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_discussion.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Latin Work.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/OSPaper_home_stretch.todo.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/preferred_idx.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/preferred_idx.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/ori_sf_resp.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/ori_sf_resp.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/json_test.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/ori_tun_pref_sf.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/json_test.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/ori_tun_resp.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/output_data_script.m",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig.html",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/ori_tun_pref_sf.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/pretinal_pref_orientations.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/pretinal_pref_orientations_UNINVERTED.json",
+		"/tmp/subl stdin AEIOkq.txt",
+		"/tmp/subl stdin cUb4QJ.txt",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/d3_5_cdn.sublime-snippet",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/FileSystem Autocompletion/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/FuzzyFilePath/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/User/d35cdn.sublime-snippet",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/test_link.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/paper/vc_results.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/install.txt",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_intro.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/errol_latex.sublime-build",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/temp.todo",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/figures/errol/scheme_plast_fig.pdf",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/build.ssh",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_supp.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.tex",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/errol_thoughts_todo.todo",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/temp.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/paper_meeting_todo.html",
+		"/Users/errollloyd/Desktop/discussion_temp.tex",
+		"/Users/errollloyd/Desktop/discussion_temp.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/hws_exp.py",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/test.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/intro_draft.md",
+		"/Users/errollloyd/Desktop/md_test.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/WordCount.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/abstract.md",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_orientDist.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/nonstop_errol_build.ssh",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/.gitignore",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handR",
+			"hand",
+			"1",
+			"{",
+			"genCollatzCnt",
+			"**",
+			"(\\d)",
+			"+1",
+			"-seq_len",
+			"_idxs",
+			"4",
+			"int",
+			"double",
+			"int",
+			"m.",
+			"limit",
+			"1000",
+			"\\ ",
+			"xrange",
+			"path",
+			"0",
+			"isinstance",
+			"int_gen",
+			"last"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\1 ",
+			"\\1,",
+			"seq_len",
+			"",
+			"total",
+			"",
+			"range"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/Developer/Euler_Problems/problem_051/utils.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tabs_extra_last_activated": 1570853322.64,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/Developer/Euler_Problems/p051_solution.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"_anf_new": "",
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/errollloyd/Developer/Euler_Problems/core/readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 159,
+								"modified": false,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										425,
+										426
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										360,
+										361
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										425,
+										426
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										360,
+										361
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tabs_extra_spawned": true,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/errollloyd/Developer/Euler_Problems/problem_051/readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1999,
+								1999
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 3,
+								"count": 377,
+								"modified": false,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tabs_extra_spawned": true,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/errollloyd/Developer/Euler_Problems/problem_051/hands.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								119
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 1,
+								"count": 10000,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"_anf_new": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1570853259.82,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				1,
+				0,
+				2,
+				2
+			],
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 318.0
+	},
+	"output.exec":
+	{
+		"height": 412.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "#eduwk Euler_Problems.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p010",
+				"p010_solution.py"
+			],
+			[
+				"",
+				"p007_solution.py"
+			],
+			[
+				"p003",
+				"p003_solution.py"
+			],
+			[
+				"p00",
+				"p003_solution.py"
+			],
+			[
+				"read 005",
+				"problem_005/readme.md"
+			],
+			[
+				"ru",
+				"problem_005/run.py"
+			],
+			[
+				"di",
+				"Paper Files/vc_discussion.tex"
+			],
+			[
+				"vc.t",
+				"Paper Files/vc.tex"
+			],
+			[
+				"ge",
+				"Notes/general_thoughts.md"
+			],
+			[
+				"int",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"disc",
+				"Paper Files/vc_discussion.tex"
+			],
+			[
+				"gene",
+				"Notes/general_thoughts.md"
+			],
+			[
+				"gen",
+				"Notes/general_thoughts.md"
+			],
+			[
+				"intro",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"fig",
+				"Katies_data_feedforward/results_fig.html"
+			],
+			[
+				"res",
+				"Paper Files/vc_results.tex"
+			],
+			[
+				"intr",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"resu",
+				"Paper Files/vc_results.tex"
+			],
+			[
+				"temp",
+				"plasticity/temp.todo"
+			],
+			[
+				"in",
+				"plast_v1_paper/vc_intro.tex"
+			],
+			[
+				"supp",
+				"plast_v1_paper/vc_supp.tex"
+			],
+			[
+				"contrast",
+				"plast_v1_paper/vc_contrastInvariance.tex"
+			],
+			[
+				"dus",
+				"plast_v1_paper/vc_discussion.tex"
+			],
+			[
+				"gner",
+				"comp1/general_thoughts.md"
+			],
+			[
+				"re",
+				"plast_v1_paper/vc_results.tex"
+			],
+			[
+				"todo",
+				"comp1/errol_thoughts_todo.todo"
+			],
+			[
+				"term",
+				"Terminal (bash)"
+			],
+			[
+				"ter",
+				"Terminal (bash)"
+			],
+			[
+				"introt",
+				"plast_v1_paper/vc_intro.tex"
+			],
+			[
+				"te",
+				"Terminal (bash)"
+			],
+			[
+				"ign",
+				"plast_v1_paper/.gitignore"
+			],
+			[
+				".gi",
+				"plast_v1_paper/.gitignore"
+			],
+			[
+				"non",
+				"plast_v1_paper/nonstop_errol_build.ssh"
+			],
+			[
+				"vc_supp",
+				"plast_v1_paper/vc_supp.tex"
+			],
+			[
+				"vc_orientdist",
+				"plast_v1_paper/vc_orientDist.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 468.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

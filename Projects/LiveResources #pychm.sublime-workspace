@@ -1,0 +1,1688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cre",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"ap",
+				"append\t( nodes_..: Node|DOMString ): void Document"
+			],
+			[
+				"getE",
+				"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Element"
+			],
+			[
+				"err",
+				"errol_link"
+			],
+			[
+				"errol_",
+				"errol_link_box"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"flex-",
+				"flex-start\tjustify-content"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"challenge_",
+				"challenge_prefix\tparam"
+			],
+			[
+				"stud",
+				"student_team_labels\tstatement"
+			],
+			[
+				"as",
+				"ascii_lowercase\tstatement"
+			],
+			[
+				"pa",
+				"pandas\tmodule"
+			],
+			[
+				"from",
+				"fromtimestamp\tfunction"
+			],
+			[
+				"alph",
+				"alphabet_len"
+			],
+			[
+				"Warm",
+				"warm-up-question"
+			],
+			[
+				"shi",
+				"shift_end\tstatement"
+			],
+			[
+				"shift",
+				"shift_start\tstatement"
+			],
+			[
+				"Anwe",
+				"answering-options"
+			],
+			[
+				"au",
+				"mde.auto_increment_ordered_list_number  \tsetting"
+			],
+			[
+				"gra",
+				"graph_format\tparam"
+			],
+			[
+				"map",
+				"fdbk_vals_map"
+			],
+			[
+				"ext",
+				"extract_data\tfunction"
+			],
+			[
+				"wri",
+				"write_new_notebook\tfunction"
+			],
+			[
+				"read",
+				"read_html_file\tfunction"
+			],
+			[
+				"Argu",
+				"ArgumentParser\tclass"
+			],
+			[
+				"code_class",
+				"code_class_proc\tfunction"
+			],
+			[
+				"md_class",
+				"md_class_proc\tfunction"
+			],
+			[
+				"new",
+				"new_notebook_path\tstatement"
+			],
+			[
+				"new_",
+				"new_markdown_cell\tfunction"
+			],
+			[
+				"v",
+				"v4\tmodule"
+			],
+			[
+				"if",
+				"if"
+			],
+			[
+				"retur",
+				"return_paths\tparam"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"fourY",
+				"fourYrMk"
+			],
+			[
+				"fourYr",
+				"fourYrMk_epoch"
+			],
+			[
+				"ellap",
+				"ellapsed_yrs"
+			],
+			[
+				"fou",
+				"fourYrMk"
+			],
+			[
+				"fut_ti",
+				"fut_time_diff_secs"
+			],
+			[
+				"fut_",
+				"fut_time"
+			],
+			[
+				"fo",
+				"fouryrmk"
+			],
+			[
+				"secs",
+				"secs_in_yr"
+			],
+			[
+				"yrs",
+				"years"
+			],
+			[
+				"four",
+				"four_yr_diff_secs"
+			],
+			[
+				"four_",
+				"four_yr_diff_secs"
+			],
+			[
+				"foury",
+				"four_yr_diff"
+			],
+			[
+				"back",
+				"backup_check"
+			],
+			[
+				"bi",
+				"bin/\tDir"
+			],
+			[
+				"sy",
+				"sync_code"
+			],
+			[
+				"prev",
+				"prev_log"
+			],
+			[
+				"pr",
+				"prev_log"
+			],
+			[
+				"t",
+				"tm_fmt"
+			],
+			[
+				"ma",
+				".mac_pro_backup/\tDir"
+			],
+			[
+				"m",
+				".mac_pro_backup/\tDir"
+			],
+			[
+				"cent_sd",
+				"cent_sd_vt\tparam"
+			],
+			[
+				"deg",
+				"degrees\tinstance"
+			],
+			[
+				"sta",
+				"stack_pref_ori\tparam"
+			],
+			[
+				"la",
+				"layer_two_resp\tstatement"
+			],
+			[
+				"resp",
+				"resp_check\tparam"
+			],
+			[
+				"disp_",
+				"disp_k"
+			],
+			[
+				"hws",
+				"hws_rand_size\tparam"
+			],
+			[
+				"rf_d",
+				"rf_dist_scale\tparam"
+			],
+			[
+				"file_",
+				"file_desc\tparam"
+			],
+			[
+				"pw_i",
+				"pw_dist_kwargs"
+			],
+			[
+				"sq",
+				"sq_diff_func"
+			],
+			[
+				"sq_",
+				"sq_diff_kwargs\tparam"
+			],
+			[
+				"pw",
+				"pw_dist_kwargs\tparam"
+			],
+			[
+				"is",
+				"isinstance\tfunction"
+			],
+			[
+				"jin",
+				"jin_rf_dist"
+			],
+			[
+				"locs",
+				"locs_return\tparam"
+			],
+			[
+				"make_",
+				"make_rf_args\tparam"
+			],
+			[
+				"hw_ori",
+				"hw_ori_idx\tparam"
+			],
+			[
+				"arcta",
+				"arctan\tinstance"
+			],
+			[
+				"hws_",
+				"hws_rand_size\tparam"
+			],
+			[
+				"samp",
+				"samp_size\tparam"
+			],
+			[
+				"angl",
+				"angles_pdf\tstatement"
+			],
+			[
+				"angles",
+				"angles_prob\tstatement"
+			],
+			[
+				"data",
+				"data_sig\tstatement"
+			],
+			[
+				"hw",
+				"hws_ori"
+			],
+			[
+				"hw_o",
+				"hw_oris"
+			],
+			[
+				"load_da",
+				"loaded_data_return\tstatement"
+			],
+			[
+				"n_tri",
+				"n_trials\tparam"
+			],
+			[
+				"rf_di",
+				"rf_dist_params\tfunction"
+			],
+			[
+				"cell",
+				"cell_init\tfunction"
+			],
+			[
+				"e",
+				"exp_comment\tstatement"
+			],
+			[
+				"co",
+				"copy"
+			],
+			[
+				"stat",
+				"static_two_layer"
+			],
+			[
+				"layer",
+				"layer_two_circ_stat"
+			],
+			[
+				"cs_all",
+				"cs_all_circ_stat"
+			],
+			[
+				"resa",
+				"resample_only"
+			],
+			[
+				"make_l",
+				"make_layer_two_circ_stat"
+			],
+			[
+				"make_la",
+				"make_layer_two_wts"
+			],
+			[
+				"make_rf",
+				"make_rf_circ_stat"
+			],
+			[
+				"rf_dis",
+				"rf_dists_prob\tparam"
+			],
+			[
+				"make",
+				"make_rf_layer\tfunction"
+			],
+			[
+				"make_r",
+				"make_rf_pdf\tfunction"
+			],
+			[
+				"rf_dists",
+				"rf_dists_prob\tstatement"
+			],
+			[
+				"jin_",
+				"jin_pdf_est"
+			],
+			[
+				"rf",
+				"rfd\tmodule"
+			],
+			[
+				"rf_dist",
+				"rf_dists_samples\tparam"
+			],
+			[
+				"d",
+				"d_num\tstatement"
+			],
+			[
+				"file_na",
+				"file_name_base\tstatement"
+			],
+			[
+				"optimi",
+				"optimise_data"
+			],
+			[
+				"saved",
+				"saved_file_name\tstatement"
+			],
+			[
+				"number",
+				"number_existing_opt_dats\tstatement"
+			],
+			[
+				"fil",
+				"file_name\tstatement"
+			],
+			[
+				"exi",
+				"existing_file_names\tstatement"
+			],
+			[
+				"mini",
+				"minimise_exponent\tfunction"
+			],
+			[
+				"jcd",
+				"jcdfn\tstatement"
+			],
+			[
+				"get",
+				"get_group_input_dat"
+			],
+			[
+				"lab",
+				"label_hover"
+			],
+			[
+				"key",
+				"key_label"
+			],
+			[
+				"parcoord",
+				"parcoord_plot_inpt"
+			],
+			[
+				"inpt",
+				"inpt_keys"
+			],
+			[
+				"input_",
+				"input_base_range"
+			],
+			[
+				"use",
+				"user_inputs_copy"
+			],
+			[
+				"spinn",
+				"spinner_div"
+			],
+			[
+				"selected",
+				"selected_groups"
+			],
+			[
+				"group",
+				"group_sel"
+			],
+			[
+				"output_p",
+				"output_p_c_sort_param"
+			],
+			[
+				"se",
+				"sel_butt"
+			],
+			[
+				"sort_se",
+				"sort_sel_cont"
+			],
+			[
+				"sort_",
+				"sort_inpts"
+			],
+			[
+				"sort",
+				"sort_select"
+			],
+			[
+				"spi",
+				"spinners"
+			],
+			[
+				"inp",
+				"inpts_div"
+			],
+			[
+				"sorted",
+				"sorted_dims"
+			],
+			[
+				"sor",
+				"sorted_dim_idx"
+			],
+			[
+				"dims",
+				"dims_keys_output"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Volumes/pychm/TrainingMaterials/LiveResources/mkdocs.yml",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheets/extra.js",
+			"settings":
+			{
+				"buffer_size": 2232,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/index.md",
+			"settings":
+			{
+				"buffer_size": 5606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/overview.md",
+			"settings":
+			{
+				"buffer_size": 943,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/course_outline.md",
+			"settings":
+			{
+				"buffer_size": 1516,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n☀ (112.28)\n(live_res_errol 🐛 )(/Volumes/pychm/TrainingMaterials/LiveResources)\n> cna pycharm_mats\n\n☀ (112.28)(pycharm_mats)\n(live_res_errol 🐛 )(/Volumes/pychm/TrainingMaterials/LiveResources)\n> mkdocks serve                                                              \nbash: mkdocks: command not found\n\n☀ (112.28)(pycharm_mats)\n(live_res_errol 🐛 )(/Volumes/pychm/TrainingMaterials/LiveResources)\n> mkdocs serve                                                               \nINFO    -  Building documentation... \nINFO    -  Cleaning site directory \nINFO    -  The following pages exist in the docs directory, but are not inclu​‌​\nded in the \"nav\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is inclu​‌​\nded in the 'nav' configuration, which is not found in the documentation files​‌​\n \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstr​‌​\na_intro_2020.02b.pdf' which is not found in the documentation files. \nINFO    -  Documentation built in 1.57 seconds \n[I 200504 17:30:11 server:296] Serving on http://127.0.0.1:8000\nINFO    -  Serving on http://127.0.0.1:8000\n[I 200504 17:30:11 handlers:62] Start watching changes\nINFO    -  Start watching changes\n[I 200504 17:30:11 handlers:64] Start detecting changes\nINFO    -  Start detecting changes\n[I 200504 17:30:17 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:31:04 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not inclu\nded in the \"nav\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is inclu\nded in the 'nav' configuration, which is not found in the documentation files\n \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstr\na_intro_2020.02b.pdf' which is not found in the documentation files. \n[I 200504 17:31:06 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMate\nrials/LiveResources/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/d\nocs/stylesheets/extra.js\n[I 200504 17:31:08 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:31:29 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not inclu\nded in the \"nav\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is inclu\nded in the 'nav' configuration, which is not found in the documentation files\n \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstr\na_intro_2020.02b.pdf' which is not found in the documentation files. \n[I 200504 17:31:31 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMate\nrials/LiveResources/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/d\nocs/stylesheets/extra.js\n[I 200504 17:31:32 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:34:56 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 17:34:57 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 17:34:59 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:35:07 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:35:25 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 17:35:27 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 17:35:28 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:39:31 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 17:39:33 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 17:39:35 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:49:53 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 17:49:55 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 17:49:58 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:50:17 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 17:50:18 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 17:50:20 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:50:54 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 17:50:56 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 17:50:57 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 17:53:15 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 17:53:18 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 17:53:19 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 21:58:37 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 21:58:38 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 21:58:39 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:00:24 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 22:00:25 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 22:00:26 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:00:38 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:01:14 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 22:01:16 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 22:01:16 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:01:23 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:02:17 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 22:02:18 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 22:02:19 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:02:29 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 22:02:30 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 22:02:31 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:14:25 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 22:14:27 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 22:14:28 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:15:24 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 22:15:25 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 22:15:26 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200504 22:16:18 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200504 22:16:20 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200504 22:16:20 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200505 08:50:21 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \nWARNING -  Documentation file 'index.md' contains a link to 'materials/Telstra_intro_2020.0​‌​\n2b.pdf' which is not found in the documentation files. \n[I 200505 08:50:23 handlers:95] Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveReso​‌​\nurces/docs/stylesheets/extra.js\nINFO    -  Reload 1 waiters: /Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheet​‌​\ns/extra.js\n[I 200505 08:50:25 handlers:135] Browser Connected: http://localhost:8000/\nINFO    -  Browser Connected: http://localhost:8000/\n[I 200505 08:55:03 handlers:135] Browser Connected: http://localhost:8000/general_informati​‌​\non.html\nINFO    -  Browser Connected: http://localhost:8000/general_information.html\n[I 200505 08:55:04 handlers:135] Browser Connected: http://localhost:8000/index.html\nINFO    -  Browser Connected: http://localhost:8000/index.html\n[I 200505 13:12:01 watcher:104] Running task: builder (delay: None)\nINFO    -  Running task: builder (delay: None)\nINFO    -  Building documentation... \nINFO    -  The following pages exist in the docs directory, but are not included in the \"na​‌​\nv\" configuration:\n  - overview.md \nWARNING -  A relative path to 'materials/Telstra_intro_2020.02b.pdf' is included in the 'na​‌​\nv' configuration, which is not found in the documentation files \n^C[I 200505 13:12:01 server:318] Shutting down...\nINFO    -  Shutting down...\n\n☀ (113.10)(pycharm_mats)\n(live_res_errol 🐛 )(/Volumes/pychm/TrainingMaterials/LiveResources)\n> \n\n☀ (113.10)(pycharm_mats)\n(live_res_errol 🐛 )(/Volumes/pychm/TrainingMaterials/LiveResources)\n> ",
+			"settings":
+			{
+				"buffer_size": 20047,
+				"line_ending": "Unix",
+				"name": "Login Shell",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack i",
+				"Package Control: Install Package"
+			],
+			[
+				"proj man",
+				"Project Manager: Add New Project"
+			],
+			[
+				"file del",
+				"File: Delete"
+			],
+			[
+				"proj ",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj add fo",
+				"Project: Add Folder"
+			],
+			[
+				"CSV",
+				"CSV: Justify columns"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"file ",
+				"File: Duplicate"
+			],
+			[
+				"mark ed lin",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"key con",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"file rena",
+				"File: Rename"
+			],
+			[
+				"pack con dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"brack ",
+				"BracketHighlighter: Settings"
+			],
+			[
+				"markdown sw",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				"mark ed fold",
+				"MarkdownEditing: Fold Level 2 Sections"
+			],
+			[
+				"mark toc",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"mark edi ch",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"ma",
+				"MarkdownEditing: Open Journal"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"proj ad",
+				"Project Manager: Add New Project"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"mar prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"file di",
+				"File: Duplicate"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"proj edi",
+				"Project Manager: Edit Project"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"bra",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"key b",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"brack w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"bhqu",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj man edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man rena",
+				"Project Manager: Rename Project"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"ali",
+				"AlignTab: Table Mode"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"proj ma a",
+				"Project Manager: Append Project"
+			],
+			[
+				"proj man a",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task d",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"origa pul",
+				"Origami: Pull File from Pane Above"
+			],
+			[
+				"dest",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig de",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"orig cre foc",
+				"Origami: Create and Focus Pane on the Right"
+			],
+			[
+				"proj man ad",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task",
+				"Tasks: View as HTML"
+			],
+			[
+				"proje man new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"task fo",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"Tas",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"anaconda er",
+				"Anaconda: Show error list"
+			],
+			[
+				"proj man e",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man i",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj m",
+				"Project Manager: Edit Project"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"pack re o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"file sav",
+				"File: Save All"
+			],
+			[
+				"side",
+				"Side Bar: Refresh"
+			],
+			[
+				"proj rem",
+				"Project Manager: Remove Project"
+			],
+			[
+				"proj app",
+				"Project Manager: Append Project"
+			],
+			[
+				"proj im",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj ap",
+				"Project Manager: Add New Project"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"task s",
+				"Tasks: Fold to due tasks"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"Sub",
+				"SublimeBookmarks: Remove A Bookmark"
+			],
+			[
+				"ADd bo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"Show",
+				"SublimeBookmarks: Show Bookmarks Only In Current File "
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"t",
+				"Tasks: New"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabe",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: errol"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"task n",
+				"Tasks: New"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Packa ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"Pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 659.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])",
+			"collections.Counter()",
+			"import collections",
+			"dir()",
+			"import this"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/pychm/TrainingMaterials/LiveResources",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheets"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheets/extra.css",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/README.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/resources.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/course_outline.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/additional_information.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/about.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/general_information.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/schedule.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/overview.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/index.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/mkdocs.yml",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/important_links.md",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/site/index.html",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheets/extra.js",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/s3_deploy.sh",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/site/important_links.html",
+		"/Volumes/pychm/TrainingMaterials/LiveResources/overrides/html_code.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Online Tooling #pychm.sublime-project",
+		"/Volumes/pychm/TrainingMaterials/Online/online_IDE_assessment.md",
+		"/Volumes/pychm/TrainingMaterials/Online/Combined quiz questions.md",
+		"/Volumes/pychm/TrainingMaterials/Online/test_dreamseedo_invite.csv",
+		"/Volumes/pychm/TrainingMaterials/Online/Combined quiz questions.ipynb",
+		"/Users/errollloyd/Downloads/city.list.json",
+		"/Volumes/pychm/TrainingMaterials/Online/Day1_Puzzles_errol.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownTOC.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Volumes/pychm/TrainingMaterials/Online/2020-04-08.md",
+		"/Volumes/pychm/TrainingMaterials/Online/notebook_server/requirements.txt",
+		"/Volumes/pychm/TrainingMaterials/Courses/0000-374_girls_in_tech.md",
+		"/Volumes/pychm/TrainingMaterials/Online/quiz_platforms.md",
+		"/Volumes/pychm/TrainingMaterials/Online/tech_to_test.md",
+		"/Volumes/pychm/TrainingMaterials/Online/README.md",
+		"/Volumes/pychm/temp_mats/jupyter_lab_play/.git/COMMIT_EDITMSG",
+		"/Volumes/pychm/TrainingMaterials/Tools/zulip_course_creator.py",
+		"/Volumes/pychm/temp_mats/427_DST/Python training day 3 - 2020-04-01.html",
+		"/Volumes/pychm/temp_mats/427_DST/Day 2 + 3.ipynb",
+		"/Volumes/pychm/temp_mats/427_DST/html_to_ipynb.py",
+		"/Volumes/pychm/temp_mats/427_DST/new_botebook.ipynb",
+		"/Users/errollloyd/.mac_pro_backup/backup_log",
+		"/Users/errollloyd/bin/auto_remote_backup_README.md",
+		"/Users/errollloyd/bin/goto",
+		"/Users/errollloyd/bin/goto.py",
+		"/Users/errollloyd/bin/phd_time.sh",
+		"/Users/errollloyd/bin/old_deprecated_phd_backup.sh",
+		"/Users/errollloyd/.goto/pathData",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/user scripts.sublime-project",
+		"/Users/errollloyd/.goto/testData",
+		"/Users/errollloyd/bin/phdtm",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ShellScript/Bash.sublime-syntax",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/monokai_errol.sublime-color-scheme",
+		"/Users/errollloyd/bin/melissa_git.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/errollloyd/.mac_pro_backup/backup_time_format",
+		"/Users/errollloyd/.dotfiles/align_test.md",
+		"/Users/errollloyd/.dotfiles/macro_test",
+		"/Users/errollloyd/bin/vpn_unimelb",
+		"/Users/errollloyd/.dotfiles/.bash_profile",
+		"/Users/errollloyd/.dotfiles/custom_path.sh",
+		"/Users/errollloyd/.bash_profile",
+		"/Users/errollloyd/bin/test.sh",
+		"/Users/errollloyd/bin/phd_backup.sh",
+		"/Users/errollloyd/bin/vpn_mac_pro_backup",
+		"/Users/errollloyd/bin/phd_mac_pro_backup",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/circ_stat.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/hws.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/tmpNoteNookCode.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/vcnl_analysis.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws_exp.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/run_exp1.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test2.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/optimise_data0",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/rfDistCalc.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test_mod.py",
+		"/voronoi_play.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/proto_d3.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/js_test.js",
+		"/Users/errollloyd/Developer/JT_landUse_project/loc_1_var.csv",
+		"/Users/errollloyd/Developer/JT_landUse_project/d3_pc_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/pc_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/d3.parcoords.js",
+		"/Users/errollloyd/Developer/JT_landUse_project/proto.html",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/index.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/input_sets.csv",
+		"/Users/errollloyd/Developer/JT_landUse_project/p_coord_test.html",
+		"/Users/errollloyd/Developer/JT_landUse_project/urb_model_page.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/tools.json",
+		"/Users/errollloyd/Dropbox/Science/ResBaz/Code/NPS_dataViz/data_download_proto.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/plotlycdn.sublime-snippet",
+		"/Users/errollloyd/Dropbox/Science/scripts/psychophysics/test_delete.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/data/TS_L4_diversity/Untitled.slides.html",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/athena.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/temp-plot.html",
+		"/Users/errollloyd/Desktop/build_test.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/circ_stat.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/computational/static_linear/static_two_layer.py",
+		"/Users/errollloyd/Dropbox/Science/three_yr.todo",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/index.html",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/quick_read_write.html",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/todo.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/errol.sublime-snippet",
+		"/Users/errollloyd/Developer/web_app_play/spending_app/google_sheet_be/read_write_proto.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"='"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Volumes/pychm/TrainingMaterials/LiveResources/mkdocs.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								460,
+								460
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "yaml"
+							},
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1588576799.12,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheets/extra.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								905,
+								905
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "javascript"
+							},
+							"line_numbers": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tabs_extra_last_activated": 1588648318.72,
+							"tabs_extra_last_activated_sheet_index": 1
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2464,
+								2464
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 452,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1588593378.85,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1796.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/overview.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 145,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tabs_extra_last_activated": 1588576799.01,
+							"tabs_extra_last_activated_sheet_index": 3,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/course_outline.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 215,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tabs_extra_last_activated": 1588576798.94,
+							"tabs_extra_last_activated_sheet_index": 4,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20047,
+								20047
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "/Volumes/pychm/TrainingMaterials/LiveResources/docs/stylesheets",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/Volumes/pychm/TrainingMaterials/LiveResources",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1588648320.67,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"terminus.highlight_counter": 862,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"config_name": "Login Shell",
+								"cwd": "/Volumes/pychm/TrainingMaterials/LiveResources",
+								"env":
+								{
+									"LANG": "en_US.UTF-8",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 7107.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7107.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LiveResources #pychm.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"js",
+				"docs/stylesheets/extra.js"
+			],
+			[
+				"res",
+				"docs/resources.md"
+			],
+			[
+				"dock",
+				"Online Tooling #pychm/docker_dev_README.md"
+			],
+			[
+				"Com",
+				"Online Tooling #pychm/Combined quiz questions.md"
+			],
+			[
+				"com",
+				"Online Tooling #pychm/Combined quiz questions.md"
+			],
+			[
+				"",
+				"Online Tooling #pychm/Combined quiz questions.md"
+			],
+			[
+				"tech",
+				"Online Tooling #pychm/tech_to_test.md"
+			],
+			[
+				"te",
+				"Online Tooling #pychm/tech_to_test.md"
+			],
+			[
+				"RE",
+				"README.md"
+			],
+			[
+				"plotly",
+				"Plotly in more depth.md"
+			],
+			[
+				"vpn",
+				"bin/vpn_unimelb"
+			],
+			[
+				"back l",
+				".mac_pro_backup/backup_log"
+			],
+			[
+				"go",
+				"bin/goto"
+			],
+			[
+				"for",
+				".mac_pro_backup/backup_time_format"
+			],
+			[
+				"back",
+				"bin/backup_check"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"gen",
+				"HW_v_Sagar/general_thoughts.md"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 760.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

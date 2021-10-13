@@ -1,0 +1,291 @@
+{
+    "name": "Notebook",
+    "author": "Errol Lloyd",
+    "variables":
+    {
+        "black": "hsl(0, 0%, 0%)",
+        "black2": "hsl(0, 0%, 13%)",
+        "black3": "hsl(300, 3%, 13%)",
+        "blue": "hsl(210, 50%, 60%)",
+        "blue2": "hsl(207, 100%, 22%)",
+        "blue3": "hsl(227, 66%, 34%)",
+        "cyan": "hsl(167, 64%, 73%)",
+        "cyan2": "hsl(187, 72%, 65%)",
+        "green": "hsl(92, 100%, 63%)",
+        "green2": "hsl(102, 28%, 45%)",
+        "green3": "hsl(120, 33%, 70%)",
+        "grey": "hsl(55, 5%, 43%)",
+        "grey2": "hsl(0, 0%, 32%)",
+        "grey3": "hsl(0, 0%, 44%)",
+        "grey4": "hsl(0, 0%, 18%)",
+        "orange": "hsl(40, 100%, 70%)",
+        "orange2": "hsl(30, 100%, 50%)",
+        "orange3": "hsl(22, 73%, 61%)",
+        "orange4": "hsl(41, 18%, 63%)",
+        "orange5": "hsl(41, 15%, 59%)",
+        "orange6": "hsl(53, 35%, 73%)",
+        "pink": "hsl(334, 93%, 65%)",
+        "red": "hsl(0, 100%, 50%)",
+        "red2": "hsl(359, 83%, 71%)",
+        "red3": "hsl(358, 56%, 48%)",
+        "red4": "hsl(4, 93%, 66%)",
+        "red5": "hsl(350, 38%, 53%)",
+        "white": "hsl(0, 0%, 100%)",
+        "white2": "hsl(57, 58%, 88%)",
+        "white3": "hsl(47, 44%, 85%)",
+        "yellow": "hsl(55, 81%, 54%)"
+    },
+    "globals":
+    {
+        "foreground": "var(orange6)",
+        "background": "var(grey4)",
+        "caret": "var(red5)",
+        "block_caret": "var(red5)",
+        "invisibles": "var(black)",
+        "line_highlight": "var(black3)",
+        "selection": "color(var(red5) alpha(0.25))",
+        "popup_css": "\n\t\t\t\t\t\thtml, body {color: #d3d0c8; background-color: #2d2d2d}\n\t\t\t\t\t\ta {color: #ACC6F6;}\n\t\t\t\t\t"
+    },
+    "rules":
+    [
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "foreground": "var(grey)",
+            "font_style": "italic"
+        },
+        {
+            "name": "Tags",
+            "scope": "meta.tag.todo",
+            "foreground": "var(red4)",
+            "font_style": "bold"
+        },
+        {
+            "name": "Notes",
+            "scope": "notes.todo",
+            "foreground": "var(grey3)"
+        },
+        {
+            "name": "Meta",
+            "scope": "meta",
+            "font_style": "italic"
+        },
+        {
+            "name": "Done bullet",
+            "scope": "punctuation.definition.bullet.completed",
+            "foreground": "var(green3)",
+            "font_style": "bold"
+        },
+        {
+            "name": "Done item text",
+            "scope": "comment.line.completed.todo",
+            "foreground": "color(var(green3) l(45%) s(14%))",
+            "font_style": "italic"
+        },
+        {
+            "name": "Pending item text",
+            "scope": "meta.item.todo.pending",
+            "foreground": "color(var(orange6) l(65%))",
+            "font_style": "bold"
+        },
+        {
+            "name": "Pending bullet",
+            "scope": "punctuation.definition.bullet.pending",
+            "foreground": "var(blue)"
+        },
+        {
+            "name": "Cancelled bullet",
+            "scope": "punctuation.definition.bullet.cancelled",
+            "foreground": "var(red2)"
+        },
+        {
+            "name": "Cancelled task",
+            "scope": "meta.item.todo.cancelled",
+            "foreground": "var(grey)",
+            "font_style": "italic"
+        },
+        {
+            "name": "Done meta info",
+            "scope": "meta.tag.todo.completed",
+            "foreground": "color(var(orange6) alpha(0.37))"
+        },
+        {
+            "name": "Cancel meta info",
+            "scope": "meta.tag.todo.cancelled",
+            "foreground": "color(var(orange6) alpha(0.31))"
+        },
+        {
+            "name": "Keyword",
+            "scope": "keyword",
+            "foreground": "var(orange3)",
+            "background": "color(var(black) alpha(0.33))",
+            "font_style": "bold underline"
+        },
+        {
+            "name": "Archive Separator",
+            "scope": "meta.punctuation.archive.todo",
+            "foreground": "var(grey2)"
+        },
+        {
+            "name": "Separator",
+            "scope": "meta.punctuation.separator.todo",
+            "foreground": "var(grey2)"
+        },
+        {
+            "name": "Italic punctuation",
+            "scope": "punctuation.definition.italic",
+            "foreground": "color(var(orange6) alpha(0.31))"
+        },
+        {
+            "name": "Italic",
+            "scope": "todo.italic",
+            "font_style": "italic"
+        },
+        {
+            "name": "Bold punctuation",
+            "scope": "punctuation.definition.bold",
+            "foreground": "color(var(orange6) alpha(0.31))",
+            "font_style": "normal"
+        },
+        {
+            "name": "Bold",
+            "scope": "todo.bold",
+            "font_style": "bold"
+        },
+        {
+            "name": "URL",
+            "scope": "todo.url",
+            "foreground": "color(var(blue2) alpha(0.56))",
+            "font_style": "bold"
+        },
+        {
+            "name": "Punctuation",
+            "scope": "punctuation.section.embedded",
+            "foreground": "color(var(white) alpha(0.1))",
+            "background": "color(var(white) alpha(0.3))"
+        },
+        {
+            "name": "String",
+            "scope": "string",
+            "foreground": "color(var(white) alpha(0.1))",
+            "background": "color(var(yellow) alpha(0.75))"
+        },
+        {
+            "name": "Number",
+            "scope": "constant.numeric",
+            "foreground": "color(var(black) alpha(0.75))",
+            "background": "color(var(green) alpha(0.75))"
+        },
+        {
+            "name": "Built-in constant",
+            "scope": "constant.language",
+            "foreground": "color(var(white) alpha(0.1))",
+            "background": "color(var(cyan2) alpha(0.75))"
+        },
+        {
+            "name": "User-defined constant",
+            "scope": "constant.character, constant.other",
+            "foreground": "color(var(white) alpha(0.1))",
+            "background": "color(var(cyan2) alpha(0.75))"
+        },
+        {
+            "name": "Variable",
+            "scope": "variable.language, variable.other",
+            "foreground": "color(var(white) alpha(0.1))",
+            "background": "color(var(green2) alpha(0.36))"
+        },
+        {
+            "name": "Entity",
+            "scope": "constant.character.entity",
+            "foreground": "color(var(white) alpha(0.1))",
+            "background": "color(var(cyan) alpha(0.75))"
+        },
+        {
+            "name": "Storage",
+            "scope": "storage",
+            "foreground": "color(var(white) alpha(0.1))",
+            "background": "color(var(orange5) alpha(0.75))"
+        },
+        {
+            "name": "Class name",
+            "scope": "entity.name.type.class, support.class",
+            "foreground": "var(blue3)"
+        },
+        {
+            "name": "Inherited class",
+            "scope": "entity.other.inherited-class"
+        },
+        {
+            "name": "Function name",
+            "scope": "entity.name.function",
+            "font_style": "underline"
+        },
+        {
+            "name": "Function argument",
+            "scope": "variable.parameter"
+        },
+        {
+            "name": "Tag name",
+            "scope": "entity.name.tag, entity.other.attribute-name.class.css, entity.other.attribute-name.id.css",
+            "foreground": "color(var(black) alpha(0.75))",
+            "background": "color(var(orange4) alpha(0.75))"
+        },
+        {
+            "name": "Tag attribute",
+            "scope": "entity.other.attribute-name",
+            "font_style": "underline"
+        },
+        {
+            "name": "Library function",
+            "scope": "support.function, support.constant.property-value.css",
+            "foreground": "color(var(white) alpha(0.1))",
+            "background": "color(var(pink) alpha(0.43))"
+        },
+        {
+            "name": "Library constant",
+            "scope": "support.constant"
+        },
+        {
+            "name": "Library class/type",
+            "scope": "support.type, support.class"
+        },
+        {
+            "name": "Library variable",
+            "scope": "support.other.variable"
+        },
+        {
+            "name": "Invalid",
+            "scope": "invalid",
+            "foreground": "var(white)",
+            "background": "var(red3)"
+        },
+        {
+            "name": "Today",
+            "scope": "string.other.tag.todo.today",
+            "foreground": "var(orange)",
+            "background": "var(white2)",
+            "font_style": "bold"
+        },
+        {
+            "name": "High",
+            "scope": "string.other.tag.todo.high",
+            "foreground": "var(black)",
+            "background": "var(orange2)",
+            "font_style": "bold"
+        },
+        {
+            "name": "Low",
+            "scope": "string.other.tag.todo.low",
+            "foreground": "var(white)",
+            "background": "var(black2)",
+            "font_style": "bold"
+        },
+        {
+            "name": "Critical",
+            "scope": "string.other.tag.todo.critical",
+            "foreground": "var(black)",
+            "background": "var(red)",
+            "font_style": "bold"
+        }
+    ]
+}

@@ -1,0 +1,3045 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sym_",
+				"sym_untracked"
+			],
+			[
+				"sym",
+				"sym_stashed"
+			],
+			[
+				"git-",
+				"git-completion.bash"
+			],
+			[
+				"curr",
+				"current_time_idx"
+			],
+			[
+				"date_",
+				"date_cols_test.sh\tFile"
+			],
+			[
+				"num",
+				"num_cols"
+			],
+			[
+				"AN",
+				"ANSI_cols_by_hue"
+			],
+			[
+				"print",
+				"printf\t(date_cols_test.sh)"
+			],
+			[
+				"ANS",
+				"ANSI_cols_by_hue\t(.bash_profile)"
+			],
+			[
+				"time",
+				"time_sun_symbol"
+			],
+			[
+				"print_",
+				"print_backup_check"
+			],
+			[
+				"ti",
+				"time_sun_symbol"
+			],
+			[
+				"dat",
+				"date_col_parse\t(date_cols_test.sh)"
+			],
+			[
+				"date",
+				"date_cols_test.sh\tFile"
+			],
+			[
+				"secs",
+				"secs_now"
+			],
+			[
+				"raw",
+				"raw_date_time_fmt"
+			],
+			[
+				"ad",
+				"and"
+			],
+			[
+				"start",
+				"start_idx"
+			],
+			[
+				"get",
+				"get_pref_idx"
+			],
+			[
+				"sf_idx",
+				"sf_idx_selector_end"
+			],
+			[
+				"sf",
+				"sf_idx_reset"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"ori_sf",
+				"ori_plot_sf"
+			],
+			[
+				"make_ori",
+				"make_ori_plot"
+			],
+			[
+				"sf_",
+				"sf_idx_sel"
+			],
+			[
+				"cell",
+				"cell_num"
+			],
+			[
+				"pref_",
+				"pref_idx"
+			],
+			[
+				"before_resp",
+				"before_resp_data"
+			],
+			[
+				"cel",
+				"cell_num"
+			],
+			[
+				"inpu",
+				"input_idxs"
+			],
+			[
+				"inp",
+				"input_idxs"
+			],
+			[
+				"kat",
+				"katie_cell_nums"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"stro",
+				"stroke-dasharray"
+			],
+			[
+				"v1_",
+				"v1_cell_num"
+			],
+			[
+				"ori_tu",
+				"ori_tun_plot_col"
+			],
+			[
+				"before_re",
+				"before_resp_data"
+			],
+			[
+				"n_st",
+				"n_stim_angles"
+			],
+			[
+				"v1",
+				"v1_cell_num"
+			],
+			[
+				"ori_tun_",
+				"ori_tun_resp"
+			],
+			[
+				"act",
+				"actual_idx"
+			],
+			[
+				"actual_",
+				"actual_idx"
+			],
+			[
+				"ret_co",
+				"ret_coords"
+			],
+			[
+				"ret_coo",
+				"ret_coord_unwrap"
+			],
+			[
+				"wrap",
+				"wrap_kind"
+			],
+			[
+				"wra",
+				"wrap_kind"
+			],
+			[
+				"wr",
+				"wrap_kind"
+			],
+			[
+				"row_",
+				"row_wrap"
+			],
+			[
+				"col_",
+				"col_wrap"
+			],
+			[
+				"wrapping",
+				"wrapping_calc"
+			],
+			[
+				"coo",
+				"coord_distances"
+			],
+			[
+				"wrapped",
+				"wrapped_data"
+			],
+			[
+				"wrapp",
+				"wrapped_data"
+			],
+			[
+				"dists",
+				"dists_median"
+			],
+			[
+				"dist",
+				"dists_1q"
+			],
+			[
+				"all_re",
+				"all_ret_palette"
+			],
+			[
+				"ori_tun",
+				"ori_tun_pol"
+			],
+			[
+				"make_o",
+				"make_ori_plot"
+			],
+			[
+				"ori",
+				"ori_tun"
+			],
+			[
+				"ell_",
+				"ell_sz"
+			],
+			[
+				"gra",
+				"gray"
+			],
+			[
+				"ori_l",
+				"ori_leg"
+			],
+			[
+				"ell",
+				"ell_sz"
+			],
+			[
+				"uniq",
+				"uniq_oris"
+			],
+			[
+				"un",
+				"uniq_oris"
+			],
+			[
+				"ret_",
+				"ret_top_left_margin"
+			],
+			[
+				"interp",
+				"interpolate"
+			],
+			[
+				"inter",
+				"interpolate"
+			],
+			[
+				"input_per",
+				"input_perc"
+			],
+			[
+				"leg",
+				"leg_height"
+			],
+			[
+				"scale",
+				"scale_copy"
+			],
+			[
+				"sca",
+				"scale_copy"
+			],
+			[
+				"leg_",
+				"leg_width"
+			],
+			[
+				"line",
+				"linearGradient"
+			],
+			[
+				"bef",
+				"before_input_leg_grad"
+			],
+			[
+				"before_l",
+				"before_leg"
+			],
+			[
+				"befo",
+				"before_legend"
+			],
+			[
+				"make_",
+				"make_wt_legend"
+			],
+			[
+				"input",
+				"input_perc"
+			],
+			[
+				"ret_gri",
+				"ret_grid_size"
+			],
+			[
+				"grid_",
+				"grid_width"
+			],
+			[
+				"gri",
+				"grid_width"
+			],
+			[
+				"input_",
+				"input_perc_rad"
+			],
+			[
+				"border",
+				"border_width"
+			],
+			[
+				"pref",
+				"retina_pref_ori"
+			],
+			[
+				"perc_t",
+				"perc_wt_range"
+			],
+			[
+				"margi",
+				"margin_trans"
+			],
+			[
+				"wt",
+				"wt_idx"
+			],
+			[
+				"weight",
+				"weight_stage_idx"
+			],
+			[
+				"border_",
+				"border_width"
+			],
+			[
+				"int",
+				"interpolateGreys"
+			],
+			[
+				"per",
+				"perc_wt_range"
+			],
+			[
+				"row_v",
+				"row_viz_min"
+			],
+			[
+				"ret",
+				"ret_size"
+			],
+			[
+				"range",
+				"range_size"
+			],
+			[
+				"larg",
+				"larg_dim"
+			],
+			[
+				"d3",
+				"d3npm\td3npm"
+			],
+			[
+				"or",
+				"pretinal_pref_orientations.json\tFile"
+			],
+			[
+				"tex",
+				"textbf"
+			],
+			[
+				"subs",
+				"subsection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/.dotfiles/.bash_profile",
+			"settings":
+			{
+				"buffer_size": 14145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/custom_path.sh",
+			"settings":
+			{
+				"buffer_size": 402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/.vimrc",
+			"settings":
+			{
+				"buffer_size": 3495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/.gitconfig",
+			"settings":
+			{
+				"buffer_size": 1377,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/.git-prompt.sh",
+			"settings":
+			{
+				"buffer_size": 18374,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/date_cols_test.sh",
+			"settings":
+			{
+				"buffer_size": 979,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/time_col.sh",
+			"settings":
+			{
+				"buffer_size": 589,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/errollloyd/.dotfiles/profile_paths",
+			"settings":
+			{
+				"buffer_size": 734,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 240.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bra",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"brack ju",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"brack go",
+				"BracketHighlighter: Find Matching Offscreen Bracket"
+			],
+			[
+				"tabl",
+				"Table of Comments: Show"
+			],
+			[
+				"key bin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git l",
+				"Git: Log All"
+			],
+			[
+				"csv so",
+				"CSV: Sort by column (Ascending)"
+			],
+			[
+				"proj man add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj man e",
+				"Project Manager: Edit Project"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git show",
+				"Git: Show Tags"
+			],
+			[
+				"git hi",
+				"Git: Commit history"
+			],
+			[
+				"git",
+				"Git: Gitk"
+			],
+			[
+				"gitdi",
+				"Git: Diff Staged Files"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git gut co",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"diff vi",
+				"Diff View: Review last diff"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git con li",
+				"Git Conflict Resolver: Keep Ours"
+			],
+			[
+				"git con",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"origa s",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"proj ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"origam res",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"proj man op",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"orig rest",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"proj e",
+				"Project Manager: Edit Project"
+			],
+			[
+				"orig sa",
+				"Origami: Save Current Layout"
+			],
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"print",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"mark ",
+				"MarkdownTOC:Update TOC"
+			],
+			[
+				"proj edit p",
+				"Project: Edit Project"
+			],
+			[
+				"proje ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"task ht",
+				"Tasks: View as HTML"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"task f",
+				"Tasks: Filter by tags under cursors"
+			],
+			[
+				"task",
+				"Tasks: Copy Statistics"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"mark pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"term v",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"orig",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origa",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"gitg co",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"goto bo",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"book g",
+				"SublimeBookmarks: Goto Bookmark"
+			],
+			[
+				"sub bo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packen",
+				"Package Control: Enable Package"
+			],
+			[
+				"Auto",
+				"Autocomplete file name"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"proj fo",
+				"Project: Add Folder"
+			],
+			[
+				"porj new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj op",
+				"Project Manager: Edit Project"
+			],
+			[
+				"HTML",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"pack re o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"branch",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"term vi",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mar prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mak pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"terminal v",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"proj man",
+				"Project Manager: Append Project"
+			],
+			[
+				"proj man ap",
+				"Project Manager: Append Project"
+			],
+			[
+				"resou open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"proj",
+				"Project Manager: Add New Project"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"cheat",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preiew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"TOC",
+				"MarkdownTOC:Insert TOC"
+			],
+			[
+				"prevew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"new fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"packager",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"$project_path",
+			"view.__dir__()",
+			"view.dir()",
+			"view.__dir__",
+			"view",
+			"dir()",
+			"quit()",
+			"m.sin()",
+			"import math as m",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/.dotfiles"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/.dotfiles/ANSI_cols_by_hue",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default.sublime-keymap",
+		"/Users/errollloyd/.dotfiles/bash_profile_for_isabell",
+		"/Users/errollloyd/.dotfiles/ANSI_cols_by_hue_data.csv",
+		"/Users/errollloyd/.dotfiles/profile_paths",
+		"/Users/errollloyd/.dotfiles/time_col_print_test.sh",
+		"/Users/errollloyd/.dotfiles/test.sh",
+		"/Users/errollloyd/.dotfiles/.bash_profile",
+		"/Users/errollloyd/.dotfiles/date_cols_test.sh",
+		"/Users/errollloyd/.dotfiles/backup_time_test.sh",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/full_errol.bib",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/hebb_ad_hoc.bib",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/stdp_refs.bib",
+		"/var/folders/06/9bm20ry51jd718yz_n6sny140000gn/T/tmp4rht2v/old/vc_discussion.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/errol_edits_log_plast.md",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/tex_doc_conv.sh",
+		"/Users/errollloyd/Dropbox/Science/papers/vc_intro_old.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/.gitignore",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/DiffView/Default.sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_discussion.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Git Conflict Resolver/README.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Git Conflict Resolver/GitConflictResolver.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/README.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/general_thoughts.md",
+		"/Users/errollloyd/.bash_profile",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/index.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Latin Work.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/OSPaper_home_stretch.todo.html",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/preferred_idx.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/preferred_idx.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/ori_sf_resp.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/ori_sf_resp.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/json_test.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/ori_tun_pref_sf.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/json_test.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig/ori_tun_resp.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/output_data_script.m",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/results_fig.html",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/ori_tun_pref_sf.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/pretinal_pref_orientations.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/Katies_data_feedforward/pretinal_pref_orientations_UNINVERTED.json",
+		"/tmp/subl stdin AEIOkq.txt",
+		"/tmp/subl stdin cUb4QJ.txt",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/d3_5_cdn.sublime-snippet",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/FileSystem Autocompletion/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Origami/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/FuzzyFilePath/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/User/d35cdn.sublime-snippet",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/test_link.py",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/paper/vc_results.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/messages/install.txt",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_intro.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/errol_latex.sublime-build",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/temp.todo",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/figures/errol/scheme_plast_fig.pdf",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/build.ssh",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_supp.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.tex",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/general_thoughts.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/errol_thoughts_todo.todo",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/temp.todo",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/paper_meeting_todo.html",
+		"/Users/errollloyd/Desktop/discussion_temp.tex",
+		"/Users/errollloyd/Desktop/discussion_temp.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/hws_exp.py",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/test.md",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/intro_draft.md",
+		"/Users/errollloyd/Desktop/md_test.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/WordCount.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/abstract.md",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_orientDist.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/nonstop_errol_build.ssh",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp1/vc_NN.pdf",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/errol_thoughts_todo.todo",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/abstract.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/plast_v1_paper.sublime-workspace",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/errol.bib",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_methods.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/library.json",
+		"/Volumes/MagellanX/PhD_Data/comp1/spartan_cloud_sz_c_25/sf_idx_6.svg",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_networkSpec.tex",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.pdf",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Python/Snippets/for.sublime-snippet",
+		"/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.log",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownTOC/MarkdownTOC.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownTOC.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/comp2/general_thoughts.md"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"conda",
+			"background",
+			"([^\\\\])\"",
+			" ",
+			"\" ",
+			"time",
+			"sym_staged",
+			"sym_init_commit",
+			" ",
+			"short_sha",
+			"$short_sha",
+			" ",
+			"\" ",
+			" ",
+			"%",
+			"ctrl+r",
+			">",
+			"*",
+			"git",
+			"now",
+			"time_sun_symbol",
+			"c",
+			"date_col_parse",
+			"\t",
+			"19",
+			"19\t",
+			"\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\1\\\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/.dotfiles/.bash_profile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1814,
+								1814
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "bash"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3751,
+										3753
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"region.yellowish brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1179,
+										1181
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tabs_extra_last_activated": 1570506172.25,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1580.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/.dotfiles/custom_path.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "bash"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 217,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tabs_extra_last_activated": 1566642931.28,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/errollloyd/.dotfiles/.vimrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "vimrc (viml)"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"git_gutter_is_enabled": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Vimrc (VimL).sublime-syntax",
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1996.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/errollloyd/.dotfiles/.gitconfig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "git config"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5,
+										6
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										5,
+										6
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Git Formats/Git Config.sublime-syntax",
+							"tabs_extra_last_activated": 1570504997.3,
+							"tabs_extra_last_activated_sheet_index": 3,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/errollloyd/.dotfiles/.git-prompt.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18374,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										8827,
+										8827
+									],
+									[
+										16480,
+										16480
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								3232,
+								3232
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "bash"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3243,
+										3244
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3240,
+										3241
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tabs_extra_last_activated": 1570505000.32,
+							"tabs_extra_last_activated_sheet_index": 4,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1148.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/errollloyd/.dotfiles/date_cols_test.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "bash"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										960,
+										961
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										547,
+										548
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tabs_extra_last_activated": 1570504999.07,
+							"tabs_extra_last_activated_sheet_index": 5,
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/errollloyd/.dotfiles/time_col.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "bash"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										435,
+										436
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										405,
+										406
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tabs_extra_last_activated": 1570505001.55,
+							"tabs_extra_last_activated_sheet_index": 6,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/errollloyd/.dotfiles/profile_paths",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 8,
+								"count": 77,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tabs_extra_last_activated": 1570505092.35,
+							"tabs_extra_last_activated_sheet_index": 7,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 296.0
+	},
+	"output.exec":
+	{
+		"height": 208.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 150.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 34.0
+	},
+	"pinned_build_system": "",
+	"project": ".dotfiles.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vim",
+				".vimrc"
+			],
+			[
+				"gitc",
+				".gitconfig"
+			],
+			[
+				"git pr",
+				".git-prompt.sh"
+			],
+			[
+				"bash ",
+				"bash_profile_for_isabell"
+			],
+			[
+				".bib",
+				"Paper Files/full_errol.bib"
+			],
+			[
+				"std",
+				"Paper Files/stdp_refs.bib"
+			],
+			[
+				"intr",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"dis",
+				"Paper Files/vc_discussion.tex"
+			],
+			[
+				"disc",
+				"Paper Files/vc_discussion.tex"
+			],
+			[
+				"gen",
+				"Notes/general_thoughts.md"
+			],
+			[
+				"ge",
+				"Notes/general_thoughts.md"
+			],
+			[
+				"full_errol",
+				"Paper Files/full_errol.bib"
+			],
+			[
+				"vc.",
+				"Paper Files/vc.tex"
+			],
+			[
+				"",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"in",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"di",
+				"Paper Files/vc_discussion.tex"
+			],
+			[
+				"vc.t",
+				"Paper Files/vc.tex"
+			],
+			[
+				"int",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"gene",
+				"Notes/general_thoughts.md"
+			],
+			[
+				"intro",
+				"Paper Files/vc_intro.tex"
+			],
+			[
+				"fig",
+				"Katies_data_feedforward/results_fig.html"
+			],
+			[
+				"res",
+				"Paper Files/vc_results.tex"
+			],
+			[
+				"resu",
+				"Paper Files/vc_results.tex"
+			],
+			[
+				"temp",
+				"plasticity/temp.todo"
+			],
+			[
+				"supp",
+				"plast_v1_paper/vc_supp.tex"
+			],
+			[
+				"contrast",
+				"plast_v1_paper/vc_contrastInvariance.tex"
+			],
+			[
+				"dus",
+				"plast_v1_paper/vc_discussion.tex"
+			],
+			[
+				"gner",
+				"comp1/general_thoughts.md"
+			],
+			[
+				"re",
+				"plast_v1_paper/vc_results.tex"
+			],
+			[
+				"todo",
+				"comp1/errol_thoughts_todo.todo"
+			],
+			[
+				"term",
+				"Terminal (bash)"
+			],
+			[
+				"ter",
+				"Terminal (bash)"
+			],
+			[
+				"introt",
+				"plast_v1_paper/vc_intro.tex"
+			],
+			[
+				"te",
+				"Terminal (bash)"
+			],
+			[
+				"ign",
+				"plast_v1_paper/.gitignore"
+			],
+			[
+				".gi",
+				"plast_v1_paper/.gitignore"
+			],
+			[
+				"non",
+				"plast_v1_paper/nonstop_errol_build.ssh"
+			],
+			[
+				"vc_supp",
+				"plast_v1_paper/vc_supp.tex"
+			],
+			[
+				"vc_orientdist",
+				"plast_v1_paper/vc_orientDist.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
