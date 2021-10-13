@@ -63,7 +63,7 @@
 	"match_brackets_content": false,
 	"match_brackets_square": false,
 	"match_tags": false,
-	"preview_on_click": false,
+	"preview_on_click": true,
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
 	"scroll_speed": 0,
