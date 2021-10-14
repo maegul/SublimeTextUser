@@ -1,0 +1,232 @@
+{
+	// http://www.sublimetext.com/docs/3/color_schemes.html
+	"variables": {
+		// "green": "#FF0000",
+		"dark": "hsl(226, 13.8%, 15.5%)",
+		"white": "hsl(20, 10%, 65%)",
+		"accent_red": "hsl(0, 38%, 54%)",
+		"accent_orange": "hsl(30.8, 55.3%, 60.2%)",
+		"accent_yellow": "hsl(50.8, 40.3%, 50.2%)",
+		"accent_green":   "hsl(89.8, 23%, 50%)",
+		"accent_blue":   "hsl(199.8, 33%, 55%)",
+		"code_black":  "hsl(40, 28%, 10%)",
+		"code_white":  "hsl(40, 14%, 64%)",
+		"code_grey": "hsl(50, 11%, 41%)",
+		"code_red":    "hsl(6, 50%, 61%)",
+		"code_orange":  "hsl(32, 39%, 52%)",
+		"code_yellow":  "hsl(53.9, 33%, 45%)",
+		"code_green":   "hsl(89.8, 15%, 50%)",
+		"code_blue":    "hsl(210, 15%, 59%)",
+		"code_purple":  "hsl(301, 12%, 57%)",
+
+	},
+	"globals": {
+		"foreground": "var(white)",
+		"background": "var(dark)"
+	},
+	"rules": [
+		{
+			"name": "Markdown: list text",
+			"scope": "markup.list",
+			"foreground": "var(white)",
+		},
+		{
+			"name": "bullets",
+			"scope": "markup.list.unnumbered.bullet punctuation.definition, markup.list.numbered.bullet, markup.list.numbered.bullet punctuation.definition",
+			"foreground": "var(accent_red)",
+			"font_style": "bold glow",
+		},
+		{
+			"name": "Italics",
+			"scope": "markup.italic - markup.bold",
+			"foreground": "var(accent_yellow)"
+		},
+		{
+			"name": "Bold",
+			"scope": "markup.bold - markup.italic",
+			"foreground": "var(accent_orange)"
+		},
+		{
+			"name": "inline raw",
+			"scope": "markup.raw.inline",
+			"foreground": "var(accent_green)"
+		},
+		{
+			"name": "heading punctuation",
+			"scope": "punctuation.definition.heading.begin",
+			"foreground": "color(var(accent_red) s(+ 15%))",
+			"font_style": "bold underline glow",
+			"background": "hsl(0, 0%, 0%)",
+		},
+		{
+			"name": "Headings",
+			"scope": "markup.heading, markup.heading entity.name.section.markdown",
+			"foreground": "color(var(accent_red) s(+ 10%))",
+		},
+		{
+			"name": "heading 1",
+			"scope": "markup.heading.1.markdown, markup.heading.1.markdown entity.name.section.markdown",
+			// "foreground": "var(accent_red)",
+			"font_style": "bold underline glow",
+			"background": "color(var(dark) l(0%))"
+		},
+		{
+			"name": "heading 2",
+			"scope": "markup.heading.2.markdown, markup.heading.2.markdown entity.name.section.markdown",
+			// "foreground": "var(accent_red)",
+			"font_style": "bold underline",
+			"background": "color(var(dark) l(- 6%))"
+		},
+		{
+			"name": "heading 3",
+			"scope": "markup.heading.3.markdown, markup.heading.3.markdown entity.name.section.markdown",
+			// "foreground": "var(accent_red)",
+			"font_style": "bold",
+			"background": "color(var(dark) l(- 2%))"
+		},
+		{
+			"name": "heading 4",
+			"scope": "markup.heading.4.markdown, markup.heading.4.markdown entity.name.section.markdown",
+			// "foreground": "var(accent_red)",
+			"font_style": "bold italic",
+			"background": "color(var(dark) l(+ 4%))"
+		},
+		{
+			"name": "Markup: Plain Link",
+			"scope": "meta.link.inet markup.underline.link, meta.link.email.lt-gt markup.underline.link",
+			"foreground": "var(accent_blue)"
+		},
+		{
+			"name": "links title",
+			"scope": "string.other.link.title",
+			"foreground": "var(accent_blue)",
+		},
+
+		// >> Custom Code
+		{
+			"name": "Code fence",
+			"scope": "meta.code-fence",
+			"background": "var(code_black)",
+		},
+		{
+			"name": "Code fence language name",
+			"scope": "meta.code-fence constant.other.language-name",
+			"foreground": "var(accent_orange)",
+			"font_style": "bold underline",
+		},
+		{
+			"name": "Markdown: Block code",
+			"scope": "markup.raw.block, markup.raw.code-fence, markup.raw.code-fence meta.qualified-name",
+			"foreground": "var(code_white)",
+			"background": "var(code_black)"
+		},
+		{
+			"name": "Embedded Source",
+			"scope": "string source, text source",
+			"foreground": "var(code_white)"
+		},
+
+		{
+			"name": "Comments",
+			"scope": "comment, comment punctuation",
+			"foreground": "var(code_grey)"
+		},
+		{
+			"name": "Comments: Preprocessor",
+			"scope": "comment.block.preprocessor",
+			"foreground": "#C77E77"
+		},
+		{
+			"name": "Invalid - Deprecated",
+			"scope": "invalid.deprecated",
+			"foreground": "#F8F8F0",
+			"background": "#AE81FF",
+			"font_style": "italic underline"
+		},
+		{
+			"name": "Invalid - Illegal",
+			"scope": "invalid.illegal",
+			"foreground": "#060d31"
+		},
+		{
+			"name": "Keywords",
+			"scope": "keyword, storage",
+			"foreground": "var(code_red)"
+		},
+		{
+			"name": "Operators",
+			"scope": "keyword.operator",
+			"foreground": "var(code_red)"
+		},
+		{
+			"name": "Declaration functions classes",
+			"scope": "keyword.declaration",
+			"foreground": "var(code_blue)",
+			"font_style": "bold",
+		},
+		{
+			"name": "Types",
+			"scope": "storage.type, support.type",
+			"foreground": "var(code_blue)"
+		},
+		{
+			"name": "Functions",
+			"scope": "entity.name.function, support.function, entity",
+			"foreground": "var(code_yellow)",
+			"font_style": "bold",
+		},
+		{
+			"name": "Classes",
+			"scope": "entity.name.type, entity.other.inherited-class, support.class",
+			"foreground": "#C77E77"
+		},
+		{
+			"name": "Exceptions",
+			"scope": "entity.name.exception",
+			"foreground": "#06cdcd"
+		},
+		{
+			"name": "Sections",
+			"scope": "entity.name.section",
+			"foreground": "#C77E77",
+			"font_style": "bold"
+		},
+		{
+			"name": "Numbers",
+			"scope": "constant.numeric, constant",
+			"foreground": "var(code_purple)"
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"foreground": "var(code_red)"
+		},
+		{
+			"name": "Strings",
+			"scope": "string, constant.character, string punctuation",
+			"foreground": "var(code_green)"
+		},
+		// {
+		// 	"name": "Strings: Punctuation",
+		// 	"scope": "string punctuation",
+		// 	"foreground": "var(code_green)"
+		// },
+		{
+			"name": "Strings: Escape Sequences",
+			"scope": "constant.character.escape",
+			"font_style": "bold"
+		},
+		{
+			"name": "Strings: Symbols",
+			"scope": "constant.other.symbol",
+			"background": "#17002a",
+			"font_style": "bold"
+		},
+		// {
+		// 	"name": "Embedded Source",
+		// 	"scope": "string source, text source",
+		// 	"foreground": "#bcbcbc"
+		// },
+
+	],
+}
