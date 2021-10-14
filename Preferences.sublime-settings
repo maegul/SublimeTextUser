@@ -40,7 +40,7 @@
 	"close_windows_when_empty": true,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_minimap_border": true,
-	"draw_white_space":["leading_mixed", "trailing", "isolated"],
+	"draw_white_space":["selection", "leading_mixed", "trailing", "isolated"],
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": true,
 	"fold_buttons": true,
