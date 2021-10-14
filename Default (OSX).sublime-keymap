@@ -278,8 +278,19 @@
 
 	// For Tab switcher ... using super+alt tab rather than ctrl+alt tab
 	// { "keys": ["super+alt+tab"], "command": "extended_switcher", "args": {"list_mode": "window"} },
-	{ "keys": ["super+ctrl+shift+p"], "command": "extended_switcher", "args": {"list_mode": "window"} },
-	{ "keys": ["super+alt+shift+p"], "command": "extended_switcher", "args": {"list_mode": "active_group"} },
+	// { "keys": ["super+ctrl+shift+p"], "command": "extended_switcher", "args": {"list_mode": "window"} },
+	// { "keys": ["super+alt+shift+p"], "command": "extended_switcher", "args": {"list_mode": "active_group"} },
+
+	// >> Using Tab filter instead
+
+	{
+		"keys": ["super+ctrl+shift+p"], "command": "tab_filter"
+	},
+	{
+		"keys": ["super+alt+shift+p"], "command": "tab_filter", "args": {
+			"active_group_only": true
+		}
+	},
 
 
 	// > Markdown Editing
