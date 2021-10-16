@@ -3,5 +3,6 @@
 	{
 		"pyls": {"enabled": false },
 		"pyright": {"enabled": true}
-	}
+	},
+	"document_highlight_style": ""
 }
