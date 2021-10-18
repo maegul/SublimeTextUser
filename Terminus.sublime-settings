@@ -7,31 +7,31 @@
 	// see https://www.sublimetext.com/docs/3/color_schemes.html#colors for the
 	// available colors
 	"user_theme_colors": {
-	    "background": "#0E1927",
-	    "foreground": "#D6DBEC",
-	    // "foreground": "#ffffff",
-	    "caret": "#FFD26A",
-	    // "caret": "white",
-	    "block_caret": "#FFD26A",
-	    "selection": "#313565",
-	    // "selection": "#444444",
-	    "selection_foreground": "#ffffff",
-	    "00": "#000000",  // black
-	    "01": "#cd0000",  // red
-	    "02": "#00cd00",  // green
-	    "03": "#cdcd00",  // brown
-		"04": "#7E56FF",  // blue
-	    "05": "#cd00cd",  // magenta
-	    "06": "#00cdcd",  // cyan
-	    "07": "#e5e5e5",  // white
-	    "08": "#7f7f7f",  // light_black
-	    "09": "#ff0000",  // light_red
-	    "10": "#00ff00",  // light_green
-	    "11": "#ffff00",  // light_brown
-	    "12": "#5c5cff",  // light_blue
-	    "13": "#ff00ff",  // light_magenta
-	    "14": "#00ffff",  // light_cyan
-	    "15": "#ffffff",   // light_white
+            "background": "hsl(213, 47.2%, 10.4%)",
+            "foreground": "hsl(225, 20.3%, 68%)",
+            // "foreground": "#ffffff",
+            "caret": "hsl(41.9, 100%, 70.8%)",
+            // "caret": "white",
+            "block_caret": "hsl(41.9, 100%, 70.8%)",
+            "selection": "hsl(235, 34.7%, 29.4%)",
+            // "selection": "#444444",
+            "selection_foreground": "hsl(0, 0%, 80%)",
+            "00": "hsl(0, 0%, 0%)",  // black
+            "01": "hsl(0, 100%, 40.2%)",  // red
+            "02": "hsl(120, 100%, 30.2%)",  // green
+            "03": "hsl(60, 100%, 36.2%)",  // brown
+            "04": "hsl(254, 40%, 46.9%)",  // blue
+            "05": "hsl(300, 50%, 40.2%)",  // magenta
+            "06": "hsl(180, 100%, 30.2%)",  // cyan
+            "07": "hsl(0, 0%, 69.8%)",  // white
+            "08": "hsl(0, 0%, 49.8%)",  // light_black
+            "09": "hsl(0, 60%, 55.2%)",  // light_red
+            "10": "hsl(120, 80%, 43.2%)",  // light_green
+            "11": "hsl(60, 100%, 46.2%)",  // light_brown
+            "12": "hsl(254, 40%, 56.9%)",  // light_blue
+            "13": "hsl(300, 50%, 50.2%)",  // light_magenta
+            "14": "hsl(180, 100%, 40.2%)",  // light_cyan
+            "15": "hsl(0, 0%, 79.8%)",   // light_white
 	},
 	"view_settings": {
 		"font_face" : "Hack Nerd Font",
