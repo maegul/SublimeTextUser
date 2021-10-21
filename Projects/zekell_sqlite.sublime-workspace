@@ -4,456 +4,24 @@
 		"selected_items":
 		[
 			[
-				"mk",
-				"mk_gauss_1d"
+				"pane",
+				"pane_for_opening_results  \tsetting"
 			],
 			[
-				"surr",
-				"surr_sd_strat"
-			],
-			[
-				"ma",
-				"mark"
-			],
-			[
-				"do",
-				"dog_args="
-			],
-			[
-				"mk_ft",
-				"mk_dog_rf_ft"
-			],
-			[
-				"dog",
-				"dog_rf_params"
-			],
-			[
-				"dogfft",
-				"dog_rf_fft_freqs"
-			],
-			[
-				"dog_rf_ff",
-				"dog_rf_fft_freqs"
-			],
-			[
-				"dog_r",
-				"dog_rf_params"
-			],
-			[
-				"ba",
-				"basic_float_strat"
-			],
-			[
-				"Gau",
-				"Gauss2DSpatFiltParams"
-			],
-			[
-				"mk_gau",
-				"mk_gauss_2d"
-			],
-			[
-				"op",
-				"OptimizeResult"
-			],
-			[
-				"TQ",
-				"TQTempFiltParams"
-			],
-			[
-				"Gauss",
-				"Gauss2DSpatFiltParams"
-			],
-			[
-				"ar",
-				"array"
-			],
-			[
-				"Ga",
-				"Gauss2DSpatFiltParams"
-			],
-			[
-				"arcl",
-				"arclength_test_units"
-			],
-			[
-				"fi",
-				"filter_functions"
-			],
-			[
-				"spat_",
-				"spat_res="
-			],
-			[
-				"mk_co",
-				"mk_sd_limited_spat_coords"
-			],
-			[
-				"t_gau",
-				"t_gauss_ft"
-			],
-			[
-				"rfft",
-				"rfftfreq"
-			],
-			[
-				"mk_",
-				"mk_sd_limited_spat_coords"
-			],
-			[
-				"ce",
-				"cent_h_sd="
-			],
-			[
-				"TimeT",
-				"TimeTest2"
-			],
-			[
-				"Qua",
-				"QuantityTest"
-			],
-			[
-				"Fil",
-				"FileNotFoundError"
-			],
-			[
-				"isf",
-				"is_file"
-			],
-			[
-				"stat",
-				"staticmethod"
-			],
-			[
-				"p",
-				"path"
-			],
-			[
-				"class",
-				"classmethod"
-			],
-			[
-				"to",
-				"to_flat_dict"
-			],
-			[
-				"m",
-				"meta_data"
-			],
-			[
-				"Temp",
-				"TempFiltParams"
-			],
-			[
-				"filter",
-				"filter_functions"
-			],
-			[
-				"d",
-				"dump"
-			],
-			[
-				"e",
-				"expanduser"
-			],
-			[
-				"data",
-				"data_dir="
-			],
-			[
-				"rea",
-				"read_text"
-			],
-			[
-				"CON",
-				"CONFIG_FILE_NAME"
-			],
-			[
-				"config",
-				"config_file_name"
-			],
-			[
-				"gl",
-				"rglob"
-			],
-			[
-				"t",
-				"timestamp"
-			],
-			[
-				"optimi",
-				"optimised_result"
-			],
-			[
-				"TempFi",
-				"TempFiltParams"
-			],
-			[
-				"sour",
-				"source_data="
-			],
-			[
-				"T",
-				"TQTempFiltParams"
-			],
-			[
-				"TQTe",
-				"TQTempFiltArgs"
-			],
-			[
-				"TQT",
-				"TQTempFiltArgs"
-			],
-			[
-				"apl",
-				"amplitude="
-			],
-			[
-				"TQTem",
-				"TQTempFiltParams"
-			],
-			[
-				"to_",
-				"to_flat_dict"
-			],
-			[
-				"Opti",
-				"OptimizeResult"
-			],
-			[
-				"numer",
-				"numerical_sequence"
-			],
-			[
-				"numeri",
-				"numerical_sequence"
-			],
-			[
-				"Opt",
-				"OptimizeResult"
-			],
-			[
-				"Met",
-				"MetaData"
-			],
-			[
-				"P",
-				"Protocol"
-			],
-			[
-				"typi",
-				"typing_extensions"
-			],
-			[
-				"Qu",
-				"Quantity"
-			],
-			[
-				"typ",
-				"typing"
-			],
-			[
-				"num",
-				"numpy"
-			],
-			[
-				"lin",
-				"linspace"
+				"uu",
+				"uuid\tmodule"
 			],
 			[
 				"nu",
-				"numpy"
+				"numpy\tmodule"
 			],
 			[
-				"from",
-				"fromtimestamp"
+				"auto",
+				"auto_show_images  \tsetting"
 			],
 			[
-				"f",
-				"for"
-			],
-			[
-				"si",
-				"sin"
-			],
-			[
-				"fro",
-				"fromtimestamp"
-			],
-			[
-				"tq_f",
-				"tq_ft_wrapper2"
-			],
-			[
-				"max",
-				"max_nfev="
-			],
-			[
-				"least",
-				"least_squares"
-			],
-			[
-				"py",
-				"pyplot"
-			],
-			[
-				"flo",
-				"float64"
-			],
-			[
-				"tq_t",
-				"tq_ft_wrapper"
-			],
-			[
-				"mktq",
-				"mk_tq_ft"
-			],
-			[
-				"int",
-				"integer"
-			],
-			[
-				"Tem",
-				"TempFiltData"
-			],
-			[
-				"met",
-				"meta_data="
-			],
-			[
-				"co",
-				"color"
-			],
-			[
-				"l",
-				"leastsq"
-			],
-			[
-				"fil",
-				"filter_functions"
-			],
-			[
-				"filt",
-				"filter_functions"
-			],
-			[
-				"four",
-				"fourier\tstatement"
-			],
-			[
-				"retu",
-				"return_abs"
-			],
-			[
-				"mk_tq",
-				"mk_tq_fft\tfunction"
-			],
-			[
-				"temp",
-				"temp_ext_n_tau"
-			],
-			[
-				"temp_e",
-				"temp_ext_n_tau\tparam"
-			],
-			[
-				"gri",
-				"PairGrid\tclass"
-			],
-			[
-				"gaussian",
-				"gaussian_kde\tclass"
-			],
-			[
-				"sta",
-				"stats\tmodule"
-			],
-			[
-				"pri",
-				"print_rep\tparam"
-			],
-			[
-				"sur",
-				"surr_tf\tparam"
-			],
-			[
-				"surr_",
-				"surr_stim_prod\tstatement"
-			],
-			[
-				"centre",
-				"cent_resp\tstatement"
-			],
-			[
-				"su",
-				"surr_tf"
-			],
-			[
-				"teme",
-				"temp_ext_n_tau\tparam"
-			],
-			[
-				"temp_ext",
-				"temp_ext_n_tau\tparam"
-			],
-			[
-				"rf_spat",
-				"mk_rf_spat_charact"
-			],
-			[
-				"mat",
-				"matplotlib\tmodule"
-			],
-			[
-				"view_max",
-				"view_max=\tparam"
-			],
-			[
-				"gen_",
-				"gen_rect_sig_fft\tfunction"
-			],
-			[
-				"gen_rec",
-				"gen_rect_sig_fft\tfunction"
-			],
-			[
-				"opt",
-				"opt_results\tstatement"
-			],
-			[
-				"gen",
-				"gen_sin"
-			],
-			[
-				"V",
-				"VBox\tclass"
-			],
-			[
-				"interact",
-				"interactive_output\tfunction"
-			],
-			[
-				"Flo",
-				"FloatSlider\tclass"
-			],
-			[
-				"Int",
-				"IntSlider\tclass"
-			],
-			[
-				"stanley",
-				"@stanleyVisualOrientationDirectional2012"
-			],
-			[
-				"rf",
-				"rf_stim\tmodule"
-			],
-			[
-				"stim",
-				"stimulus"
-			],
-			[
-				"def",
-				"def\tkeyword"
+				"wi",
+				"wiki_extension  \tsetting"
 			],
 			[
 				"H",
@@ -462,6 +30,10 @@
 			[
 				"Time",
 				"TimedArray\tclass"
+			],
+			[
+				"surr",
+				"surr_resp\tstatement"
 			],
 			[
 				"retur",
@@ -496,6 +68,10 @@
 				"bar_lum\tparam"
 			],
 			[
+				"spat_",
+				"spat_ext"
+			],
+			[
 				"temp_re",
 				"temp_freq"
 			],
@@ -514,42 +90,477 @@
 			[
 				"zero",
 				"zero_center\tparam"
+			],
+			[
+				"surr_sd_",
+				"surr_sd_vt\tstatement"
+			],
+			[
+				"sd",
+				"sd_vt\tstatement"
+			],
+			[
+				"lesion_dep",
+				"lesion_depths_cut_plane\tstatement"
+			],
+			[
+				"px",
+				"px_scale"
+			],
+			[
+				"lesion",
+				"lesion_depths_cut_plane\tparam"
+			],
+			[
+				"lesion_de",
+				"lesion_depths_cut_plane"
+			],
+			[
+				"Themis",
+				"ThemisDirectory\tstatement"
+			],
+			[
+				"mk",
+				"mk_themis_files_directory\tfunction"
+			],
+			[
+				"mk_ce",
+				"mk_cell_id_from_run_key\tfunction"
+			],
+			[
+				"use",
+				"use_previous_load\tparam"
+			],
+			[
+				"previousl",
+				"previous_load_path"
+			],
+			[
+				"score",
+				"scorer\tparam"
+			],
+			[
+				"gen_",
+				"gen_sign_index\tfunction"
+			],
+			[
+				"analysis",
+				"analysisData\tstatement"
+			],
+			[
+				"the",
+				"themis\tmodule"
+			],
+			[
+				"run",
+				"run_key\tparam"
+			],
+			[
+				"themis_",
+				"themis_obj\tparam"
+			],
+			[
+				"gen",
+				"get_on_off_resp"
+			],
+			[
+				"ana",
+				"analysisFuncKeys"
+			],
+			[
+				"biph",
+				"biphase_split_point"
+			],
+			[
+				"dl_",
+				"dl_sum"
+			],
+			[
+				"x_lim",
+				"x_lim_sig_ratio\tstatement"
+			],
+			[
+				"anal",
+				"analData\tparam"
+			],
+			[
+				"add",
+				"addAnalysisData\tfunction"
+			],
+			[
+				"from_",
+				"from_dict\tfunction"
+			],
+			[
+				"analDd",
+				"analDataDF\tstatement"
+			],
+			[
+				"a",
+				"analData\tstatement"
+			],
+			[
+				"fr",
+				"from_dict\tfunction"
+			],
+			[
+				"Cel",
+				"CellData\tstatement"
+			],
+			[
+				"con",
+				"condition_type"
+			],
+			[
+				"Run",
+				"RUN_KEY"
+			],
+			[
+				"Mu",
+				"MultiIndex\tclass"
+			],
+			[
+				"C",
+				"CELL_ID"
+			],
+			[
+				"TDCCat",
+				"TDCCatalogue\tstatement"
+			],
+			[
+				"TDCC",
+				"TDCCatalogue\tstatement"
+			],
+			[
+				"TDC_s",
+				"TDC_signals_medians"
+			],
+			[
+				"exc_res",
+				"exc_result2\tstatement"
+			],
+			[
+				"retu",
+				"return_multi_index\tparam"
+			],
+			[
+				"mk_",
+				"mk_cell_key\tfunction"
+			],
+			[
+				"filt",
+				"filtered_data\tparam"
+			],
+			[
+				"iter",
+				"iterable\tparam"
+			],
+			[
+				"curve",
+				"curveFuncs\tmodule"
+			],
+			[
+				"Cu",
+				"CurveFuncs\tstatement"
+			],
+			[
+				"Cur",
+				"CurveFits\tstatement"
+			],
+			[
+				"cur",
+				"curveFuncs\tstatement"
+			],
+			[
+				"S",
+				"SavePath"
+			],
+			[
+				"cu",
+				"curveFuncs\tstatement"
+			],
+			[
+				"cell",
+				"cell_data_key\tparam"
+			],
+			[
+				"_pre_omit_ma",
+				"_pre_omit_marker_codes\tstatement"
+			],
+			[
+				"_pre_",
+				"_pre_omit_marker_codes\tstatement"
+			],
+			[
+				"omit_",
+				"omit_trials\tparam"
+			],
+			[
+				"omit",
+				"omit_trials"
+			],
+			[
+				"edge",
+				"edgecolor"
+			],
+			[
+				"line",
+				"linestyle"
+			],
+			[
+				"biphase",
+				"biphase_split_point"
+			],
+			[
+				"conditions_tri",
+				"conditions_trials_hist"
+			],
+			[
+				"spont",
+				"spont_rate"
+			],
+			[
+				"parameter",
+				"parameters"
+			],
+			[
+				"window_",
+				"window_range\tstatement"
+			],
+			[
+				"win",
+				"window_range\tstatement"
+			],
+			[
+				"peri_",
+				"peri_marker_window\tparam"
+			],
+			[
+				"spon",
+				"spont_method"
+			],
+			[
+				"spont_",
+				"spont_time_length\tstatement"
+			],
+			[
+				"peri",
+				"peri_marker_window"
+			],
+			[
+				"themi",
+				"themis_obj\tparam"
+			],
+			[
+				"bi",
+				"biphase_select_resp"
+			],
+			[
+				"bip",
+				"biphas_id"
+			],
+			[
+				"que",
+				"query"
+			],
+			[
+				"cond_tun",
+				"cond_tuning_biphase_mask\tstatement"
+			],
+			[
+				"catalogue",
+				"catalogue_mode"
+			],
+			[
+				"tdcCat",
+				"TDCCatConstructor"
+			],
+			[
+				"sort",
+				"sortArgs\tparam"
+			],
+			[
+				"tdc",
+				"tdc_refresh\tparam"
+			],
+			[
+				"update",
+				"updateKwArgs\tparam"
+			],
+			[
+				"met",
+				"method_strings\tstatement"
+			],
+			[
+				"spkT",
+				"spkTimesB\tparam"
+			],
+			[
+				"multi_",
+				"multi_unit_clusters\tstatement"
+			],
+			[
+				"clus_labe",
+				"clus_label_idxs"
+			],
+			[
+				"label_to",
+				"label_to_idx"
+			],
+			[
+				"duplicate",
+				"duplicated"
+			],
+			[
+				"multi_un",
+				"multi_unit_clusters"
+			],
+			[
+				"drop_duplicate",
+				"drop_duplicate_spikes"
+			],
+			[
+				"identi",
+				"identify_collisions"
+			],
+			[
+				"colliid",
+				"collision_idxs"
+			],
+			[
+				"drop",
+				"drop_collisions"
+			],
+			[
+				"multi_uni",
+				"multi_unit_index\tstatement"
+			],
+			[
+				"_pl",
+				"_plot_tuning"
+			],
+			[
+				"_cel",
+				"_cell_id_print"
+			],
+			[
+				"_stim",
+				"_stim_params_print"
+			],
+			[
+				"_as",
+				"_assign_project"
+			],
+			[
+				"incl",
+				"incl_hidden\tparam"
+			],
+			[
+				"tdcO",
+				"tdcOpenPeeler"
+			],
+			[
+				"wri",
+				"writeWaveClusMat"
+			],
+			[
+				"read",
+				"readBasicSpkMat"
+			],
+			[
+				"get",
+				"getMethods\tfunction"
+			],
+			[
+				"obj",
+				"object_class\tparam"
+			],
+			[
+				"fun",
+				"funcTracker\tfunction"
+			],
+			[
+				"func",
+				"_function_tracking"
+			],
+			[
+				"funct",
+				"functools\tmodule"
+			],
+			[
+				"fil",
+				"file_name\tstatement"
+			],
+			[
+				"save",
+				"save_path\tstatement"
+			],
+			[
+				"in",
+				"index\tstatement"
+			],
+			[
+				"Ce",
+				"CellData\tstatement"
+			],
+			[
+				"CE",
+				"CELL_KEY"
+			],
+			[
+				"che",
+				"checkCellData\tfunction"
+			],
+			[
+				"chec",
+				"checkResult\tstatement"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/lgn_model_proto_nb.py",
+			"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/notes.md",
 			"settings":
 			{
-				"buffer_size": 12234,
+				"buffer_size": 8279,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filter_functions.py",
+			"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/schema.sql",
 			"settings":
 			{
-				"buffer_size": 45579,
+				"buffer_size": 6780,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/units/units.py",
+			"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/zekell.py",
 			"settings":
 			{
-				"buffer_size": 5906,
+				"buffer_size": 7748,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/data_objects.py",
+			"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/test.py",
 			"settings":
 			{
-				"buffer_size": 17644,
+				"buffer_size": 7258,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/proto_nb.py",
+			"settings":
+			{
+				"buffer_size": 16658,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
 		}
 	],
 	"build_system": "",
@@ -564,480 +575,224 @@
 		"selected_items":
 		[
 			[
-				"pack insta",
-				"Package Control: Install Package"
-			],
-			[
 				"proj man add",
 				"Project Manager: Add New Project"
 			],
 			[
-				"proj man",
-				"Project Manager: Remove Project"
-			],
-			[
-				"pyright",
-				"Preferences: LSP-pyright Settings"
-			],
-			[
-				"pack in",
-				"Package Control: Install Package"
-			],
-			[
-				"pack rem",
-				"Package Control: Remove Package"
-			],
-			[
-				"pack list",
-				"Package Control: List Packages"
-			],
-			[
-				"file man d",
-				"File Manager: Delete"
-			],
-			[
-				"lsp res",
-				"LSP: Restart Server"
-			],
-			[
-				"lsp rest",
-				"LSP: Restart Server"
-			],
-			[
-				"proj man edi",
-				"Project Manager: Edit Project"
-			],
-			[
-				"edit co",
-				"PackageDev: Edit Current Color Scheme"
-			],
-			[
-				"brackhih s",
-				"BracketHighlighter: Settings"
-			],
-			[
-				"brack set",
-				"BracketHighlighter: Settings"
-			],
-			[
-				"edit color",
-				"PackageDev: Edit Current Color Scheme"
-			],
-			[
-				"packres op",
-				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"color sch",
-				"PackageDev: Edit Current Color Scheme"
-			],
-			[
-				"rename",
-				"LSP: Rename"
-			],
-			[
-				"repl",
-				"Python REPL Remove Cell Markers"
-			],
-			[
-				"syntax py",
-				"Set Syntax: Python"
-			],
-			[
-				"proj man ed",
-				"Project Manager: Edit Project"
-			],
-			[
-				"mini",
-				"View: Toggle Minimap"
-			],
-			[
-				"linter",
-				"SublimeLinter: Lint This View"
-			],
-			[
-				"sublimeli",
-				"SublimeLinter: Reload SublimeLinter and its Plugins"
-			],
-			[
-				"pack up",
-				"Package Control: Upgrade Package"
-			],
-			[
-				"proj man ",
-				"Project Manager: Edit Project"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings"
-			],
-			[
-				"das",
-				"DashDoc: invoke Dash with selected word"
-			],
-			[
-				"pack ins",
-				"Package Control: Install Package"
-			],
-			[
-				"lsp pref",
-				"Preferences: LSP Settings"
-			],
-			[
-				"lsp",
-				"Preferences: LSP-pyright Settings"
-			],
-			[
-				"term",
-				"Terminus: Reset"
-			],
-			[
-				"reind",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"terminus res",
-				"Terminus: Reset"
-			],
-			[
-				"indent",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"packag co li",
-				"Package Control: List Packages"
-			],
-			[
-				"pack li",
-				"Package Control: Discover Packages"
-			],
-			[
-				"rever hu",
-				"History: Revert Hunk"
-			],
-			[
-				"keybi",
-				"Preferences: Key Bindings"
-			],
-			[
-				"key ",
-				"Keymaps: Find a keymap for..."
-			],
-			[
-				"file rename",
-				"Rename File"
-			],
-			[
-				"an",
-				"ANF: Rename File"
-			],
-			[
-				"proj edi",
-				"Project: Edit Project"
-			],
-			[
-				"re",
-				"File: Revert"
-			],
-			[
-				"rev",
-				"File: Revert"
-			],
-			[
-				"lsp re",
-				"LSP: Restart Servers"
-			],
-			[
-				"rever",
-				"History: Revert Hunk"
-			],
-			[
-				"lsp ",
-				"LSP: Restart Servers"
-			],
-			[
-				"pack",
-				"Package Control: Install Package"
-			],
-			[
-				"proj ma",
-				"Project Manager: Edit Project"
-			],
-			[
-				"pack con u",
-				"Package Control: Upgrade Package"
-			],
-			[
-				"pack con li",
-				"Package Control: List Packages"
-			],
-			[
-				"proj ",
-				"Project: Edit Project"
-			],
-			[
-				"pref sy",
-				"Preferences: Settings – Syntax Specific"
-			],
-			[
-				"termin res",
-				"Terminus: Reset"
-			],
-			[
-				"pack con up",
-				"Package Control: Upgrade Package"
-			],
-			[
-				"term res",
-				"Terminus: Reset"
-			],
-			[
-				"termins reset",
-				"Terminus: Reset"
-			],
-			[
-				"pack edi",
-				"PackageDev: Edit Current Color Scheme"
-			],
-			[
-				"termin re",
-				"Terminus: Reset"
-			],
-			[
-				"proj ed",
-				"Project: Edit Project"
-			],
-			[
-				"anf re",
-				"ANF: Rename File"
-			],
-			[
-				"file de",
-				"ANF: Delete File"
-			],
-			[
-				"anf ",
-				"ANF: Rename File"
-			],
-			[
-				"brows",
-				"Preferences: Browse Packages"
-			],
-			[
-				"pack dev",
-				"PackageDev: Open Package"
-			],
-			[
-				"rep",
-				"Python REPL Open"
-			],
-			[
-				"terminus ut",
-				"Terminus Utilities: Select Theme"
-			],
-			[
-				"termin pre",
-				"Preferences: Terminus Settings"
-			],
-			[
-				"set syntax ini",
-				"Set Syntax: INI"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"sublim lin",
-				"SublimeLinter: Lint This View"
-			],
-			[
-				"pack con in",
-				"Package Control: Install Package"
-			],
-			[
-				"project man new",
+				"proj man ad",
 				"Project Manager: Add New Project"
 			],
 			[
-				"project man ed",
-				"Project Manager: Edit Project"
+				"rename",
+				"Rename File"
 			],
 			[
-				"pack dev edit",
-				"PackageDev: Edit Current Color Scheme"
-			],
-			[
-				"ana auto",
-				"Anaconda: Autoformat PEP8 Errors"
-			],
-			[
-				"pack con dis",
-				"Package Control: Disable Package"
-			],
-			[
-				"ke",
+				"k",
 				"Preferences: Key Bindings"
-			],
-			[
-				"pack res",
-				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"anaconda lint",
-				"Anaconda: Next lint error"
-			],
-			[
-				"pack op",
-				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"pack res op",
-				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"Snippet: doc",
-				"Snippet: docstring"
-			],
-			[
-				"file mo",
-				"File: Move"
-			],
-			[
-				"pack con re",
-				"Package Control: Remove Package"
-			],
-			[
-				"file move",
-				"File: Move"
-			],
-			[
-				"file rena",
-				"File: Rename"
-			],
-			[
-				"mark ma fo",
-				"MarkdownEditing: Magic Footnotes Command"
-			],
-			[
-				"zoter",
-				"Zotero Quick Search"
-			],
-			[
-				"mark",
-				"MarkdownEditing: Magic Footnotes Command"
-			],
-			[
-				"mark foot",
-				"MarkdownEditing: Magic Footnotes Command"
-			],
-			[
-				"zo",
-				"Zotero Quick Search"
-			],
-			[
-				"zot",
-				"Zotero Quick Search"
-			],
-			[
-				"zot qui",
-				"Zotero Quick Search"
-			],
-			[
-				"footnote",
-				"MarkdownEditing: Magic Footnotes Command"
-			],
-			[
-				"mag",
-				"MarkdownEditing: Magic Footnotes Command"
-			],
-			[
-				"mark ",
-				"MarkdownEditing: Magic Footnotes Command"
-			],
-			[
-				"mark ed foo",
-				"MarkdownEditing: Magic Footnotes Command"
-			],
-			[
-				"markdown ed ref",
-				"MarkdownEditing: New Reference"
-			],
-			[
-				"markdown ed foo",
-				"MarkdownEditing: Magic Footnotes Command"
-			],
-			[
-				"mark down re",
-				"MarkdownEditing: New Reference"
-			],
-			[
-				"syn py",
-				"Set Syntax: Python"
 			],
 			[
 				"file ren",
 				"File: Rename"
 			],
 			[
-				"live reload",
-				"LiveReload: Enable/disable plug-ins"
+				"pack con up",
+				"Package Control: Upgrade Package"
 			],
 			[
-				"live ena",
-				"LiveReload: Enable/disable plug-ins"
+				"zk pane",
+				"ZK: Select Panes for opening notes/results"
 			],
 			[
-				"live",
-				"LiveReload: Enable/disable plug-ins"
+				"zk new",
+				"ZK: New Zettel Note"
 			],
 			[
 				"pack co",
-				"Package Control: Discover Packages"
+				"Package Control: List Packages"
+			],
+			[
+				"zk sea",
+				"ZK: Search for tag combination"
+			],
+			[
+				"brack hi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"syntax sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"zk pan",
+				"ZK: Select Panes for opening notes/results"
+			],
+			[
+				"zk",
+				"ZK: Search for tag combination"
+			],
+			[
+				"zk pa",
+				"ZK: Select Panes for opening notes/results"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"zk se",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"pack co en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"z sea",
+				"ZK: Search for tag combination"
 			],
 			[
 				"pack res o",
 				"PackageResourceViewer: Open Resource"
 			],
 			[
-				"pack co ",
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"z",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"file na",
+				"File: Copy Name"
+			],
+			[
+				"file de",
+				"File: Delete"
+			],
+			[
+				"open url",
+				"Open URL: Settings"
+			],
+			[
+				"pack in",
 				"Package Control: Install Package"
+			],
+			[
+				"open link",
+				"Tasks: Open Link"
+			],
+			[
+				"zk s",
+				"ZK: Search for tag combination"
+			],
+			[
+				"zk mo",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"zk im",
+				"ZK: Show Images"
+			],
+			[
+				"zk e",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"zk ci",
+				"ZK: Insert Citation"
+			],
+			[
+				"proj ad",
+				"Project: Add Folder"
+			],
+			[
+				"set z",
+				"Set Syntax: Markdown Zettelkasten"
+			],
+			[
+				"proj man ",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj man ap",
+				"Project Manager: Append Project"
+			],
+			[
+				"file d",
+				"File: Delete"
+			],
+			[
+				"zk ren",
+				"Set Syntax: Markdown Zettelkasten"
+			],
+			[
+				"file path",
+				"File: Copy Path"
+			],
+			[
+				"proj man",
+				"Project Manager: Remove Project"
+			],
+			[
+				"zk n",
+				"ZK: New Zettel Note"
+			],
+			[
+				"proj man n",
+				"Project Manager: Add New Project"
 			],
 			[
 				"pack co in",
 				"Package Control: Install Package"
 			],
 			[
-				"pack co remo",
-				"Package Control: Remove Repository"
-			],
-			[
-				"pack co ad",
+				"pack co add",
 				"Package Control: Add Repository"
 			],
 			[
-				"pack co di",
-				"Package Control: Disable Package"
+				"pack re",
+				"Package Control: Remove Package"
 			],
 			[
-				"pack di",
-				"Package Control: Disable Package"
+				"sear",
+				"Search Anywhere: From Selection"
 			],
 			[
-				"preview",
-				"Markdown Preview: Preview in Browser"
+				"pack remo",
+				"Package Control: Remove Package"
 			],
 			[
-				"livereload",
-				"LiveReload: Enable/disable plug-ins"
+				"incre",
+				"Increment Selection"
 			],
 			[
-				"pack inst",
-				"Package Control: Install Package"
+				"pack rem",
+				"Package Control: Remove Package"
 			],
 			[
-				"markdo fo",
-				"MarkdownEditing: New Footnote"
+				"diff",
+				"Diff View: Run custom diff..."
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
 			],
 			[
 				"origam",
@@ -1050,6 +805,10 @@
 			[
 				"proj",
 				"Project: Edit Project"
+			],
+			[
+				"anaconda lint",
+				"Anaconda: Enable linting on this file"
 			],
 			[
 				"anaconda dis",
@@ -1074,76 +833,276 @@
 			[
 				"tasks",
 				"Tasks: Filter by tags under cursors"
+			],
+			[
+				"proj man edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"bra hi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brack wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj man re",
+				"Project Manager: Remove Project"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"view ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"brack sw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"brack hi sw",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"brackhi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brackhi",
+				"BracketHighlighter: Quick Start Guide"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj e",
+				"Project: Edit Project"
+			],
+			[
+				"pack op er",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack con rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack co rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ana co",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pack co dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"anaconda com",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pack con ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"color hi",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"color high",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"color h",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"colo sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack reo",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"anaconda er",
+				"Anaconda: Next lint error"
+			],
+			[
+				"proj edit",
+				"Project: Edit Project"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"proj fol",
+				"Project: Add Folder"
+			],
+			[
+				"proj fold",
+				"Project: Add Folder"
+			],
+			[
+				"sum h",
+				"Sum Hours"
+			],
+			[
+				"pack o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PhD",
+				"Phd Timeline Insert Dates"
+			],
+			[
+				"origam sa",
+				"Origami: Save Current Layout"
+			],
+			[
+				"origam res",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"task html",
+				"Tasks: Save as HTML…"
+			],
+			[
+				"Phd",
+				"Phd Timeline Insert Dates"
+			],
+			[
+				"proto",
+				"proto"
+			],
+			[
+				"pro",
+				"proto"
+			],
+			[
+				"reso op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"task vi ",
+				"Tasks: View as HTML"
 			]
 		],
 		"width": 476.0
 	},
 	"console":
 	{
-		"height": 478.0,
+		"height": 242.0,
 		"history":
 		[
-			"dt.datetime.now()",
-			"import datetime as dt",
-			"print('past past *******')",
 			"sublime.log_commands(False)",
+			"view.file_name()",
+			"view",
 			"sublime.log_commands(True)",
-			"[i for i in range(10)]",
-			"for i in range(10): print(i)",
-			"for i in range(10):",
-			"sublime.log_commands(False)",
-			"sublime.log_commands(True)",
-			"window.project_data()",
-			"window.project_file_name()",
-			"sublime.window().project_file_name()",
-			"print('hello')",
-			"sublime.run_command('remove_all_cell_markers')",
-			"sublime.run_command(remove_all_cell_markers)",
-			"window.run_command('terminus_open', {'shell_cmd': \"ipython --no-autoindent\"})",
-			"window.run_command('terminus_open', {'shell_cmd': \"ipython --no-banner\"})",
-			"window.run_command('terminus_open', {'shell_cmd': \"ipython --banner\"})",
-			"window.run_command('terminus_open', {'shell_cmd': \"ipython --classic\"})",
-			"window.run_command('terminus_open', {'shell_cmd': \"ls -la && vim\"})",
-			"window.run_command('terminus_open', {'shell_cmd': \"ls -la &&\"})",
-			"window.run_command('terminus_open', {'shell_cmd': \"ls -la\"})",
-			"window.run_command('terminus_open', {'shell_cmd': \"python -c 'print(\\\"hello\\\")'\"})",
-			"window.run_command('terminus_open', {'shell_cmd': \"python -c 'print(\\\"hello\\\")'\")",
-			"window.run_command('terminus_open')",
-			"window.run_command(\"terminus_send_string\", {\"string\": r\"%config TerminalInteractiveShell.autoindent=False\"})",
-			"self.window.run_command(\"terminus_send_string\", {\"string\": r\"%config TerminalInteractiveShell.autoindent=False\"})",
-			"        self.window.run_command(\"terminus_send_string\", {\"string\": r\"%config TerminalInteractiveShell.autoindent=False\"})",
+			"sublime.view_commands(True)",
 			"sublime.log_commands(False)",
 			"sublime.log_commands(True)",
 			"sublime.log_commands(False)",
 			"sublime.log_commands(True)",
-			"sublime.log_commands(False)",
-			"sublime.log_commans(False)",
-			"[x**2 for x in range(10)]",
-			"f'a is {a}'",
-			"a",
-			"__builtins__",
-			"dir()",
-			"import numpy as np",
-			"a = 3",
-			"'hello world'",
-			"print('hello world')",
-			"view.settings().get('python_interpreter')",
-			"view.settings().has('python_interpreter')",
-			"view.settings()",
-			"view.settings().has('Anaconda.pep8')",
-			"view.settings().has('pep8')",
-			"view.settings().has('highlight_line')",
-			"view.settings().has('Anaconda.pep8')",
-			"view.settings().has('highlight_line')",
-			"view.settings().has('Anaconda.pep8')",
-			"view.settings().has('pep8')",
-			"view.settings().settings_id",
-			"dir(view.settings())",
-			"print(view.settings())",
-			"view.settings()",
-			"[d for d in dir(view) if 'setting' in d]",
-			"dir(view)",
-			"view.get_settings()",
 			"sublime.log_commands(False)",
 			"sublime.log_commands()",
 			"sublime.log_commands(False)",
@@ -1210,101 +1169,120 @@
 			"test.strip()",
 			"test",
 			"\n#Totals\ntest = ' '",
-			"sublime_plugin.TextCommand.view"
+			"sublime_plugin.TextCommand.view",
+			"sublime_plugin.TextCommand",
+			"import sublime_plugin",
+			"import sublime_pluging as sp",
+			"sublime_plugin",
+			"sublime",
+			"self.view.symbols()",
+			"view.run_command('my_example')",
+			"view.command('duplicate_line')",
+			"view.run(\"duplicate_line\")",
+			"vie",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])",
+			"collections.Counter()",
+			"import collections",
+			"dir()",
+			"import this"
 		]
 	},
 	"distraction_free":
 	{
 		"menu_visible": true,
-		"show_minimap": true,
-		"show_open_files": true,
+		"show_minimap": false,
+		"show_open_files": false,
 		"show_tabs": false,
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
 	"expanded_folders":
 	[
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif",
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif",
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils"
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite"
 	],
 	"file_history":
 	[
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/units/units.py",
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/data_objects.py",
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filter_functions.py",
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/lgn_model_proto_nb.py",
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif/pyrightconfig.json",
-		"/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/units/core.py",
-		"/Users/errollloyd/Developer/pyright_test/.vscode/settings.json",
-		"/Users/errollloyd/Developer/pyright_test/taskstest.todo",
-		"/Users/errollloyd/Developer/pyright_test/pyrightconfig.json",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/notes.md",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/schema.sql",
 		"/Users/errollloyd/Developer/zekell/zekell_sqlite/zekell.py",
-		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/LSP-pyright.sublime-settings",
-		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/LSP-pyright/LSP-pyright.sublime-settings",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filter_functions.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/pyrightconfig.json",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/data_objects.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/proto_code.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/tests/test_receptive_field.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/tests/test_utils.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/utils/units/units.py",
-		"/Users/errollloyd/miniconda3/envs/comp_neuro/lib/python3.7/site-packages/numpy-stubs/__init__.pyi",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/lif.py",
-		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/Projects/lif #phd.sublime-project",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/utils/units/core.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/utils/settings.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/lif_utils.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/test.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/.gitignore",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/utils/.lif_hws",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filters.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/utils/units/core.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/receptive_field/filters/filter_functions.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/utils/units/units.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/receptive_field/filters/filters.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif_utils.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/receptive_field/rf_stim.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/utils/units/__init__.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/utils/units.py",
-		"/Users/errollloyd/Library/Application Support/Sublime Text/Package Storage/LSP-pyright/15.3.0/language-server/node_modules/pyright/dist/typeshed-fallback/stdlib/builtins.pyi",
-		"/Users/errollloyd/Library/Application Support/Sublime Text/Package Storage/LSP-pyright/15.3.0/language-server/node_modules/pyright/dist/typeshed-fallback/stdlib/typing.pyi",
-		"/Users/errollloyd/Library/Application Support/Sublime Text/Package Storage/LSP-pyright/15.3.0/language-server/node_modules/pyright/dist/typeshed-fallback/stubs/typing-extensions/typing_extensions.pyi",
-		"/Users/errollloyd/miniconda3/envs/comp_neuro/lib/python3.9/site-packages/numpy/__init__.pyi",
-		"/Users/errollloyd/miniconda3/envs/comp_neuro/lib/python3.9/site-packages/numpy/fft/__init__.pyi",
-		"/Users/errollloyd/miniconda3/envs/comp_neuro/lib/python3.7/site-packages/brian2tools/__init__.py",
-		"/Users/errollloyd/miniconda3/envs/comp_neuro/lib/python3.7/site-packages/brian2tools/plotting/base.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/lif.sublime-project",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/receptive_field/receptive_field.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/receptive_field/filters.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/rf_stim.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/rf/stimulus.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/rf/receptive_field.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/rf/rf_stim.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/stimulus.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/pyright_test.py",
-		"/Users/errollloyd/Dropbox (Personal)/Science/scripts/pyth/HWS/lif/.flake8",
-		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/pyright_test.py",
-		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/pyrightconfig.json",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
-		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/HWS #phd.sublime-project",
-		"/Users/errollloyd/miniconda3/envs/comp_neuro/lib/python3.7/site-packages/numpy/core/function_base.py",
-		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
-		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
-		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/docstring.sublime-snippet",
-		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/rf_utils.py",
-		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/__init__.py",
-		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/rf_utils.py",
-		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/html/lif/index.html",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/test.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/proto_nb.py",
+		"/Users/errollloyd/Developer/zekell/todo.todo",
+		"/Users/errollloyd/Developer/zekell/.gitignore",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173049 SQLite.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173110 Basics.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911174812 zettelkasten-sqlite.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022131145 Notable Examples.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022132815 Good References.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009191039 sublime_zk usage.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009191618 Custom Addtions.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200922152119 Culture.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201025110953 Human Life.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009182253 Listing branches and remotes.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124826 Ideas.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022131122 Data Visualisation.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154437 Core.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201012164648 Front-end.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201012164222 Online Git Tutorial.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124910 Shift-Tab for Basic.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022170033 Explorable on Colour Perception.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124758 Projects.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904105632 Python.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831020129 graphical representation.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009182009 remote conventions.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009181855 hub.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009181737 git.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920200115 phd-backup-s3-bucket.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193136 S3.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193126 AWS.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193055 Cloud.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193037 Technology.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/zettelkasten.sublime-project",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154743 GUI.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154834 tkinter.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200927183011 SSH.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124716 Software.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154624 Third Party Libraries.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154509 Standard Library.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831005513 zettelkasten.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831005955 sublime_zk.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831185405 materials_on_note_taking.mdzk",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-settings",
+		"/Users/errollloyd/Documents/zettelkasten/2020-10-09.md",
+		"/Users/errollloyd/Documents/zettelkasten/20200913172139 Text Editor.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200913172152 Sublime Text.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904085515 pyconau_2020.mdzk",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/sublime_zk.sublime-settings",
+		"/Users/errollloyd/Documents/zettelkasten/20200922153002 Academia.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200922153027 Publishing.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904114413 Critique.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904114310 Jupyter.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173013 SQL.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904105724 Conferences.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/.search_results.zkr",
+		"/Users/errollloyd/Documents/zettelkasten/.saved_searches.zks",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/Main.sublime-menu",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-syntax",
-		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/errollloyd/Documents/zettelkasten/20200831185115 Book on note taking methods.mdzk",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-commands",
+		"/Users/errollloyd/Documents/zettelkasten/native_test",
+		"/Users/errollloyd/Documents/zettelkasten/20200831010012 test.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/202008310029 zk_package.mdzk",
+		"/Users/errollloyd/Desktop/delete",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/delete.py",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/hws_exp.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/HWS #phd.sublime-project",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/lif.py",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/static_two_layer.py",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/soodakRFModel.sublime-project",
@@ -1328,6 +1306,7 @@
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/protoZeus.py",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/zeus.py",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/old_zeus.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Python/Completion Rules.tmPreferences",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/hermes.py",
 		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/test.py",
@@ -1353,26 +1332,22 @@
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/docStringPython.sublime-snippet",
 		"/Users/errollloyd/Developer/spk_temp_play/spike2_workflow_test/hephaistos_testing/u1_r1.smrx/quickViewProto.py",
 		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/todo_check_files",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup19.todo",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/mk_standup.py",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/proto_standup19.todo",
-		"/Users/errollloyd/Dropbox/Science/ResBaz/RB_general/resbaz.todo",
-		"/Users/errollloyd/Dropbox/Science/ResBaz/git/workshop_materials.todo"
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup19.todo"
 	],
 	"find":
 	{
-		"height": 42.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
-		"height": 163.0,
+		"height": 142.0,
 		"where_history":
 		[
 		]
 	},
 	"find_state":
 	{
-		"case_sensitive": true,
+		"case_sensitive": false,
 		"find_history":
 		[
 		],
@@ -1398,11 +1373,11 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/lgn_model_proto_nb.py",
+					"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/notes.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12234,
+						"buffer_size": 8279,
 						"regions":
 						{
 						},
@@ -1424,11 +1399,6 @@
 								{
 									"rhs_empty": true,
 									"selector": "punctuation.accessor"
-								},
-								{
-									"characters": ".[",
-									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
-									"server": "LSP-pyright"
 								}
 							],
 							"bracket_highlighter.busy": false,
@@ -1505,9 +1475,12 @@
 								"bh_double_quote_close",
 								"bh_double_quote_content"
 							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
+							"color_helper.refresh": false,
 							"color_helper.scan":
 							{
-								"allow_scanning": false,
+								"allow_scanning": true,
 								"color_class":
 								[
 									{
@@ -1516,44 +1489,41 @@
 									}
 								],
 								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
-								"current_ext": ".py",
-								"current_syntax": "Python/Python",
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/syntaxes/Markdown",
 								"enabled": true,
 								"last_updated": 1634096664.07,
-								"scanning": "-comment"
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
 							},
-							"lsp_active": true,
-							"lsp_hover_provider_count": 2,
-							"lsp_uri": "file:///Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/lgn_model_proto_nb.py",
-							"show_definitions": false,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
+							"lsp_uri": "file:///Users/errollloyd/Developer/zekell/zekell_sqlite/notes.md",
+							"mde.match_heading_hashes": false,
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filter_functions.py",
-					"selected": true,
+					"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/schema.sql",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 45579,
+						"buffer_size": 6780,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								603,
-								603
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1567,11 +1537,6 @@
 								{
 									"rhs_empty": true,
 									"selector": "punctuation.accessor"
-								},
-								{
-									"characters": ".[",
-									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
-									"server": "LSP-pyright"
 								}
 							],
 							"bracket_highlighter.busy": false,
@@ -1659,17 +1624,14 @@
 									}
 								],
 								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
-								"current_ext": ".py",
-								"current_syntax": "Python/Python",
+								"current_ext": ".sql",
+								"current_syntax": "SQL/SQL",
 								"enabled": true,
 								"last_updated": 1634096664.07,
 								"scanning": "-comment"
 							},
-							"lsp_active": true,
-							"lsp_hover_provider_count": 2,
-							"lsp_uri": "file:///Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filter_functions.py",
-							"show_definitions": false,
-							"syntax": "Packages/Python/Python.sublime-syntax",
+							"lsp_uri": "file:///Users/errollloyd/Developer/zekell/zekell_sqlite/schema.sql",
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -1677,22 +1639,17 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 3,
 					"stack_multiselect": false,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"sheets":
-			[
+				},
 				{
 					"buffer": 2,
-					"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/units/units.py",
+					"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/zekell.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5906,
+						"buffer_size": 7748,
 						"regions":
 						{
 						},
@@ -1813,8 +1770,150 @@
 								"scanning": "-comment"
 							},
 							"lsp_active": true,
-							"lsp_hover_provider_count": 3,
-							"lsp_uri": "file:///Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/units/units.py",
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/errollloyd/Developer/zekell/zekell_sqlite/zekell.py",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".py",
+								"current_syntax": "Python/Python",
+								"enabled": true,
+								"last_updated": 1634096664.07,
+								"scanning": "-comment"
+							},
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/errollloyd/Developer/zekell/zekell_sqlite/test.py",
 							"show_definitions": false,
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
@@ -1829,21 +1928,21 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/data_objects.py",
+					"buffer": 4,
+					"file": "/Users/errollloyd/Developer/zekell/zekell_sqlite/proto_nb.py",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 17644,
+						"buffer_size": 16658,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								194,
+								194
 							]
 						],
 						"settings":
@@ -1956,8 +2055,8 @@
 								"scanning": "-comment"
 							},
 							"lsp_active": true,
-							"lsp_hover_provider_count": 2,
-							"lsp_uri": "file:///Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/data_objects.py",
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/errollloyd/Developer/zekell/zekell_sqlite/proto_nb.py",
 							"show_definitions": false,
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
@@ -1976,7 +2075,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 42.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -1991,18 +2090,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -2024,15 +2116,11 @@
 	{
 		"height": 0.0
 	},
-	"output.mdpopups":
-	{
-		"height": 0.0
-	},
 	"pinned_build_system": "",
-	"project": "lif #phd.sublime-project",
+	"project": "zekell_sqlite.sublime-project",
 	"replace":
 	{
-		"height": 80.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -2042,28 +2130,48 @@
 		"selected_items":
 		[
 			[
-				"test",
-				"test.py"
+				"zk",
+				"20200831005955 sublime_zk.mdzk"
 			],
 			[
-				"test_re",
-				"lif #phd/tests/test_receptive_field.py"
+				"zett",
+				"zettelkasten.sublime-project"
 			],
 			[
-				"testu",
-				"lif #phd/tests/test_utils.py"
+				"py",
+				"20200904105632 Python.mdzk"
 			],
 			[
-				"test_",
-				"lif #phd/tests/test_utils.py"
+				"cust",
+				"20201009191618 Custom Addtions.mdzk"
 			],
 			[
-				"filter",
-				"lif #phd/lif/receptive_field/filters/filter_functions.py"
+				"sof",
+				"20200911124716 Software.mdzk"
 			],
 			[
-				"uni",
-				"lif #phd/lif/utils/units/units.py"
+				"pyth",
+				"20200904105632 Python.mdzk"
+			],
+			[
+				"bra",
+				"20201009182253 Listing branches and remotes.mdzk"
+			],
+			[
+				"git",
+				"20201009181737 git.mdzk"
+			],
+			[
+				"aws",
+				"20200920193126 AWS.mdzk"
+			],
+			[
+				"soft",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"",
+				".search_results.zkr"
 			],
 			[
 				"gen",
@@ -2071,55 +2179,7 @@
 			],
 			[
 				"lif",
-				"lif #phd/lif/lif.py"
-			],
-			[
-				"git",
-				"lif #phd/.gitignore"
-			],
-			[
-				"fil",
-				"lif #phd/lif/receptive_field/filters/filters.py"
-			],
-			[
-				".gi",
-				"lif #phd/.gitignore"
-			],
-			[
-				"un",
-				"lif #phd/utils/units.py"
-			],
-			[
-				"py",
-				"lif #phd/pyrightconfig.json"
-			],
-			[
-				"notes/ge",
-				"notes/general_thoughts.md"
-			],
-			[
-				"li",
-				"lif #phd/lif.py"
-			],
-			[
-				"proj",
-				"lif #phd/lif.sublime-project"
-			],
-			[
-				"re",
-				"lif #phd/receptive_field/receptive_field.py"
-			],
-			[
-				"fl",
-				"lif #phd/.flake8"
-			],
-			[
-				"ge",
-				"notes/general_thoughts.md"
-			],
-			[
-				"g",
-				"notes/general_thoughts.md"
+				"code/lif/lif.py"
 			],
 			[
 				"stat",
@@ -2234,6 +2294,10 @@
 				"project_notes/prog_review_3.5.md"
 			],
 			[
+				"test",
+				"RB_general/test"
+			],
+			[
 				"work",
 				"git/workshop_materials.todo"
 			],
@@ -2263,18 +2327,10 @@
 	},
 	"select_symbol":
 	{
-		"height": 168.0,
-		"last_filter": "tq",
+		"height": 392.0,
+		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"tq",
-				"mk_tqtempfilt"
-			],
-			[
-				"tf",
-				"mk_tq_fft"
-			],
 			[
 				"criticl",
 				"tag-critical"
@@ -2284,7 +2340,7 @@
 				"Abbot:2011fd"
 			]
 		],
-		"width": 624.0
+		"width": 592.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -2293,8 +2349,8 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 263.0,
+	"side_bar_visible": false,
+	"side_bar_width": 514.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
