@@ -24,6 +24,19 @@
 	},
 
 	//
+	// > Bookmarks (std feature)
+	//
+
+	{ "keys": ["ctrl+shift+r"], "command": "toggle_bookmark" },
+	// same as standard keybinding, but overrides vintage redo
+	{ "keys": ["ctrl+r"], "command": "next_bookmark" },
+	// alternative for prev bookmark
+	{ "keys": ["alt+ctrl+r"], "command": "prev_bookmark" },
+	// { "keys": ["shift+f2"], "command": "prev_bookmark" },
+
+
+
+	//
 	// > Open Smerge
 	//
 	{
