@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"binary_file_patterns":
+			[
+			],
+			"file_exclude_patterns":
+			[
+			],
+			"folder_exclude_patterns":
+			[
+			],
+			"name": "sublime_user #dev",
+			"path": "~/Library/Application Support/Sublime Text/Packages/User"
+		}
+	]
+}

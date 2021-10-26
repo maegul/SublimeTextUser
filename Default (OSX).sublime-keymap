@@ -13,14 +13,18 @@
 	{ "keys": ["super+k", "super+k"], "command": "toggle_side_bar" },
 
 	//
-	// > Table of Comments
+	// > Table of Comments / Goto Section
 	//
 
 	// Idea is a modification of super+r (built in goto objects)
 	// super+k to go into custom zone, and super+shift+r to modify super+r
+	// {
+	// 	"keys": ["super+k","super+shift+r"],
+	// 	"command": "table_of_comments"
+	// },
 	{
 		"keys": ["super+k","super+shift+r"],
-		"command": "table_of_comments"
+		"command": "goto_comment"
 	},
 
 	//

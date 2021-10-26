@@ -407,6 +407,10 @@ class GoToNextCellCommand(sublime_plugin.TextCommand):
         if direction == 'down':
             # add one so that easily find next while at beginning of a cell
             next_cell = view.find(CELL_TOP, sel.b + 1)
+
+            # find wraps to top, prevent with this
+            if next_cell.a < sel.b:
+                return
         elif direction == 'up':
 
             sel_row = get_row(view, sel)
@@ -431,11 +435,15 @@ class GoToNextCellCommand(sublime_plugin.TextCommand):
                     cell_row = get_row(view, cell)
                     # print(cell_row, cell, sel_row, 'candidate', candidate_cell, next_cell)
                     if cell_row >= sel_row:
+                        # previous cell, assigned to candidate_cell, must be target
+                        # as there's a top_cell further down the document
                         next_cell = candidate_cell
                         # print('found!', next_cell)
                         break
                     else:
                         candidate_cell = cell
+                else:  # when no top_cell with higher row than sel_row, last cell is target
+                    next_cell = candidate_cell
             elif search_dir == 'up':
                 candidate_cell = None
                 for cell in reversed(all_cells):

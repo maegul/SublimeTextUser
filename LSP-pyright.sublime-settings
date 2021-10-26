@@ -3,6 +3,7 @@
 {
 	"settings":
 	{
-		"python.venvPath": "/Users/errollloyd/miniconda3/envs"
+		"python.venvPath": "/Users/errollloyd/miniconda3/envs",
+		"pyright.dev_environment": "sublime_text_38",
 	},
 }

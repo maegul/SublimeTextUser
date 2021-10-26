@@ -1,0 +1,4044 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show",
+				"show_quick_panel"
+			],
+			[
+				"subli",
+				"sublime_plugin"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"par",
+				"\\part"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"ZK_",
+				"ZK_DB_PATH"
+			],
+			[
+				"ZK",
+				"ZK_PATH"
+			],
+			[
+				"db",
+				"db_connection"
+			],
+			[
+				"exi",
+				"exist_ok="
+			],
+			[
+				"Z",
+				"ZK_DB"
+			],
+			[
+				"outpu",
+				"output_path"
+			],
+			[
+				"defau",
+				"default_config_path"
+			],
+			[
+				"confi",
+				"write_default_config"
+			],
+			[
+				"defa",
+				"default_config_path"
+			],
+			[
+				"config",
+				"default_config_path"
+			],
+			[
+				"add_",
+				"add_argument"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"wri",
+				"write_text"
+			],
+			[
+				"update_",
+				"update_note"
+			],
+			[
+				"is_",
+				"is_note_id_unique"
+			],
+			[
+				"upda",
+				"update_note_tags"
+			],
+			[
+				"check",
+				"check_valid_tag_path"
+			],
+			[
+				"delete",
+				"delete_stmt"
+			],
+			[
+				"update_note",
+				"update_note_links"
+			],
+			[
+				"add_ta",
+				"add_new_tag_path"
+			],
+			[
+				"get_tag",
+				"get_tag_path_id"
+			],
+			[
+				"add_no",
+				"add_note_tag"
+			],
+			[
+				"che",
+				"check_valid_tag_path"
+			],
+			[
+				"get_ta",
+				"get_tag_path_id"
+			],
+			[
+				"add",
+				"add_new_tag_path"
+			],
+			[
+				"new_pat",
+				"new_path_parent_id"
+			],
+			[
+				"retu",
+				"return_new_id="
+			],
+			[
+				"new_path_par",
+				"new_path_parent_id"
+			],
+			[
+				"new_ta",
+				"new_tag_path"
+			],
+			[
+				"de",
+				"deque"
+			],
+			[
+				"new_path_p",
+				"new_path_parent_id"
+			],
+			[
+				"new_t",
+				"new_tag_path"
+			],
+			[
+				"new_path",
+				"new_path_parent"
+			],
+			[
+				"link",
+				"link_pattern"
+			],
+			[
+				"pars",
+				"parse_note_body"
+			],
+			[
+				"make",
+				"make_new_note"
+			],
+			[
+				"pare",
+				"parent_note_id"
+			],
+			[
+				"new",
+				"make_new_note"
+			],
+			[
+				"name",
+				"namedtuple"
+			],
+			[
+				"no",
+				"note_name"
+			],
+			[
+				"parse",
+				"parse_note_name"
+			],
+			[
+				"utc",
+				"utcnow"
+			],
+			[
+				"fo",
+				"frontmatter"
+			],
+			[
+				"make_",
+				"make_note_file_name"
+			],
+			[
+				"parse_no",
+				"parse_note_name"
+			],
+			[
+				"Note",
+				"NoteName"
+			],
+			[
+				"classmet",
+				"classmethod"
+			],
+			[
+				"pane",
+				"pane_for_opening_results  \tsetting"
+			],
+			[
+				"uu",
+				"uuid\tmodule"
+			],
+			[
+				"nu",
+				"numpy\tmodule"
+			],
+			[
+				"auto",
+				"auto_show_images  \tsetting"
+			],
+			[
+				"wi",
+				"wiki_extension  \tsetting"
+			],
+			[
+				"H",
+				"Hz\tstatement"
+			],
+			[
+				"Time",
+				"TimedArray\tclass"
+			],
+			[
+				"surr",
+				"surr_resp\tstatement"
+			],
+			[
+				"retur",
+				"return_cent_surr"
+			],
+			[
+				"cent_",
+				"cent_stim_prod\tstatement"
+			],
+			[
+				"fft",
+				"fftconvolve\tfunction"
+			],
+			[
+				"return",
+				"return_t\tparam"
+			],
+			[
+				"temp_ex",
+				"temp_ext\tparam"
+			],
+			[
+				"tau",
+				"tau2\tparam"
+			],
+			[
+				"mkTem",
+				"mkTempFilt"
+			],
+			[
+				"bar",
+				"bar_lum\tparam"
+			],
+			[
+				"spat_",
+				"spat_ext"
+			],
+			[
+				"temp_re",
+				"temp_freq"
+			],
+			[
+				"pep",
+				"pep8_error_levels  \tsetting"
+			],
+			[
+				"stim_",
+				"stim_min\tparam"
+			],
+			[
+				"coo",
+				"coord_transform\tfunction"
+			],
+			[
+				"zero",
+				"zero_center\tparam"
+			],
+			[
+				"surr_sd_",
+				"surr_sd_vt\tstatement"
+			],
+			[
+				"sd",
+				"sd_vt\tstatement"
+			],
+			[
+				"lesion_dep",
+				"lesion_depths_cut_plane\tstatement"
+			],
+			[
+				"px",
+				"px_scale"
+			],
+			[
+				"lesion",
+				"lesion_depths_cut_plane\tparam"
+			],
+			[
+				"lesion_de",
+				"lesion_depths_cut_plane"
+			],
+			[
+				"Themis",
+				"ThemisDirectory\tstatement"
+			],
+			[
+				"mk",
+				"mk_themis_files_directory\tfunction"
+			],
+			[
+				"mk_ce",
+				"mk_cell_id_from_run_key\tfunction"
+			],
+			[
+				"use",
+				"use_previous_load\tparam"
+			],
+			[
+				"previousl",
+				"previous_load_path"
+			],
+			[
+				"score",
+				"scorer\tparam"
+			],
+			[
+				"gen_",
+				"gen_sign_index\tfunction"
+			],
+			[
+				"analysis",
+				"analysisData\tstatement"
+			],
+			[
+				"the",
+				"themis\tmodule"
+			],
+			[
+				"run",
+				"run_key\tparam"
+			],
+			[
+				"themis_",
+				"themis_obj\tparam"
+			],
+			[
+				"gen",
+				"get_on_off_resp"
+			],
+			[
+				"ana",
+				"analysisFuncKeys"
+			],
+			[
+				"biph",
+				"biphase_split_point"
+			],
+			[
+				"dl_",
+				"dl_sum"
+			],
+			[
+				"x_lim",
+				"x_lim_sig_ratio\tstatement"
+			],
+			[
+				"anal",
+				"analData\tparam"
+			],
+			[
+				"from_",
+				"from_dict\tfunction"
+			],
+			[
+				"analDd",
+				"analDataDF\tstatement"
+			],
+			[
+				"a",
+				"analData\tstatement"
+			],
+			[
+				"fr",
+				"from_dict\tfunction"
+			],
+			[
+				"Cel",
+				"CellData\tstatement"
+			],
+			[
+				"Run",
+				"RUN_KEY"
+			],
+			[
+				"Mu",
+				"MultiIndex\tclass"
+			],
+			[
+				"C",
+				"CELL_ID"
+			],
+			[
+				"TDCCat",
+				"TDCCatalogue\tstatement"
+			],
+			[
+				"TDCC",
+				"TDCCatalogue\tstatement"
+			],
+			[
+				"TDC_s",
+				"TDC_signals_medians"
+			],
+			[
+				"exc_res",
+				"exc_result2\tstatement"
+			],
+			[
+				"mk_",
+				"mk_cell_key\tfunction"
+			],
+			[
+				"filt",
+				"filtered_data\tparam"
+			],
+			[
+				"iter",
+				"iterable\tparam"
+			],
+			[
+				"curve",
+				"curveFuncs\tmodule"
+			],
+			[
+				"Cu",
+				"CurveFuncs\tstatement"
+			],
+			[
+				"Cur",
+				"CurveFits\tstatement"
+			],
+			[
+				"S",
+				"SavePath"
+			],
+			[
+				"cu",
+				"curveFuncs\tstatement"
+			],
+			[
+				"cell",
+				"cell_data_key\tparam"
+			],
+			[
+				"_pre_omit_ma",
+				"_pre_omit_marker_codes\tstatement"
+			],
+			[
+				"_pre_",
+				"_pre_omit_marker_codes\tstatement"
+			],
+			[
+				"omit_",
+				"omit_trials\tparam"
+			],
+			[
+				"omit",
+				"omit_trials"
+			],
+			[
+				"edge",
+				"edgecolor"
+			],
+			[
+				"line",
+				"linestyle"
+			],
+			[
+				"biphase",
+				"biphase_split_point"
+			],
+			[
+				"conditions_tri",
+				"conditions_trials_hist"
+			],
+			[
+				"spont",
+				"spont_rate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/goto_comment.py",
+			"settings":
+			{
+				"buffer_size": 448,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "import"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " sublime"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nimport"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " sublime_plu"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "gin"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"JAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\nsu"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "blime_pl"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"item\":{\"sortText\":\"08.9999.sublime_plugin\",\"kind\":9,\"data\":{\"position\":{\"line\":4,\"character\":10},\"symbolLabel\":\"sublime_plugin\",\"filePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/goto_comment.py\",\"workspacePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User\"},\"label\":\"sublime_plugin\"},\"session_name\":\"LSP-pyright\"}",
+									"format": "command",
+									"keep_prefix": false,
+									"must_insert": false,
+									"trigger": "sublime_plugin"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "."
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"EAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAJwAAAAAAAAAnAAAAAAAAAAoAAABzdWJsaW1lX3BsJwAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAACcAAAAAAAAAJwAAAAAAAAAPAAAAc3VibGltZV9wbHVnaW4u",
+					"AQAAAAAAAAABAAAANQAAAAAAAAA1AAAAAAAAAAAAAAAAgF9A"
+				],
+				[
+					31,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "#"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " get"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " comments"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\n#"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "#"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " make"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " table"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\n#"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " present"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " in"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "panel"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"MQAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMwAAAAAAAAAAAAAAMwAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgAAAAAAAAAmAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					37,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n#"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " goto"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " from"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " panel"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"EwAAAFcAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABZAAAAAAAAAAAAAABZAAAAAAAAAFoAAAAAAAAAAAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGkAAAAAAAAAAAAAAGkAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					6,
+					"swap_line_down",
+					null,
+					"DAAAAEUAAAAAAAAAYwAAAAAAAAAAAAAAJgAAAAAAAAAmAAAAAAAAAB4AAAAjIGdldCBjb21tZW50cwoKIyMgbWFrZSB0YWJsZQpYAAAAAAAAAHYAAAAAAAAAAAAAACcAAAAAAAAAJwAAAAAAAAAeAAAAIyBnZXQgY29tbWVudHMKCiMjIG1ha2UgdGFibGUKWQAAAAAAAAB3AAAAAAAAAAAAAAA6AAAAAAAAADoAAAAAAAAAHgAAACMgZ2V0IGNvbW1lbnRzCgojIyBtYWtlIHRhYmxlCmsAAAAAAAAAiQAAAAAAAAAAAAAAOwAAAAAAAAA7AAAAAAAAAB4AAAAjIGdldCBjb21tZW50cwoKIyMgbWFrZSB0YWJsZQprAAAAAAAAAIkAAAAAAAAAAAAAAIgAAAAAAAAAiAAAAAAAAAABAAAACmsAAAAAAAAAbAAAAAAAAAAAAAAATQAAAAAAAABNAAAAAAAAAB4AAAAjIGdldCBjb21tZW50cwoKIyMgbWFrZSB0YWJsZQo",
+					"AQAAAAAAAAABAAAAJgAAAAAAAABEAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					56,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nclass"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " goto_"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "comment"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "subli"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"item\":{\"sortText\":\"05.0000.sublime_plugin\",\"kind\":9,\"data\":{\"position\":{\"line\":6,\"character\":24},\"symbolLabel\":\"sublime_plugin\",\"filePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/goto_comment.py\",\"workspacePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User\"},\"label\":\"sublime_plugin\"},\"session_name\":\"LSP-pyright\"}",
+									"format": "command",
+									"keep_prefix": false,
+									"must_insert": false,
+									"trigger": "sublime_plugin"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ".Te"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"item\":{\"sortText\":\"08.9999.TextCommand\",\"kind\":7,\"data\":{\"position\":{\"line\":6,\"character\":36},\"symbolLabel\":\"TextCommand\",\"filePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/goto_comment.py\",\"workspacePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User\"},\"label\":\"TextCommand\"},\"session_name\":\"LSP-pyright\"}",
+									"format": "command",
+									"keep_prefix": false,
+									"must_insert": false,
+									"trigger": "TextCommand"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"IQAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE8AAAAAAAAAAAAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABOAAAAAAAAAE4AAAAAAAAABQAAAHN1YmxpTgAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABdAAAAAAAAAF0AAAAAAAAAAgAAAFRlXQAAAAAAAABoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAFtA"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAAGkAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "\n\ndef"
+					},
+					"CAAAAGoAAAAAAAAAawAAAAAAAAAAAAAAawAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAG0AAAAAAAAAAAAAAG0AAAAAAAAAbgAAAAAAAAAAAAAAawAAAAAAAABrAAAAAAAAAAEAAAAJbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAG8AAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": " run"
+					},
+					"BAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAByAAAAAAAAAAAAAAByAAAAAAAAAHMAAAAAAAAAAAAAAHMAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAHQAAAAAAAAAdgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAAAAAAAAAB0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "self,"
+					},
+					"BQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": " edit"
+					},
+					"BQAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AgAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACBAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"before": true,
+										"character": ")",
+										"extend": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "vi_move_to_character",
+									"motion_inclusive": true,
+									"motion_mode": 0
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAH8AAAAAAAAAfwAAAAAAAAACAAAALCA",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move_to",
+								{
+									"register": "\"",
+									"to": "hardeol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ":"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "sle"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "elf.window"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "."
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "show"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "window"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " ="
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " sublime.ac"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "ti"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"item\":{\"sortText\":\"08.9999.active_window\",\"kind\":3,\"data\":{\"position\":{\"line\":9,\"character\":23},\"symbolLabel\":\"active_window\",\"filePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/goto_comment.py\",\"workspacePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User\"},\"label\":\"active_window\"},\"session_name\":\"LSP-pyright\"}",
+									"format": "command",
+									"keep_prefix": false,
+									"must_insert": false,
+									"trigger": "active_window"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"QAAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhgAAAAAAAACGAAAAAAAAAAEAAABlhQAAAAAAAACFAAAAAAAAAAEAAABshQAAAAAAAACGAAAAAAAAAAAAAACGAAAAAAAAAIcAAAAAAAAAAAAAAIcAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACJAAAAAAAAAAAAAACJAAAAAAAAAIoAAAAAAAAAAAAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAI0AAAAAAAAAjgAAAAAAAAAAAAAAjgAAAAAAAACPAAAAAAAAAAAAAACPAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAkQAAAAAAAAAAAAAAkQAAAAAAAACSAAAAAAAAAAAAAACSAAAAAAAAAJMAAAAAAAAAAAAAAJMAAAAAAAAAlAAAAAAAAAAAAAAAkwAAAAAAAACTAAAAAAAAAAEAAAB3kgAAAAAAAACSAAAAAAAAAAEAAABvkQAAAAAAAACRAAAAAAAAAAEAAABokAAAAAAAAACQAAAAAAAAAAEAAABzjwAAAAAAAACPAAAAAAAAAAEAAAAujgAAAAAAAACOAAAAAAAAAAEAAAB3jQAAAAAAAACNAAAAAAAAAAEAAABvjAAAAAAAAACMAAAAAAAAAAEAAABkiwAAAAAAAACLAAAAAAAAAAEAAABuigAAAAAAAACKAAAAAAAAAAEAAABpiQAAAAAAAACJAAAAAAAAAAEAAAB3iAAAAAAAAACIAAAAAAAAAAEAAAAuhwAAAAAAAACHAAAAAAAAAAEAAABmhgAAAAAAAACGAAAAAAAAAAEAAABshQAAAAAAAACFAAAAAAAAAAEAAABlhAAAAAAAAACEAAAAAAAAAAEAAABzhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAlQAAAAAAAACVAAAAAAAAAAQAAABhY3RplQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAKQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "window.sho"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "w"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"item\":{\"sortText\":\"08.9999.show_quick_panel\",\"kind\":2,\"data\":{\"position\":{\"line\":10,\"character\":13},\"symbolLabel\":\"show_quick_panel\",\"filePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/goto_comment.py\",\"workspacePath\":\"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User\"},\"label\":\"show_quick_panel\"},\"session_name\":\"LSP-pyright\"}",
+									"format": "command",
+									"keep_prefix": false,
+									"must_insert": false,
+									"trigger": "show_quick_panel"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line Before.sublime-macro"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "ti"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "[$0]"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "'$0'"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "hello"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "'$0'"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "go"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "world"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"LQAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACnAAAAAAAAAAAAAACnAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAAqQAAAAAAAAAAAAAAqQAAAAAAAACqAAAAAAAAAAAAAACqAAAAAAAAAKsAAAAAAAAAAAAAAKsAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACtAAAAAAAAAAAAAACtAAAAAAAAAK4AAAAAAAAAAAAAAK4AAAAAAAAArwAAAAAAAAAAAAAArwAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALEAAAAAAAAAAAAAALEAAAAAAAAAsgAAAAAAAAAAAAAArgAAAAAAAACuAAAAAAAAAAQAAABzaG93rgAAAAAAAAC+AAAAAAAAAAAAAAC+AAAAAAAAAMAAAAAAAAAAAAAAAL8AAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADCAAAAAAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAAgAAAAkJwAAAAAAAAADDAAAAAAAAAAAAAADAAAAAAAAAAMEAAAAAAAAAAAAAAMAAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMUAAAAAAAAAAAAAAMQAAAAAAAAAxAAAAAAAAAABAAAAacMAAAAAAAAAwwAAAAAAAAABAAAAdMMAAAAAAAAAxQAAAAAAAAAAAAAAxAAAAAAAAADGAAAAAAAAAAAAAADFAAAAAAAAAMYAAAAAAAAAAAAAAMYAAAAAAAAAxwAAAAAAAAAAAAAAxwAAAAAAAADIAAAAAAAAAAAAAADIAAAAAAAAAMkAAAAAAAAAAAAAAMkAAAAAAAAAygAAAAAAAAAAAAAAywAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAAM0AAAAAAAAAAAAAAM0AAAAAAAAAzwAAAAAAAAAAAAAAzgAAAAAAAADPAAAAAAAAAAAAAADPAAAAAAAAANAAAAAAAAAAAAAAAM8AAAAAAAAAzwAAAAAAAAABAAAAb84AAAAAAAAAzgAAAAAAAAABAAAAZ84AAAAAAAAAzwAAAAAAAAAAAAAAzwAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANEAAAAAAAAAAAAAANEAAAAAAAAA0gAAAAAAAAAAAAAA0gAAAAAAAADTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move_to",
+								{
+									"register": "\"",
+									"to": "hardeol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\nlambda"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " x:"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " print"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "f"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "'$0'"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "selected"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " {x}"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"IQAAANUAAAAAAAAA1gAAAAAAAAAAAAAA1gAAAAAAAADXAAAAAAAAAAAAAADXAAAAAAAAANoAAAAAAAAAAAAAANoAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAADfAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADiAAAAAAAAAAAAAADiAAAAAAAAAOMAAAAAAAAAAAAAAOMAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADlAAAAAAAAAAAAAADlAAAAAAAAAOYAAAAAAAAAAAAAAOYAAAAAAAAA5wAAAAAAAAAAAAAA5wAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOkAAAAAAAAAAAAAAOkAAAAAAAAA6wAAAAAAAAAAAAAA6gAAAAAAAADrAAAAAAAAAAAAAADrAAAAAAAAAO0AAAAAAAAAAAAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAO8AAAAAAAAAAAAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAADxAAAAAAAAAPIAAAAAAAAAAAAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPUAAAAAAAAAAAAAAPUAAAAAAAAA9gAAAAAAAAAAAAAA9gAAAAAAAAD3AAAAAAAAAAAAAAD3AAAAAAAAAPgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAADEBAAAAAAAAMgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "_command"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"CAAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "print"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "'$0'"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "running"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"EQAAAIkAAAAAAAAAigAAAAAAAAAAAAAAigAAAAAAAACLAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJMAAAAAAAAAAAAAAJIAAAAAAAAAlAAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAAAAAAAAACIAAAAAAAAAAAAAAAAIGxA"
+				],
+				[
+					152,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"repeat": 1
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_words",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "Goto"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "CommentComm"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "and"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"EwAAAEEAAAAAAAAAQQAAAAAAAAAUAAAAZ290b19jb21tZW50X2NvbW1hbmRBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAASQAAAAAAAAAAAAAASQAAAAAAAABKAAAAAAAAAAAAAABKAAAAAAAAAEsAAAAAAAAAAAAAAEsAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABNAAAAAAAAAAAAAABNAAAAAAAAAE4AAAAAAAAAAAAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					177,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"unindent",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "def"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " panel"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "self"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "comments"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ":"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"JAAAABgBAAAAAAAAGQEAAAAAAAAAAAAAGQEAAAAAAAAcAQAAAAAAAAAAAAAZAQAAAAAAABkBAAAAAAAAAwAAAAkJCRkBAAAAAAAAGwEAAAAAAAAAAAAAGwEAAAAAAAAcAQAAAAAAAAAAAAAcAQAAAAAAAB4BAAAAAAAAAAAAABkBAAAAAAAAGQEAAAAAAAACAAAACQkaAQAAAAAAABoBAAAAAAAAAQAAAAkbAQAAAAAAABwBAAAAAAAAAAAAABwBAAAAAAAAHQEAAAAAAAAAAAAAHQEAAAAAAAAeAQAAAAAAAAAAAAAeAQAAAAAAAB8BAAAAAAAAAAAAAB8BAAAAAAAAIAEAAAAAAAAAAAAAIAEAAAAAAAAhAQAAAAAAAAAAAAAhAQAAAAAAACIBAAAAAAAAAAAAACIBAAAAAAAAIwEAAAAAAAAAAAAAIwEAAAAAAAAkAQAAAAAAAAAAAAAkAQAAAAAAACYBAAAAAAAAAAAAACUBAAAAAAAAJgEAAAAAAAAAAAAAJgEAAAAAAAAnAQAAAAAAAAAAAAAnAQAAAAAAACgBAAAAAAAAAAAAACgBAAAAAAAAKQEAAAAAAAAAAAAAKQEAAAAAAAAqAQAAAAAAAAAAAAAqAQAAAAAAACsBAAAAAAAAAAAAACsBAAAAAAAALAEAAAAAAAAAAAAALAEAAAAAAAAtAQAAAAAAAAAAAAAtAQAAAAAAAC4BAAAAAAAAAAAAAC4BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAAAwAQAAAAAAAAAAAAAwAQAAAAAAADEBAAAAAAAAAAAAADEBAAAAAAAAMgEAAAAAAAAAAAAAMgEAAAAAAAAzAQAAAAAAAAAAAAA0AQAAAAAAADUBAAAAAAAAAAAAADUBAAAAAAAANgEAAAAAAAAAAAAANgEAAAAAAAA3AQAAAAAAAAAAAAA3AQAAAAAAADgBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwEAAAAAAAAXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"expand_tabs",
+					{
+						"set_translate_tabs": true
+					},
+					"AQAAAAAAAAAAAAAApAEAAAAAAABrAQAAaW1wb3J0IHN1YmxpbWUKaW1wb3J0IHN1YmxpbWVfcGx1Z2luCgoKIyBwcmVzZW50IGluIHBhbmVsCgpjbGFzcyBHb3RvQ29tbWVudENvbW1hbmQoc3VibGltZV9wbHVnaW4uVGV4dENvbW1hbmQpOgoKCWRlZiBydW4oc2VsZiwgZWRpdCk6CgkJcHJpbnQoJ3J1bm5pbmcnKQoJCXdpbmRvdyA9IHN1YmxpbWUuYWN0aXZlX3dpbmRvdygpCgkJd2luZG93LnNob3dfcXVpY2tfcGFuZWwoCgkJCVsnaGVsbG8nLCAnd29ybGQnXSwKCQkJbGFtYmRhIHg6IHByaW50KGYnc2VsZWN0ZWQge3h9JykKCQkJKQoKCWRlZiBwYW5lbChzZWxmLCBjb21tZW50cyk6CgkJCgojIGdvdG8gZnJvbSBwYW5lbAoKIyBnZXQgY29tbWVudHMKCiMjIG1ha2UgdGFibGUK",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "o"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "\nself.panel"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "[$0]"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "'$0'"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "hello"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "'$0'"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "world"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"IgAAAKMAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACsAAAAAAAAAAAAAAByAQAAAAAAAHIBAAAAAAAACAAAACAgICAgICAgrAAAAAAAAACtAAAAAAAAAAAAAACsAAAAAAAAAKwAAAAAAAAAAQAAAG+sAAAAAAAAAK0AAAAAAAAAAAAAAK0AAAAAAAAAtQAAAAAAAAAAAAAApAAAAAAAAACkAAAAAAAAAAgAAAAgICAgICAgIK0AAAAAAAAArgAAAAAAAAAAAAAArgAAAAAAAACvAAAAAAAAAAAAAACvAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAsQAAAAAAAAAAAAAAsQAAAAAAAACyAAAAAAAAAAAAAACyAAAAAAAAALMAAAAAAAAAAAAAALMAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC1AAAAAAAAAAAAAAC1AAAAAAAAALYAAAAAAAAAAAAAALYAAAAAAAAAtwAAAAAAAAAAAAAAtwAAAAAAAAC5AAAAAAAAAAAAAAC4AAAAAAAAALoAAAAAAAAAAAAAALkAAAAAAAAAuwAAAAAAAAAAAAAAugAAAAAAAAC7AAAAAAAAAAAAAAC7AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAvQAAAAAAAAAAAAAAvQAAAAAAAAC+AAAAAAAAAAAAAAC+AAAAAAAAAL8AAAAAAAAAAAAAAMAAAAAAAAAAwQAAAAAAAAAAAAAAwQAAAAAAAADCAAAAAAAAAAAAAADCAAAAAAAAAMQAAAAAAAAAAAAAAMMAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADFAAAAAAAAAAAAAADFAAAAAAAAAMYAAAAAAAAAAAAAAMYAAAAAAAAAxwAAAAAAAAAAAAAAxwAAAAAAAADIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					199,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_line_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"extend": true,
+										"forward": true,
+										"line_begin": true
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 2
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"extend": true,
+										"forward": true,
+										"line_begin": true
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 2
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"extend": true,
+										"forward": true,
+										"line_begin": true
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 2
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"extend": true,
+										"forward": true,
+										"line_begin": true
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 2
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 2
+								}
+							]
+						]
+					},
+					"AQAAAMwAAAAAAAAAzAAAAAAAAAClAAAAICAgICAgICB3aW5kb3cgPSBzdWJsaW1lLmFjdGl2ZV93aW5kb3coKQogICAgICAgIHdpbmRvdy5zaG93X3F1aWNrX3BhbmVsKAogICAgICAgICAgICBbJ2hlbGxvJywgJ3dvcmxkJ10sCiAgICAgICAgICAgIGxhbWJkYSB4OiBwcmludChmJ3NlbGVjdGVkIHt4fScpCiAgICAgICAgICAgICkK",
+					"AQAAAAAAAAABAAAA7wAAAAAAAADvAAAAAAAAAAAAAAAAsHNA"
+				],
+				[
+					203,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BgAAAOsAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA9QAAAAAAAAAAAAAA9QAAAAAAAAD9AAAAAAAAAAAAAADsAAAAAAAAAOwAAAAAAAAACAAAACAgICAgICAg",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					204,
+					1,
+					"vi_paste_right",
+					null,
+					"AQAAAPYAAAAAAAAAmwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					206,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAO0AAAAAAAAA7QAAAAAAAAAJAAAAICAgICAgICAK",
+					"AQAAAAAAAAABAAAA7QAAAAAAAADtAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					210,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"before": true,
+							"character": ",",
+							"extend": true
+						},
+						"motion_clip_to_line": true,
+						"motion_command": "vi_move_to_character",
+						"motion_inclusive": true,
+						"motion_mode": 0,
+						"motion_repeat": 2
+					},
+					"AQAAADcBAAAAAAAANwEAAAAAAAAeAAAAICAgICAgICAgICAgWydoZWxsbycsICd3b3JsZCdd",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					213,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "comments"
+								}
+							],
+							[
+								"indent",
+								null
+							],
+							[
+								"indent",
+								null
+							],
+							[
+								"indent",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"CwAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA5AQAAAAAAAAAAAAA5AQAAAAAAADoBAAAAAAAAAAAAADoBAAAAAAAAOwEAAAAAAAAAAAAAOwEAAAAAAAA8AQAAAAAAAAAAAAA8AQAAAAAAAD0BAAAAAAAAAAAAAD0BAAAAAAAAPgEAAAAAAAAAAAAAPgEAAAAAAAA/AQAAAAAAAAAAAAA3AQAAAAAAADsBAAAAAAAAAAAAADcBAAAAAAAAOwEAAAAAAAAAAAAANwEAAAAAAAA7AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					235,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "["
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_brackets",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "'$0'"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "a"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "'$0'"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "b"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BwAAALkAAAAAAAAAuQAAAAAAAAAQAAAAJ2hlbGxvJywgJ3dvcmxkJ7kAAAAAAAAAuwAAAAAAAAAAAAAAugAAAAAAAAC7AAAAAAAAAAAAAAC8AAAAAAAAAL0AAAAAAAAAAAAAAL0AAAAAAAAAvgAAAAAAAAAAAAAAvgAAAAAAAADAAAAAAAAAAAAAAAC/AAAAAAAAAMAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQAAAAAAAAC5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					253,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": " goto"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " comment"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DQAAAKEAAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAACjAAAAAAAAAAAAAACjAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAApQAAAAAAAAAAAAAApQAAAAAAAACmAAAAAAAAAAAAAACmAAAAAAAAAKcAAAAAAAAAAAAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAKoAAAAAAAAAqwAAAAAAAAAAAAAAqwAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAAK0AAAAAAAAAAAAAAK0AAAAAAAAArgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/user_commands.sublime-commands",
+			"settings":
+			{
+				"buffer_size": 548,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAOkBAAAAAAAA6gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QEAAAAAAADpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOcBAAAAAAAA5wEAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAA6AEAAAAAAADoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAOkBAAAAAAAA6gEAAAAAAAAAAAAA6gEAAAAAAADrAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QEAAAAAAADpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAOsBAAAAAAAA7QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wEAAAAAAADrAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAOwBAAAAAAAA7gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AEAAAAAAADsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "cap'"
+					},
+					"BAAAAO0BAAAAAAAA7gEAAAAAAAAAAAAA7gEAAAAAAADvAQAAAAAAAAAAAADvAQAAAAAAAPABAAAAAAAAAAAAAPABAAAAAAAA8QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QEAAAAAAADtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPABAAAAAAAA8AEAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAA8QEAAAAAAADxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"textEdit\":{\"newText\":\"\\\"caption\\\": \\\"$1\\\"\",\"range\":{\"start\":{\"line\":8,\"character\":2},\"end\":{\"line\":8,\"character\":7}}},\"documentation\":\"Title of the command\",\"kind\":10,\"label\":\"caption\",\"filterText\":\"\\\"caption\\\"\",\"insertText\":\"\\\"caption\\\": \\\"$1\\\"\",\"insertTextFormat\":2},\"session_name\":\"LSP-json\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							10,
+							12,
+							1
+						],
+						"trigger": "\"caption\""
+					},
+					"AgAAAOwBAAAAAAAA7AEAAAAAAAAFAAAAImNhcCLsAQAAAAAAAPkBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8AEAAAAAAADwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "Goto"
+					},
+					"BAAAAPgBAAAAAAAA+QEAAAAAAAAAAAAA+QEAAAAAAAD6AQAAAAAAAAAAAAD6AQAAAAAAAPsBAAAAAAAAAAAAAPsBAAAAAAAA/AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+AEAAAAAAAD4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": " Comment"
+					},
+					"CAAAAPwBAAAAAAAA/QEAAAAAAAAAAAAA/QEAAAAAAAD+AQAAAAAAAAAAAAD+AQAAAAAAAP8BAAAAAAAAAAAAAP8BAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAABAgAAAAAAAAAAAAABAgAAAAAAAAICAAAAAAAAAAAAAAICAAAAAAAAAwIAAAAAAAAAAAAAAwIAAAAAAAAEAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/AEAAAAAAAD8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAAUCAAAAAAAABgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQIAAAAAAAAFAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAYCAAAAAAAABwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABgIAAAAAAAAGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAAAcCAAAAAAAACQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwIAAAAAAAAHAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "command"
+					},
+					"BwAAAAgCAAAAAAAACQIAAAAAAAAAAAAACQIAAAAAAAAKAgAAAAAAAAAAAAAKAgAAAAAAAAsCAAAAAAAAAAAAAAsCAAAAAAAADAIAAAAAAAAAAAAADAIAAAAAAAANAgAAAAAAAAAAAAANAgAAAAAAAA4CAAAAAAAAAAAAAA4CAAAAAAAADwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAIAAAAAAAAIAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": ":"
+					},
+					"AQAAABACAAAAAAAAEQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABECAAAAAAAAEgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQIAAAAAAAARAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"lsp_json_auto_complete",
+					null,
+					"AQAAABICAAAAAAAAFAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgIAAAAAAAASAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "goto_comme"
+					},
+					"CgAAABMCAAAAAAAAFAIAAAAAAAAAAAAAFAIAAAAAAAAVAgAAAAAAAAAAAAAVAgAAAAAAABYCAAAAAAAAAAAAABYCAAAAAAAAFwIAAAAAAAAAAAAAFwIAAAAAAAAYAgAAAAAAAAAAAAAYAgAAAAAAABkCAAAAAAAAAAAAABkCAAAAAAAAGgIAAAAAAAAAAAAAGgIAAAAAAAAbAgAAAAAAAAAAAAAbAgAAAAAAABwCAAAAAAAAAAAAABwCAAAAAAAAHQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwIAAAAAAAATAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "nt"
+					},
+					"AgAAAB0CAAAAAAAAHgIAAAAAAAAAAAAAHgIAAAAAAAAfAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQIAAAAAAAAdAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAACMCAAAAAAAAJAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgIAAAAAAAAeAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "\"\"\"\nPlugin to create a quick panel lookup that lets you jump between comment\ntitles\n\"\"\"\n\nimport os\nimport imp\nimport time\nimport sys\nimport sublime\nimport sublime_plugin\nimport re\n\n\n# > Plugin command\nclass table_of_comments_command(sublime_plugin.TextCommand):\n\n    def run(self, edit, move=None, fold=None, unfold=None, generate=None):\n        toc = TableOfComments(self.view, edit)\n        if move is not None:\n            self.traverse_comments(toc, move)\n        elif fold is not None or unfold is not None:\n            self.fold_comments(toc, fold, unfold)\n        elif generate is not None:\n            toc.create_toc()\n        else:\n            self.show_quick_panel(toc)\n\n    # >> Quick panel\n    def show_quick_panel(self, toc):\n        view = self.view\n        toc._debug_start('Show quick panel')\n        toc.create_toc()\n        # Get current section from cursor\n        show_index = 0\n        current_section = toc.get_section_from_cursor()\n        if current_section:\n            show_index = current_section['index']\n\n        # Store positions for returning to\n        return_to = []\n        for each in view.sel():\n            return_to.append(each)\n        toc.return_to = return_to\n\n        # Pop up the panel\n        titles = toc.get_comment_titles('string')\n        self.window = sublime.active_window()\n        if sys.version_info < (3, 0):\n            self.window.show_quick_panel(titles, toc.on_list_selected_done)\n        else:\n            self.window.show_quick_panel(  # Pass on_highlighted callback\n                titles, toc.on_list_selected_done, False, show_index,\n                toc.on_list_selected_done)\n        toc._debug_stop('Show quick panel')\n\n    # >> Up down\n    # Allows moving up and down through comments\n    def traverse_comments(self, toc, move):\n        view = self.view\n        titles = toc.get_comment_titles()\n        sel = view.sel()\n        if len(sel) == 1:\n            current_line_no, col_no = view.rowcol(sel[0].b)\n            for x in range(len(titles)):\n                item = titles[x]\n                if move == 'up':  # moving up\n                    if item['line'] < current_line_no:\n                        if x+1 < len(titles):\n                            if titles[x+1]['line'] >= current_line_no:\n                                return toc.on_list_selected_done(x)\n                        else:\n                            return toc.on_list_selected_done(x)\n                else:  # moving down\n                    if item['line'] > current_line_no:\n                        return toc.on_list_selected_done(x)\n\n    # >> Fold comments\n    def fold_comments(self, toc, fold, unfold):\n        comments = self.view.find_by_selector('comment')\n        is_all = fold == 'all' or unfold == 'all'\n\n        # Get the content regions to fold\n        fold_regions = []\n\n        if is_all:\n            sections = toc.get_sections()\n            for s in sections:\n                content_region = s['content_region']\n                fold_regions.append(content_region)\n        else:\n            section = toc.get_section_from_cursor()\n            fold_regions.append(section['content_region'])\n\n        # Fold, unfold or toggle\n        if fold is not None:\n            self.view.fold(fold_regions)\n        elif unfold is not None:\n            self.view.unfold(fold_regions)\n        elif self.view.fold(fold_regions) is False:\n            self.view.unfold(fold_regions)\n\n\n#\n# > Plugin class\n#\nclass TableOfComments:\n\n    def __init__(self, view, edit):\n        self.view = view\n        self.edit = edit\n\n#\n# Debug timing functions\n#\n#\n    timers = {}\n\n    def _debug_start(self, ref):\n        self.timers[ref] = time.time()\n\n    def _debug_stop(self, ref):\n        start_time = self.timers[ref]\n        duration = time.time() - start_time\n        self.timers[ref] = duration\n\n#\n# Table TOC tag\n#\n\n    def get_toc_region(self, view):\n        title = get_setting('toc_title', str)\n        # pattern = r'\\/\\*(\\s|\\*)*'+title+r'[^\\/]*\\/'\n        # Allow for simple string search to find TOC locations\n        pattern = r'(\\s|\\*)*'+title+r'(\\s|\\*\\/)*'\n        matches = view.find_all(pattern)\n        for region in (matches):\n            if self.is_scope_or_comment(view, region):\n                return region\n        return None\n\n    def is_in_toc_region(self, view, region):\n        toc_region = self.get_toc_region(view)\n        if toc_region:\n            if region.a > toc_region.a and region.a < toc_region.b:\n                return True\n        return False\n\n    def create_toc(self):\n        if not get_setting('make_toc', typeof=bool):\n            return\n        view = self.view\n        edit = self.edit\n        region = self.get_toc_region(view)\n        if region:\n            toc = self.compile_toc(view)\n            existing = view.substr(region)\n            if existing != toc:\n                view.replace(edit, region, toc)\n\n    def compile_toc(self, view):\n        self._debug_start('compile-toc')\n        titles = self.get_comment_titles('string')\n        title = get_setting('toc_title', str)\n        start = get_setting('toc_start', str)\n        line = get_setting('toc_line', str)\n        end = get_setting('toc_end', str)\n        front = \"\\n\" + line\n        output = start + front + title + front.rstrip()\n        for title in titles:\n            comment_level = title.count('-') + 1\n            try:\n                level = int(get_setting('toc_level', int))\n                if level >= comment_level:\n                    output += front + title\n            except TypeError:\n                output += front + title\n        output += \"\\n\"+end\n        self._debug_stop('compile-toc')\n        return output\n\n#\n# >> Quick panel\n#\n\n    # Jump list quick menu selected\n    def on_list_selected_done(self, picked):\n        if picked == -1:\n            self.view.sel().clear()\n            for each in self.return_to:\n                self.view.sel().add(each)\n            self.view.show(self.view.sel())\n        else:\n            titles = self.get_comment_titles()\n            title = titles[picked]\n            row = title['line']\n            point = self.view.text_point(row, 0)\n            line_region = self.view.line(point)\n            # Reference the 'text' within the line only\n            text = title['text']\n            text = re.escape(text)\n            text = text.replace('\\>', '>')  # \">\" does not work when escaped\n            text_region = self.view.find(text, line_region.a)\n\n            # view.rowcol() returns a zero based line number\n            line = int(title['line'])+1\n            # Use goto_line to move the document then highlight\n            if sublime.active_window().active_view():\n                sublime.active_window().active_view().run_command(\n                    \"goto_line\", {\"line\": line}\n                    )\n            self.view.sel().clear()\n            self.view.sel().add(text_region)\n\n#\n# >> Parse\n#\n\n    # Core parse function (returned as dict or list)\n    def get_comment_titles(self, format='dict', test=None):\n        self._debug_start('get-comment-titles')\n        view = self.view\n        level_char = get_setting('level_char', str)\n        comment_chars = get_setting('comment_chars', str)\n        # add potential whitespace before each comment character\n        # but don't have whitespace as a potential singular start character\n        comment = [r'[ ]*'+re.escape(c) for c in comment_chars]  # type: ignore\n        comment = 'DIV'.join(comment)\n        start = r''+comment.replace('DIV', '|')\n        # build the pattern to match the comment\n        pattern = r'^('+start+')*?[ ]*('+format_pattern(level_char)+'+)\\s*' + \\\n            r'(.+)('+start+')*?$'\n        print('TOC DEBUG')\n        print(comment, start, pattern)\n# \\s*\\/DIV\\s*\\*DIV\\s*\\#DIV\\s*\\|\n# \\s*\\/|\\s*\\*|\\s*\\#|\\s*\\|\n# ^(\\s*\\/|\\s*\\*|\\s*\\#|\\s*\\|)*?(>+)\\s*(.+)(\\s*\\/|\\s*\\*|\\s*\\#|\\s*\\|)*?$\n\n        matches = view.find_all(pattern)\n        results = []\n        toc_title = get_setting('toc_title', str)\n\n        for match in matches:\n            bits = view.lines(match)  # go through each line\n            for region in bits:\n                # Ensure it's comment or source\n                if not self.is_scope_or_comment(view, region):\n                    continue\n                # Ensure not in toc region already\n                if self.is_in_toc_region(view, region):\n                    continue\n\n                line = view.substr(region)\n                line_match = re.match(pattern, line)\n\n                if not line_match:\n                    continue\n\n                if level_char in line:\n                    # Add the level chars\n                    label = line_match.group(2)\n\n                    # Replace level char with toc char\n                    label = self.replace_level_chars(label)\n                    level = len(label)\n                    if label != '':\n                        label += ' '\n\n                    # append the heading text, remove trailing comment chars\n                    text = line_match.group(3).strip(comment_chars+' ')\n                    label += text\n\n                    # Get the position\n                    if line != '' and line != toc_title:\n                        line_no, col_no = view.rowcol(region.b)\n                        if format == 'dict':\n                            results.append(\n                                {'label': label,\n                                    'text': text,\n                                    'level': level,\n                                    'region': region,\n                                    'line': line_no})\n                        else:\n                            results.append(label)\n        self._debug_stop('get-comment-titles')\n        return results\n\n#\n# >> Plugin sections (regions)\n#\n\n    # Returns list of sections dicts with all related values\n    def get_sections(self):\n        comments = self.view.find_by_selector('comment')\n        titles = self.get_comment_titles()\n\n        # Only get comment blocks with titles within them\n        sections = []\n        for i in range(len(comments)):\n            # we need to get the whole lines in order to match\n            # indented title regions correctly\n            comment = self.view.line(comments[i])\n            # If multiple lines returned check for valid lines\n            comment_lines = self.view.split_by_newlines(comment)\n            if len(comment_lines) > 0:\n                fixed_comment_lines = []\n                for x in range(len(comment_lines)):\n                    if self.is_scope_or_comment(self.view, comment_lines[x]):\n                        fixed_comment_lines.append(comment_lines[x])\n                if len(fixed_comment_lines) > 0:\n                    comment = sublime.Region(\n                        fixed_comment_lines[0].a,\n                        fixed_comment_lines[len(fixed_comment_lines)-1].b\n                        )\n            # Append to sections\n            for title in titles:\n                if comment.contains(title['region']):\n                    title['title_region'] = comment\n                    sections.append(title)\n                    break\n\n        # Get the fold regions (content blocks)\n        s_no = len(sections)\n        view_size = self.view.size()\n        for i in range(s_no):\n            section = sections[i]\n            section['index'] = i\n            region = section['title_region']\n\n            # content_region = the area that will be hidden when folded\n            fold_start = region.b + 1\n            fold_end = view_size\n\n            # get the next section of equal or lower level\n            for j in range(i+1, s_no):\n                if sections[j]['level'] <= section['level']:\n                    fold_end = sections[j]['title_region'].a - 1\n                    break\n\n            content_region = sublime.Region(fold_start, fold_end)\n            section['content_region'] = content_region\n\n        return sections\n\n    # Returns the title and content region from cursor\n    def get_section_from_cursor(self):\n        # Current selection\n        sel = self.view.sel()[0]\n        line_no, col_no = self.view.rowcol(sel.b)\n\n        # Find within sections\n        sections = self.get_sections()\n\n        for section in reversed(sections):\n            if section['line'] <= line_no:\n                return section\n        return False\n\n    # Only find titles within genuine comments\n    # This will no doubt need to be improved over time for various syntaxes\n    # ('string.quoted' makes python \"\"\" comments \"\"\" not trigger)\n    def is_scope_or_comment(self, view, region):\n        line = view.substr(region)\n        # Trim to scope\n        # If line starts with whitespace, the syntax returned is \"source\" not\n        # \"comment\" for the initial char\n        trimmed = line.lstrip()\n        diff = len(line) - len(trimmed)\n        scope = view.scope_name(region.a + diff)\n        # Check out scope\n        comments_scope = ['comment']\n        disallow = ['string.quoted', 'comment.block.documentation']\n        for each in comments_scope:\n            if scope.find(each) < 0:\n                return False\n        for each in disallow:\n            if scope.find(each) > 0:\n                return False\n        return True\n\n    def replace_level_chars(self, line):\n        level_char = get_setting('level_char', str)\n        toc_char = get_setting('toc_char', str)\n        # remove the last char so level one has no indent\n        line = line[:-1].replace(level_char, toc_char)\n        return line\n\n\n#\n# Helpers\n#\n\ndef format_pattern(pattern):\n    pattern = re.escape(pattern)\n    pattern = pattern.replace('\\>', '>')\n    return pattern\n\n\ndef get_setting(name, typeof=str):\n    settings = sublime.load_settings('tableofcomments.sublime-settings')\n    setting = settings.get(name)\n    if setting:\n        if typeof == str:\n            return setting\n        if typeof == bool:\n            return setting is True\n        elif typeof == int:\n            return int(settings.get(name, 500))\n    else:\n        if typeof == str:\n            return ''\n        else:\n            return None\n\n\n#\n# Testing infrastructure\n#\n\nif sys.version_info < (3, 0):\n    import tests\nelse:\n    from . import tests\n\n\nclass table_of_comments_run_tests_command(sublime_plugin.TextCommand):\n    def run(self, edit):\n        reload_test_bootstrap()\n        tests.run(self.view, edit)\n\n\n# For developing, reload tests.* which in turn reloads it's sub packages\nbasedir = os.getcwd()\n\n\ndef reload_test_bootstrap():\n    os.chdir(basedir)\n    path = 'tests'\n    if sys.version_info < (3, 0):\n        __import__(path)\n        sys.modules[path] = reload(sys.modules[path])\n    else:\n        imp.reload(eval(path))\n\n\nclass table_of_comments_auto_runner(sublime_plugin.EventListener):\n    def on_pre_save(self, view):\n        if get_setting('toc_generate_on_save', bool):\n            view.run_command('table_of_comments', { 'generate': True })\n\n",
+			"file": "/Users/errollloyd/Library/Application Support/Sublime Text/Packages/table_of_comments/tableofcomments.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 14934,
+				"line_ending": "Unix",
+				"scratch": true,
+				"unsaved": true
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"insert_content",
+					{
+						"content": "\"\"\"\nPlugin to create a quick panel lookup that lets you jump between comment\ntitles\n\"\"\"\n\nimport os\nimport imp\nimport time\nimport sys\nimport sublime\nimport sublime_plugin\nimport re\n\n\n# > Plugin command\nclass table_of_comments_command(sublime_plugin.TextCommand):\n\n    def run(self, edit, move=None, fold=None, unfold=None, generate=None):\n        toc = TableOfComments(self.view, edit)\n        if move is not None:\n            self.traverse_comments(toc, move)\n        elif fold is not None or unfold is not None:\n            self.fold_comments(toc, fold, unfold)\n        elif generate is not None:\n            toc.create_toc()\n        else:\n            self.show_quick_panel(toc)\n\n    # >> Quick panel\n    def show_quick_panel(self, toc):\n        view = self.view\n        toc._debug_start('Show quick panel')\n        toc.create_toc()\n        # Get current section from cursor\n        show_index = 0\n        current_section = toc.get_section_from_cursor()\n        if current_section:\n            show_index = current_section['index']\n\n        # Store positions for returning to\n        return_to = []\n        for each in view.sel():\n            return_to.append(each)\n        toc.return_to = return_to\n\n        # Pop up the panel\n        titles = toc.get_comment_titles('string')\n        self.window = sublime.active_window()\n        if sys.version_info < (3, 0):\n            self.window.show_quick_panel(titles, toc.on_list_selected_done)\n        else:\n            self.window.show_quick_panel(  # Pass on_highlighted callback\n                titles, toc.on_list_selected_done, False, show_index,\n                toc.on_list_selected_done)\n        toc._debug_stop('Show quick panel')\n\n    # >> Up down\n    # Allows moving up and down through comments\n    def traverse_comments(self, toc, move):\n        view = self.view\n        titles = toc.get_comment_titles()\n        sel = view.sel()\n        if len(sel) == 1:\n            current_line_no, col_no = view.rowcol(sel[0].b)\n            for x in range(len(titles)):\n                item = titles[x]\n                if move == 'up':  # moving up\n                    if item['line'] < current_line_no:\n                        if x+1 < len(titles):\n                            if titles[x+1]['line'] >= current_line_no:\n                                return toc.on_list_selected_done(x)\n                        else:\n                            return toc.on_list_selected_done(x)\n                else:  # moving down\n                    if item['line'] > current_line_no:\n                        return toc.on_list_selected_done(x)\n\n    # >> Fold comments\n    def fold_comments(self, toc, fold, unfold):\n        comments = self.view.find_by_selector('comment')\n        is_all = fold == 'all' or unfold == 'all'\n\n        # Get the content regions to fold\n        fold_regions = []\n\n        if is_all:\n            sections = toc.get_sections()\n            for s in sections:\n                content_region = s['content_region']\n                fold_regions.append(content_region)\n        else:\n            section = toc.get_section_from_cursor()\n            fold_regions.append(section['content_region'])\n\n        # Fold, unfold or toggle\n        if fold is not None:\n            self.view.fold(fold_regions)\n        elif unfold is not None:\n            self.view.unfold(fold_regions)\n        elif self.view.fold(fold_regions) is False:\n            self.view.unfold(fold_regions)\n\n\n#\n# > Plugin class\n#\nclass TableOfComments:\n\n    def __init__(self, view, edit):\n        self.view = view\n        self.edit = edit\n\n#\n# Debug timing functions\n#\n#\n    timers = {}\n\n    def _debug_start(self, ref):\n        self.timers[ref] = time.time()\n\n    def _debug_stop(self, ref):\n        start_time = self.timers[ref]\n        duration = time.time() - start_time\n        self.timers[ref] = duration\n\n#\n# Table TOC tag\n#\n\n    def get_toc_region(self, view):\n        title = get_setting('toc_title', str)\n        # pattern = r'\\/\\*(\\s|\\*)*'+title+r'[^\\/]*\\/'\n        # Allow for simple string search to find TOC locations\n        pattern = r'(\\s|\\*)*'+title+r'(\\s|\\*\\/)*'\n        matches = view.find_all(pattern)\n        for region in (matches):\n            if self.is_scope_or_comment(view, region):\n                return region\n        return None\n\n    def is_in_toc_region(self, view, region):\n        toc_region = self.get_toc_region(view)\n        if toc_region:\n            if region.a > toc_region.a and region.a < toc_region.b:\n                return True\n        return False\n\n    def create_toc(self):\n        if not get_setting('make_toc', typeof=bool):\n            return\n        view = self.view\n        edit = self.edit\n        region = self.get_toc_region(view)\n        if region:\n            toc = self.compile_toc(view)\n            existing = view.substr(region)\n            if existing != toc:\n                view.replace(edit, region, toc)\n\n    def compile_toc(self, view):\n        self._debug_start('compile-toc')\n        titles = self.get_comment_titles('string')\n        title = get_setting('toc_title', str)\n        start = get_setting('toc_start', str)\n        line = get_setting('toc_line', str)\n        end = get_setting('toc_end', str)\n        front = \"\\n\" + line\n        output = start + front + title + front.rstrip()\n        for title in titles:\n            comment_level = title.count('-') + 1\n            try:\n                level = int(get_setting('toc_level', int))\n                if level >= comment_level:\n                    output += front + title\n            except TypeError:\n                output += front + title\n        output += \"\\n\"+end\n        self._debug_stop('compile-toc')\n        return output\n\n#\n# >> Quick panel\n#\n\n    # Jump list quick menu selected\n    def on_list_selected_done(self, picked):\n        if picked == -1:\n            self.view.sel().clear()\n            for each in self.return_to:\n                self.view.sel().add(each)\n            self.view.show(self.view.sel())\n        else:\n            titles = self.get_comment_titles()\n            title = titles[picked]\n            row = title['line']\n            point = self.view.text_point(row, 0)\n            line_region = self.view.line(point)\n            # Reference the 'text' within the line only\n            text = title['text']\n            text = re.escape(text)\n            text = text.replace('\\>', '>')  # \">\" does not work when escaped\n            text_region = self.view.find(text, line_region.a)\n\n            # view.rowcol() returns a zero based line number\n            line = int(title['line'])+1\n            # Use goto_line to move the document then highlight\n            if sublime.active_window().active_view():\n                sublime.active_window().active_view().run_command(\n                    \"goto_line\", {\"line\": line}\n                    )\n            self.view.sel().clear()\n            self.view.sel().add(text_region)\n\n#\n# >> Parse\n#\n\n    # Core parse function (returned as dict or list)\n    def get_comment_titles(self, format='dict', test=None):\n        self._debug_start('get-comment-titles')\n        view = self.view\n        level_char = get_setting('level_char', str)\n        comment_chars = get_setting('comment_chars', str)\n        # add potential whitespace before each comment character\n        # but don't have whitespace as a potential singular start character\n        comment = [r'[ ]*'+re.escape(c) for c in comment_chars]  # type: ignore\n        comment = 'DIV'.join(comment)\n        start = r''+comment.replace('DIV', '|')\n        # build the pattern to match the comment\n        pattern = r'^('+start+')*?[ ]*('+format_pattern(level_char)+'+)\\s*' + \\\n            r'(.+)('+start+')*?$'\n        print('TOC DEBUG')\n        print(comment, start, pattern)\n# \\s*\\/DIV\\s*\\*DIV\\s*\\#DIV\\s*\\|\n# \\s*\\/|\\s*\\*|\\s*\\#|\\s*\\|\n# ^(\\s*\\/|\\s*\\*|\\s*\\#|\\s*\\|)*?(>+)\\s*(.+)(\\s*\\/|\\s*\\*|\\s*\\#|\\s*\\|)*?$\n\n        matches = view.find_all(pattern)\n        results = []\n        toc_title = get_setting('toc_title', str)\n\n        for match in matches:\n            bits = view.lines(match)  # go through each line\n            for region in bits:\n                # Ensure it's comment or source\n                if not self.is_scope_or_comment(view, region):\n                    continue\n                # Ensure not in toc region already\n                if self.is_in_toc_region(view, region):\n                    continue\n\n                line = view.substr(region)\n                line_match = re.match(pattern, line)\n\n                if not line_match:\n                    continue\n\n                if level_char in line:\n                    # Add the level chars\n                    label = line_match.group(2)\n\n                    # Replace level char with toc char\n                    label = self.replace_level_chars(label)\n                    level = len(label)\n                    if label != '':\n                        label += ' '\n\n                    # append the heading text, remove trailing comment chars\n                    text = line_match.group(3).strip(comment_chars+' ')\n                    label += text\n\n                    # Get the position\n                    if line != '' and line != toc_title:\n                        line_no, col_no = view.rowcol(region.b)\n                        if format == 'dict':\n                            results.append(\n                                {'label': label,\n                                    'text': text,\n                                    'level': level,\n                                    'region': region,\n                                    'line': line_no})\n                        else:\n                            results.append(label)\n        self._debug_stop('get-comment-titles')\n        return results\n\n#\n# >> Plugin sections (regions)\n#\n\n    # Returns list of sections dicts with all related values\n    def get_sections(self):\n        comments = self.view.find_by_selector('comment')\n        titles = self.get_comment_titles()\n\n        # Only get comment blocks with titles within them\n        sections = []\n        for i in range(len(comments)):\n            # we need to get the whole lines in order to match\n            # indented title regions correctly\n            comment = self.view.line(comments[i])\n            # If multiple lines returned check for valid lines\n            comment_lines = self.view.split_by_newlines(comment)\n            if len(comment_lines) > 0:\n                fixed_comment_lines = []\n                for x in range(len(comment_lines)):\n                    if self.is_scope_or_comment(self.view, comment_lines[x]):\n                        fixed_comment_lines.append(comment_lines[x])\n                if len(fixed_comment_lines) > 0:\n                    comment = sublime.Region(\n                        fixed_comment_lines[0].a,\n                        fixed_comment_lines[len(fixed_comment_lines)-1].b\n                        )\n            # Append to sections\n            for title in titles:\n                if comment.contains(title['region']):\n                    title['title_region'] = comment\n                    sections.append(title)\n                    break\n\n        # Get the fold regions (content blocks)\n        s_no = len(sections)\n        view_size = self.view.size()\n        for i in range(s_no):\n            section = sections[i]\n            section['index'] = i\n            region = section['title_region']\n\n            # content_region = the area that will be hidden when folded\n            fold_start = region.b + 1\n            fold_end = view_size\n\n            # get the next section of equal or lower level\n            for j in range(i+1, s_no):\n                if sections[j]['level'] <= section['level']:\n                    fold_end = sections[j]['title_region'].a - 1\n                    break\n\n            content_region = sublime.Region(fold_start, fold_end)\n            section['content_region'] = content_region\n\n        return sections\n\n    # Returns the title and content region from cursor\n    def get_section_from_cursor(self):\n        # Current selection\n        sel = self.view.sel()[0]\n        line_no, col_no = self.view.rowcol(sel.b)\n\n        # Find within sections\n        sections = self.get_sections()\n\n        for section in reversed(sections):\n            if section['line'] <= line_no:\n                return section\n        return False\n\n    # Only find titles within genuine comments\n    # This will no doubt need to be improved over time for various syntaxes\n    # ('string.quoted' makes python \"\"\" comments \"\"\" not trigger)\n    def is_scope_or_comment(self, view, region):\n        line = view.substr(region)\n        # Trim to scope\n        # If line starts with whitespace, the syntax returned is \"source\" not\n        # \"comment\" for the initial char\n        trimmed = line.lstrip()\n        diff = len(line) - len(trimmed)\n        scope = view.scope_name(region.a + diff)\n        # Check out scope\n        comments_scope = ['comment']\n        disallow = ['string.quoted', 'comment.block.documentation']\n        for each in comments_scope:\n            if scope.find(each) < 0:\n                return False\n        for each in disallow:\n            if scope.find(each) > 0:\n                return False\n        return True\n\n    def replace_level_chars(self, line):\n        level_char = get_setting('level_char', str)\n        toc_char = get_setting('toc_char', str)\n        # remove the last char so level one has no indent\n        line = line[:-1].replace(level_char, toc_char)\n        return line\n\n\n#\n# Helpers\n#\n\ndef format_pattern(pattern):\n    pattern = re.escape(pattern)\n    pattern = pattern.replace('\\>', '>')\n    return pattern\n\n\ndef get_setting(name, typeof=str):\n    settings = sublime.load_settings('tableofcomments.sublime-settings')\n    setting = settings.get(name)\n    if setting:\n        if typeof == str:\n            return setting\n        if typeof == bool:\n            return setting is True\n        elif typeof == int:\n            return int(settings.get(name, 500))\n    else:\n        if typeof == str:\n            return ''\n        else:\n            return None\n\n\n#\n# Testing infrastructure\n#\n\nif sys.version_info < (3, 0):\n    import tests\nelse:\n    from . import tests\n\n\nclass table_of_comments_run_tests_command(sublime_plugin.TextCommand):\n    def run(self, edit):\n        reload_test_bootstrap()\n        tests.run(self.view, edit)\n\n\n# For developing, reload tests.* which in turn reloads it's sub packages\nbasedir = os.getcwd()\n\n\ndef reload_test_bootstrap():\n    os.chdir(basedir)\n    path = 'tests'\n    if sys.version_info < (3, 0):\n        __import__(path)\n        sys.modules[path] = reload(sys.modules[path])\n    else:\n        imp.reload(eval(path))\n\n\nclass table_of_comments_auto_runner(sublime_plugin.EventListener):\n    def on_pre_save(self, view):\n        if get_setting('toc_generate_on_save', bool):\n            view.run_command('table_of_comments', { 'generate': True })\n\n"
+					},
+					"AQAAAAAAAAAAAAAAVjoAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/pythonREPL.py",
+			"settings":
+			{
+				"buffer_size": 15438,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"goto",
+				"Goto Comment"
+			],
+			[
+				"pyright",
+				"LSP-pyright: Create Pyright Configuration File"
+			],
+			[
+				"pack res ",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"proj man add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj man",
+				"Project Manager: Remove Project"
+			],
+			[
+				"packdev",
+				"PackageDev: Create Package"
+			],
+			[
+				"texl",
+				"Preferences: LSP-TexLab Settings"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"file ren",
+				"Rename File"
+			],
+			[
+				"file name",
+				"File Manager: Copy Name"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"build",
+				"Build With: simple_pdflatex"
+			],
+			[
+				"file move",
+				"File Manager: Move"
+			],
+			[
+				"proj man ad",
+				"Project Manager: Add New Project"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack con re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack con up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack con li",
+				"Package Control: List Packages"
+			],
+			[
+				"pack ",
+				"Package Control: List Packages"
+			],
+			[
+				"file get path",
+				"File Manager: Copy Absolute Path"
+			],
+			[
+				"file de",
+				"File Manager: Delete"
+			],
+			[
+				"book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"file sp",
+				"File: Split View"
+			],
+			[
+				"split",
+				"File: Split View"
+			],
+			[
+				"key conf",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"pack instal",
+				"Package Control: Install Package"
+			],
+			[
+				"keybin",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"key bi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"view",
+				"File: Split View"
+			],
+			[
+				"syntax pref",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"file path",
+				"File Manager: Copy Relative Path"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings"
+			],
+			[
+				"zk pane",
+				"ZK: Select Panes for opening notes/results"
+			],
+			[
+				"zk new",
+				"ZK: New Zettel Note"
+			],
+			[
+				"pack co",
+				"Package Control: List Packages"
+			],
+			[
+				"zk sea",
+				"ZK: Search for tag combination"
+			],
+			[
+				"brack hi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"syntax sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"zk pan",
+				"ZK: Select Panes for opening notes/results"
+			],
+			[
+				"zk",
+				"ZK: Search for tag combination"
+			],
+			[
+				"zk pa",
+				"ZK: Select Panes for opening notes/results"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"zk se",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"pack co en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"z sea",
+				"ZK: Search for tag combination"
+			],
+			[
+				"pack res o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"z",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"file na",
+				"File: Copy Name"
+			],
+			[
+				"open url",
+				"Open URL: Settings"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"open link",
+				"Tasks: Open Link"
+			],
+			[
+				"zk s",
+				"ZK: Search for tag combination"
+			],
+			[
+				"zk mo",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"zk im",
+				"ZK: Show Images"
+			],
+			[
+				"zk e",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"zk ci",
+				"ZK: Insert Citation"
+			],
+			[
+				"proj ad",
+				"Project: Add Folder"
+			],
+			[
+				"set z",
+				"Set Syntax: Markdown Zettelkasten"
+			],
+			[
+				"proj man ",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj man ap",
+				"Project Manager: Append Project"
+			],
+			[
+				"file d",
+				"File: Delete"
+			],
+			[
+				"zk ren",
+				"Set Syntax: Markdown Zettelkasten"
+			],
+			[
+				"zk n",
+				"ZK: New Zettel Note"
+			],
+			[
+				"proj man n",
+				"Project Manager: Add New Project"
+			],
+			[
+				"pack co in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack co add",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sear",
+				"Search Anywhere: From Selection"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"Diff View: Run custom diff..."
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"origam",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"orig s",
+				"Origami: Save Current Layout"
+			],
+			[
+				"proj",
+				"Project: Edit Project"
+			],
+			[
+				"anaconda lint",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"anaconda dis",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anaconda disa l",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"packresvie",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"anaconda st",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"tasks",
+				"Tasks: Filter by tags under cursors"
+			],
+			[
+				"proj man edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"bra hi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brack wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj man re",
+				"Project Manager: Remove Project"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"view ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"brack sw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"brack hi sw",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"brackhi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brackhi",
+				"BracketHighlighter: Quick Start Guide"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj e",
+				"Project: Edit Project"
+			],
+			[
+				"pack op er",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack con rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack co rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ana co",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pack co dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"anaconda com",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pack con ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"color hi",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"color high",
+				"Color Highlight: Disable Color Highlighting"
+			],
+			[
+				"res op",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"view.run_command('goto_comment')",
+			"v = sublime.View()",
+			"sublime.View.run_command('goto_comment')",
+			"sublime.View",
+			"sublime.view()",
+			"sublime.view",
+			"sublime.log_commands(False)",
+			"sublime.run_command('goto_comment')",
+			"sublime.log_commands(True)",
+			"sublime.run_command('goto_comment')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"view.file_name()",
+			"view",
+			"sublime.log_commands(True)",
+			"sublime.view_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"askdjfh",
+			"kjdfhskdfjh",
+			"skdjfhdskjfh",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49226))",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command('resize_pane', {\"orientation\": \"cols\"})",
+			"sublime.run_command('resize_pane')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True",
+			"sublime.log_commands(True)",
+			"sublime.log_commadns(True)",
+			"s;dfjh",
+			";soadfh",
+			"ldfskj",
+			"sublime.log_commands(False)",
+			"sublime.run_command('phd_dates')",
+			"sublime.run_command('rb_hours_sum')",
+			"sublime.run_command(rb_hours_sum)",
+			"sublime.run_command(phd_dates)",
+			"sublime.run_command(phd_dates_command)",
+			"sublime.run_command(phd_dates)",
+			"s.get('font_size')",
+			"s = sublime.load_settings(\"Preferences.sublime-settings\")",
+			"st = sublime.load_settings()",
+			"sublime",
+			"sublime.get_setting('font_size')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command(plain_tasks_calendar)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"\n#Totals\n\ntotal,0\n\nsublime.list_commands(False)",
+			"print(test)",
+			"test",
+			"test = test + '\\nworld'",
+			"test = 'hello'",
+			"sublime.run_command(\"run_macro_file\", {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"})",
+			"sublime",
+			"test.strip() == None",
+			"test.strip() == False",
+			"test.strip() == ''",
+			"test",
+			"test.strip()",
+			"test",
+			"test = \"\\n\"",
+			"test",
+			"test = '\\n'",
+			"test.strip()",
+			"test",
+			"\n#Totals\ntest = ' '",
+			"sublime_plugin.TextCommand.view",
+			"sublime_plugin.TextCommand",
+			"import sublime_plugin",
+			"import sublime_pluging as sp",
+			"sublime_plugin",
+			"sublime",
+			"self.view.symbols()",
+			"view.run_command('my_example')",
+			"view.command('duplicate_line')",
+			"view.run(\"duplicate_line\")",
+			"vie",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 60708))",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print('hello world')",
+			"collections.Counter([1, 1, 2, 2, 3, 1, 1, ])",
+			"collections.Counter()",
+			"import collections",
+			"dir()",
+			"import this"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/pyrightconfig.json",
+		"/Users/errollloyd/Science/PhD/thesis/thesis.pdf",
+		"/Volumes/MagellanX/University/Master_of_Science/Thesis/thesis_final/Thesis.tex",
+		"/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/vc.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/simple_pdflatex.sublime-build",
+		"/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.tex",
+		"/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes/len_tuning/general_thoughts.tex",
+		"/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes/len_tuning/general_thoughts.md",
+		"/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes/plasticity/general_thoughts.tex",
+		"/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes/plasticity/general_thoughts.md",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/.zekell_config.json",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/test.ini",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/zekell.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/prototype/20211019103824 first_note.md",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/pyright_test.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/notes.md",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/schema.sql",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/test.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/proto_nb.py",
+		"/Users/errollloyd/Developer/zekell/todo.todo",
+		"/Users/errollloyd/Developer/zekell/.gitignore",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173049 SQLite.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173110 Basics.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911174812 zettelkasten-sqlite.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022131145 Notable Examples.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022132815 Good References.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009191039 sublime_zk usage.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009191618 Custom Addtions.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200922152119 Culture.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201025110953 Human Life.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009182253 Listing branches and remotes.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124826 Ideas.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022131122 Data Visualisation.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154437 Core.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201012164648 Front-end.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201012164222 Online Git Tutorial.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124910 Shift-Tab for Basic.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022170033 Explorable on Colour Perception.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124758 Projects.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904105632 Python.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831020129 graphical representation.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009182009 remote conventions.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009181855 hub.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009181737 git.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920200115 phd-backup-s3-bucket.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193136 S3.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193126 AWS.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193055 Cloud.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193037 Technology.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/zettelkasten.sublime-project",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154743 GUI.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154834 tkinter.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200927183011 SSH.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124716 Software.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154624 Third Party Libraries.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154509 Standard Library.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831005513 zettelkasten.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831005955 sublime_zk.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831185405 materials_on_note_taking.mdzk",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-settings",
+		"/Users/errollloyd/Documents/zettelkasten/2020-10-09.md",
+		"/Users/errollloyd/Documents/zettelkasten/20200913172139 Text Editor.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200913172152 Sublime Text.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904085515 pyconau_2020.mdzk",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/sublime_zk.sublime-settings",
+		"/Users/errollloyd/Documents/zettelkasten/20200922153002 Academia.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200922153027 Publishing.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904114413 Critique.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904114310 Jupyter.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173013 SQL.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904105724 Conferences.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/.search_results.zkr",
+		"/Users/errollloyd/Documents/zettelkasten/.saved_searches.zks",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-syntax",
+		"/Users/errollloyd/Documents/zettelkasten/20200831185115 Book on note taking methods.mdzk",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-commands",
+		"/Users/errollloyd/Documents/zettelkasten/native_test",
+		"/Users/errollloyd/Documents/zettelkasten/20200831010012 test.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/202008310029 zk_package.mdzk",
+		"/Users/errollloyd/Desktop/delete",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/delete.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/hws_exp.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/HWS #phd.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/lif.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/static_two_layer.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/soodakRFModel.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/MagellanX/PhD/Data/length_tun_data/analysis_functions.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default.sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Zeus.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/random",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/athena.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/achilles.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/.gitignore",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/.gitignore",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/README.md",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/athena_zeus.todo",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/protoZeus.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/zeus.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/old_zeus.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Python/Completion Rules.tmPreferences",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/hermes.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/test.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/autoCompleteTest.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/codeIntelTest.py",
+		"/Users/errollloyd/Documents/ResBaz/git/guiTests/RGWorkShop/autoFileTest/myScript.py",
+		"/Users/errollloyd/Documents/ResBaz/git/guiTests/RGWorkShop/autoFileTest/randomFile.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/importTest.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/monokai_errol.sublime-color-scheme"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"comments"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/goto_comment.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										174,
+										175
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										153,
+										154
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".py",
+								"current_syntax": "Python/Python",
+								"enabled": true,
+								"last_updated": 1635072507.41,
+								"scanning": "-comment"
+							},
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/errollloyd/Library/Application%20Support/Sublime%20Text/Packages/User/goto_comment.py",
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": -32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/user_commands.sublime-commands",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"selector": "meta.mapping.key punctuation.definition.string.begin"
+								},
+								{
+									"selector": "- comment - punctuation.separator - punctuation.definition.string.end - constant.character.escape - invalid.illegal - punctuation.section.mapping - punctuation.section.sequence",
+									"server": "LSP-json"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										543,
+										544
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										530,
+										531
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".sublime-commands",
+								"current_syntax": "PackageDev/Package/Sublime Text Commands/Sublime Text Commands",
+								"enabled": true,
+								"last_updated": 1635072507.41,
+								"scanning": "-comment"
+							},
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/errollloyd/Library/Application%20Support/Sublime%20Text/Packages/User/user_commands.sublime-commands",
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/PackageDev/Package/Sublime Text Commands/Sublime Text Commands.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": -32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/Users/errollloyd/Library/Application Support/Sublime Text/Packages/table_of_comments/tableofcomments.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"buffer_empty": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".py",
+								"current_syntax": "Python/Python",
+								"enabled": true,
+								"last_updated": 1635072507.41,
+								"scanning": "-comment"
+							},
+							"create_dir": true,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 2,
+							"lsp_uri": "res://Packages/table_of_comments/tableofcomments.py",
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/pythonREPL.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".py",
+								"current_syntax": "Python/Python",
+								"enabled": true,
+								"last_updated": 1635072507.41,
+								"scanning": "-comment"
+							},
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/errollloyd/Library/Application%20Support/Sublime%20Text/Packages/User/pythonREPL.py",
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 127.0
+	},
+	"output.diagnostics":
+	{
+		"height": 307.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime_user #dev.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fi",
+				"prototype/20211019103824 first_note.md"
+			],
+			[
+				"zk",
+				"20200831005955 sublime_zk.mdzk"
+			],
+			[
+				"zett",
+				"zettelkasten.sublime-project"
+			],
+			[
+				"py",
+				"20200904105632 Python.mdzk"
+			],
+			[
+				"cust",
+				"20201009191618 Custom Addtions.mdzk"
+			],
+			[
+				"sof",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"pyth",
+				"20200904105632 Python.mdzk"
+			],
+			[
+				"bra",
+				"20201009182253 Listing branches and remotes.mdzk"
+			],
+			[
+				"git",
+				"20201009181737 git.mdzk"
+			],
+			[
+				"aws",
+				"20200920193126 AWS.mdzk"
+			],
+			[
+				"soft",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"",
+				".search_results.zkr"
+			],
+			[
+				"gen",
+				"notes/general_thoughts.md"
+			],
+			[
+				"lif",
+				"code/lif/lif.py"
+			],
+			[
+				"stat",
+				"HWS #phd/static_two_layer.py"
+			],
+			[
+				"the",
+				"themis.py"
+			],
+			[
+				"heph",
+				"hephaistos.py"
+			],
+			[
+				"her",
+				"hermes.py"
+			],
+			[
+				"qui",
+				"/Volumes/MagellanX/PhD/Data/length_tun_data/quick_run.py"
+			],
+			[
+				"ath",
+				"zeus/athena.py"
+			],
+			[
+				"at",
+				"zeus/athena_themis.todo"
+			],
+			[
+				"th",
+				"themis.py"
+			],
+			[
+				"aht",
+				"athena_themis.todo"
+			],
+			[
+				"ol",
+				"zeus/old_zeus.py"
+			],
+			[
+				"pr",
+				"zeus/protoZeus.py"
+			],
+			[
+				"ze",
+				"zeus/zeus.py"
+			],
+			[
+				"zu",
+				"zeus/zeus.py"
+			],
+			[
+				"pro",
+				"zeus/protoZeus.py"
+			],
+			[
+				"qu",
+				"spike2_workflow_test/hephaistos_testing/u1_r1.smrx/quickViewProto.py"
+			],
+			[
+				"s",
+				"zeus/spk2_mat_read.py"
+			],
+			[
+				"z",
+				"zeus/zeus.py"
+			],
+			[
+				"hep",
+				"zeus/hephaistos.py"
+			],
+			[
+				"todo ",
+				"project_notes/todo_check_files"
+			],
+			[
+				"phd ",
+				"project_notes/phd_timeline.todo.html"
+			],
+			[
+				"hel",
+				"git/helpers.csv"
+			],
+			[
+				"2018",
+				"RB_general/2018_10_19_hours.csv"
+			],
+			[
+				"to",
+				"project_notes/todo_check.sh"
+			],
+			[
+				"todo",
+				"project_notes/todo_check_files"
+			],
+			[
+				"reg",
+				"git/regex_test.todo"
+			],
+			[
+				"hou",
+				"RB_general/2018_10_05_hours.csv"
+			],
+			[
+				"20",
+				"RB_general/2018_09_21_hours.csv"
+			],
+			[
+				"prog",
+				"project_notes/prog_review_3.5.md"
+			],
+			[
+				"test",
+				"RB_general/test"
+			],
+			[
+				"work",
+				"git/workshop_materials.todo"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"criticl",
+				"tag-critical"
+			],
+			[
+				"",
+				"Abbot:2011fd"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 394.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

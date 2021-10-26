@@ -5,5 +5,6 @@
 	{"caption": "Zotero Quick Search", "command": "zotero_quick_search"},
 	{"caption": "Zotero Search Proto", "command": "zotero_search_proto"},
 	{"caption": "Python REPL Open", "command": "open_python_repl_view"},
-	{"caption": "Python REPL Remove Cell Markers", "command": "remove_all_cell_markers",}
+	{"caption": "Python REPL Remove Cell Markers", "command": "remove_all_cell_markers"},
+	{"caption": "Goto Comment", "command": "goto_comment"}
 ]

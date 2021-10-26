@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			/*"binary_file_patterns":
+			[
+			],*/
+			/*"file_exclude_patterns":
+			[
+			],*/
+			/*"folder_exclude_patterns":
+			[
+			],*/
+			"name": "thesis #phd",
+			"path": "/Users/errollloyd/Science/PhD/thesis",
+		},
+		{
+			"path": "/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes"
+		},
+	],
+}
