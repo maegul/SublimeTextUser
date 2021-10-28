@@ -16,11 +16,37 @@ import sublime_plugin
 
 # > Comment start
 
-# most important setting ... need one for each syntax
+# should come from default settings
+SCOPE_COMMENT_CHARS = {
+    'default': ['#', '/', '/*', '%', '<!--', '-'],
+    'source.python': ['#'],
+    'source.json.sublime.keymap': ['/']
+}
+
 COMMENT_START_PATTERNS = {
+    scope: [
+        rf'^[ \t]*{re.escape(c)}+'
+        for c in chars
+        ]
+    for scope, chars
+    in SCOPE_COMMENT_CHARS.items()
+}
+
+# should come from user settings
+CUSTOM_COMMENT_START_PATTERNS = {
     # insert comment char     V----- here
-    'source.python': [r'^[ \t]*\#+', r'\#'],
-    'source.json.sublime.keymap': [r'^[ \t]*\/+']
+    # 'source.python': [r'^[ \t]*\#+', r'\#'],
+    # 'source.json.sublime.keymap': [r'^[ \t]*\/+']
+}
+
+# add custom to all
+COMMENT_START_PATTERNS.update(CUSTOM_COMMENT_START_PATTERNS)
+
+# > Compiling into complete patterns
+COMMENT_PATTERNS = {
+    scope: r'|'.join([p for p in patterns ])
+    for scope, patterns
+    in COMMENT_START_PATTERNS.items()
 }
 
 # > Level Characters
@@ -30,14 +56,13 @@ LEVEL_CHARS = {
     'source.python': r'>'
 }
 
-# LEVEL_CHAR_FORMAT_SUB = r'-'
-
+# Format for substitution of level_chars
 LEVEL_CHAR_FORMAT_SUB = {
     1: '',
-    2: r'  - ',
-    3: r'   -- ',
-    4: r'    --',
-    5: r'     --'
+    2: '  - ',
+    3: '   -- ',
+    4: '    --',
+    5: '     --'
 }
 
 LEVEL_CHAR_FORMAT_SUB_PATTERNS = {
@@ -49,17 +74,8 @@ LEVEL_CHAR_FORMAT_SUB_PATTERNS = {
     for scope in COMMENT_START_PATTERNS
 }
 
+# > Full Patterns
 
-# > Compiling into complete patterns
-# ===========
-COMMENT_PATTERNS = {
-    scope: r'|'.join([p for p in patterns ])
-    for scope, patterns
-    in COMMENT_START_PATTERNS.items()
-}
-COMMENT_PATTERNS
-# -----------
-# ===========
 LEVEL_PATTERNS = {
     scope: (
         # parentheses around pattern important, breaks | off from rest of pattern
@@ -69,8 +85,8 @@ LEVEL_PATTERNS = {
     for scope, pattern
     in COMMENT_PATTERNS.items()
 }
-LEVEL_PATTERNS
-# -----------
+
+
 EXTRACTION_SEP = r'|:!:|'
 
 
@@ -78,31 +94,30 @@ EXTRACTION_SEP = r'|:!:|'
 
 # present in panel
 
-class GotoCommentCommand(sublime_plugin.TextCommand):
+class GotoCommentOldCommand(sublime_plugin.TextCommand):
 
     def run(self, edit):
 
         self._current_cursor_loc = self.view.sel()[0]
-        print('goto comment')
+        # print('goto comment')
 
         sections = self.get_section_regions_matches()
         if sections:
             sections = self.update_with_formatted_matches(sections)
-            print(sections)
+            # print(sections)
             self.panel(sections)
 
     def get_section_regions_matches(self):
 
         pattern = None
         syntax = self.view.syntax()
-        if syntax:
-            pattern = LEVEL_PATTERNS.get(syntax.scope)
-
-        # should only happen when no comment_start_patterns
-        if not (syntax and pattern):
-            print(f'No comment patterns configured for current scope')
-            return
-        print(pattern)
+        scope = (
+            syntax.scope
+            if syntax and (syntax.scope in LEVEL_PATTERNS)
+            else 'default'
+            )
+        pattern = LEVEL_PATTERNS[scope]
+        # print(pattern)
 
         section_matches = []
         section_regions = self.view.find_all(
@@ -111,7 +126,7 @@ class GotoCommentCommand(sublime_plugin.TextCommand):
             extractions=section_matches)
 
         sections = {
-            'scope': syntax.scope,
+            'scope': scope,
             # why note just concretise here!?
             # use python3 they said ... everything's a generator they said!
             'sections': list(zip(section_regions, section_matches))
