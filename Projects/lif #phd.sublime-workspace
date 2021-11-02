@@ -525,7 +525,10 @@
 			{
 				"buffer_size": 12234,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filter_functions.py",
@@ -551,17 +554,14 @@
 						]
 					},
 					"AwAAAF0CAAAAAAAAXQIAAAAAAAABAAAALlwCAAAAAAAAXAIAAAAAAAABAAAAb1sCAAAAAAAAWwIAAAAAAAABAAAAZA",
-					"AQAAAAAAAAABAAAAXQIAAAAAAABdAgAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABdAgAAAAAAAF0CAAAAAAAAAAAAAAAA8L8"
 				]
 			],
 			"settings":
 			{
 				"buffer_size": 45579,
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
 			"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/units/units.py",
@@ -592,6 +592,22 @@
 		"selected_items":
 		[
 			[
+				"comment",
+				"Comment Marks: Goto Comment"
+			],
+			[
+				"comm",
+				"Comment Marks: Settings"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
 				"pack insta",
 				"Package Control: Install Package"
 			],
@@ -614,10 +630,6 @@
 			[
 				"pack rem",
 				"Package Control: Remove Package"
-			],
-			[
-				"pack list",
-				"Package Control: List Packages"
 			],
 			[
 				"file man d",
@@ -1090,18 +1102,6 @@
 			[
 				"packresvie",
 				"PackageResourceViewer: Open Resource"
-			],
-			[
-				"min",
-				"View: Toggle Minimap"
-			],
-			[
-				"anaconda st",
-				"Anaconda: Set Python interpreter"
-			],
-			[
-				"tasks",
-				"Tasks: Filter by tags under cursors"
 			]
 		],
 		"width": 476.0
@@ -1427,6 +1427,7 @@
 				{
 					"buffer": 0,
 					"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/lgn_model_proto_nb.py",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1437,8 +1438,8 @@
 						"selection":
 						[
 							[
-								0,
-								0
+								347,
+								347
 							]
 						],
 						"settings":
@@ -1477,21 +1478,31 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1507,31 +1518,21 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"color_helper.scan":
 							{
@@ -1547,11 +1548,11 @@
 								"current_ext": ".py",
 								"current_syntax": "Python/Python",
 								"enabled": true,
-								"last_updated": 1634096664.07,
+								"last_updated": 1635661185.98,
 								"scanning": "-comment"
 							},
 							"lsp_active": true,
-							"lsp_hover_provider_count": 3,
+							"lsp_hover_provider_count": 4,
 							"lsp_uri": "file:///Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/lgn_model_proto_nb.py",
 							"rainbow_checked": true,
 							"show_definitions": false,
@@ -1563,14 +1564,13 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
 					"file": "/Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filter_functions.py",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1621,51 +1621,31 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1675,7 +1655,27 @@
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"color_helper.scan":
 							{
@@ -1691,11 +1691,11 @@
 								"current_ext": ".py",
 								"current_syntax": "Python/Python",
 								"enabled": true,
-								"last_updated": 1635072507.41,
+								"last_updated": 1635661185.98,
 								"scanning": "-comment"
 							},
 							"lsp_active": true,
-							"lsp_hover_provider_count": 3,
+							"lsp_hover_provider_count": 4,
 							"lsp_uri": "file:///Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/receptive_field/filters/filter_functions.py",
 							"rainbow_checked": true,
 							"show_definitions": false,
@@ -1704,10 +1704,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": -32.0,
+						"translation.y": 32.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1769,51 +1769,31 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1823,7 +1803,27 @@
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"color_helper.scan":
 							{
@@ -1843,7 +1843,7 @@
 								"scanning": "-comment"
 							},
 							"lsp_active": true,
-							"lsp_hover_provider_count": 4,
+							"lsp_hover_provider_count": 5,
 							"lsp_uri": "file:///Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/units/units.py",
 							"rainbow_checked": true,
 							"show_definitions": false,
@@ -1913,51 +1913,31 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -1967,7 +1947,27 @@
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
 							],
 							"color_helper.scan":
 							{
@@ -1983,11 +1983,11 @@
 								"current_ext": ".py",
 								"current_syntax": "Python/Python",
 								"enabled": true,
-								"last_updated": 1635072507.41,
+								"last_updated": 1635661185.98,
 								"scanning": "-comment"
 							},
 							"lsp_active": true,
-							"lsp_hover_provider_count": 3,
+							"lsp_hover_provider_count": 4,
 							"lsp_uri": "file:///Users/errollloyd/Science/scripts/pyth/HWS/lif/lif/utils/data_objects.py",
 							"rainbow_checked": true,
 							"show_definitions": false,
@@ -1996,7 +1996,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": -32.0,
+						"translation.y": 32.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -2324,8 +2324,8 @@
 	},
 	"show_minimap": false,
 	"show_open_files": true,
-	"show_tabs": false,
-	"side_bar_visible": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
 	"side_bar_width": 263.0,
 	"status_bar_visible": true,
 	"template_settings":
