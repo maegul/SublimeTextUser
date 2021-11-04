@@ -14,5 +14,10 @@
 			"name": "lif #phd",
 			"path": "~/Science/scripts/pyth/HWS/lif"
 		}
-	]
+	],
+	"settings": {
+		"python_repl": {
+			"env_command": "conda activate comp_neuro"
+		}
+	}
 }
