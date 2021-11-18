@@ -6,4 +6,10 @@
 	{"caption": "Zotero Search Proto", "command": "zotero_search_proto"},
 	{"caption": "Python REPL Open", "command": "open_python_repl_view"},
 	{"caption": "Python REPL Remove Cell Markers", "command": "remove_all_cell_markers"},
+	{"caption": "Zekell Insert Link", "command": "zekell_insert_link"},
+	{"caption": "Zekell Insert Tag", "command": "zekell_insert_tag"},
+	{"caption": "Zekell Open Link", "command": "zekell_open_link"},
+	{"caption": "Zekell New Note", "command": "zekell_new_note"},
+	{"caption": "Zekell Link to New Note", "command": "zekell_link_new_note"},
+	{"caption": "Zekell Open Note", "command": "zekell_open_note"},
 ]

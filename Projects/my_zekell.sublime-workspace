@@ -1,0 +1,2334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"\"settings\""
+			],
+			[
+				"NoteSe",
+				"NoteSelectInputHandler"
+			],
+			[
+				"List",
+				"ListInputHandler"
+			],
+			[
+				"subl",
+				"sublime_plugin"
+			],
+			[
+				"initi",
+				"initial_text"
+			],
+			[
+				"Text",
+				"TextInputHandler"
+			],
+			[
+				"with",
+				"with_suffix"
+			],
+			[
+				"che",
+				"check_output"
+			],
+			[
+				"wri",
+				"writelines"
+			],
+			[
+				"ZK",
+				"ZK_PATH"
+			],
+			[
+				"update",
+				"update_all_notes"
+			],
+			[
+				"Z",
+				"ZK_PATH"
+			],
+			[
+				"bat",
+				"add_batch_old_note"
+			],
+			[
+				"utc",
+				"utcoffset"
+			],
+			[
+				"timestamp",
+				"utcfromtimestamp"
+			],
+			[
+				"st_m",
+				"st_mtime"
+			],
+			[
+				"ut",
+				"utcnow"
+			],
+			[
+				"u",
+				"utc"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"t",
+				"tzinfo"
+			],
+			[
+				"fr",
+				"utcfromtimestamp"
+			],
+			[
+				"db",
+				"db_path"
+			],
+			[
+				"i",
+				"issubset"
+			],
+			[
+				"paret",
+				"parents_cte"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"child",
+				"children_cte"
+			],
+			[
+				"bre",
+				"breakpoint"
+			],
+			[
+				"ZK_",
+				"ZK_DB_PATH"
+			],
+			[
+				"upd",
+				"update_note"
+			],
+			[
+				"defau",
+				"default_config"
+			],
+			[
+				"disp",
+				"display_rows"
+			],
+			[
+				"mak",
+				"make_note_file_name"
+			],
+			[
+				"Not",
+				"NoteName"
+			],
+			[
+				"displ",
+				"display_rows"
+			],
+			[
+				"cli_",
+				"cli_list_staged_notes"
+			],
+			[
+				"as",
+				"as_posix"
+			],
+			[
+				"parse",
+				"parse_note_name"
+			],
+			[
+				"ZK_D",
+				"ZK_DB_PATH"
+			],
+			[
+				"tag_",
+				"tag_or_cte"
+			],
+			[
+				"cte",
+				"cte_table_name_map"
+			],
+			[
+				"cte_",
+				"cte_table_name_map"
+			],
+			[
+				"qu",
+				"query_tag_redirect"
+			],
+			[
+				"tag_an",
+				"tag_and_cte"
+			],
+			[
+				"tag",
+				"tag_cte"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"punctu",
+				"punctuation_replace"
+			],
+			[
+				"punc",
+				"punctuation_replace"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"link_lo",
+				"link_location_slices"
+			],
+			[
+				"ra",
+				"randrange"
+			],
+			[
+				"link",
+				"link_pattern"
+			],
+			[
+				"front_m",
+				"front_matter_template"
+			],
+			[
+				"make_new",
+				"make_new_note_id"
+			],
+			[
+				"make",
+				"make_batch_new_note_ids"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"exi",
+				"exist_ok="
+			],
+			[
+				"outpu",
+				"output_path"
+			],
+			[
+				"confi",
+				"write_default_config"
+			],
+			[
+				"defa",
+				"default_config_path"
+			],
+			[
+				"config",
+				"default_config_path"
+			],
+			[
+				"add_",
+				"add_argument"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"update_",
+				"update_note"
+			],
+			[
+				"is_",
+				"is_note_id_unique"
+			],
+			[
+				"upda",
+				"update_note_tags"
+			],
+			[
+				"check",
+				"check_valid_tag_path"
+			],
+			[
+				"delete",
+				"delete_stmt"
+			],
+			[
+				"update_note",
+				"update_note_links"
+			],
+			[
+				"add_ta",
+				"add_new_tag_path"
+			],
+			[
+				"get_tag",
+				"get_tag_path_id"
+			],
+			[
+				"add_no",
+				"add_note_tag"
+			],
+			[
+				"get_ta",
+				"get_tag_path_id"
+			],
+			[
+				"add",
+				"add_new_tag_path"
+			],
+			[
+				"new_pat",
+				"new_path_parent_id"
+			],
+			[
+				"retu",
+				"return_new_id="
+			],
+			[
+				"new_path_par",
+				"new_path_parent_id"
+			],
+			[
+				"new_ta",
+				"new_tag_path"
+			],
+			[
+				"de",
+				"deque"
+			],
+			[
+				"new_path_p",
+				"new_path_parent_id"
+			],
+			[
+				"new_t",
+				"new_tag_path"
+			],
+			[
+				"new_path",
+				"new_path_parent"
+			],
+			[
+				"pars",
+				"parse_note_body"
+			],
+			[
+				"pare",
+				"parent_note_id"
+			],
+			[
+				"new",
+				"make_new_note"
+			],
+			[
+				"name",
+				"namedtuple"
+			],
+			[
+				"no",
+				"note_name"
+			],
+			[
+				"fo",
+				"frontmatter"
+			],
+			[
+				"make_",
+				"make_note_file_name"
+			],
+			[
+				"parse_no",
+				"parse_note_name"
+			],
+			[
+				"Note",
+				"NoteName"
+			],
+			[
+				"classmet",
+				"classmethod"
+			],
+			[
+				"pane",
+				"pane_for_opening_results  \tsetting"
+			],
+			[
+				"uu",
+				"uuid\tmodule"
+			],
+			[
+				"nu",
+				"numpy\tmodule"
+			],
+			[
+				"auto",
+				"auto_show_images  \tsetting"
+			],
+			[
+				"wi",
+				"wiki_extension  \tsetting"
+			],
+			[
+				"H",
+				"Hz\tstatement"
+			],
+			[
+				"Time",
+				"TimedArray\tclass"
+			],
+			[
+				"surr",
+				"surr_resp\tstatement"
+			],
+			[
+				"retur",
+				"return_cent_surr"
+			],
+			[
+				"cent_",
+				"cent_stim_prod\tstatement"
+			],
+			[
+				"fft",
+				"fftconvolve\tfunction"
+			],
+			[
+				"return",
+				"return_t\tparam"
+			],
+			[
+				"temp_ex",
+				"temp_ext\tparam"
+			],
+			[
+				"tau",
+				"tau2\tparam"
+			],
+			[
+				"mkTem",
+				"mkTempFilt"
+			],
+			[
+				"bar",
+				"bar_lum\tparam"
+			],
+			[
+				"spat_",
+				"spat_ext"
+			],
+			[
+				"temp_re",
+				"temp_freq"
+			],
+			[
+				"pep",
+				"pep8_error_levels  \tsetting"
+			],
+			[
+				"stim_",
+				"stim_min\tparam"
+			],
+			[
+				"coo",
+				"coord_transform\tfunction"
+			],
+			[
+				"zero",
+				"zero_center\tparam"
+			],
+			[
+				"surr_sd_",
+				"surr_sd_vt\tstatement"
+			],
+			[
+				"sd",
+				"sd_vt\tstatement"
+			],
+			[
+				"lesion_dep",
+				"lesion_depths_cut_plane\tstatement"
+			],
+			[
+				"px",
+				"px_scale"
+			],
+			[
+				"lesion",
+				"lesion_depths_cut_plane\tparam"
+			],
+			[
+				"lesion_de",
+				"lesion_depths_cut_plane"
+			],
+			[
+				"Themis",
+				"ThemisDirectory\tstatement"
+			],
+			[
+				"mk",
+				"mk_themis_files_directory\tfunction"
+			],
+			[
+				"mk_ce",
+				"mk_cell_id_from_run_key\tfunction"
+			],
+			[
+				"use",
+				"use_previous_load\tparam"
+			],
+			[
+				"previousl",
+				"previous_load_path"
+			],
+			[
+				"score",
+				"scorer\tparam"
+			],
+			[
+				"gen_",
+				"gen_sign_index\tfunction"
+			],
+			[
+				"analysis",
+				"analysisData\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/zekell/20200904105632 Python.md",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "blah"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BAAAAFIBAAAAAAAAUwEAAAAAAAAAAAAAUwEAAAAAAABUAQAAAAAAAAAAAABUAQAAAAAAAFUBAAAAAAAAAAAAAFUBAAAAAAAAVgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAFYBAAAAAAAAVwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQEAAAAAAABVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+							"insert_command": "vi_delete"
+						},
+						"action_command": "enter_insert_mode",
+						"motion_args":
+						{
+							"repeat": 1
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "vi_expand_to_words",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAFIBAAAAAAAAUgEAAAAAAAAEAAAAYmxhaA",
+					"AQAAAAAAAAABAAAAVQEAAAAAAABVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "d"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAFIBAAAAAAAAUwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"extend": true,
+										"forward": true,
+										"visual": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_by_characters_in_line",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "test"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"move",
+								{
+									"by": "lines",
+									"forward": false
+								}
+							],
+							[
+								"move_to",
+								{
+									"to": "eol"
+								}
+							],
+							[
+								"move_to",
+								{
+									"extend": true,
+									"to": "bol"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "[$SELECTION]$0"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "test]"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "/123123123123"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"JQAAAFIBAAAAAAAAUgEAAAAAAAABAAAAZFIBAAAAAAAAVAEAAAAAAAAAAAAAUwEAAAAAAABUAQAAAAAAAAAAAABUAQAAAAAAAFUBAAAAAAAAAAAAAFUBAAAAAAAAVgEAAAAAAAAAAAAAVgEAAAAAAABXAQAAAAAAAAAAAABXAQAAAAAAAFkBAAAAAAAAAAAAAFcBAAAAAAAAVwEAAAAAAAABAAAAKFcBAAAAAAAAVwEAAAAAAAABAAAAKVIBAAAAAAAAUgEAAAAAAAAGAAAAKHRlc3QpUgEAAAAAAABaAQAAAAAAAAAAAABZAQAAAAAAAFkBAAAAAAAAAQAAAF1YAQAAAAAAAFgBAAAAAAAAAQAAAClXAQAAAAAAAFcBAAAAAAAAAQAAAHRWAQAAAAAAAFYBAAAAAAAAAQAAAHNVAQAAAAAAAFUBAAAAAAAAAQAAAGVUAQAAAAAAAFQBAAAAAAAAAQAAAHRTAQAAAAAAAFMBAAAAAAAAAQAAAChTAQAAAAAAAFQBAAAAAAAAAAAAAFQBAAAAAAAAVQEAAAAAAAAAAAAAVQEAAAAAAABWAQAAAAAAAAAAAABWAQAAAAAAAFcBAAAAAAAAAAAAAFcBAAAAAAAAWAEAAAAAAAAAAAAAWAEAAAAAAABaAQAAAAAAAAAAAABZAQAAAAAAAFoBAAAAAAAAAAAAAFoBAAAAAAAAWwEAAAAAAAAAAAAAWwEAAAAAAABcAQAAAAAAAAAAAABcAQAAAAAAAF0BAAAAAAAAAAAAAF0BAAAAAAAAXgEAAAAAAAAAAAAAXgEAAAAAAABfAQAAAAAAAAAAAABfAQAAAAAAAGABAAAAAAAAAAAAAGABAAAAAAAAYQEAAAAAAAAAAAAAYQEAAAAAAABiAQAAAAAAAAAAAABiAQAAAAAAAGMBAAAAAAAAAAAAAGMBAAAAAAAAZAEAAAAAAAAAAAAAZAEAAAAAAABlAQAAAAAAAAAAAABlAQAAAAAAAGYBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAFIBAAAAAAAAUgEAAAAAAAAWAAAAW3Rlc3RdKC8xMjMxMjMxMjMxMjMpCg",
+					"AQAAAAAAAAABAAAAZQEAAAAAAABlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAFIBAAAAAAAAUwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAFMBAAAAAAAAVAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					230,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line.sublime-macro",
+						"register": "\""
+					},
+					"AQAAAFABAAAAAAAAUQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANQEAAAAAAAA1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFEBAAAAAAAAUgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUQEAAAAAAABRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					232,
+					1,
+					"zekell_link_new_note",
+					{
+						"new_note_title": "DELETE"
+					},
+					"AQAAAFIBAAAAAAAAawEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgEAAAAAAABSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					234,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAFIBAAAAAAAAUgEAAAAAAAAaAAAAW0RFTEVURV0oLzIwMjExMTE4MDMzNDAxKQo",
+					"AQAAAAAAAAABAAAAagEAAAAAAABqAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/errollloyd/zekell/20201016154624 Third Party Libraries.md",
+			"settings":
+			{
+				"buffer_size": 145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAABIAAAAAAAAAEwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"zekell_insert_tag",
+					{
+						"tag_select": "tech"
+					},
+					"AQAAABMAAAAAAAAAFwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					5,
+					"left_delete",
+					null,
+					"BQAAABYAAAAAAAAAFgAAAAAAAAABAAAAaBUAAAAAAAAAFQAAAAAAAAABAAAAYxQAAAAAAAAAFAAAAAAAAAABAAAAZRMAAAAAAAAAEwAAAAAAAAABAAAAdBIAAAAAAAAAEgAAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"zek",
+				"Zekell Insert Tag"
+			],
+			[
+				"zeke",
+				"Zekell Open Link"
+			],
+			[
+				"ze",
+				"Zekell New Note"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"z",
+				"Zekell Insert Tag"
+			],
+			[
+				"project edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"proj ad",
+				"Project Manager: Add New Project"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"inser",
+				"Zekell Insert Link"
+			],
+			[
+				"insert li",
+				"Zekell Insert Link"
+			],
+			[
+				"insert link",
+				"Zekell Insert Link"
+			],
+			[
+				"insert linkt",
+				"Zekell Insert Link"
+			],
+			[
+				"insert",
+				"Zekell Insert Link"
+			],
+			[
+				"lin",
+				"Zekell Insert Link"
+			],
+			[
+				"insertlin",
+				"Zekell Insert Link"
+			],
+			[
+				"link",
+				"Zekell Insert Link"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"repl",
+				"Python REPL Remove Cell Markers"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"go",
+				"Goto Comment"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack con re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack con up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack con li",
+				"Package Control: List Packages"
+			],
+			[
+				"pack ",
+				"Package Control: List Packages"
+			],
+			[
+				"proj man",
+				"Project Manager: Remove Project"
+			],
+			[
+				"file get path",
+				"File Manager: Copy Absolute Path"
+			],
+			[
+				"file de",
+				"File Manager: Delete"
+			],
+			[
+				"book",
+				"Bookmarks: Clear All"
+			],
+			[
+				"file sp",
+				"File: Split View"
+			],
+			[
+				"split",
+				"File: Split View"
+			],
+			[
+				"key conf",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"pack instal",
+				"Package Control: Install Package"
+			],
+			[
+				"keybin",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"key bi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"view",
+				"File: Split View"
+			],
+			[
+				"syntax pref",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"file path",
+				"File Manager: Copy Relative Path"
+			],
+			[
+				"proj man add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj man ad",
+				"Project Manager: Add New Project"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings"
+			],
+			[
+				"file ren",
+				"File: Rename"
+			],
+			[
+				"zk pane",
+				"ZK: Select Panes for opening notes/results"
+			],
+			[
+				"zk new",
+				"ZK: New Zettel Note"
+			],
+			[
+				"pack co",
+				"Package Control: List Packages"
+			],
+			[
+				"zk sea",
+				"ZK: Search for tag combination"
+			],
+			[
+				"brack hi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"syntax sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"zk pan",
+				"ZK: Select Panes for opening notes/results"
+			],
+			[
+				"zk",
+				"ZK: Search for tag combination"
+			],
+			[
+				"zk pa",
+				"ZK: Select Panes for opening notes/results"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"zk se",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"pack co en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"z sea",
+				"ZK: Search for tag combination"
+			],
+			[
+				"pack res o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"file na",
+				"File: Copy Name"
+			],
+			[
+				"open url",
+				"Open URL: Settings"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"open link",
+				"Tasks: Open Link"
+			],
+			[
+				"zk s",
+				"ZK: Search for tag combination"
+			],
+			[
+				"zk mo",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"zk im",
+				"ZK: Show Images"
+			],
+			[
+				"zk e",
+				"ZK: Enter Zettelkasten Mode"
+			],
+			[
+				"zk ci",
+				"ZK: Insert Citation"
+			],
+			[
+				"set z",
+				"Set Syntax: Markdown Zettelkasten"
+			],
+			[
+				"proj man ",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"proj man ap",
+				"Project Manager: Append Project"
+			],
+			[
+				"file d",
+				"File: Delete"
+			],
+			[
+				"zk ren",
+				"Set Syntax: Markdown Zettelkasten"
+			],
+			[
+				"zk n",
+				"ZK: New Zettel Note"
+			],
+			[
+				"proj man n",
+				"Project Manager: Add New Project"
+			],
+			[
+				"pack co in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack co add",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"sear",
+				"Search Anywhere: From Selection"
+			],
+			[
+				"pack remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"diff",
+				"Diff View: Run custom diff..."
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"origam",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"orig s",
+				"Origami: Save Current Layout"
+			],
+			[
+				"proj",
+				"Project: Edit Project"
+			],
+			[
+				"anaconda lint",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"anaconda dis",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"anaconda disa l",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"packresvie",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"anaconda st",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"tasks",
+				"Tasks: Filter by tags under cursors"
+			],
+			[
+				"proj man edit",
+				"Project Manager: Edit Project"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"bra hi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brack wr",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj man re",
+				"Project Manager: Remove Project"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"view ",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"brack sw",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"brack hi sw",
+				"BracketHighlighter: Swap Brackets"
+			],
+			[
+				"brackhi w",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"brackhi",
+				"BracketHighlighter: Quick Start Guide"
+			],
+			[
+				"terminus",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"revert",
+				"File: Revert"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"proj e",
+				"Project: Edit Project"
+			],
+			[
+				"pack op er",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack con rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack co rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ana co",
+				"Anaconda: McCabe complexity check"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 242.0,
+		"history":
+		[
+			"view.erase_status('TEST')",
+			"view.set_status('TEST', 'allgood')",
+			"open_file",
+			"sublime.Region(306,336).contains(view.sel()[0].begin())",
+			"sublime.Region(306,336).contains(view.sel()[0])",
+			"sublime.Region(306,336).intersects(view.sel()[0])",
+			"sublime.Region(305,336).intersects(view.sel()[0])",
+			"sublime.Region(306,336).intersects(view.sel()[0])",
+			"sublime.Region(306,336)",
+			"sublime.Region",
+			"Region",
+			"view.sel()[0].begin()",
+			"view.sel()[0]",
+			"view.sel()",
+			"view.find_by_selector('meta.link.inline')",
+			"view.window().open_file('/Users/errollloyd/zekell/20211118030856 DELETE.md')",
+			"view.window().open_file('20211118024710 DELETE.md')",
+			"self.view.window().open_file('20211118024710 DELETE.md')",
+			"window",
+			"sublime.active_window()",
+			"view.file_name()",
+			"window.open_file('20211118010722 DELETE.md')",
+			"window.open_file('20211118010409 DELETE.md')",
+			"window",
+			"[r.intersects(view.sel()[0]) for r in view.find_by_selector('meta.link.inline')]",
+			"[r.intersection(view.sel()[0]) for r in view.find_by_selector('meta.link.inline')]",
+			"[r.intersection(view.sel()) for r in view.find_by_selector('meta.link.inline')]",
+			"for r in view.find_by_selector('meta.link.inline'):\\",
+			"for r in view.find_by_selector('meta.link.inline'):",
+			"view.find_by_selector('meta.link.inline')",
+			"view.extract_scope(view.extract_scope(view.sel()[0].begin()).begin())",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.sel()[0].end()",
+			"view.sel()[0].begin()",
+			"view.sel().begin()",
+			"view.sel()",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.match_selector(view.sel()[0].begin(), 'meta.link.inline')",
+			"view.scope_name(view.sel()[0].begin())",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.file_name()",
+			"window.project_data()",
+			"sublime.load_settings()",
+			"window.extract_variables()",
+			"window",
+			"view.sel()[0].begin()",
+			"view.text_point(*view.rowcol(view.sel()[0].begin()))",
+			"view.text_point(view.rowcol(view.sel()[0].begin()))",
+			"view.rowcol(view.sel()[0].begin())",
+			"view.rowcol(view.sel()[0])",
+			"view.sel()[0].begin()",
+			"view.sel()[0]",
+			"view.sel()",
+			"view.sel().begin",
+			"view.sel().begin()",
+			"view.sel().end()",
+			"view.sel()",
+			"view",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"view.file_name()",
+			"view",
+			"sublime.log_commands(True)",
+			"sublime.view_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"askdjfh",
+			"kjdfhskdfjh",
+			"skdjfhdskjfh",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49226))",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command('resize_pane', {\"orientation\": \"cols\"})",
+			"sublime.run_command('resize_pane')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True",
+			"sublime.log_commands(True)",
+			"sublime.log_commadns(True)",
+			"s;dfjh",
+			";soadfh",
+			"ldfskj",
+			"sublime.log_commands(False)",
+			"sublime.run_command('phd_dates')",
+			"sublime.run_command('rb_hours_sum')",
+			"sublime.run_command(rb_hours_sum)",
+			"sublime.run_command(phd_dates)",
+			"sublime.run_command(phd_dates_command)",
+			"sublime.run_command(phd_dates)",
+			"s.get('font_size')",
+			"s = sublime.load_settings(\"Preferences.sublime-settings\")",
+			"st = sublime.load_settings()",
+			"sublime",
+			"sublime.get_setting('font_size')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command(plain_tasks_calendar)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"\n#Totals\n\ntotal,0\n\nsublime.list_commands(False)",
+			"print(test)",
+			"test",
+			"test = test + '\\nworld'",
+			"test = 'hello'",
+			"sublime.run_command(\"run_macro_file\", {\"file\": \"res://Packages/Default/Add Line Before.sublime-macro\"})",
+			"sublime",
+			"test.strip() == None"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/zekell"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/zekell/20211118033401 DELETE.md",
+		"/Users/errollloyd/zekell/20211118032912 DELETE.md",
+		"/Users/errollloyd/zekell/20211118033024 DELETE.md",
+		"/Users/errollloyd/zekell/20211118032800 DELETE.md",
+		"/Users/errollloyd/zekell/20200904105724 Conferences.md",
+		"/Users/errollloyd/zekell/20200904085515 pyconau_2020.md",
+		"/Users/errollloyd/zekell/20211118030856 DELETE.md",
+		"/Users/errollloyd/zekell/20211118010900 DELETE.md",
+		"/Users/errollloyd/zekell/20211118024710 DELETE.md",
+		"/Users/errollloyd/zekell/20211118030856 DELETE.md\n",
+		"/Users/errollloyd/zekell/20211118024710 DELETE.md\n",
+		"/Users/errollloyd/zekell/20211118024243 DELETE.md\n",
+		"/Users/errollloyd/zekell/20211118010809 DELETE.md\n",
+		"/Users/errollloyd/zekell/20211118010900 DELETE.md\n",
+		"/Users/errollloyd/zekell/20211118010409 DELETE.md",
+		"/Users/errollloyd/zekell/20211118010722 DELETE.md",
+		"/Users/errollloyd/zekell/20211118010409 DELETE.md\n",
+		"/Users/errollloyd/zekell/1241231245123 DELETE.md",
+		"/Users/errollloyd/zekell/DELETE.md",
+		"/Users/errollloyd/zekell/20211118010327 DELETE.md\n",
+		"/Users/errollloyd/zekell/20211118010327 DELETE.md",
+		"/Users/errollloyd/zekell/20211118005528 DELETE.md\n",
+		"/Users/errollloyd/zekell/20211118005429 DELETE.md\n",
+		"/Users/errollloyd/zekell/20211118005254 DELETE.md\n",
+		"/Users/errollloyd/zekell/20200911174812 zettelkasten-sqlite.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/Projects/my_zekell.sublime-project",
+		"/Users/errollloyd/zekell/zettelkasten.jpg",
+		"/Users/errollloyd/zekell/zk_graph.svg",
+		"/Users/errollloyd/zekell/zk_graph.dot",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/Default/font.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/dummy_proto/20211113060461 round.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/Default/pane.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/Default/symbol.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/.zekell_config.json",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/test.ini",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/zekell.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/prototype/20211019103824 first_note.md",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/pyright_test.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/notes.md",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/schema.sql",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/test.py",
+		"/Users/errollloyd/Developer/zekell/zekell_sqlite/proto_nb.py",
+		"/Users/errollloyd/Developer/zekell/todo.todo",
+		"/Users/errollloyd/Developer/zekell/.gitignore",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173049 SQLite.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173110 Basics.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911174812 zettelkasten-sqlite.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022131145 Notable Examples.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022132815 Good References.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009191039 sublime_zk usage.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009191618 Custom Addtions.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200922152119 Culture.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201025110953 Human Life.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009182253 Listing branches and remotes.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124826 Ideas.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022131122 Data Visualisation.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154437 Core.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201012164648 Front-end.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201012164222 Online Git Tutorial.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124910 Shift-Tab for Basic.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201022170033 Explorable on Colour Perception.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124758 Projects.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904105632 Python.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831020129 graphical representation.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009182009 remote conventions.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009181855 hub.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201009181737 git.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920200115 phd-backup-s3-bucket.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193136 S3.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193126 AWS.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193055 Cloud.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200920193037 Technology.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/zettelkasten.sublime-project",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154743 GUI.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154834 tkinter.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200927183011 SSH.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911124716 Software.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154624 Third Party Libraries.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20201016154509 Standard Library.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831005513 zettelkasten.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831005955 sublime_zk.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200831185405 materials_on_note_taking.mdzk",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-settings",
+		"/Users/errollloyd/Documents/zettelkasten/2020-10-09.md",
+		"/Users/errollloyd/Documents/zettelkasten/20200913172139 Text Editor.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200913172152 Sublime Text.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904085515 pyconau_2020.mdzk",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/sublime_zk.sublime-settings",
+		"/Users/errollloyd/Documents/zettelkasten/20200922153002 Academia.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200922153027 Publishing.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904114413 Critique.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904114310 Jupyter.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200911173013 SQL.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/20200904105724 Conferences.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/.search_results.zkr",
+		"/Users/errollloyd/Documents/zettelkasten/.saved_searches.zks",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/Main.sublime-menu",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-syntax",
+		"/Users/errollloyd/Documents/zettelkasten/20200831185115 Book on note taking methods.mdzk",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-commands",
+		"/Users/errollloyd/Documents/zettelkasten/native_test",
+		"/Users/errollloyd/Documents/zettelkasten/20200831010012 test.mdzk",
+		"/Users/errollloyd/Documents/zettelkasten/202008310029 zk_package.mdzk",
+		"/Users/errollloyd/Desktop/delete",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/delete.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/test",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/hws_exp.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/HWS #phd.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/lif/lif.py",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/static_two_layer.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/soodakRFModel.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/MagellanX/PhD/Data/length_tun_data/analysis_functions.py",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/ExtendedSwitcher/ExtendedSwitcher.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default.sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Vintage/Default (OSX).sublime-keymap",
+		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Projects/Zeus.sublime-project",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/random",
+		"/Users/errollloyd/Dropbox/Science/scripts/pyth/zeus/athena.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/zekell/20200904105632 Python.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										198,
+										199
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										176,
+										177
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/syntaxes/Markdown",
+								"enabled": true,
+								"last_updated": 1635753260.51,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"lsp_uri": "file:///Users/errollloyd/zekell/20200904105632%20Python.md",
+							"mde.match_heading_hashes": false,
+							"rainbow_checked": true,
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": -32.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/zekell/20201016154624 Third Party Libraries.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										103,
+										104
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.round"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										87,
+										88
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/syntaxes/Markdown",
+								"enabled": true,
+								"last_updated": 1635753260.51,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"lsp_uri": "file:///Users/errollloyd/zekell/20201016154624%20Third%20Party%20Libraries.md",
+							"mde.match_heading_hashes": false,
+							"rainbow_checked": true,
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 307.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my_zekell.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"DELETE",
+				"20211118010327 DELETE.md"
+			],
+			[
+				"ze",
+				"20200911174812 zettelkasten-sqlite.md"
+			],
+			[
+				"pyth",
+				"20200904105632 Python.md"
+			],
+			[
+				"fi",
+				"prototype/20211019103824 first_note.md"
+			],
+			[
+				"zk",
+				"20200831005955 sublime_zk.mdzk"
+			],
+			[
+				"zett",
+				"zettelkasten.sublime-project"
+			],
+			[
+				"py",
+				"20200904105632 Python.mdzk"
+			],
+			[
+				"cust",
+				"20201009191618 Custom Addtions.mdzk"
+			],
+			[
+				"sof",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"bra",
+				"20201009182253 Listing branches and remotes.mdzk"
+			],
+			[
+				"git",
+				"20201009181737 git.mdzk"
+			],
+			[
+				"aws",
+				"20200920193126 AWS.mdzk"
+			],
+			[
+				"soft",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"",
+				".search_results.zkr"
+			],
+			[
+				"gen",
+				"notes/general_thoughts.md"
+			],
+			[
+				"lif",
+				"code/lif/lif.py"
+			],
+			[
+				"stat",
+				"HWS #phd/static_two_layer.py"
+			],
+			[
+				"the",
+				"themis.py"
+			],
+			[
+				"heph",
+				"hephaistos.py"
+			],
+			[
+				"her",
+				"hermes.py"
+			],
+			[
+				"qui",
+				"/Volumes/MagellanX/PhD/Data/length_tun_data/quick_run.py"
+			],
+			[
+				"ath",
+				"zeus/athena.py"
+			],
+			[
+				"at",
+				"zeus/athena_themis.todo"
+			],
+			[
+				"th",
+				"themis.py"
+			],
+			[
+				"aht",
+				"athena_themis.todo"
+			],
+			[
+				"ol",
+				"zeus/old_zeus.py"
+			],
+			[
+				"pr",
+				"zeus/protoZeus.py"
+			],
+			[
+				"zu",
+				"zeus/zeus.py"
+			],
+			[
+				"pro",
+				"zeus/protoZeus.py"
+			],
+			[
+				"qu",
+				"spike2_workflow_test/hephaistos_testing/u1_r1.smrx/quickViewProto.py"
+			],
+			[
+				"s",
+				"zeus/spk2_mat_read.py"
+			],
+			[
+				"z",
+				"zeus/zeus.py"
+			],
+			[
+				"hep",
+				"zeus/hephaistos.py"
+			],
+			[
+				"todo ",
+				"project_notes/todo_check_files"
+			],
+			[
+				"phd ",
+				"project_notes/phd_timeline.todo.html"
+			],
+			[
+				"hel",
+				"git/helpers.csv"
+			],
+			[
+				"2018",
+				"RB_general/2018_10_19_hours.csv"
+			],
+			[
+				"to",
+				"project_notes/todo_check.sh"
+			],
+			[
+				"todo",
+				"project_notes/todo_check_files"
+			],
+			[
+				"reg",
+				"git/regex_test.todo"
+			],
+			[
+				"hou",
+				"RB_general/2018_10_05_hours.csv"
+			],
+			[
+				"20",
+				"RB_general/2018_09_21_hours.csv"
+			],
+			[
+				"prog",
+				"project_notes/prog_review_3.5.md"
+			],
+			[
+				"test",
+				"RB_general/test"
+			],
+			[
+				"work",
+				"git/workshop_materials.todo"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 306.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"criticl",
+				"tag-critical"
+			],
+			[
+				"",
+				"Abbot:2011fd"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
