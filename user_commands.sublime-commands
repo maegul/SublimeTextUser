@@ -12,4 +12,7 @@
 	{"caption": "Zekell New Note", "command": "zekell_new_note"},
 	{"caption": "Zekell Link to New Note", "command": "zekell_link_new_note"},
 	{"caption": "Zekell Open Note", "command": "zekell_open_note"},
+	{"caption": "Zekell Open Parent Notes", "command": "zekell_open_parent_note"},
+	{"caption": "Zekell Open Child Notes", "command": "zekell_open_child_note"},
+	{"caption": "Zekell Navigate Notes", "command": "zekell_navigate_notes"},
 ]

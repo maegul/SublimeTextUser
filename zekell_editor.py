@@ -14,22 +14,67 @@ ZKL_COM = '/Users/errollloyd/Developer/zekell/zekell_sqlite/zekell.py'
 LINK = '[{title}](/{note_id})'.format
 FILE_NAME = '{note_id} {note_title}.md'.format
 
+def get_note_id_title(results):
+
+    values = []
+    for result in results.decode().splitlines()[1:]:
+        note_id, title = result.split(' | ')
+        values.append((title, (note_id, title)))
+
+    return values
+
 def insert_at_cursor(edit, view, text):
         sel = view.sel()[0].begin()
         view.insert(edit, sel, text)
 
+def open_selected_note(view, note_select):
+
+        note_id, title = note_select
+        file_name = FILE_NAME(note_id=note_id, note_title=title)
+
+        view.window().open_file(file_name)
 
 class ZekellOpenNoteCommand(sublime_plugin.TextCommand):
     def run(self, edit, **kwargs):
         if not kwargs['note_select']:
             return
-        note_id, title = kwargs['note_select']
-        file_name = FILE_NAME(note_id=note_id, note_title=title)
 
-        self.view.window().open_file(file_name)
+        open_selected_note(self.view, kwargs['note_select'])
 
     def input(self, args):
         return NoteSearchInputHandler()
+
+
+class ZekellOpenParentNoteCommand(sublime_plugin.TextCommand):
+
+    def run(self, edit, **kwargs):
+        # print('open parent', kwargs)
+        if not kwargs['note_select']:
+            return
+
+        open_selected_note(self.view, kwargs['note_select'])
+
+    def input(self, args):
+        current_note = Path(self.view.file_name())
+        note_id = current_note.name.split()[0]
+        query = f'id: {note_id};parents'
+        return NoteSelectInputHandler(query=query)
+
+
+class ZekellOpenChildNoteCommand(sublime_plugin.TextCommand):
+
+    def run(self, edit, **kwargs):
+        # print('open parent', kwargs)
+        if not kwargs['note_select']:
+            return
+
+        open_selected_note(self.view, kwargs['note_select'])
+
+    def input(self, args):
+        current_note = Path(self.view.file_name())
+        note_id = current_note.name.split()[0]
+        query = f'id: {note_id};children'
+        return NoteSelectInputHandler(query=query)
 
 
 class ZekellInsertLinkCommand(sublime_plugin.TextCommand):
@@ -99,12 +144,87 @@ class NoteSelectInputHandler(sublime_plugin.ListInputHandler):
 
     def list_items(self):
 
-        values = []
-        for result in self.results.decode().splitlines()[1:]:
-            note_id, title = result.split(' | ')
-            values.append((title, (note_id, title)))
+        values = get_note_id_title(self.results)
+        # values = []
+        # for result in self.results.decode().splitlines()[1:]:
+        #     note_id, title = result.split(' | ')
+        #     values.append((title, (note_id, title)))
 
         return values
+
+# > Nav
+
+class ZekellNavigateNotesCommand(sublime_plugin.TextCommand):
+
+    def run(self, edit, **kwargs):
+        selected_note = kwargs['note_nav'][1:]
+
+        open_selected_note(self.view, selected_note)
+
+    def input(self, args):
+        current_note = Path(self.view.file_name())
+        selected_note = current_note.name.split(maxsplit=1)
+        note_id, title = selected_note
+        query = f'id: {note_id};children'
+        return NoteNavInputHandler(query=query, selected_note=selected_note)
+
+
+class NoteNavInputHandler(sublime_plugin.ListInputHandler):
+
+    DIRECTIONS = [
+        None,
+        {'text':'<- Up', 'val': 1, 'q': 'parents'},     # idx 1     ;)
+        {'text': '-> Down', 'val': -1, 'q': 'children'} # idx -1    ;)
+    ]
+
+    def __init__(self, query, selected_note, direction = -1):
+
+        self.selected_note = selected_note
+        self.direction = direction
+        # presume title search
+        if ':' not in query:
+            query = f'title: {query}'
+        self.results = sp.check_output([
+            ZKL_COM, 'q', query])
+
+    def list_items(self):
+        values = get_note_id_title(self.results)
+
+        new_values = [
+            ('^ Open Current', (0, self.selected_note[0], self.selected_note[1])),
+            (
+                # times -1 to offer option of reversing direction
+                self.DIRECTIONS[self.direction*-1]['text'],
+                (self.DIRECTIONS[self.direction*-1]['val'],)
+            ),
+            *values
+            ]
+        # new_values.extend(values)
+        return new_values
+
+    def next_input(self, args):
+
+        selection = args['note_nav']
+
+        if selection[0] in (-1,1):  # change direction
+            # query = f'id: {self.selected_note[0]}; {self.DIRECTIONS[selection[0]]["q"]}'
+            query = self.gen_new_direction_query(direction = selection[0])
+            return NoteNavInputHandler(
+                query=query, selected_note=self.selected_note, direction=selection[0])
+
+        if selection[0] != 0:
+            # query = f'id: {selection[0]}; children'
+            query = self.gen_query(selection[0])
+            return NoteNavInputHandler(
+                query = query, selected_note=selection, direction=self.direction)
+
+    def gen_query(self, note_id):
+        query = f'id: {note_id}; {self.DIRECTIONS[self.direction]["q"]}'
+        return query
+
+    def gen_new_direction_query(self, direction):
+        query = f'id: {self.selected_note[0]}; {self.DIRECTIONS[direction]["q"]}'
+        return query
 
 class NewNoteTitleInputHandler(sublime_plugin.TextInputHandler):
 
@@ -164,7 +284,7 @@ class ZekellOpenLinkCommand(sublime_plugin.TextCommand):
                     file_name = FILE_NAME(note_id=note_id, note_title=note_title)
                     # print(links)
                     # print(note_id, note_title)
-                    print(file_name)
+                    # print(file_name)
                     window.open_file(file_name)  #type: ignore
                 except Exception as e:
                     print('could not get note')
