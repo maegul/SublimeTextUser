@@ -6,6 +6,9 @@
 		}
 	],
 	"settings": {
-		"is_zekell": true
+		"is_zekell": true,
+		"draw_centered": true,
+		"word_wrap": "auto",
+		"wrap_width": 111
 	}
 }
