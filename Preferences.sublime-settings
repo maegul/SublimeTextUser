@@ -27,7 +27,8 @@
 		"Poisson",
 		"craftsperson",
 		"cinematically",
-		"Zettelkasten"
+		"Zettelkasten",
+		"utopic",
 	],
 	"always_show_minimap_viewport": true,
 	"animation_enabled": false,
@@ -76,4 +77,8 @@
 	"vintage_use_clipboard": false,
 	"tree_animation_enabled": false,
 	"overlay_scroll_bars": "enabled",
+	"ignored_words":
+	[
+		"zekell"
+	],
 }
