@@ -1,4 +1,8 @@
 {
 	"color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
 	"spell_check": true,
+	// removed markdown.raw so that code is not checked in code-fenced sections
+	// added markup.raw.inline.markdown in not list (so no check on inline raw)
+	// don't know why it was there in the first place
+	"spelling_selector": "string.quoted - punctuation - meta.preprocessor.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag, markup.raw.inline.markdown)"
 }
