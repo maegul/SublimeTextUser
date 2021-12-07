@@ -32,11 +32,25 @@ class TimestampCommand(sublime_plugin.EventListener):
 
         if prefix == 'sdt':
             now = datetime.now()
-            comps = [
-                ['sdt-d\tdate', now.strftime('%Y-%m-%d')],
-                ['sdt-tb\ttime basic', now.strftime('%H:%M:%S')],
-                ['sdt-dh\thuman date', now.strftime('%a, %d %b %Y')],
-                ['sdt-db\tbasic date', now.strftime('%D')],
-                ['sdt-f\tfull', now.strftime('%Y-%m-%dT%H:%M:%S')]
+            formats = [
+                ('sdt-d',   now.strftime('%Y-%m-%d')),
+                ('sdt-tb',  now.strftime('%H:%M:%S')),
+                ('sdt-db',  now.strftime('%d/%m/%Y')),
+                ('sdt-dh',  now.strftime('%d %b %Y')),
+                ('sdt-dhf', now.strftime('%a, %d %b %Y')),
+                ('sdt-f',   now.strftime('%Y-%m-%dT%H:%M:%S')),
+                ('sdt-ftz', now.astimezone().strftime('%Y-%m-%dT%H:%M:%S %Z')),
             ]
+            comps = [
+                [f'{comp}\t{now_format}', now_format]
+                for comp, now_format
+                in formats
+            ]
+            # comps = [
+            #     ['sdt-d\tdate', now.strftime('%Y-%m-%d')],
+            #     ['sdt-tb\ttime basic', now.strftime('%H:%M:%S')],
+            #     ['sdt-db\tbasic date', now.strftime('%d/%m/%Y')],
+            #     ['sdt-dh\thuman date', now.strftime('%a, %d %b %Y')],
+            #     ['sdt-f\tfull', now.strftime('%Y-%m-%dT%H:%M:%S')]
+            # ]
             return comps
