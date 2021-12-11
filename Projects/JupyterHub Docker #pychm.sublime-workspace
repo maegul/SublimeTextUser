@@ -523,10 +523,13 @@
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/Dockerfile",
 			"settings":
 			{
-				"buffer_size": 9895,
+				"buffer_size": 10676,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/base-notebook/Dockerfile",
@@ -542,7 +545,10 @@
 			{
 				"buffer_size": 775,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/README.md",
@@ -551,13 +557,27 @@
 				"buffer_size": 1683,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/README.md",
+			"settings":
+			{
+				"buffer_size": 1833,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/jupyterHub_docker_aliases",
 			"settings":
 			{
-				"buffer_size": 2015,
+				"buffer_size": 2135,
 				"line_ending": "Unix"
 			}
 		},
@@ -567,13 +587,16 @@
 			{
 				"buffer_size": 4367,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/overrides.json",
 			"settings":
 			{
-				"buffer_size": 522,
+				"buffer_size": 1062,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -602,13 +625,16 @@
 			{
 				"buffer_size": 206,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/src/index.ts",
 			"settings":
 			{
-				"buffer_size": 667,
+				"buffer_size": 709,
 				"line_ending": "Unix"
 			}
 		},
@@ -619,16 +645,10 @@
 				"buffer_size": 524,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/style/custom.css",
-			"settings":
-			{
-				"buffer_size": 518,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/extensionmanager-extension/plugin.jupyterlab-settings",
@@ -644,13 +664,16 @@
 			{
 				"buffer_size": 248,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		},
 		{
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/requirements.txt",
 			"settings":
 			{
-				"buffer_size": 1050,
+				"buffer_size": 1032,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -704,26 +727,10 @@
 			}
 		},
 		{
-			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/README.md",
-			"settings":
-			{
-				"buffer_size": 455,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/package.json",
 			"settings":
 			{
-				"buffer_size": 1428,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/webpack.config.js",
-			"settings":
-			{
-				"buffer_size": 1010,
+				"buffer_size": 2179,
 				"line_ending": "Unix"
 			}
 		},
@@ -750,7 +757,10 @@
 				"buffer_size": 643,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		}
 	],
 	"build_system": "",
@@ -764,6 +774,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"syntax doc",
+				"Set Syntax: Dockerfile"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
 			[
 				"syntax shell",
 				"Set Syntax: Bourne Again Shell (bash)"
@@ -1294,6 +1312,8 @@
 		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks",
 		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/base-notebook",
 		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook",
+		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme",
+		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/style",
 		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings",
 		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/apputils-extension",
 		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/docmanager-extension",
@@ -1302,6 +1322,8 @@
 	],
 	"file_history":
 	[
+		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/style/custom.css",
+		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/webpack.config.js",
 		"/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/postStart.sh",
 		"/var/folders/06/9bm20ry51jd718yz_n6sny140000gn/T/sublime-sftp-browse-1604573177/docker_staging/home/ubuntu/docker-stacks/server-notebook/Dockerfile",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/docker_staging",
@@ -1427,9 +1449,7 @@
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Print to HTML/Print to HTML.sublime-settings",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws_exp.py",
-		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
-		"/Users/errollloyd/Dropbox/Science/scripts/pyth/HWS/run_exp1.py"
+		"/Users/errollloyd/Dropbox/Science/PhD/data/HWS/hws_exp.py"
 	],
 	"find":
 	{
@@ -1452,6 +1472,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"charmerstheme",
 			"pip install",
 			"streamlit",
 			"protobuf",
@@ -1578,8 +1599,7 @@
 			"supervisor",
 			"mk",
 			"RUN mk",
-			"nginx",
-			"lost"
+			"nginx"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1592,15 +1612,16 @@
 			"/var/run/supervisor"
 		],
 		"reverse": false,
+		"scrollbar_highlights": true,
 		"show_context": true,
 		"use_buffer2": true,
+		"use_gitignore": true,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 15,
 			"sheets":
 			[
 				{
@@ -1609,15 +1630,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9895,
+						"buffer_size": 10676,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9895,
-								9895
+								8196,
+								8196
 							]
 						],
 						"settings":
@@ -1630,6 +1651,17 @@
 								"status": -1,
 								"syntax": "dockerfile"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1648,61 +1680,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"color_helper.box_height": 22,
 							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
@@ -1714,13 +1746,24 @@
 							},
 							"color_helper.scan":
 							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
 								"current_ext": "",
 								"current_syntax": "Dockerfile Syntax Highlighting/Syntaxes/Dockerfile",
-								"enabled": false,
-								"last_updated": 1610963389.44
+								"enabled": true,
+								"last_updated": 1638423952.32,
+								"scanning": "-comment"
 							},
 							"incomplete_sync": null,
 							"line_numbers": true,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/Dockerfile",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"sftp_new_server": null,
@@ -1733,10 +1776,11 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 5432.0,
+						"translation.y": 4763.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -1766,6 +1810,17 @@
 								"status": -1,
 								"syntax": "dockerfile"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1784,61 +1839,61 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_double_quote_content"
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
 							"color_helper.box_height": 22,
 							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
@@ -1850,16 +1905,27 @@
 							},
 							"color_helper.scan":
 							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
 								"current_ext": "",
-								"current_syntax": "Dockerfile Syntax Highlighting/Syntaxes/Dockerfile",
-								"enabled": false,
-								"last_updated": 1610963389.44
+								"current_syntax": "Text/Plain text",
+								"enabled": true,
+								"last_updated": 1638423952.32,
+								"scanning": "-comment"
 							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/base-notebook/Dockerfile",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Dockerfile Syntax Highlighting/Syntaxes/Dockerfile.sublime-syntax",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
@@ -1867,7 +1933,8 @@
 						"translation.y": 1844.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -1883,8 +1950,8 @@
 						"selection":
 						[
 							[
-								572,
-								572
+								571,
+								571
 							]
 						],
 						"settings":
@@ -1915,73 +1982,94 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_round_content"
 							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": "",
+								"current_syntax": "ShellScript/Bash",
+								"enabled": true,
+								"last_updated": 1638423952.32,
+								"scanning": "-comment"
+							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/.bashrc",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 4,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -1997,8 +2085,8 @@
 						"selection":
 						[
 							[
-								481,
-								481
+								1282,
+								1282
 							]
 						],
 						"settings":
@@ -2012,6 +2100,17 @@
 								"status": -1,
 								"syntax": "plain text"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -2030,90 +2129,266 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_round_content"
 							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/syntaxes/Markdown",
+								"enabled": true,
+								"last_updated": 1638423952.32,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/README.md",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 3,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/jupyterHub_docker_aliases",
+					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/README.md",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2015,
+						"buffer_size": 1833,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1370,
-								1370
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 50,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/syntaxes/Markdown",
+								"enabled": true,
+								"last_updated": 1638423952.32,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/README.md",
+							"rainbow_checked": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax",
+							"tabs_extra_last_activated": 1597992581.16,
+							"tabs_extra_last_activated_sheet_index": 5,
+							"tabs_extra_spawned": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/jupyterHub_docker_aliases",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -2216,6 +2491,7 @@
 								"last_updated": 1610963389.44
 							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/jupyterHub_docker_aliases",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -2225,11 +2501,12 @@
 						"translation.y": 244.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 7,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/README.md",
 					"semi_transient": false,
 					"settings":
@@ -2241,8 +2518,8 @@
 						"selection":
 						[
 							[
-								2264,
-								2264
+								2263,
+								2263
 							]
 						],
 						"settings":
@@ -2375,34 +2652,38 @@
 								"use_hex_argb": false
 							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/README.md",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
 							"wrap_width": 120
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 8,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/overrides.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 522,
+						"buffer_size": 1062,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								300,
-								300
+								0,
+								0
 							]
 						],
 						"settings":
@@ -2520,6 +2801,7 @@
 								"last_updated": 1610963389.44
 							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/overrides.json",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -2539,11 +2821,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 9,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/notebook-extension/tracker.jupyterlab-settings",
 					"semi_transient": false,
 					"settings":
@@ -2660,23 +2943,27 @@
 								"bh_square_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/notebook-extension/tracker.jupyterlab-settings",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
 							"tabs_extra_last_activated": 1598512722.84,
 							"tabs_extra_last_activated_sheet_index": 2,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 10,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/apputils-extension/themes.jupyterlab-settings",
 					"semi_transient": false,
 					"settings":
@@ -2777,23 +3064,27 @@
 								"bh_square_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/apputils-extension/themes.jupyterlab-settings",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
 							"tabs_extra_last_activated": 1598508073.39,
 							"tabs_extra_last_activated_sheet_index": 2,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 11,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/conda_requirements.txt",
 					"semi_transient": false,
 					"settings":
@@ -2805,8 +3096,8 @@
 						"selection":
 						[
 							[
-								127,
-								127
+								126,
+								126
 							]
 						],
 						"settings":
@@ -2895,6 +3186,7 @@
 								"bh_tag_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/conda_requirements.txt",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -2907,16 +3199,17 @@
 						"translation.y": 69.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 12,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 11,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/src/index.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 667,
+						"buffer_size": 709,
 						"regions":
 						{
 						},
@@ -2940,6 +3233,7 @@
 							},
 							"bracket_highlighter.busy": false,
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/src/index.ts",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -2954,11 +3248,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 13,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 12,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/style/index.css",
 					"semi_transient": false,
 					"settings":
@@ -2970,8 +3265,8 @@
 						"selection":
 						[
 							[
-								296,
-								296
+								289,
+								313
 							]
 						],
 						"settings":
@@ -2989,27 +3284,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										310,
-										311
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/single_quote.png",
-										"region.greenish"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										297,
-										298
-									]
 								},
 								"unmatched":
 								{
@@ -3017,209 +3297,100 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_round_content"
 							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".css",
+								"current_syntax": "CSS/CSS",
+								"enabled": true,
+								"last_updated": 1638423952.32,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/style/index.css",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
 							"tabs_extra_last_activated": 1597992581.62,
 							"tabs_extra_last_activated_sheet_index": 6,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/style/custom.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 518,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								170,
-								170
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "css"
-							},
-							"_anf_new": "",
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										170,
-										171
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										115,
-										116
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
-							],
-							"incomplete_sync": null,
-							"rainbow_checked": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tabs_extra_last_activated": 1597992581.54,
-							"tabs_extra_last_activated_sheet_index": 7,
-							"tabs_extra_spawned": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
+					"stack_index": 2,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -3325,19 +3496,23 @@
 								"bh_tag_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/extensionmanager-extension/plugin.jupyterlab-settings",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
 							"tabs_extra_last_activated": 1598508081.93,
 							"tabs_extra_last_activated_sheet_index": 8,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 14,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -3353,8 +3528,8 @@
 						"selection":
 						[
 							[
-								75,
-								75
+								74,
+								74
 							]
 						],
 						"settings":
@@ -3443,19 +3618,23 @@
 								"bh_tag_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/terminal-extension/plugin.jupyterlab-settings",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
 							"tabs_extra_last_activated": 1598512361.96,
 							"tabs_extra_last_activated_sheet_index": 9,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 15,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -3464,15 +3643,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1050,
+						"buffer_size": 1032,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								739,
-								739
+								0,
+								0
 							]
 						],
 						"settings":
@@ -3576,6 +3755,7 @@
 								"last_updated": 1610963389.44
 							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/requirements.txt",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -3588,7 +3768,8 @@
 						"translation.y": 1404.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 6,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -3693,27 +3874,31 @@
 								"bh_square_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/postStart.sh",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 16,
+					"stack_multiselect": false,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 17,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/customtheme/package.json",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -3832,12 +4017,23 @@
 							],
 							"color_helper.scan":
 							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
 								"current_ext": ".json",
 								"current_syntax": "JavaScript/JSON",
-								"enabled": false,
-								"last_updated": 1610963389.44
+								"enabled": true,
+								"last_updated": 1638423952.32,
+								"scanning": "-comment"
 							},
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/customtheme/package.json",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -3852,7 +4048,8 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 0,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -3958,6 +4155,7 @@
 								"bh_square_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/customtheme/README.md",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -3970,7 +4168,8 @@
 						"translation.y": 310.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 1,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -4076,19 +4275,23 @@
 								"bh_default_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/customtheme/LICENSE",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
 							"tabs_extra_last_activated": 1597992581.28,
 							"tabs_extra_last_activated_sheet_index": 2,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 2,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -4136,63 +4339,64 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_round_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/customtheme/webpack.config.js",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -4207,7 +4411,8 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 3,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
@@ -4312,36 +4517,40 @@
 								"bh_square_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/customtheme/style/custom.css",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
 							"tabs_extra_last_activated": 1597992581.22,
 							"tabs_extra_last_activated_sheet_index": 4,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 21,
+					"stack_index": 4,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 22,
+					"buffer": 4,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 455,
+						"buffer_size": 1833,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								83,
-								83
+								0,
+								0
 							]
 						],
 						"settings":
@@ -4373,63 +4582,64 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_round_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/README.md",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -4442,24 +4652,25 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 22,
+					"stack_index": 5,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 23,
+					"buffer": 22,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1428,
+						"buffer_size": 2179,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								150,
-								150
+								0,
+								0
 							]
 						],
 						"settings":
@@ -4562,6 +4773,7 @@
 								"bh_square_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/package.json",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -4576,130 +4788,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 23,
+					"stack_index": 6,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 24,
-					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/charmerstheme/webpack.config.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1010,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "javascript"
-							},
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content"
-							],
-							"incomplete_sync": null,
-							"rainbow_checked": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"tabs_extra_last_activated": 1597992581.09,
-							"tabs_extra_last_activated_sheet_index": 7,
-							"tabs_extra_spawned": true,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 24,
-					"type": "text"
-				},
-				{
-					"buffer": 25,
+					"buffer": 23,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/customtheme/style/index.css",
 					"semi_transient": false,
 					"settings":
@@ -4800,23 +4894,27 @@
 								"bh_square_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/customtheme/style/index.css",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
 							"tabs_extra_last_activated": 1598486910.93,
 							"tabs_extra_last_activated_sheet_index": 8,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 25,
+					"stack_index": 7,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 26,
+					"buffer": 24,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/docmanager-extension/plugin.jupyterlab-settings",
 					"semi_transient": false,
 					"settings":
@@ -4918,23 +5016,27 @@
 								"bh_tag_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/docmanager-extension/plugin.jupyterlab-settings",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
 							"tabs_extra_last_activated": 1598508077.87,
 							"tabs_extra_last_activated_sheet_index": 9,
-							"tabs_extra_spawned": true
+							"tabs_extra_spawned": true,
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 26,
+					"stack_index": 8,
+					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 27,
+					"buffer": 25,
 					"file": "/Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/shortcuts-extension/shortcuts.jupyterlab-settings",
 					"semi_transient": false,
 					"settings":
@@ -4946,8 +5048,8 @@
 						"selection":
 						[
 							[
-								641,
-								641
+								640,
+								640
 							]
 						],
 						"settings":
@@ -5037,6 +5139,7 @@
 								"bh_tag_content"
 							],
 							"incomplete_sync": null,
+							"lsp_uri": "file:///Volumes/pychm/jupyter_hub_docker_images/docker-stacks/server-notebook/lab_user_settings/shortcuts-extension/shortcuts.jupyterlab-settings",
 							"rainbow_checked": true,
 							"remote_loading": false,
 							"synced": false,
@@ -5051,7 +5154,8 @@
 						"translation.y": 87.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 27,
+					"stack_index": 9,
+					"stack_multiselect": false,
 					"type": "text"
 				}
 			]
@@ -5102,6 +5206,10 @@
 	"output.Terminus":
 	{
 		"height": 244.0
+	},
+	"output.diagnostics":
+	{
+		"height": 307.0
 	},
 	"output.find_results":
 	{

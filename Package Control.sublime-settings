@@ -12,6 +12,7 @@
 		"comment_marks",
 		"Cython+",
 		"DashDoc",
+		"Dockerfile Syntax Highlighting",
 		"FileManager",
 		"FindKeyConflicts",
 		"LSP",
