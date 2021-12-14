@@ -592,6 +592,23 @@
 	{ "keys": ["ctrl+shift+u"], "command": "open_url", "args": { "show_menu": false } },
 
 
+	// > Send Code
+	// might conflict with replace all in find panel??
+
+	{
+	    "keys": ["alt+ctrl+enter"], "command": "send_code",
+	    "context": [
+	        { "key": "selector", "operator": "equal", "operand": "source" }
+	    ]
+	},
+	{
+	    "keys": ["alt+ctrl+enter"], "command": "send_code",
+	    "context": [
+	        { "key": "selector", "operator": "equal", "operand": "markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
+	    ]
+	},
+
+
 	// > Python REPL
 
 	// Send a newline to the Terminus Python REPL, if it's open

@@ -1,0 +1,12 @@
+{
+	"md":
+	{
+		"prog": "terminal",
+	},
+	"prog": "terminal",
+	"python":
+	{
+		"bracketed_paste_mode": true,
+		"prog": "terminal"
+	},
+}
