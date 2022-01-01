@@ -7,6 +7,6 @@
 	"python":
 	{
 		"bracketed_paste_mode": true,
-		"prog": "terminal"
+		"prog": "terminal",
 	},
 }

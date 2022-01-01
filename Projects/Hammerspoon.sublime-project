@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "~/.hammerspoon"
+		}
+	],
+
+	"settings": {
+		"syntax_docset_map": {
+		    // Search the hammerspoon docset for lua scripts for this particular project
+			"Lua": ["lua", "hammerspoon"]
+		}
+	}
+}

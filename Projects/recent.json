@@ -4,7 +4,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_user.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_user #dev.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/comment_marks  #dev.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/user scripts.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/lif #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/#eduwk Euler_Problems.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/thesis #phd.sublime-project",
@@ -13,5 +12,8 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/my_zekell.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/JupyterHub Docker #pychm.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/pythoncharmers_admin #pychm.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/user scripts.sublime-project",
+	"~/.hammerspoon/hammerspoon.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/Hammerspoon.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project"
 ]

@@ -1,0 +1,7 @@
+{
+	"syntax_docset_map":
+	{
+		"Python": ["python", "pytest", "pandas", "scikit-learn", "django", "twisted", "sphinx", "flask", "tornado", "sqlalchemy", "numpy", "scipy", "salt", "cvp"],
+
+	}
+}
