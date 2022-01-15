@@ -27,10 +27,7 @@ DEFAULT_CAYW_QUERY = {'format': 'citep'}
 
 # >> Window Refocus
 
-# async
-
 # necessary as zotero retains focus
-# probably requires async operation
 if platform == "darwin":
 	def refocus_sublime():  #type: ignore
 		# print('refocus!')
@@ -39,22 +36,11 @@ if platform == "darwin":
 				'activate application "Sublime Text"'],
 			)
 		return output
-		# command = '''osascript -e \'activate application "Sublime Text"\' &'''
-		# output = subprocess.check_output(command, shell=True)
-		# return output
 
-		# p = subprocess.Popen([
-		# 		"osascript", "-e",
-		# 		'activate application "Sublime Text"'],
-		# 		stdout = subprocess.PIPE
-		# 	)
-		# p.wait(5)
-		# return p.stdout.read().decode()  # type: ignore
 # Yea ... need other OS solutions here
 else:
 	def refocus_sublime():
 		return
-
 
 
 # > Utility Functions
@@ -87,6 +73,7 @@ def url_from_params(base: dict, **params):
 
 	return url
 
+
 def get_request(url: str) -> str:
 
 	with closing(urlopen(url)) as response:
@@ -94,12 +81,6 @@ def get_request(url: str) -> str:
 
 	return response_text
 
-
-# easy generation of URLs for better bibtex api/server
-bbtex_base_url = partial(
-	url_from_params,
-	{'scheme': BBTEX_SCHEME, 'netloc': BBTEX_NETLOC, 'path': BBTEX_PATH}
-	)
 
 def test_bbtex_api():
 	try:
@@ -132,7 +113,14 @@ def bbtex_cayw_request(**kwargs: str):
 
 # > Commands
 
-# >> Gui TextCommand
+# easy generation of URLs for better bibtex api/server
+bbtex_base_url = partial(
+	url_from_params,
+	{'scheme': BBTEX_SCHEME, 'netloc': BBTEX_NETLOC, 'path': BBTEX_PATH}
+	)
+
+
+# >> CAYW (cite as your write) TextCommand
 
 class ZoteroCaywCommand(sublime_plugin.TextCommand):
 
@@ -146,3 +134,4 @@ class ZoteroCaywCommand(sublime_plugin.TextCommand):
 		sublime.set_timeout_async(refocus_sublime)
 
 		insert_at_cursor(edit, self.view, citation)
+
