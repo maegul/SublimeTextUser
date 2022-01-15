@@ -21,15 +21,35 @@ BBTEX_SCHEME = 'http'
 BBTEX_NETLOC = '127.0.0.1:23119'  # localhost, port 23119
 BBTEX_PATH = '/better-bibtex/cayw'
 
+# >> default query for api
+DEFAULT_CAYW_QUERY = {'format': 'citep'}
+
+
 # >> Window Refocus
+
+# async
+
 # necessary as zotero retains focus
+# probably requires async operation
 if platform == "darwin":
 	def refocus_sublime():  #type: ignore
+		# print('refocus!')
 		output = subprocess.check_output([
 				"osascript", "-e",
-				'activate application "Sublime Text"'
-			])
+				'activate application "Sublime Text"'],
+			)
 		return output
+		# command = '''osascript -e \'activate application "Sublime Text"\' &'''
+		# output = subprocess.check_output(command, shell=True)
+		# return output
+
+		# p = subprocess.Popen([
+		# 		"osascript", "-e",
+		# 		'activate application "Sublime Text"'],
+		# 		stdout = subprocess.PIPE
+		# 	)
+		# p.wait(5)
+		# return p.stdout.read().decode()  # type: ignore
 # Yea ... need other OS solutions here
 else:
 	def refocus_sublime():
@@ -38,6 +58,11 @@ else:
 
 
 # > Utility Functions
+
+def insert_at_cursor(edit, view, text):
+    sel = view.sel()[0].begin()
+    view.insert(edit, sel, text)
+
 
 def url_from_params(base: dict, **params):
 	'''Generate a url from dictionaries of the base url and query params
@@ -85,34 +110,39 @@ def test_bbtex_api():
 
 	except Exception as exp:
 		message = dedent(f"""Could not access API!
-		API Base URL: {bbtex_base_url()}
-		Exception:
-		{exp}
+			API Base URL: {bbtex_base_url()}
+			Exception:
+			{exp}
 		""")
 		sublime.error_message(message)
+
+
+def bbtex_cayw_request(**kwargs: str):
+
+	# create desired URL for requesting the better bibtex API
+	query_params = kwargs if kwargs else DEFAULT_CAYW_QUERY
+	citation_url = bbtex_base_url(**query_params)
+
+	# open the request, grab the return text and close the connection
+	with closing(urlopen(citation_url)) as zot_result:
+		citation = zot_result.read().decode()
+
+	return citation
 
 
 # > Commands
 
 # >> Gui TextCommand
 
-class ZoteroProtoCommand(sublime_plugin.TextCommand):
-	def run(self, edit):
-		print('running')
+class ZoteroCaywCommand(sublime_plugin.TextCommand):
+
+	def run(self, edit, **query_params):
 
 		# test connection
 		if not test_bbtex_api():
 			return
 
-		# create desired URL for requesting the better bibtex API
-		citation_url = bbtex_base_url(format='citep')
+		citation = bbtex_cayw_request(**query_params)
+		sublime.set_timeout_async(refocus_sublime)
 
-		# open the request, grab the return text and close the connection
-		with closing(urlopen(citation_url)) as zot_result:
-			citation = zot_result.read().decode()
-
-		print(citation)
-
-		refocus_sublime()
-
-
+		insert_at_cursor(edit, self.view, citation)

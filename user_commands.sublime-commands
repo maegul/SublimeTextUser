@@ -1,7 +1,22 @@
 [
 	{"caption": "Sum Hours", "command": "rb_hours_sum"},
 	{"caption": "Phd Timeline Insert Dates", "command": "phd_dates"},
-	// {"caption": "Zotero Search and Cite", "command": "zotero_proto"},
+	{
+		"caption": "Zotero CAYW - \\citep{}",
+		"command": "zotero_cayw", "args": {"format": "citep"}
+	},
+	{
+		"caption": "Zotero CAYW - \\cite{}",
+		"command": "zotero_cayw", "args": {"format": "cite"}
+	},
+	{
+		"caption": "Zotero CAYW - citation",
+		"command": "zotero_cayw", "args": {"format": "formatted-citation"}
+	},
+	{
+		"caption": "Zotero CAYW - full citation",
+		"command": "zotero_cayw", "args": {"format": "formatted-bibliography"}
+	},
 	// {"caption": "Zotero Quick Search", "command": "zotero_quick_search"},
 	// {"caption": "Zotero Search Proto", "command": "zotero_search_proto"},
 	{"caption": "Python REPL Open", "command": "open_python_repl_view"},
