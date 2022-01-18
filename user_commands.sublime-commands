@@ -17,6 +17,18 @@
 		"caption": "Zotero CAYW - full citation",
 		"command": "zotero_cayw", "args": {"format": "formatted-bibliography"}
 	},
+	{
+		"caption": "Zotero Search - \\cite{}",
+		"command": "zotero_search", "args": {"format": "cite"}
+	},
+	{
+		"caption": "Zotero Search - \\citep{}",
+		"command": "zotero_search", "args": {"format": "citep"}
+	},
+	{
+		"caption": "Zotero Search - full citation",
+		"command": "zotero_search", "args": {"format": "full citation"}
+	},
 	{"caption": "Python REPL Open", "command": "open_python_repl_view"},
 	{"caption": "Python REPL Remove Cell Markers", "command": "remove_all_cell_markers"},
 	{"caption": "Zekell Insert Link", "command": "zekell_insert_link"},
