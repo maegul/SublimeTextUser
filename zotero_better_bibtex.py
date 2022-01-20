@@ -79,8 +79,8 @@ else:
 # > Utility Functions
 
 def insert_at_cursor(edit, view, text):
-    sel = view.sel()[0].begin()
-    view.insert(edit, sel, text)
+	sel = view.sel()[0].begin()
+	view.insert(edit, sel, text)
 
 
 def url_from_params(base: dict, **params):
@@ -131,6 +131,7 @@ def post_request(url: str, data: dict, headers: dict):
 		response_text = response.read().decode()
 
 	return response_text
+
 
 def test_bbtex_api():
 	try:

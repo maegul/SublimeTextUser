@@ -331,7 +331,7 @@ class UpdateNote(sublime_plugin.EventListener):
                 ])
         except sp.CalledProcessError as e:
             sublime.error_message(f'Updating error: {e}')
-        print('AFTER save', view)
+        # print('AFTER save', view)
 
 
 
