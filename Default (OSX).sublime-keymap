@@ -13,7 +13,7 @@
 	{ "keys": ["super+k", "super+k"], "command": "toggle_side_bar" },
 
 	//
-	// > Table of Comments / Goto Section
+	// > Table of Comments / Comment Marks / Goto Section
 	//
 
 	// Idea is a modification of super+r (built in goto objects)
@@ -22,6 +22,7 @@
 	// 	"keys": ["super+k","super+shift+r"],
 	// 	"command": "table_of_comments"
 	// },
+	// Comment Marks command
 	{
 		"keys": ["super+k","super+shift+r"],
 		"command": "goto_comment"
