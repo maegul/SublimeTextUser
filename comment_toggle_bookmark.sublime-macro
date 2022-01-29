@@ -1,0 +1,50 @@
+[
+	{
+		"args": null,
+		"command": "toggle_bookmark"
+	},
+	{
+		"args": null,
+		"command": "next_bookmark"
+	},
+	{
+		"args":
+		{
+			"block": false
+		},
+		"command": "toggle_comment"
+	},
+	{
+		"args":
+		{
+			"action_args": null,
+			"action_command": null,
+			"motion_args":
+			{
+				"by": "lines",
+				"extend": true,
+				"forward": true
+			},
+			"motion_clip_to_line": false,
+			"motion_command": "move",
+			"motion_inclusive": false,
+			"motion_mode": 0
+		},
+		"command": "vi_eval"
+	},
+	{
+		"args":
+		{
+			"block": false
+		},
+		"command": "toggle_comment"
+	},
+	{
+		"args": null,
+		"command": "next_bookmark"
+	},
+	{
+		"args": null,
+		"command": "toggle_bookmark"
+	}
+]
