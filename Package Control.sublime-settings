@@ -9,6 +9,7 @@
 		"BracketHighlighter",
 		"ChannelRepositoryTools",
 		"ColorHelper",
+		"Comment Marks",
 		"Cython+",
 		"DashDoc",
 		"Dockerfile Syntax Highlighting",
@@ -38,5 +39,10 @@
 	[
 		"https://github.com/maegul/table_of_comments.git",
 		"https://github.com/maegul/comment_marks.git",
+	],
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://github.com/maegul/comment_marks.git"
 	],
 }
