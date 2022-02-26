@@ -1,0 +1,4301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"movshon78",
+				"Movshon:1978ud @articleMovshon:1978ud author Movshon J A and Thompson I D and Tolhurst D J title Spatial and temporal contrast sensitivity of neurones in areas 17 and 18 of the cat's visual cortex. journal Journal of Physiology year 1978 volume 283 pages 101--120 month sep"
+			],
+			[
+				"levick82",
+				"Levick:1982vm @articleLevick:1982vm author Levick W R and Thibos L N title Analysis of orientation bias in cat retina journal The Journal of Physiology year 1982 volume 329 pages 243--261 annote oreintation selectivity in retina THOUGHTS: - why do higher spatial freque"
+			],
+			[
+				"sdt",
+				"sdt-dh"
+			],
+			[
+				"word",
+				"\"word_wrap\""
+			],
+			[
+				"set",
+				"\"settings\""
+			],
+			[
+				"NoteSe",
+				"NoteSelectInputHandler"
+			],
+			[
+				"List",
+				"ListInputHandler"
+			],
+			[
+				"subl",
+				"sublime_plugin"
+			],
+			[
+				"initi",
+				"initial_text"
+			],
+			[
+				"Text",
+				"TextInputHandler"
+			],
+			[
+				"with",
+				"with_suffix"
+			],
+			[
+				"che",
+				"check_output"
+			],
+			[
+				"wri",
+				"writelines"
+			],
+			[
+				"ZK",
+				"ZK_PATH"
+			],
+			[
+				"update",
+				"update_all_notes"
+			],
+			[
+				"Z",
+				"ZK_PATH"
+			],
+			[
+				"bat",
+				"add_batch_old_note"
+			],
+			[
+				"utc",
+				"utcoffset"
+			],
+			[
+				"timestamp",
+				"utcfromtimestamp"
+			],
+			[
+				"st_m",
+				"st_mtime"
+			],
+			[
+				"ut",
+				"utcnow"
+			],
+			[
+				"u",
+				"utc"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"t",
+				"tzinfo"
+			],
+			[
+				"fr",
+				"utcfromtimestamp"
+			],
+			[
+				"db",
+				"db_path"
+			],
+			[
+				"i",
+				"issubset"
+			],
+			[
+				"paret",
+				"parents_cte"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"child",
+				"children_cte"
+			],
+			[
+				"bre",
+				"breakpoint"
+			],
+			[
+				"ZK_",
+				"ZK_DB_PATH"
+			],
+			[
+				"upd",
+				"update_note"
+			],
+			[
+				"defau",
+				"default_config"
+			],
+			[
+				"disp",
+				"display_rows"
+			],
+			[
+				"mak",
+				"make_note_file_name"
+			],
+			[
+				"Not",
+				"NoteName"
+			],
+			[
+				"displ",
+				"display_rows"
+			],
+			[
+				"cli_",
+				"cli_list_staged_notes"
+			],
+			[
+				"as",
+				"as_posix"
+			],
+			[
+				"parse",
+				"parse_note_name"
+			],
+			[
+				"ZK_D",
+				"ZK_DB_PATH"
+			],
+			[
+				"tag_",
+				"tag_or_cte"
+			],
+			[
+				"cte",
+				"cte_table_name_map"
+			],
+			[
+				"cte_",
+				"cte_table_name_map"
+			],
+			[
+				"qu",
+				"query_tag_redirect"
+			],
+			[
+				"tag_an",
+				"tag_and_cte"
+			],
+			[
+				"tag",
+				"tag_cte"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"punctu",
+				"punctuation_replace"
+			],
+			[
+				"punc",
+				"punctuation_replace"
+			],
+			[
+				"re",
+				"replace"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"link_lo",
+				"link_location_slices"
+			],
+			[
+				"ra",
+				"randrange"
+			],
+			[
+				"link",
+				"link_pattern"
+			],
+			[
+				"front_m",
+				"front_matter_template"
+			],
+			[
+				"make_new",
+				"make_new_note_id"
+			],
+			[
+				"make",
+				"make_batch_new_note_ids"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"exi",
+				"exist_ok="
+			],
+			[
+				"outpu",
+				"output_path"
+			],
+			[
+				"confi",
+				"write_default_config"
+			],
+			[
+				"defa",
+				"default_config_path"
+			],
+			[
+				"config",
+				"default_config_path"
+			],
+			[
+				"add_",
+				"add_argument"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"update_",
+				"update_note"
+			],
+			[
+				"is_",
+				"is_note_id_unique"
+			],
+			[
+				"upda",
+				"update_note_tags"
+			],
+			[
+				"check",
+				"check_valid_tag_path"
+			],
+			[
+				"delete",
+				"delete_stmt"
+			],
+			[
+				"update_note",
+				"update_note_links"
+			],
+			[
+				"add_ta",
+				"add_new_tag_path"
+			],
+			[
+				"get_tag",
+				"get_tag_path_id"
+			],
+			[
+				"add_no",
+				"add_note_tag"
+			],
+			[
+				"get_ta",
+				"get_tag_path_id"
+			],
+			[
+				"add",
+				"add_new_tag_path"
+			],
+			[
+				"new_pat",
+				"new_path_parent_id"
+			],
+			[
+				"retu",
+				"return_new_id="
+			],
+			[
+				"new_path_par",
+				"new_path_parent_id"
+			],
+			[
+				"new_ta",
+				"new_tag_path"
+			],
+			[
+				"de",
+				"deque"
+			],
+			[
+				"new_path_p",
+				"new_path_parent_id"
+			],
+			[
+				"new_t",
+				"new_tag_path"
+			],
+			[
+				"new_path",
+				"new_path_parent"
+			],
+			[
+				"pars",
+				"parse_note_body"
+			],
+			[
+				"pare",
+				"parent_note_id"
+			],
+			[
+				"new",
+				"make_new_note"
+			],
+			[
+				"name",
+				"namedtuple"
+			],
+			[
+				"no",
+				"note_name"
+			],
+			[
+				"fo",
+				"frontmatter"
+			],
+			[
+				"make_",
+				"make_note_file_name"
+			],
+			[
+				"parse_no",
+				"parse_note_name"
+			],
+			[
+				"Note",
+				"NoteName"
+			],
+			[
+				"classmet",
+				"classmethod"
+			],
+			[
+				"pane",
+				"pane_for_opening_results  \tsetting"
+			],
+			[
+				"uu",
+				"uuid\tmodule"
+			],
+			[
+				"nu",
+				"numpy\tmodule"
+			],
+			[
+				"auto",
+				"auto_show_images  \tsetting"
+			],
+			[
+				"wi",
+				"wiki_extension  \tsetting"
+			],
+			[
+				"H",
+				"Hz\tstatement"
+			],
+			[
+				"Time",
+				"TimedArray\tclass"
+			],
+			[
+				"surr",
+				"surr_resp\tstatement"
+			],
+			[
+				"retur",
+				"return_cent_surr"
+			],
+			[
+				"cent_",
+				"cent_stim_prod\tstatement"
+			],
+			[
+				"fft",
+				"fftconvolve\tfunction"
+			],
+			[
+				"return",
+				"return_t\tparam"
+			],
+			[
+				"temp_ex",
+				"temp_ext\tparam"
+			],
+			[
+				"tau",
+				"tau2\tparam"
+			],
+			[
+				"mkTem",
+				"mkTempFilt"
+			],
+			[
+				"bar",
+				"bar_lum\tparam"
+			],
+			[
+				"spat_",
+				"spat_ext"
+			],
+			[
+				"temp_re",
+				"temp_freq"
+			],
+			[
+				"pep",
+				"pep8_error_levels  \tsetting"
+			],
+			[
+				"stim_",
+				"stim_min\tparam"
+			],
+			[
+				"coo",
+				"coord_transform\tfunction"
+			],
+			[
+				"zero",
+				"zero_center\tparam"
+			],
+			[
+				"surr_sd_",
+				"surr_sd_vt\tstatement"
+			],
+			[
+				"sd",
+				"sd_vt\tstatement"
+			],
+			[
+				"lesion_dep",
+				"lesion_depths_cut_plane\tstatement"
+			],
+			[
+				"px",
+				"px_scale"
+			],
+			[
+				"lesion",
+				"lesion_depths_cut_plane\tparam"
+			],
+			[
+				"lesion_de",
+				"lesion_depths_cut_plane"
+			],
+			[
+				"Themis",
+				"ThemisDirectory\tstatement"
+			],
+			[
+				"mk",
+				"mk_themis_files_directory\tfunction"
+			],
+			[
+				"mk_ce",
+				"mk_cell_id_from_run_key\tfunction"
+			],
+			[
+				"use",
+				"use_previous_load\tparam"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/todo.todo",
+			"settings":
+			{
+				"buffer_size": 402,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"plain_tasks_new",
+					null,
+					"AQAAAAAAAAAAAAAAAwAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					114,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "When"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " recieve"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "eive"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "get"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Kati'"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "e"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "'s"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " latest"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " vc"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "words",
+									"forward": false
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "`"
+								}
+							],
+							[
+								"move_to",
+								{
+									"to": "eol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ".tex`"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " add"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " my"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " most"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " recent"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " addt"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "itions"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " not"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " there"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"plain_tasks_new",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "Then"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " add"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Sagar's"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "in"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " the"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " word"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " doc"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " he"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " sent"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " 14"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Feb"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\n---"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\n"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"plain_tasks_new",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "Review"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Sagar's"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " comments"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"move",
+								{
+									"by": "words",
+									"forward": false
+								}
+							],
+							[
+								"move",
+								{
+									"by": "words",
+									"forward": false
+								}
+							],
+							[
+								"move_to",
+								{
+									"to": "eol"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "words",
+									"extend": true,
+									"forward": false
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "response"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " to"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " the"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " reviewers"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "see"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " my"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " original"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " comments"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " in"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " project"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " notes"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"plain_tasks_new",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "Check"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Draft"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ":"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n\t"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"plain_tasks_new",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "\t"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "\t"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"indent",
+								null
+							],
+							[
+								"unindent",
+								null
+							],
+							[
+								"indent",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "Adquate"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "equately"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " addressed"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " intermediate"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " stages?"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"plain_tasks_new",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "Adequate"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "ly"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " adres"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"move",
+								{
+									"by": "lines",
+									"forward": false
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"move",
+								{
+									"by": "lines",
+									"forward": true
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "ressed"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " Reviewer's"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " concerns?"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"jwEAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAEAAAAAAAAAAAAAAADwAAAAAAAAAPAAAAAAAAAAEAAAAgDgAAAAAAAAAOAAAAAAAAAAEAAABlDQAAAAAAAAANAAAAAAAAAAEAAAB2DAAAAAAAAAAMAAAAAAAAAAEAAABlCwAAAAAAAAALAAAAAAAAAAEAAABpCwAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAABAAAAAAAAAAAAAAAA8AAAAAAAAADwAAAAAAAAABAAAAIA4AAAAAAAAADgAAAAAAAAABAAAAZQ0AAAAAAAAADQAAAAAAAAABAAAAdgwAAAAAAAAADAAAAAAAAAABAAAAaQsAAAAAAAAACwAAAAAAAAABAAAAZQoAAAAAAAAACgAAAAAAAAABAAAAYwkAAAAAAAAACQAAAAAAAAABAAAAZQgAAAAAAAAACAAAAAAAAAABAAAAcggAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABEAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAABAAAAJxAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAARAAAAAAAAABEAAAAAAAAAAQAAACARAAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADkAAAAAAAAAAAAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA7AAAAAAAAAAAAAAA7AAAAAAAAADwAAAAAAAAAAAAAADsAAAAAAAAAOwAAAAAAAAABAAAAdDsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAARQAAAAAAAAAAAAAARQAAAAAAAABGAAAAAAAAAAAAAABGAAAAAAAAAEcAAAAAAAAAAAAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAEwAAAAAAAAATAAAAAAAAAABAAAAIEsAAAAAAAAASwAAAAAAAAABAAAACgAAAAAAAAAATwAAAAAAAABNAAAAIOKWqiBXaGVuIGdldCBLYXRpZSdzIGxhdGVzdCBgdmMudGV4YCwgYWRkIG15IG1vc3QgcmVjZW50IGFkZGl0aW9ucyBub3QgdGhlcmVPAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAABVAAAAAAAAAFYAAAAAAAAAAAAAAFYAAAAAAAAAVwAAAAAAAAAAAAAAVwAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFkAAAAAAAAAAAAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABbAAAAAAAAAAAAAABbAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABiAAAAAAAAAAAAAABhAAAAAAAAAGIAAAAAAAAAAAAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAABnAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAAbwAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHEAAAAAAAAAAAAAAHEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAABzAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAdQAAAAAAAAAAAAAAdQAAAAAAAAB2AAAAAAAAAAAAAAB2AAAAAAAAAHcAAAAAAAAAAAAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAH0AAAAAAAAAAAAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAACAAAAAAAAAAIEAAAAAAAAAAAAAAIEAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAACDAAAAAAAAAAAAAACDAAAAAAAAAIQAAAAAAAAAAAAAAIEAAAAAAAAAgQAAAAAAAAABAAAAIIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAACFAAAAAAAAAIYAAAAAAAAAAAAAAIYAAAAAAAAAhwAAAAAAAAAAAAAAhwAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIkAAAAAAAAAAAAAAIkAAAAAAAAAigAAAAAAAAAAAAAAhwAAAAAAAACHAAAAAAAAAAEAAAAgiAAAAAAAAACIAAAAAAAAAAEAAAAgiAAAAAAAAACLAAAAAAAAAAAAAACLAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAACRAAAAAAAAAJIAAAAAAAAAAAAAAJIAAAAAAAAAkwAAAAAAAAAAAAAAkwAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJUAAAAAAAAAAAAAAJUAAAAAAAAAlgAAAAAAAAAAAAAAlgAAAAAAAACXAAAAAAAAAAAAAACXAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAACaAAAAAAAAAJsAAAAAAAAAAAAAAJsAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACdAAAAAAAAAAAAAACdAAAAAAAAAJ4AAAAAAAAAAAAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAKEAAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAACjAAAAAAAAAAAAAACaAAAAAAAAAJoAAAAAAAAACQAAAGNvbW1lbnRzIJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoQAAAAAAAAAAAAAAoQAAAAAAAACiAAAAAAAAAAAAAACiAAAAAAAAAKMAAAAAAAAAAAAAAKMAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAAClAAAAAAAAAAAAAAClAAAAAAAAAKYAAAAAAAAAAAAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKkAAAAAAAAAAAAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAACrAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAACuAAAAAAAAAK8AAAAAAAAAAAAAAK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAACxAAAAAAAAALIAAAAAAAAAAAAAALIAAAAAAAAAswAAAAAAAAAAAAAAswAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALYAAAAAAAAAAAAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAC3AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAuQAAAAAAAAAAAAAAuQAAAAAAAAC6AAAAAAAAAAAAAAC6AAAAAAAAALsAAAAAAAAAAAAAALsAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAAC9AAAAAAAAAAAAAAC9AAAAAAAAAL4AAAAAAAAAAAAAAL4AAAAAAAAAvwAAAAAAAAAAAAAAvwAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMEAAAAAAAAAAAAAAMEAAAAAAAAAwgAAAAAAAAAAAAAAwgAAAAAAAADDAAAAAAAAAAAAAADDAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAADGAAAAAAAAAMcAAAAAAAAAAAAAAMcAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADJAAAAAAAAAAAAAADJAAAAAAAAAMoAAAAAAAAAAAAAAMoAAAAAAAAAywAAAAAAAAAAAAAAywAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAAM0AAAAAAAAAAAAAAM0AAAAAAAAAzgAAAAAAAAAAAAAAzgAAAAAAAADPAAAAAAAAAAAAAADPAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0QAAAAAAAAAAAAAA0QAAAAAAAADSAAAAAAAAAAAAAADSAAAAAAAAANMAAAAAAAAAAAAAANMAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADVAAAAAAAAAAAAAADVAAAAAAAAANYAAAAAAAAAAAAAANYAAAAAAAAA1wAAAAAAAAAAAAAA1wAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANkAAAAAAAAAAAAAANkAAAAAAAAA2gAAAAAAAAAAAAAA2gAAAAAAAADbAAAAAAAAAAAAAADbAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA3QAAAAAAAAAAAAAA3QAAAAAAAADeAAAAAAAAAAAAAADfAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4AAAAAAAAADgAAAAAAAAAAEAAAAg3wAAAAAAAADfAAAAAAAAAAEAAAAKiAAAAAAAAADjAAAAAAAAAFkAAAAg4paqIFJldmlldyBTYWdhcidzIHJlc3BvbnNlIHRvIHRoZSByZXZpZXdlcnMgKHNlZSBteSBvcmlnaW5hbCBjb21tZW50cyBpbiBwcm9qZWN0IG5vdGVzKeMAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADlAAAAAAAAAAAAAADlAAAAAAAAAOYAAAAAAAAAAAAAAOYAAAAAAAAA5wAAAAAAAAAAAAAA5wAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOkAAAAAAAAAAAAAAOkAAAAAAAAA6gAAAAAAAAAAAAAA6gAAAAAAAADrAAAAAAAAAAAAAADrAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAO8AAAAAAAAAAAAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAADxAAAAAAAAAPIAAAAAAAAAAAAAAPAAAAAAAAAA8AAAAAAAAAACAAAAICDvAAAAAAAAAO8AAAAAAAAAAQAAAArgAAAAAAAAAPMAAAAAAAAAEQAAACDilqogQ2hlY2sgRHJhZnQ68wAAAAAAAAD0AAAAAAAAAAAAAADzAAAAAAAAAPMAAAAAAAAAAQAAACDzAAAAAAAAAPQAAAAAAAAAAAAAAPMAAAAAAAAA8wAAAAAAAAABAAAAIPAAAAAAAAAA8gAAAAAAAAAAAAAA8AAAAAAAAADwAAAAAAAAAAIAAAAgIPAAAAAAAAAA8gAAAAAAAAAAAAAA9QAAAAAAAAD2AAAAAAAAAAAAAAD2AAAAAAAAAPcAAAAAAAAAAAAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD5AAAAAAAAAAAAAAD5AAAAAAAAAPoAAAAAAAAAAAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAD7AAAAAAAAAPsAAAAAAAAAAQAAAGX6AAAAAAAAAPoAAAAAAAAAAQAAAHT5AAAAAAAAAPkAAAAAAAAAAQAAAGH4AAAAAAAAAPgAAAAAAAAAAQAAAHX3AAAAAAAAAPcAAAAAAAAAAQAAAHH3AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAD6AAAAAAAAAPsAAAAAAAAAAAAAAPsAAAAAAAAA/AAAAAAAAAAAAAAA/AAAAAAAAAD9AAAAAAAAAAAAAAD9AAAAAAAAAP4AAAAAAAAAAAAAAP4AAAAAAAAA/wAAAAAAAAAAAAAA/wAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAEBAAAAAAAAAAAAAAEBAAAAAAAAAgEAAAAAAAAAAAAAAgEAAAAAAAADAQAAAAAAAAAAAAADAQAAAAAAAAQBAAAAAAAAAAAAAAQBAAAAAAAABQEAAAAAAAAAAAAABQEAAAAAAAAGAQAAAAAAAAAAAAAGAQAAAAAAAAcBAAAAAAAAAAAAAAcBAAAAAAAACAEAAAAAAAAAAAAACAEAAAAAAAAJAQAAAAAAAAAAAAAJAQAAAAAAAAoBAAAAAAAAAAAAAAoBAAAAAAAACwEAAAAAAAAAAAAACwEAAAAAAAAMAQAAAAAAAAAAAAAMAQAAAAAAAA0BAAAAAAAAAAAAAA0BAAAAAAAADgEAAAAAAAAAAAAADgEAAAAAAAAPAQAAAAAAAAAAAAAPAQAAAAAAABABAAAAAAAAAAAAABABAAAAAAAAEQEAAAAAAAAAAAAAEQEAAAAAAAASAQAAAAAAAAAAAAASAQAAAAAAABMBAAAAAAAAAAAAABMBAAAAAAAAFAEAAAAAAAAAAAAAFAEAAAAAAAAVAQAAAAAAAAAAAAAVAQAAAAAAABYBAAAAAAAAAAAAABYBAAAAAAAAFwEAAAAAAAAAAAAAFwEAAAAAAAAYAQAAAAAAAAAAAAAYAQAAAAAAABkBAAAAAAAAAAAAABkBAAAAAAAAGgEAAAAAAAAAAAAAGgEAAAAAAAAbAQAAAAAAAAAAAAAbAQAAAAAAABwBAAAAAAAAAAAAABwBAAAAAAAAHQEAAAAAAAAAAAAAHQEAAAAAAAAeAQAAAAAAAAAAAAAeAQAAAAAAAB8BAAAAAAAAAAAAAB8BAAAAAAAAIgEAAAAAAAAAAAAAIQEAAAAAAAAhAQAAAAAAAAEAAAAgHwEAAAAAAAAfAQAAAAAAAAIAAAAgIB4BAAAAAAAAHgEAAAAAAAABAAAACvAAAAAAAAAAJAEAAAAAAAAwAAAAICAg4paqIEFkZXF1YXRlbHkgYWRkcmVzc2VkIGludGVybWVkaWF0ZSBzdGFnZXM/JAEAAAAAAAAlAQAAAAAAAAAAAAAlAQAAAAAAACYBAAAAAAAAAAAAACYBAAAAAAAAJwEAAAAAAAAAAAAAJwEAAAAAAAAoAQAAAAAAAAAAAAAoAQAAAAAAACkBAAAAAAAAAAAAACkBAAAAAAAAKgEAAAAAAAAAAAAAKgEAAAAAAAArAQAAAAAAAAAAAAArAQAAAAAAACwBAAAAAAAAAAAAACwBAAAAAAAALQEAAAAAAAAAAAAALQEAAAAAAAAuAQAAAAAAAAAAAAAuAQAAAAAAAC8BAAAAAAAAAAAAAC8BAAAAAAAAMAEAAAAAAAAAAAAAMAEAAAAAAAAxAQAAAAAAAAAAAAAxAQAAAAAAADIBAAAAAAAAAAAAADIBAAAAAAAAMwEAAAAAAAAAAAAAMwEAAAAAAAA0AQAAAAAAAAAAAAAzAQAAAAAAADMBAAAAAAAAAQAAAHMyAQAAAAAAADIBAAAAAAAAAQAAAGUxAQAAAAAAADEBAAAAAAAAAQAAAHIBAQAAAAAAAAEBAAAAAAAAAQAAAGQwAQAAAAAAADEBAAAAAAAAAAAAADEBAAAAAAAAMgEAAAAAAAAAAAAAMgEAAAAAAAAzAQAAAAAAAAAAAAAzAQAAAAAAADQBAAAAAAAAAAAAADQBAAAAAAAANQEAAAAAAAAAAAAANQEAAAAAAAA2AQAAAAAAAAAAAAA2AQAAAAAAADcBAAAAAAAAAAAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA5AQAAAAAAAAAAAAA5AQAAAAAAADoBAAAAAAAAAAAAADoBAAAAAAAAOwEAAAAAAAAAAAAAOwEAAAAAAAA8AQAAAAAAAAAAAAA8AQAAAAAAAD0BAAAAAAAAAAAAAD0BAAAAAAAAPgEAAAAAAAAAAAAAPgEAAAAAAAA/AQAAAAAAAAAAAAA/AQAAAAAAAEABAAAAAAAAAAAAAEABAAAAAAAAQQEAAAAAAAAAAAAAQQEAAAAAAABCAQAAAAAAAAAAAABCAQAAAAAAAEMBAAAAAAAAAAAAAEMBAAAAAAAARAEAAAAAAAAAAAAARAEAAAAAAABFAQAAAAAAAAAAAABFAQAAAAAAAEYBAAAAAAAAAAAAAEYBAAAAAAAARwEAAAAAAAAAAAAARwEAAAAAAABIAQAAAAAAAAAAAABIAQAAAAAAAEkBAAAAAAAAAAAAAEkBAAAAAAAASgEAAAAAAAAAAAAASgEAAAAAAABLAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					116,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAEsBAAAAAAAATAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAQAAAAAAAEoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					121,
+					1,
+					"plain_tasks_complete",
+					null,
+					"AgAAAB0BAAAAAAAALgEAAAAAAAAAAAAA8AAAAAAAAAAdAQAAAAAAAC8AAAAgICDilqogQWRlcXVhdGVseSBhZHJlc3NlZCBpbnRlcm1lZGlhdGUgc3RhZ2VzPw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAQAAAAAAABwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					122,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAC8BAAAAAAAAbgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAQAAAAAAABwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					123,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAC8BAAAAAAAALwEAAAAAAABBAAAAICAg4pyUIEFkZXF1YXRlbHkgYWRyZXNzZWQgaW50ZXJtZWRpYXRlIHN0YWdlcz8gQGRvbmUgKDIyLTAyLTIzKQo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbAQAAAAAAAFsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					125,
+					2,
+					"plain_tasks_complete",
+					null,
+					"AwAAAPAAAAAAAAAAHQEAAAAAAABAAAAAICAg4pyUIEFkZXF1YXRlbHkgYWRyZXNzZWQgaW50ZXJtZWRpYXRlIHN0YWdlcz8gQGRvbmUgKDIyLTAyLTIzKR0BAAAAAAAALgEAAAAAAAAAAAAA8AAAAAAAAAAdAQAAAAAAAC8AAAAgICDilqogQWRlcXVhdGVseSBhZHJlc3NlZCBpbnRlcm1lZGlhdGUgc3RhZ2VzPw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					126,
+					1,
+					"plain_tasks_complete",
+					null,
+					"AQAAAPAAAAAAAAAAHQEAAAAAAABAAAAAICAg4pyUIEFkZXF1YXRlbHkgYWRyZXNzZWQgaW50ZXJtZWRpYXRlIHN0YWdlcz8gQGRvbmUgKDIyLTAyLTIzKQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					13,
+					1,
+					"plain_tasks_complete",
+					null,
+					"AgAAAEsAAAAAAAAAXAAAAAAAAAAAAAAAAAAAAAAAAABLAAAAAAAAAE0AAAAg4paqIFdoZW4gZ2V0IEthdGllJ3MgbGF0ZXN0IGB2Yy50ZXhgLCBhZGQgbXkgbW9zdCByZWNlbnQgYWRkaXRpb25zIG5vdCB0aGVyZQ",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAgF9A"
+				],
+				[
+					18,
+					1,
+					"plain_tasks_complete",
+					null,
+					"AgAAAJEAAAAAAAAAogAAAAAAAAAAAAAAXQAAAAAAAACRAAAAAAAAADYAAAAg4paqIFRoZW4gYWRkIFNhZ2FyJ3MgKGluIHRoZSB3b3JkIGRvYyBoZSBzZW50IDE0IEZlYik",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAQGBA"
+				],
+				[
+					20,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line.sublime-macro",
+						"register": "\""
+					},
+					"AgAAAG0BAAAAAAAAbgEAAAAAAAAAAAAAbgEAAAAAAABxAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgEAAAAAAABOAQAAAAAAAAAAAAAAQGBA"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAHEBAAAAAAAAcgEAAAAAAAAAAAAAcgEAAAAAAAB1AQAAAAAAAAAAAABuAQAAAAAAAG4BAAAAAAAAAwAAACAgIA",
+					"AQAAAAAAAAABAAAAcQEAAAAAAABxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					3,
+					"left_delete",
+					null,
+					"AwAAAHEBAAAAAAAAcQEAAAAAAAABAAAAIG8BAAAAAAAAbwEAAAAAAAACAAAAICBuAQAAAAAAAG4BAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAG4BAAAAAAAAbwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgEAAAAAAABuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"plain_tasks_new",
+					null,
+					"AQAAAG8BAAAAAAAAcgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwEAAAAAAABvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "Check"
+					},
+					"BQAAAHIBAAAAAAAAcwEAAAAAAAAAAAAAcwEAAAAAAAB0AQAAAAAAAAAAAAB0AQAAAAAAAHUBAAAAAAAAAAAAAHUBAAAAAAAAdgEAAAAAAAAAAAAAdgEAAAAAAAB3AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgEAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " bibli"
+					},
+					"BgAAAHcBAAAAAAAAeAEAAAAAAAAAAAAAeAEAAAAAAAB5AQAAAAAAAAAAAAB5AQAAAAAAAHoBAAAAAAAAAAAAAHoBAAAAAAAAewEAAAAAAAAAAAAAewEAAAAAAAB8AQAAAAAAAAAAAAB8AQAAAAAAAH0BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdwEAAAAAAAB3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "ography"
+					},
+					"BwAAAH0BAAAAAAAAfgEAAAAAAAAAAAAAfgEAAAAAAAB/AQAAAAAAAAAAAAB/AQAAAAAAAIABAAAAAAAAAAAAAIABAAAAAAAAgQEAAAAAAAAAAAAAgQEAAAAAAACCAQAAAAAAAAAAAACCAQAAAAAAAIMBAAAAAAAAAAAAAIMBAAAAAAAAhAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": " for"
+					},
+					"BAAAAIQBAAAAAAAAhQEAAAAAAAAAAAAAhQEAAAAAAACGAQAAAAAAAAAAAACGAQAAAAAAAIcBAAAAAAAAAAAAAIcBAAAAAAAAiAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": " mistakes"
+					},
+					"CQAAAIgBAAAAAAAAiQEAAAAAAAAAAAAAiQEAAAAAAACKAQAAAAAAAAAAAACKAQAAAAAAAIsBAAAAAAAAAAAAAIsBAAAAAAAAjAEAAAAAAAAAAAAAjAEAAAAAAACNAQAAAAAAAAAAAACNAQAAAAAAAI4BAAAAAAAAAAAAAI4BAAAAAAAAjwEAAAAAAAAAAAAAjwEAAAAAAACQAQAAAAAAAAAAAACQAQAAAAAAAJEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiAEAAAAAAACIAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/vc.tex",
+			"settings":
+			{
+				"buffer_size": 111561,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					62,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "approximately"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DgAAANZ3AAAAAAAA13cAAAAAAAAAAAAA13cAAAAAAADYdwAAAAAAAAAAAADYdwAAAAAAANl3AAAAAAAAAAAAANl3AAAAAAAA2ncAAAAAAAAAAAAA2ncAAAAAAADbdwAAAAAAAAAAAADbdwAAAAAAANx3AAAAAAAAAAAAANx3AAAAAAAA3XcAAAAAAAAAAAAA3XcAAAAAAADedwAAAAAAAAAAAADedwAAAAAAAN93AAAAAAAAAAAAAN93AAAAAAAA4HcAAAAAAAAAAAAA4HcAAAAAAADhdwAAAAAAAAAAAADhdwAAAAAAAOJ3AAAAAAAAAAAAAOJ3AAAAAAAA43cAAAAAAAAAAAAA43cAAAAAAADkdwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1ncAAAAAAADWdwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAAPN3AAAAAAAA83cAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA43cAAAAAAADjdwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"before": true,
+										"character": ",",
+										"extend": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "vi_move_to_character",
+									"motion_inclusive": true,
+									"motion_mode": 0
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "tuning"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "for"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " stimulus"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " length"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " and"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " spatia"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "l"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " frequency"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"MQAAAIPWAAAAAAAAg9YAAAAAAAANAAAAbGVuZ3RoIHR1bmluZ4PWAAAAAAAAhNYAAAAAAAAAAAAAhNYAAAAAAACF1gAAAAAAAAAAAACF1gAAAAAAAIbWAAAAAAAAAAAAAIbWAAAAAAAAh9YAAAAAAAAAAAAAh9YAAAAAAACI1gAAAAAAAAAAAACI1gAAAAAAAInWAAAAAAAAAAAAAInWAAAAAAAAitYAAAAAAAAAAAAAitYAAAAAAACL1gAAAAAAAAAAAACL1gAAAAAAAIzWAAAAAAAAAAAAAIzWAAAAAAAAjdYAAAAAAAAAAAAAjdYAAAAAAACO1gAAAAAAAAAAAACO1gAAAAAAAI/WAAAAAAAAAAAAAI/WAAAAAAAAkNYAAAAAAAAAAAAAkNYAAAAAAACR1gAAAAAAAAAAAACR1gAAAAAAAJLWAAAAAAAAAAAAAJLWAAAAAAAAk9YAAAAAAAAAAAAAk9YAAAAAAACU1gAAAAAAAAAAAACU1gAAAAAAAJXWAAAAAAAAAAAAAJXWAAAAAAAAltYAAAAAAAAAAAAAltYAAAAAAACX1gAAAAAAAAAAAACX1gAAAAAAAJjWAAAAAAAAAAAAAJjWAAAAAAAAmdYAAAAAAAAAAAAAmdYAAAAAAACa1gAAAAAAAAAAAACa1gAAAAAAAJvWAAAAAAAAAAAAAJvWAAAAAAAAnNYAAAAAAAAAAAAAnNYAAAAAAACd1gAAAAAAAAAAAACd1gAAAAAAAJ7WAAAAAAAAAAAAAJ7WAAAAAAAAn9YAAAAAAAAAAAAAn9YAAAAAAACg1gAAAAAAAAAAAACg1gAAAAAAAKHWAAAAAAAAAAAAAKHWAAAAAAAAotYAAAAAAAAAAAAAotYAAAAAAACj1gAAAAAAAAAAAACj1gAAAAAAAKTWAAAAAAAAAAAAAKTWAAAAAAAApdYAAAAAAAAAAAAApdYAAAAAAACm1gAAAAAAAAAAAACm1gAAAAAAAKfWAAAAAAAAAAAAAKfWAAAAAAAAqNYAAAAAAAAAAAAAqNYAAAAAAACp1gAAAAAAAAAAAACp1gAAAAAAAKrWAAAAAAAAAAAAAKrWAAAAAAAAq9YAAAAAAAAAAAAAq9YAAAAAAACs1gAAAAAAAAAAAACs1gAAAAAAAK3WAAAAAAAAAAAAAK3WAAAAAAAArtYAAAAAAAAAAAAArtYAAAAAAACv1gAAAAAAAAAAAACv1gAAAAAAALDWAAAAAAAAAAAAALDWAAAAAAAAsdYAAAAAAAAAAAAAsdYAAAAAAACy1gAAAAAAAAAAAACy1gAAAAAAALPWAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAg9YAAAAAAACD1gAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"AQAAANrWAAAAAAAA2tYAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAstYAAAAAAACy1gAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "more"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"BQAAAGHvAAAAAAAAYu8AAAAAAAAAAAAAYu8AAAAAAABj7wAAAAAAAAAAAABj7wAAAAAAAGTvAAAAAAAAAAAAAGTvAAAAAAAAZe8AAAAAAAAAAAAAZe8AAAAAAABm7wAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYe8AAAAAAABh7wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line.sublime-macro",
+						"register": "\""
+					},
+					"AQAAALb0AAAAAAAAt/QAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtfQAAAAAAAC19AAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					153,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALf0AAAAAAAAuPQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAt/QAAAAAAAC39AAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					155,
+					1,
+					"paste",
+					null,
+					"AQAAALj0AAAAAAAAhvkAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuPQAAAAAAAC49AAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					161,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAANH1AAAAAAAA0vUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0fUAAAAAAADR9QAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					165,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEz2AAAAAAAATfYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATPYAAAAAAABM9gAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					169,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAF33AAAAAAAAXvcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXfcAAAAAAABd9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					174,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAMT4AAAAAAAAxfgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxPgAAAAAAADE+AAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					218,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAL3AAAAAAAAA/cAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAvcAAAAAAAAC9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					220,
+					1,
+					"insert",
+					{
+						"characters": "\\ci"
+					},
+					"AwAAAAL3AAAAAAAAA/cAAAAAAAAAAAAAA/cAAAAAAAAE9wAAAAAAAAAAAAAE9wAAAAAAAAX3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAvcAAAAAAAAC9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					221,
+					1,
+					"insert",
+					{
+						"characters": "te"
+					},
+					"AgAAAAX3AAAAAAAABvcAAAAAAAAAAAAABvcAAAAAAAAH9wAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABfcAAAAAAAAF9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					222,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAAAf3AAAAAAAACPcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAB/cAAAAAAAAH9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					223,
+					1,
+					"lsp_texlab_auto_complete",
+					null,
+					"AQAAAAj3AAAAAAAACvcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACPcAAAAAAAAI9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					224,
+					1,
+					"insert",
+					{
+						"characters": "levick"
+					},
+					"BgAAAAn3AAAAAAAACvcAAAAAAAAAAAAACvcAAAAAAAAL9wAAAAAAAAAAAAAL9wAAAAAAAAz3AAAAAAAAAAAAAAz3AAAAAAAADfcAAAAAAAAAAAAADfcAAAAAAAAO9wAAAAAAAAAAAAAO9wAAAAAAAA/3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACfcAAAAAAAAJ9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					228,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAA/3AAAAAAAAEPcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAD/cAAAAAAAAP9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					229,
+					2,
+					"left_delete",
+					null,
+					"AgAAAA/3AAAAAAAAD/cAAAAAAAABAAAAIA73AAAAAAAADvcAAAAAAAABAAAAaw",
+					"AQAAAAAAAAABAAAAEPcAAAAAAAAQ9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					230,
+					1,
+					"insert",
+					{
+						"characters": "k"
+					},
+					"AQAAAA73AAAAAAAAD/cAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADvcAAAAAAAAO9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"insert",
+					{
+						"characters": "9"
+					},
+					"AQAAAA/3AAAAAAAAEPcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAD/cAAAAAAAAP9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					232,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA/3AAAAAAAAD/cAAAAAAAABAAAAOQ",
+					"AQAAAAAAAAABAAAAEPcAAAAAAAAQ9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					233,
+					1,
+					"insert",
+					{
+						"characters": "82"
+					},
+					"AgAAAA/3AAAAAAAAEPcAAAAAAAAAAAAAEPcAAAAAAAAR9wAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAD/cAAAAAAAAP9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					235,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"session_name\":\"LSP-TexLab\",\"item\":{\"preselect\":false,\"sortText\":\"03 Levick:1982vm @articleLevick:1982vm author Levick W R and Thibos L N title Analysis of orientation bias in cat retina journal The Journal of Physiology year 1982 volume 329 pages 243--261 annote oreintation selectivity in retina THOUGHTS: - why do higher spatial freque\",\"kind\":23,\"label\":\"Levick:1982vm\",\"textEdit\":{\"newText\":\"Levick:1982vm\",\"range\":{\"end\":{\"line\":1159,\"character\":194},\"start\":{\"line\":1159,\"character\":188}}},\"data\":{\"citation\":{\"uri\":\"file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/papers/plast_v1_paper2/full_errol.bib\",\"key\":\"Levick:1982vm\"}},\"filterText\":\"Levick:1982vm @articleLevick:1982vm author Levick W R and Thibos L N title Analysis of orientation bias in cat retina journal The Journal of Physiology year 1982 volume 329 pages 243--261 annote oreintation selectivity in retina THOUGHTS: - why do higher spatial freque\"}}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							147,
+							230,
+							1
+						],
+						"trigger": "Levick:1982vm @articleLevick:1982vm author Levick W R and Thibos L N title Analysis of orientation bias in cat retina journal The Journal of Physiology year 1982 volume 329 pages 243--261 annote oreintation selectivity in retina THOUGHTS: - why do higher spatial freque"
+					},
+					"BgAAABD3AAAAAAAAEPcAAAAAAAABAAAAMg/3AAAAAAAAD/cAAAAAAAABAAAAOA/3AAAAAAAAEPcAAAAAAAAAAAAAD/cAAAAAAAAP9wAAAAAAAAEAAAA5CfcAAAAAAAAJ9wAAAAAAAAYAAABsZXZpY2sJ9wAAAAAAABb3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEfcAAAAAAAAR9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					236,
+					1,
+					"insert",
+					{
+						"characters": ",vidya"
+					},
+					"BgAAABb3AAAAAAAAF/cAAAAAAAAAAAAAF/cAAAAAAAAY9wAAAAAAAAAAAAAY9wAAAAAAABn3AAAAAAAAAAAAABn3AAAAAAAAGvcAAAAAAAAAAAAAGvcAAAAAAAAb9wAAAAAAAAAAAAAb9wAAAAAAABz3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFvcAAAAAAAAW9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					237,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABz3AAAAAAAAHfcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHPcAAAAAAAAc9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					238,
+					1,
+					"left_delete",
+					null,
+					"AQAAABz3AAAAAAAAHPcAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAHfcAAAAAAAAd9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					239,
+					1,
+					"insert",
+					{
+						"characters": "heide"
+					},
+					"BQAAABz3AAAAAAAAHfcAAAAAAAAAAAAAHfcAAAAAAAAe9wAAAAAAAAAAAAAe9wAAAAAAAB/3AAAAAAAAAAAAAB/3AAAAAAAAIPcAAAAAAAAAAAAAIPcAAAAAAAAh9wAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHPcAAAAAAAAc9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					240,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"session_name\":\"LSP-TexLab\",\"item\":{\"preselect\":false,\"sortText\":\"06 Vidyasagar:1985vp @articleVidyasagar:1985vp author Vidyasagar T R TR and Heide W W title The role of GABAergic inhibition in the response properties of neurones in cat visual area 18. journal Neuroscience year 1985 volume 17 number 1 pages 49--55 month dec\",\"kind\":23,\"label\":\"Vidyasagar:1985vp\",\"textEdit\":{\"newText\":\"Vidyasagar:1985vp\",\"range\":{\"end\":{\"line\":1159,\"character\":207},\"start\":{\"line\":1159,\"character\":202}}},\"data\":{\"citation\":{\"uri\":\"file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/papers/plast_v1_paper2/full_errol.bib\",\"key\":\"Vidyasagar:1985vp\"}},\"filterText\":\"Vidyasagar:1985vp @articleVidyasagar:1985vp author Vidyasagar T R TR and Heide W W title The role of GABAergic inhibition in the response properties of neurones in cat visual area 18. journal Neuroscience year 1985 volume 17 number 1 pages 49--55 month dec\"}}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							154,
+							238,
+							1
+						],
+						"trigger": "Vidyasagar:1985vp @articleVidyasagar:1985vp author Vidyasagar T R TR and Heide W W title The role of GABAergic inhibition in the response properties of neurones in cat visual area 18. journal Neuroscience year 1985 volume 17 number 1 pages 49--55 month dec"
+					},
+					"BwAAACD3AAAAAAAAIPcAAAAAAAABAAAAZR/3AAAAAAAAH/cAAAAAAAABAAAAZB73AAAAAAAAHvcAAAAAAAABAAAAaR33AAAAAAAAHfcAAAAAAAABAAAAZRz3AAAAAAAAHPcAAAAAAAABAAAAaBf3AAAAAAAAF/cAAAAAAAAFAAAAdmlkeWEX9wAAAAAAACj3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIfcAAAAAAAAh9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					249,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "lines",
+										"extend": true,
+										"forward": true
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"extend": true,
+										"forward": true,
+										"visual": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_by_characters_in_line",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							]
+						]
+					},
+					"AQAAACn3AAAAAAAAKfcAAAAAAAA2AAAAIFtMZXZpY2sgYW5kIFRoaWJvcywgMTk4MjsgVmlkeWFzYWdhciBhbmQgSGVpZGUsIDE5ODRd",
+					"AQAAAAAAAAABAAAAKfcAAAAAAAAp9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					263,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "\n;"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": false
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\\citep"
+								}
+							],
+							[
+								"lsp_texlab_auto_complete",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "movshon"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "78"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"session_name\":\"LSP-TexLab\",\"item\":{\"preselect\":false,\"sortText\":\"00 Movshon:1978th @articleMovshon:1978th author Movshon J A and Thompson I D and al et title Spatial summation in the receptive fields of simple cells in the cat's striate cortex. journal The Journal of \\\\ldots year 1978 annote Orientation selectivity classic\",\"kind\":23,\"label\":\"Movshon:1978th\",\"textEdit\":{\"newText\":\"Movshon:1978th\",\"range\":{\"end\":{\"line\":1160,\"character\":116},\"start\":{\"line\":1160,\"character\":113}}},\"data\":{\"citation\":{\"uri\":\"file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/papers/plast_v1_paper2/full_errol.bib\",\"key\":\"Movshon:1978th\"}},\"filterText\":\"Movshon:1978th @articleMovshon:1978th author Movshon J A and Thompson I D and al et title Spatial summation in the receptive fields of simple cells in the cat's striate cortex. journal The Journal of \\\\ldots year 1978 annote Orientation selectivity classic\"}}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										170,
+										260,
+										3
+									],
+									"trigger": "Movshon:1978th @articleMovshon:1978th author Movshon J A and Thompson I D and al et title Spatial summation in the receptive fields of simple cells in the cat's striate cortex. journal The Journal of \\ldots year 1978 annote Orientation selectivity classic"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"HQAAALr3AAAAAAAAu/cAAAAAAAAAAAAAu/cAAAAAAAC89wAAAAAAAAAAAAC79wAAAAAAALv3AAAAAAAAAQAAADu69wAAAAAAALr3AAAAAAAAAQAAAAq69wAAAAAAALv3AAAAAAAAAAAAALr3AAAAAAAAu/cAAAAAAAAAAAAAu/cAAAAAAAC89wAAAAAAAAAAAAC89wAAAAAAAL33AAAAAAAAAAAAAL33AAAAAAAAvvcAAAAAAAAAAAAAvvcAAAAAAAC/9wAAAAAAAAAAAAC/9wAAAAAAAMD3AAAAAAAAAAAAAMD3AAAAAAAAwvcAAAAAAAAAAAAAwfcAAAAAAADC9wAAAAAAAAAAAADC9wAAAAAAAMP3AAAAAAAAAAAAAMP3AAAAAAAAxPcAAAAAAAAAAAAAxPcAAAAAAADF9wAAAAAAAAAAAADF9wAAAAAAAMb3AAAAAAAAAAAAAMb3AAAAAAAAx/cAAAAAAAAAAAAAx/cAAAAAAADI9wAAAAAAAAAAAADI9wAAAAAAAMn3AAAAAAAAAAAAAMn3AAAAAAAAyvcAAAAAAAAAAAAAyfcAAAAAAADJ9wAAAAAAAAEAAAA4yPcAAAAAAADI9wAAAAAAAAEAAAA3x/cAAAAAAADH9wAAAAAAAAEAAABuxvcAAAAAAADG9wAAAAAAAAEAAABvxfcAAAAAAADF9wAAAAAAAAEAAABoxPcAAAAAAADE9wAAAAAAAAEAAABzwfcAAAAAAADB9wAAAAAAAAMAAABtb3bB9wAAAAAAAM/3AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuvcAAAAAAAC69wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					271,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+										"insert_command": "vi_delete"
+									},
+									"action_command": "enter_insert_mode",
+									"motion_args":
+									{
+										"character": "{"
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_expand_to_brackets",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "movshon"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "78"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"session_name\":\"LSP-TexLab\",\"item\":{\"preselect\":false,\"sortText\":\"01 Movshon:1978ud @articleMovshon:1978ud author Movshon J A and Thompson I D and Tolhurst D J title Spatial and temporal contrast sensitivity of neurones in areas 17 and 18 of the cat's visual cortex. journal Journal of Physiology year 1978 volume 283 pages 101--120 month sep\",\"kind\":23,\"label\":\"Movshon:1978ud\",\"textEdit\":{\"newText\":\"Movshon:1978ud\",\"range\":{\"end\":{\"line\":1160,\"character\":122},\"start\":{\"line\":1160,\"character\":113}}},\"data\":{\"citation\":{\"uri\":\"file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/papers/plast_v1_paper2/full_errol.bib\",\"key\":\"Movshon:1978ud\"}},\"filterText\":\"Movshon:1978ud @articleMovshon:1978ud author Movshon J A and Thompson I D and Tolhurst D J title Spatial and temporal contrast sensitivity of neurones in areas 17 and 18 of the cat's visual cortex. journal Journal of Physiology year 1978 volume 283 pages 101--120 month sep\"}}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										168,
+										268,
+										2
+									],
+									"trigger": "Movshon:1978ud @articleMovshon:1978ud author Movshon J A and Thompson I D and Tolhurst D J title Spatial and temporal contrast sensitivity of neurones in areas 17 and 18 of the cat's visual cortex. journal Journal of Physiology year 1978 volume 283 pages 101--120 month sep"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"DAAAAMH3AAAAAAAAwfcAAAAAAAAOAAAATW92c2hvbjoxOTc4dGjB9wAAAAAAAML3AAAAAAAAAAAAAML3AAAAAAAAw/cAAAAAAAAAAAAAw/cAAAAAAADE9wAAAAAAAAAAAADE9wAAAAAAAMX3AAAAAAAAAAAAAMX3AAAAAAAAxvcAAAAAAAAAAAAAxvcAAAAAAADH9wAAAAAAAAAAAADH9wAAAAAAAMj3AAAAAAAAAAAAAMj3AAAAAAAAyfcAAAAAAAAAAAAAyfcAAAAAAADK9wAAAAAAAAAAAADB9wAAAAAAAMH3AAAAAAAACQAAAG1vdnNob243OMH3AAAAAAAAz/cAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyfcAAAAAAADJ9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					280,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": true,
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ","
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " "
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "vidyasagar"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "muel"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "ler"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"session_name\":\"LSP-TexLab\",\"item\":{\"preselect\":false,\"sortText\":\"12 Vidyasagar:1994vw @articleVidyasagar:1994vw author Vidyasagar T R and Mueller A title Function of GABAA inhibition in specifying spatial frequency and orientation selectivities in cat striate cortex. journal Experimental brain research. Experimentelle Hirnforschung. Exp\\\\'erimentation c\\\\'er\\\\'ebrale year 1994 volume 98 number 1 pages 31--38\",\"kind\":23,\"label\":\"Vidyasagar:1994vw\",\"textEdit\":{\"newText\":\"Vidyasagar:1994vw\",\"range\":{\"end\":{\"line\":1160,\"character\":139},\"start\":{\"line\":1160,\"character\":129}}},\"data\":{\"citation\":{\"uri\":\"file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/papers/plast_v1_paper2/full_errol.bib\",\"key\":\"Vidyasagar:1994vw\"}},\"filterText\":\"Vidyasagar:1994vw @articleVidyasagar:1994vw author Vidyasagar T R and Mueller A title Function of GABAA inhibition in specifying spatial frequency and orientation selectivities in cat striate cortex. journal Experimental brain research. Experimentelle Hirnforschung. Exp\\\\'erimentation c\\\\'er\\\\'ebrale year 1994 volume 98 number 1 pages 31--38\"}}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										170,
+										276,
+										10
+									],
+									"trigger": "Vidyasagar:1994vw @articleVidyasagar:1994vw author Vidyasagar T R and Mueller A title Function of GABAA inhibition in specifying spatial frequency and orientation selectivities in cat striate cortex. journal Experimental brain research. Experimentelle Hirnforschung. Exp\\'erimentation c\\'er\\'ebrale year 1994 volume 98 number 1 pages 31--38"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"HAAAAM/3AAAAAAAA0PcAAAAAAAAAAAAA0PcAAAAAAADR9wAAAAAAAAAAAADR9wAAAAAAANL3AAAAAAAAAAAAANL3AAAAAAAA0/cAAAAAAAAAAAAA0/cAAAAAAADU9wAAAAAAAAAAAADU9wAAAAAAANX3AAAAAAAAAAAAANX3AAAAAAAA1vcAAAAAAAAAAAAA1vcAAAAAAADX9wAAAAAAAAAAAADX9wAAAAAAANj3AAAAAAAAAAAAANj3AAAAAAAA2fcAAAAAAAAAAAAA2fcAAAAAAADa9wAAAAAAAAAAAADa9wAAAAAAANv3AAAAAAAAAAAAANv3AAAAAAAA3PcAAAAAAAAAAAAA3PcAAAAAAADd9wAAAAAAAAAAAADd9wAAAAAAAN73AAAAAAAAAAAAAN73AAAAAAAA3/cAAAAAAAAAAAAA3/cAAAAAAADg9wAAAAAAAAAAAADg9wAAAAAAAOH3AAAAAAAAAAAAAOH3AAAAAAAA4vcAAAAAAAAAAAAA4fcAAAAAAADh9wAAAAAAAAEAAABy4PcAAAAAAADg9wAAAAAAAAEAAABl3/cAAAAAAADf9wAAAAAAAAEAAABs3vcAAAAAAADe9wAAAAAAAAEAAABs3fcAAAAAAADd9wAAAAAAAAEAAABl3PcAAAAAAADc9wAAAAAAAAEAAAB12/cAAAAAAADb9wAAAAAAAAEAAABt0fcAAAAAAADR9wAAAAAAAAoAAAB2aWR5YXNhZ2Fy0fcAAAAAAADi9wAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzvcAAAAAAADO9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					287,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "lines",
+										"extend": true,
+										"forward": true
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"extend": true,
+										"forward": true,
+										"visual": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_by_characters_in_line",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							]
+						]
+					},
+					"AQAAAOP3AAAAAAAA4/cAAAAAAAA1AAAAIFtNb3ZzaG9uIGV0IGFsLiwgMTk3ODsgVmlkeWFzYWdhciBhbmQgTXVlbGxlciwgMTk5NF0",
+					"AQAAAAAAAAABAAAA4/cAAAAAAADj9wAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					295,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"enter_visual_mode",
+								null
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "lines",
+										"extend": true,
+										"forward": true
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"by": "stops",
+										"empty_line": true,
+										"extend": true,
+										"forward": false,
+										"punct_begin": true,
+										"word_begin": true
+									},
+									"motion_clip_to_line": true,
+									"motion_command": "move",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"extend": true,
+										"forward": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_by_characters_in_line",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args": null,
+									"action_command": null,
+									"motion_args":
+									{
+										"extend": true,
+										"forward": false
+									},
+									"motion_clip_to_line": false,
+									"motion_command": "vi_move_by_characters_in_line",
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							],
+							[
+								"vi_eval",
+								{
+									"action_args":
+									{
+									},
+									"action_command": "vi_delete",
+									"motion_args": null,
+									"motion_clip_to_line": false,
+									"motion_command": null,
+									"motion_inclusive": false,
+									"motion_mode": 0
+								}
+							]
+						]
+					},
+					"AQAAADP4AAAAAAAAM/gAAAAAAAAgAAAAW1ZpZHlhc2FnYXIgYW5kIEhlaWRlLCAxOTg0OyAxNV0",
+					"AQAAAAAAAAABAAAAM/gAAAAAAAAz+AAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					302,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"insert",
+								{
+									"characters": "\\citep"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "{}"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "characters",
+									"forward": false
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "vidyasagar"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "heide"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "lsp_select_completion_item {\"session_name\":\"LSP-TexLab\",\"item\":{\"preselect\":false,\"sortText\":\"06 Vidyasagar:1985vp @articleVidyasagar:1985vp author Vidyasagar T R TR and Heide W W title The role of GABAergic inhibition in the response properties of neurones in cat visual area 18. journal Neuroscience year 1985 volume 17 number 1 pages 49--55 month dec\",\"kind\":23,\"label\":\"Vidyasagar:1985vp\",\"textEdit\":{\"newText\":\"Vidyasagar:1985vp\",\"range\":{\"end\":{\"line\":1160,\"character\":244},\"start\":{\"line\":1160,\"character\":234}}},\"data\":{\"citation\":{\"uri\":\"file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/papers/plast_v1_paper2/full_errol.bib\",\"key\":\"Vidyasagar:1985vp\"}},\"filterText\":\"Vidyasagar:1985vp @articleVidyasagar:1985vp author Vidyasagar T R TR and Heide W W title The role of GABAergic inhibition in the response properties of neurones in cat visual area 18. journal Neuroscience year 1985 volume 17 number 1 pages 49--55 month dec\"}}",
+									"format": "command",
+									"keep_prefix": true,
+									"must_insert": false,
+									"query_change_id":
+									[
+										177,
+										299,
+										10
+									],
+									"trigger": "Vidyasagar:1985vp @articleVidyasagar:1985vp author Vidyasagar T R TR and Heide W W title The role of GABAergic inhibition in the response properties of neurones in cat visual area 18. journal Neuroscience year 1985 volume 17 number 1 pages 49--55 month dec"
+								}
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"HgAAADP4AAAAAAAANPgAAAAAAAAAAAAANPgAAAAAAAA1+AAAAAAAAAAAAAA1+AAAAAAAADb4AAAAAAAAAAAAADb4AAAAAAAAN/gAAAAAAAAAAAAAN/gAAAAAAAA4+AAAAAAAAAAAAAA4+AAAAAAAADn4AAAAAAAAAAAAADn4AAAAAAAAOvgAAAAAAAAAAAAAOvgAAAAAAAA7+AAAAAAAAAAAAAA6+AAAAAAAADv4AAAAAAAAAAAAADv4AAAAAAAAPPgAAAAAAAAAAAAAPPgAAAAAAAA9+AAAAAAAAAAAAAA9+AAAAAAAAD74AAAAAAAAAAAAAD74AAAAAAAAP/gAAAAAAAAAAAAAP/gAAAAAAABA+AAAAAAAAAAAAABA+AAAAAAAAEH4AAAAAAAAAAAAAEH4AAAAAAAAQvgAAAAAAAAAAAAAQvgAAAAAAABD+AAAAAAAAAAAAABD+AAAAAAAAET4AAAAAAAAAAAAAET4AAAAAAAARfgAAAAAAAAAAAAARfgAAAAAAABG+AAAAAAAAAAAAABG+AAAAAAAAEf4AAAAAAAAAAAAAEf4AAAAAAAASPgAAAAAAAAAAAAASPgAAAAAAABJ+AAAAAAAAAAAAABI+AAAAAAAAEj4AAAAAAAAAQAAAGVH+AAAAAAAAEf4AAAAAAAAAQAAAGRG+AAAAAAAAEb4AAAAAAAAAQAAAGlF+AAAAAAAAEX4AAAAAAAAAQAAAGVE+AAAAAAAAET4AAAAAAAAAQAAAGg6+AAAAAAAADr4AAAAAAAACgAAAHZpZHlhc2FnYXI6+AAAAAAAAEv4AAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAM/gAAAAAAAAz+AAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					307,
+					1,
+					"trim_trailing_white_space",
+					null,
+					"BAAAAKP4AAAAAAAAo/gAAAAAAAABAAAAIE73AAAAAAAATvcAAAAAAAABAAAAIEv2AAAAAAAAS/YAAAAAAAABAAAAIM71AAAAAAAAzvUAAAAAAAADAAAAICAg",
+					"AQAAAAAAAAABAAAALvUAAAAAAAAu9QAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes/plasticity/plast_paper_SciReports_reviewer_comments.md",
+			"settings":
+			{
+				"buffer_size": 38400,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"mde_match_heading_hashes",
+					null,
+					"AgAAABVuAAAAAAAAJW4AAAAAAAARAAAAIyMjIFJldmlld2VyICMyIApSJAAAAAAAAGIkAAAAAAAAEQAAACMjIyBSZXZpZXdlciAjMSAK",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"file dup",
+				"File Manager: Duplicate"
+			],
+			[
+				"compare",
+				"Compare with..."
+			],
+			[
+				"pack con in",
+				"Package Control: Install Package"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"proj man new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"proj man",
+				"Project Manager: Edit Project"
+			],
+			[
+				"zkl in",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl link",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl tag",
+				"Zekell Insert Tag"
+			],
+			[
+				"zkl op",
+				"Zekell Open Link"
+			],
+			[
+				"zkl new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl li",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl nav",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zkl lin",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl link new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl na",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zkltag",
+				"Zekell Insert Tag"
+			],
+			[
+				"zkl new l",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl new n",
+				"Zekell Link to New Note"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"zkl ",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl",
+				"Zekell Insert Tag"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"zkl lini",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl opn",
+				"Zekell Open Note"
+			],
+			[
+				"nav",
+				"Zekell Navigate Notes"
+			],
+			[
+				"markd fold",
+				"MarkdownEditing: Fold All Sections"
+			],
+			[
+				"zkl ope",
+				"Zekell Open Note"
+			],
+			[
+				"zkl open",
+				"Zekell Open Note"
+			],
+			[
+				"zkl op no",
+				"Zekell Open Note"
+			],
+			[
+				"mark ed he",
+				"Snippet: Markdown Hyperlink"
+			],
+			[
+				"markdown edit link",
+				"MarkdownEditing: New Inline Link"
+			],
+			[
+				"zot",
+				"Zotero Search - full citation"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"proj",
+				"Project Manager: Edit Project"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"zkl opn ",
+				"Zekell Open Note"
+			],
+			[
+				"pack con up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack con li",
+				"Package Control: List Packages"
+			],
+			[
+				"comment",
+				"Comment Marks: Settings"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"send co",
+				"SendCode: Choose Program"
+			],
+			[
+				"file cop",
+				"File Manager: Copy Name"
+			],
+			[
+				"zkl op ",
+				"Zekell Open Note"
+			],
+			[
+				"zkl t",
+				"Zekell Insert Tag"
+			],
+			[
+				"zkl li new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zklpa",
+				"Zekell Open Parent Notes"
+			],
+			[
+				"zkl v",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zoter",
+				"Zotero Search - full citation"
+			],
+			[
+				"mark ed foo",
+				"MarkdownEditing: New Footnote"
+			],
+			[
+				"zotero",
+				"Zotero Search - full citation"
+			],
+			[
+				"zkl ta",
+				"Zekell Insert Tag"
+			],
+			[
+				"zkl ne",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl ins l",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl oop",
+				"Zekell Open Note"
+			],
+			[
+				"zkl ins li",
+				"Zekell Insert Link"
+			],
+			[
+				"syntax pref",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"zkl n",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl op l",
+				"Zekell Open Link"
+			],
+			[
+				"zkl new ",
+				"Zekell Link to New Note"
+			],
+			[
+				"file copy",
+				"File Manager: Copy Name"
+			],
+			[
+				"markdo foot",
+				"MarkdownEditing: New Footnote"
+			],
+			[
+				"file ren",
+				"Rename File"
+			],
+			[
+				"zke in",
+				"Zekell Open Link"
+			],
+			[
+				"zekl in",
+				"Zekell Insert Tag"
+			],
+			[
+				"zekl new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zek",
+				"Zekell Insert Tag"
+			],
+			[
+				"zek tag",
+				"Zekell Insert Tag"
+			],
+			[
+				"zek new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zek na",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zek op",
+				"Zekell Open Note"
+			],
+			[
+				"zek in",
+				"Zekell Insert Link"
+			],
+			[
+				"zek ta",
+				"Zekell Insert Tag"
+			],
+			[
+				"zekop",
+				"Zekell Open Note"
+			],
+			[
+				"zk op",
+				"Zekell Open Note"
+			],
+			[
+				"zk nav",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zk lin",
+				"Zekell Insert Link"
+			],
+			[
+				"zk ta",
+				"Zekell Insert Tag"
+			],
+			[
+				"zk new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zk tag",
+				"Zekell Insert Tag"
+			],
+			[
+				"na",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zk",
+				"Zekell Open Note"
+			],
+			[
+				"zk na",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zk n",
+				"Zekell Navigate Notes"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack dev op",
+				"PackageDev: Open Package"
+			],
+			[
+				"zk ins ",
+				"Zekell Insert Link"
+			],
+			[
+				"zek link",
+				"Zekell Insert Link"
+			],
+			[
+				"zk ins l",
+				"Zekell Insert Link"
+			],
+			[
+				"zek lin",
+				"Zekell Link to New Note"
+			],
+			[
+				"zek new l",
+				"Zekell Link to New Note"
+			],
+			[
+				"zek nav",
+				"Zekell Navigate Notes"
+			],
+			[
+				"open",
+				"Zekell Open Note"
+			],
+			[
+				"syn pref",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"zek in new",
+				"Zekell Link to New Note"
+			],
+			[
+				"z op",
+				"Zekell Open Link"
+			],
+			[
+				"zek nel",
+				"Zekell Insert Link"
+			],
+			[
+				"pref syntax",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"zek it",
+				"Zekell Insert Tag"
+			],
+			[
+				"zek nwe",
+				"Zekell Link to New Note"
+			],
+			[
+				"zek opn",
+				"Zekell Open Note"
+			],
+			[
+				"zeknew",
+				"Zekell Link to New Note"
+			],
+			[
+				"zek insl",
+				"Zekell Insert Link"
+			],
+			[
+				"key bi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"zek g",
+				"Zekell Insert Tag"
+			],
+			[
+				"new note",
+				"Zekell New Note"
+			],
+			[
+				"open note",
+				"Zekell Open Note"
+			],
+			[
+				"insert lin",
+				"Zekell Insert Link"
+			],
+			[
+				"zek new lin",
+				"Zekell Link to New Note"
+			],
+			[
+				"new link",
+				"Zekell Link to New Note"
+			],
+			[
+				"zek inser tag",
+				"Zekell Insert Tag"
+			],
+			[
+				"zek p",
+				"Zekell Open Note"
+			],
+			[
+				"zekl tag",
+				"Zekell Insert Tag"
+			],
+			[
+				"zek ins",
+				"Zekell Insert Link"
+			],
+			[
+				"open link",
+				"Zekell Open Link"
+			],
+			[
+				"zek new ",
+				"Zekell Link to New Note"
+			],
+			[
+				"zek lop",
+				"Zekell Open Note"
+			],
+			[
+				"zekl op",
+				"Zekell Open Note"
+			],
+			[
+				"file re",
+				"Rename File"
+			],
+			[
+				"zek new link",
+				"Zekell Link to New Note"
+			],
+			[
+				"zeke new",
+				"Zekell Link to New Note"
+			],
+			[
+				"copy file",
+				"File Manager: Copy Name"
+			],
+			[
+				"zeke link",
+				"Zekell Insert Link"
+			],
+			[
+				"zeke op",
+				"Zekell Open Note"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 242.0,
+		"history":
+		[
+			"[symbol for symbol in view.symbol_regions() if symbol.kind[2] == 'Navigation']",
+			"[symbol for symbol in view.symbol_regions()]",
+			"[symbol for symbol in view.symbol_regions() if symbol.syntax=='Markdown']",
+			"view.symbol_regions()[0].syntax",
+			"view.symbol_regions()[0]",
+			"view.symbol_regions()",
+			"view",
+			"sublime.view()",
+			"sublime.view",
+			"print('**********')",
+			"sys.executable",
+			"import sys",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"Path(view.file_name()).stem.split(maxsplit=1)",
+			"Path(view.file_name()).stem.split(1)",
+			"Path(view.file_name()).stem.split()",
+			"Path(view.file_name()).name.split()",
+			"Path(view.file_name()).name",
+			"view.file_name()",
+			"Path(view.file_name()).name.split()[0]",
+			"Path(view.file_name()).name.split()",
+			"Path(view.file_name()).name",
+			"from pathlib import Path",
+			"view.file_name()",
+			"view.erase_status('TEST')",
+			"view.set_status('TEST', 'allgood')",
+			"open_file",
+			"sublime.Region(306,336).contains(view.sel()[0].begin())",
+			"sublime.Region(306,336).contains(view.sel()[0])",
+			"sublime.Region(306,336).intersects(view.sel()[0])",
+			"sublime.Region(305,336).intersects(view.sel()[0])",
+			"sublime.Region(306,336).intersects(view.sel()[0])",
+			"sublime.Region(306,336)",
+			"sublime.Region",
+			"Region",
+			"view.sel()[0].begin()",
+			"view.sel()[0]",
+			"view.sel()",
+			"view.find_by_selector('meta.link.inline')",
+			"view.window().open_file('/Users/errollloyd/zekell/20211118030856 DELETE.md')",
+			"view.window().open_file('20211118024710 DELETE.md')",
+			"self.view.window().open_file('20211118024710 DELETE.md')",
+			"window",
+			"sublime.active_window()",
+			"view.file_name()",
+			"window.open_file('20211118010722 DELETE.md')",
+			"window.open_file('20211118010409 DELETE.md')",
+			"window",
+			"[r.intersects(view.sel()[0]) for r in view.find_by_selector('meta.link.inline')]",
+			"[r.intersection(view.sel()[0]) for r in view.find_by_selector('meta.link.inline')]",
+			"[r.intersection(view.sel()) for r in view.find_by_selector('meta.link.inline')]",
+			"for r in view.find_by_selector('meta.link.inline'):\\",
+			"for r in view.find_by_selector('meta.link.inline'):",
+			"view.find_by_selector('meta.link.inline')",
+			"view.extract_scope(view.extract_scope(view.sel()[0].begin()).begin())",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.sel()[0].end()",
+			"view.sel()[0].begin()",
+			"view.sel().begin()",
+			"view.sel()",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.match_selector(view.sel()[0].begin(), 'meta.link.inline')",
+			"view.scope_name(view.sel()[0].begin())",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.file_name()",
+			"window.project_data()",
+			"sublime.load_settings()",
+			"window.extract_variables()",
+			"window",
+			"view.sel()[0].begin()",
+			"view.text_point(*view.rowcol(view.sel()[0].begin()))",
+			"view.text_point(view.rowcol(view.sel()[0].begin()))",
+			"view.rowcol(view.sel()[0].begin())",
+			"view.rowcol(view.sel()[0])",
+			"view.sel()[0].begin()",
+			"view.sel()[0]",
+			"view.sel()",
+			"view.sel().begin",
+			"view.sel().begin()",
+			"view.sel().end()",
+			"view.sel()",
+			"view",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"view.file_name()",
+			"view",
+			"sublime.log_commands(True)",
+			"sublime.view_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"askdjfh",
+			"kjdfhskdfjh",
+			"skdjfhdskjfh",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49226))",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command('resize_pane', {\"orientation\": \"cols\"})",
+			"sublime.run_command('resize_pane')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True",
+			"sublime.log_commands(True)",
+			"sublime.log_commadns(True)",
+			"s;dfjh",
+			";soadfh",
+			"ldfskj",
+			"sublime.log_commands(False)",
+			"sublime.run_command('phd_dates')",
+			"sublime.run_command('rb_hours_sum')",
+			"sublime.run_command(rb_hours_sum)",
+			"sublime.run_command(phd_dates)",
+			"sublime.run_command(phd_dates_command)",
+			"sublime.run_command(phd_dates)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/katie_feb_2022/vc.tex",
+		"/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/katie_edit_test.tex",
+		"/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/vc_katie_latest.tex",
+		"/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/full_errol.bib",
+		"/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/vc_edit.tex",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/Compare Side-By-Side/SBSCompare.sublime-settings",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper2  #phd.sublime-project",
+		"/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/vc.tex",
+		"/Users/errollloyd/zekell/20220223045253 typeshed.md",
+		"/Users/errollloyd/zekell/20211213020721 pathlib.md",
+		"/Users/errollloyd/zekell/20211230130157 macOS Unix Personal Setup.md",
+		"/Users/errollloyd/zekell/20211229081713 Hammerspoon.md",
+		"/Users/errollloyd/zekell/20211230045620 Learn Lua in Y minutes.md",
+		"/Users/errollloyd/zekell/20211229085010 Lua.md",
+		"/Users/errollloyd/zekell/20220204061843 Python Typing Questions.md",
+		"/Users/errollloyd/zekell/20220221040655 Hiking.md",
+		"/Users/errollloyd/zekell/20220221040745 Hikes.md",
+		"/Users/errollloyd/zekell/20220216235148 Bret Victor.md",
+		"/Users/errollloyd/zekell/20220216234430 Scientific Paper culture is a stifling local minumum.md",
+		"/Users/errollloyd/zekell/20200922153027 Publishing.md",
+		"/Users/errollloyd/zekell/20220216235125 The Humane Representation of Thought.md",
+		"/Users/errollloyd/zekell/20220216064036 YAML.md",
+		"/Users/errollloyd/zekell/20200920193126 AWS.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/dateTimeStamp.py",
+		"/Users/errollloyd/zekell/20200904105632 Python.md",
+		"/Users/errollloyd/zekell/20201016154624 Third Party Libraries.md",
+		"/Users/errollloyd/zekell/20211201061648 jupytext.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/MarkdownEditing/syntaxes/Symbol List - Heading.tmPreferences",
+		"/Users/errollloyd/zekell/20220207031034 In ear workout headphones.md",
+		"/Users/errollloyd/zekell/20220201051828 WebAssembly (WASM).md",
+		"/Users/errollloyd/zekell/20200911124716 Software.md",
+		"/Users/errollloyd/zekell/20220201051335 Writing Systems.md",
+		"/Users/errollloyd/zekell/20220201051423 Aegean and Cretan Writing System.md",
+		"/Users/errollloyd/zekell/20200913172152 Sublime Text.md",
+		"/Users/errollloyd/zekell/20220114055441 Sublime Text Plugin Runtime and API.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/Projects/my_zekell.sublime-project",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/zekell_editor.py",
+		"/Users/errollloyd/zekell/20220125022451 Python Data Model.md",
+		"/Users/errollloyd/zekell/20201016154437 Core.md",
+		"/Users/errollloyd/zekell/20200911124758 Projects.md",
+		"/Users/errollloyd/zekell/20201105143219 Core Util.md",
+		"/Users/errollloyd/zekell/20220125055757 BOM Dashboard.md",
+		"/Users/errollloyd/zekell/20201025175606 Unix.md",
+		"/Users/errollloyd/zekell/20220124035622 Periodical Long Form Content.md",
+		"/Users/errollloyd/zekell/20211124033621 Recommendations.md",
+		"/Users/errollloyd/zekell/20211124023800 The square and the tower.md",
+		"/Users/errollloyd/zekell/20220124004408 Alternatives to Academic Publishing.md",
+		"/Users/errollloyd/zekell/20220124025529 Marxism.md",
+		"/Users/errollloyd/zekell/20211125002203 Economics.md",
+		"/Users/errollloyd/zekell/20211125002029 Economics.md",
+		"/Users/errollloyd/zekell/20200922153002 Academia.md",
+		"/Users/errollloyd/zekell/20211125003931 The Joy of Cryptography.md",
+		"/Users/errollloyd/zekell/20211125003910 Computing.md",
+		"/Users/errollloyd/zekell/20211124034320 STEM.md",
+		"/Users/errollloyd/zekell/20211130043252 Poetry.md",
+		"/Users/errollloyd/zekell/20211201234043 Winners Take All: The Elite Charade of Changing the World.md",
+		"/Users/errollloyd/zekell/20211202014857 The Art Of Controversy.md",
+		"/Users/errollloyd/zekell/20211124033745 HASS.md",
+		"/Users/errollloyd/zekell/20220113040039 Python Tips and Tricks.md",
+		"/Users/errollloyd/zekell/20211130044538 Python Standard Lib HTTP Server.md",
+		"/Users/errollloyd/zekell/20220107045531 Parsing URLs.md",
+		"/Users/errollloyd/zekell/20220110075238 Requesting URLs.md",
+		"/Users/errollloyd/zekell/20211230125439 macOS Unix.md",
+		"/Users/errollloyd/zekell/20220113043314 OSAScript.md",
+		"/Users/errollloyd/zekell/20220106010401 Zotero.md",
+		"/Users/errollloyd/zekell/20220107040859 Zotero Better Bibtex Extension.md",
+		"/Users/errollloyd/zekell/20220114031623 Subprocess.md",
+		"/Users/errollloyd/zekell/20201016154509 Standard Library.md",
+		"/Users/errollloyd/zekell/20220115021611 Asyncio Subprocess.md",
+		"/Users/errollloyd/zekell/20210304220617 Python Type Annotations.md",
+		"/Users/errollloyd/zekell/20220110032218 PEP 484.md",
+		"/Users/errollloyd/zekell/20211213025946 pandoc.md",
+		"/Users/errollloyd/zekell/20211230055509 DashDoc.md",
+		"/Users/errollloyd/zekell/20211230055740 Dash for macOS.md",
+		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/errollloyd/zekell/20211214023915 print.md",
+		"/Users/errollloyd/zekell/20211119054225 Builtin functions.md",
+		"/Users/errollloyd/zekell/20211119054242 max.md",
+		"/Users/errollloyd/zekell/20211209234040 Pandas.md",
+		"/Users/errollloyd/zekell/20211210030529 Tailwind.md",
+		"/Users/errollloyd/zekell/20211210030303 HTML and CSS.md",
+		"/Users/errollloyd/zekell/20201012164648 Front-end.md",
+		"/Users/errollloyd/zekell/20211208011113 Alan Kay.md",
+		"/Users/errollloyd/zekell/20211208010235 Why Isn't Functional Programming the Norm?.md",
+		"/Users/errollloyd/zekell/20211208010107 Functional Programming.md",
+		"/Users/errollloyd/zekell/20211208010038 Programming Paradigms.md",
+		"/Users/errollloyd/zekell/20211118083422 Biases and Razors.md",
+		"/Users/errollloyd/zekell/20211208001656 Law of the Instrument.md",
+		"/Users/errollloyd/zekell/20211118083523 Gell-Man Amnesia.md",
+		"/Users/errollloyd/zekell/20211202060810 conda.md",
+		"/Users/errollloyd/zekell/20210304220354 MyPy CLI.md",
+		"/Users/errollloyd/zekell/20210304220310 MyPy.md",
+		"/Users/errollloyd/zekell/20210304223850 Pyright.md",
+		"/Users/errollloyd/zekell/20211202010459 The World as Will and Representation.md",
+		"/Users/errollloyd/zekell/20211202011139 Arthur Schopenhauer.md",
+		"/Users/errollloyd/zekell/20200904114310 Jupyter.md",
+		"/Users/errollloyd/zekell/20200911173110 Basics.md",
+		"/Users/errollloyd/zekell/20211130023828 Learning.md",
+		"/Users/errollloyd/zekell/20200911173013 SQL.md",
+		"/Users/errollloyd/zekell/20200911173049 SQLite.md",
+		"/Users/errollloyd/zekell/20211201031712 SQLite Indices.md",
+		"/Users/errollloyd/zekell/20211201033735 SQLite creating and inspecting indices.md",
+		"/Users/errollloyd/zekell/20211201025747 Profiling sqlite queries.md",
+		"/Users/errollloyd/zekell/20211118080359 zekell.md",
+		"/Users/errollloyd/zekell/20200911174812 zettelkasten-sqlite.md",
+		"/Users/errollloyd/zekell/20211130023307 Speed Reading.md",
+		"/Users/errollloyd/zekell/20211130032209 ReadWise.md",
+		"/Users/errollloyd/zekell/20211130042958 Rumi.md",
+		"/Users/errollloyd/zekell/20211124221329 Flair Espresso Machine.md",
+		"/Users/errollloyd/zekell/20211129064243 Learn SQL.md",
+		"/Users/errollloyd/zekell/20211125031749 Learn SQL the Hard Way.md",
+		"/Users/errollloyd/zekell/20211125032342 Fracturing and Normalising Cultural Forces.md",
+		"/Users/errollloyd/zekell/20211124063813 Music.md",
+		"/Users/errollloyd/zekell/20211124063822 Film.md",
+		"/Users/errollloyd/zekell/20201025110953 Human Life.md",
+		"/Users/errollloyd/zekell/20211124065232 Javascript.md",
+		"/Users/errollloyd/zekell/20211124022156 Social effects.md",
+		"/Users/errollloyd/zekell/20211124022945 Niall Ferguson.md",
+		"/Users/errollloyd/zekell/20211125033853 Television.md",
+		"/Users/errollloyd/zekell/20211125031020 Classic Computer Science Problems in Python.md",
+		"/Users/errollloyd/zekell/20200922152119 Culture compounds and is complex.md",
+		"/Users/errollloyd/zekell/20211125002222 Wealth Distribution.md",
+		"/Users/errollloyd/zekell/20211125002254 Low interest rates concentrates welath in land.md",
+		"/Users/errollloyd/zekell/20211125002836 Liveable.md",
+		"/Users/errollloyd/zekell/20211124063952 Processing.md",
+		"/Users/errollloyd/zekell/20211124043926 Paradox of Utopic Ideologies.md",
+		"/Users/errollloyd/zekell/zk_graph.dot",
+		"/Users/errollloyd/zekell/20211124022114 Internet.md"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"heide",
+			"retinogeniculate",
+			"Ntwk",
+			"First",
+			"learning con"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/todo.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".todo",
+								"current_syntax": "PlainTasks/PlainTasks",
+								"enabled": true,
+								"last_updated": 1645176167.85,
+								"scanning": "-comment"
+							},
+							"lsp_uri": "file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/papers/plast_v1_paper2/todo.todo",
+							"plain_tasks_remain_time_phantoms":
+							[
+							],
+							"rainbow_checked": true,
+							"syntax": "Packages/PlainTasks/PlainTasks.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/Dropbox (Personal)/Science/papers/plast_v1_paper2/vc.tex",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55448,
+								55448
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": "\\{}@/ ",
+									"selector": "text.tex - comment",
+									"server": "LSP-TexLab"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".tex",
+								"current_syntax": "LaTeX/LaTeX",
+								"enabled": true,
+								"last_updated": 1645176167.85,
+								"scanning": "-comment"
+							},
+							"line_numbers": true,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 7,
+							"lsp_uri": "file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/papers/plast_v1_paper2/vc.tex",
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true,
+							"wrap_width": 80
+						},
+						"translation.x": 0.0,
+						"translation.y": 25543.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/errollloyd/Dropbox (Personal)/Science/PhD/project_notes/plasticity/plast_paper_SciReports_reviewer_comments.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18453,
+								18453
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
+							"color_helper.refresh": false,
+							"color_helper.scan":
+							{
+								"allow_scanning": true,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".md",
+								"current_syntax": "MarkdownEditing/syntaxes/Markdown",
+								"enabled": true,
+								"last_updated": 1645176167.85,
+								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
+							},
+							"lsp_uri": "file:///Users/errollloyd/Dropbox%20%28Personal%29/Science/PhD/project_notes/plasticity/plast_paper_SciReports_reviewer_comments.md",
+							"mde.match_heading_hashes": false,
+							"parser": "markdown",
+							"rainbow_checked": true,
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"target": "browser",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 307.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plast_v1_paper2  #phd.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"full",
+				"plast_v1_paper2/full_errol.bib"
+			],
+			[
+				"katie",
+				"plast_v1_paper2/katie_edit_test.tex"
+			],
+			[
+				"review",
+				"plasticity/plast_paper_SciReports_reviewer_comments.md"
+			],
+			[
+				"vc.te",
+				"vc.tex"
+			],
+			[
+				"vctex",
+				"vc.tex"
+			],
+			[
+				"type",
+				"20220204061843 Python Typing Questions.md"
+			],
+			[
+				"pyt",
+				"20210413143312 pytest.md"
+			],
+			[
+				"DELETE",
+				"20211118010327 DELETE.md"
+			],
+			[
+				"ze",
+				"20200911174812 zettelkasten-sqlite.md"
+			],
+			[
+				"pyth",
+				"20200904105632 Python.md"
+			],
+			[
+				"fi",
+				"prototype/20211019103824 first_note.md"
+			],
+			[
+				"zk",
+				"20200831005955 sublime_zk.mdzk"
+			],
+			[
+				"zett",
+				"zettelkasten.sublime-project"
+			],
+			[
+				"py",
+				"20200904105632 Python.mdzk"
+			],
+			[
+				"cust",
+				"20201009191618 Custom Addtions.mdzk"
+			],
+			[
+				"sof",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"bra",
+				"20201009182253 Listing branches and remotes.mdzk"
+			],
+			[
+				"git",
+				"20201009181737 git.mdzk"
+			],
+			[
+				"aws",
+				"20200920193126 AWS.mdzk"
+			],
+			[
+				"soft",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"",
+				".search_results.zkr"
+			],
+			[
+				"gen",
+				"notes/general_thoughts.md"
+			],
+			[
+				"lif",
+				"code/lif/lif.py"
+			],
+			[
+				"stat",
+				"HWS #phd/static_two_layer.py"
+			],
+			[
+				"the",
+				"themis.py"
+			],
+			[
+				"heph",
+				"hephaistos.py"
+			],
+			[
+				"her",
+				"hermes.py"
+			],
+			[
+				"qui",
+				"/Volumes/MagellanX/PhD/Data/length_tun_data/quick_run.py"
+			],
+			[
+				"ath",
+				"zeus/athena.py"
+			],
+			[
+				"at",
+				"zeus/athena_themis.todo"
+			],
+			[
+				"th",
+				"themis.py"
+			],
+			[
+				"aht",
+				"athena_themis.todo"
+			],
+			[
+				"ol",
+				"zeus/old_zeus.py"
+			],
+			[
+				"pr",
+				"zeus/protoZeus.py"
+			],
+			[
+				"zu",
+				"zeus/zeus.py"
+			],
+			[
+				"pro",
+				"zeus/protoZeus.py"
+			],
+			[
+				"qu",
+				"spike2_workflow_test/hephaistos_testing/u1_r1.smrx/quickViewProto.py"
+			],
+			[
+				"s",
+				"zeus/spk2_mat_read.py"
+			],
+			[
+				"z",
+				"zeus/zeus.py"
+			],
+			[
+				"hep",
+				"zeus/hephaistos.py"
+			],
+			[
+				"todo ",
+				"project_notes/todo_check_files"
+			],
+			[
+				"phd ",
+				"project_notes/phd_timeline.todo.html"
+			],
+			[
+				"hel",
+				"git/helpers.csv"
+			],
+			[
+				"2018",
+				"RB_general/2018_10_19_hours.csv"
+			],
+			[
+				"to",
+				"project_notes/todo_check.sh"
+			],
+			[
+				"todo",
+				"project_notes/todo_check_files"
+			],
+			[
+				"reg",
+				"git/regex_test.todo"
+			],
+			[
+				"hou",
+				"RB_general/2018_10_05_hours.csv"
+			],
+			[
+				"20",
+				"RB_general/2018_09_21_hours.csv"
+			],
+			[
+				"prog",
+				"project_notes/prog_review_3.5.md"
+			],
+			[
+				"test",
+				"RB_general/test"
+			],
+			[
+				"work",
+				"git/workshop_materials.todo"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 306.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"criticl",
+				"tag-critical"
+			],
+			[
+				"",
+				"Abbot:2011fd"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
