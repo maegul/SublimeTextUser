@@ -174,7 +174,7 @@
 	{"keys": ["super+k", "super+shift+d"], "command":"set_setting", "args":
 		{
 			"setting": "wrap_width",
-			"value": 80
+			"value": 100
 		}
 
 	},
