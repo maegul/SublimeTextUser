@@ -52,6 +52,14 @@
 			"foreground": "var(accent_green)"
 		},
 		{
+			// Default is to add background shading ... which gets distracting
+			// This is cleaner (and makes sense visually)
+			"name": "Markdown: Hard Line Breaks",
+			"scope": "punctuation.definition.hard-line-break",
+			"background": "none",
+			"font_style": "underline bold glow"
+		},
+		{
 			"name": "heading punctuation",
 			"scope": "punctuation.definition.heading.begin",
 			"foreground": "color(var(accent_red) s(+ 15%))",
