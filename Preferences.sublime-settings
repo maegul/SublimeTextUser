@@ -86,5 +86,7 @@
 	[
 		"zekell"
 	],
+	"auto_complete_cycle": true,
+	"auto_complete_use_history": true,
 	// "spelling_selector": "-markup.raw.inline.markdown, markup.raw, source string.quoted - punctuation - meta.preprocessor.include, source comment - source comment.block.preprocessor, -(source, constant, keyword, storage, support, variable, markup.underline.link, meta.tag)",
 }

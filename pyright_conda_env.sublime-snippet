@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+"venvPath": "/Users/errollloyd/miniconda3/envs",
+"venv": "${1:general}",
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>venv</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.json</scope>
+</snippet>
