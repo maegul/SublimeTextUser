@@ -11,7 +11,11 @@
 	"folders":
 	[
 		{
-			"name": "pythoncharmers_admin #pychm",
+			"name": "notes",
+			"path": "~/Developer/pychm/notes"
+		},
+		{
+			"name": "notes (OLD)",
 			"path": "/Volumes/pychm/meeting_notes"
 		},
 		{
