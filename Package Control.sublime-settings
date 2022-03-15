@@ -20,6 +20,7 @@
 		"LSP-json",
 		"LSP-pyright",
 		"LSP-TexLab",
+		"LSP-yaml",
 		"MarkdownEditing",
 		"MarkdownPreview",
 		"MarkdownTOC",
@@ -35,6 +36,7 @@
 		"table_of_comments",
 		"Terminal",
 		"Terminus",
+		"YAML Nav",
 	],
 	"repositories":
 	[

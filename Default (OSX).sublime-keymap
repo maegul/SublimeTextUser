@@ -605,7 +605,8 @@
 	{
 	    "keys": ["alt+ctrl+enter"], "command": "send_code",
 	    "context": [
-	        { "key": "selector", "operator": "equal", "operand": "markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
+	    	// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+	        { "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
 	    ]
 	},
 
