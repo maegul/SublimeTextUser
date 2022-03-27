@@ -1513,6 +1513,17 @@
 								"status": -1,
 								"syntax": "yaml"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1588,11 +1599,14 @@
 								"bh_default_content"
 							],
 							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
 							"lsp_uri": "file:///Volumes/pychm/JupyterHub_Configuration/ldap/ldap_config.yaml",
 							"rainbow_checked": true,
 							"remote_loading": false,
+							"show_definitions": false,
 							"synced": false,
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/YAML Nav/YAML-ng.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -1631,6 +1645,17 @@
 								"status": -1,
 								"syntax": "yaml"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1711,11 +1736,14 @@
 							{
 							},
 							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
 							"lsp_uri": "file:///Volumes/pychm/JupyterHub_Configuration/efs-provisioner/deployment.yaml",
 							"rainbow_checked": true,
 							"remote_loading": false,
+							"show_definitions": false,
 							"synced": false,
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/YAML Nav/YAML-ng.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -1754,6 +1782,17 @@
 								"status": -1,
 								"syntax": "yaml"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1829,11 +1868,14 @@
 								"bh_default_content"
 							],
 							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
 							"lsp_uri": "file:///Volumes/pychm/JupyterHub_Configuration/efs-provisioner/manifest.yaml",
 							"rainbow_checked": true,
 							"remote_loading": false,
+							"show_definitions": false,
 							"synced": false,
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/YAML Nav/YAML-ng.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -1872,6 +1914,17 @@
 								"status": -1,
 								"syntax": "yaml"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1969,11 +2022,14 @@
 								"scanning": "-comment"
 							},
 							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
 							"lsp_uri": "file:///Volumes/pychm/JupyterHub_Configuration/efs-provisioner/rbac.yaml",
 							"rainbow_checked": true,
 							"remote_loading": false,
+							"show_definitions": false,
 							"synced": false,
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/YAML Nav/YAML-ng.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -1999,8 +2055,8 @@
 						"selection":
 						[
 							[
-								1151,
-								1151
+								276,
+								276
 							]
 						],
 						"settings":
@@ -2013,6 +2069,17 @@
 								"status": -1,
 								"syntax": "yaml"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -2036,36 +2103,11 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2076,16 +2118,41 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"color_helper.box_height": 22,
 							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
@@ -2105,24 +2172,27 @@
 										"scopes": ""
 									}
 								],
-								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
 								"current_ext": ".yaml",
-								"current_syntax": "YAML/YAML",
+								"current_syntax": "YAML Nav/YAML-ng",
 								"enabled": true,
-								"last_updated": 1644554989.36,
+								"last_updated": 1647995270.18,
 								"scanning": "-comment"
 							},
 							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
 							"lsp_uri": "file:///Volumes/pychm/JupyterHub_Configuration/helm-releases/jhub/values.yaml",
 							"rainbow_checked": true,
 							"remote_loading": false,
+							"show_definitions": false,
 							"synced": false,
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/YAML Nav/YAML-ng.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 314.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -2289,6 +2359,17 @@
 								"status": -1,
 								"syntax": "yaml"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -2369,11 +2450,14 @@
 							{
 							},
 							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
 							"lsp_uri": "file:///Volumes/pychm/JupyterHub_Configuration/helm-releases/datadog/values.yaml",
 							"rainbow_checked": true,
 							"remote_loading": false,
+							"show_definitions": false,
 							"synced": false,
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/YAML Nav/YAML-ng.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -2412,6 +2496,17 @@
 								"status": -1,
 								"syntax": "yaml"
 							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -2435,36 +2530,11 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2475,16 +2545,41 @@
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"color_helper.box_height": 22,
 							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
@@ -2492,11 +2587,14 @@
 							{
 							},
 							"incomplete_sync": null,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
 							"lsp_uri": "file:///Volumes/pychm/JupyterHub_Configuration/helm-releases/cluster-autoscaler/values.yaml",
 							"rainbow_checked": true,
 							"remote_loading": false,
+							"show_definitions": false,
 							"synced": false,
-							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"syntax": "Packages/YAML Nav/YAML-ng.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
