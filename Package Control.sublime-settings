@@ -18,6 +18,7 @@
 		"FileManager",
 		"FindKeyConflicts",
 		"LSP",
+		"LSP-bash",
 		"LSP-json",
 		"LSP-pyright",
 		"LSP-TexLab",
