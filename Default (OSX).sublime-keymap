@@ -700,7 +700,16 @@
 	},
 
 	// >> Dash Doc
-	{ "keys": ["ctrl+h"], "command": "dash_doc"}
+	{ "keys": ["ctrl+h"], "command": "dash_doc"},
+
+	// > Markdown Strikethrough (custom)
+	// limited to markdown only
+	// It's like a "Done!" (thus the "d")
+	{
+		"keys": ["ctrl+shift+d"], "command": "md_strike_point",
+		"context": [{"key": "selector", "operator": "equal", "operand": "text.html.markdown"}]
+
+	}
 
 
 ]
