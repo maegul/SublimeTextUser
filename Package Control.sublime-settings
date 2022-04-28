@@ -5,7 +5,9 @@
 	],
 	"installed_packages":
 	[
+		"0x0",
 		"A File Icon",
+		"Babel",
 		"BracketHighlighter",
 		"ChannelRepositoryTools",
 		"ColorHelper",
