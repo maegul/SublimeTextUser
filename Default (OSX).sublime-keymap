@@ -1,4 +1,8 @@
 [
+	// > Meta Comments
+	// >> Personal combination
+	// super+k, ctrl+shift+ ... personal chord (no collisions there)
+
 	//
 	// > General Navigation
 	//
@@ -118,6 +122,10 @@
 	},
 	{"keys": ["alt+3"], "command": "focus_group", "args": {
 		"group": 2
+		},
+	},
+	{"keys": ["alt+4"], "command": "focus_group", "args": {
+		"group": 3
 		},
 	},
 
@@ -551,7 +559,9 @@
 
 
 	// > Diff/Git nav commands
-	// >> Ensuring Diff nav commands not overriddent
+	// >> Reverting hunk
+	{"keys": ["super+k","ctrl+shift+z"], "command": "revert_hunk"},
+	// >> Ensuring Diff nav commands not overridden
 	{ "keys": ["ctrl+."], "command": "next_modification" },
 	{ "keys": ["ctrl+,"], "command": "prev_modification" },
 
@@ -709,7 +719,12 @@
 		"keys": ["ctrl+shift+d"], "command": "md_strike_point",
 		"context": [{"key": "selector", "operator": "equal", "operand": "text.html.markdown"}]
 
-	}
+	},
 
+	// > Toggle Tabs
+
+	{
+		"keys": ["super+k","ctrl+shift+t"], "command": "toggle_tabs"
+	},
 
 ]
