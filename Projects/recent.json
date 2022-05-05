@@ -8,7 +8,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/theBook of recipes.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_user #dev.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/StandUp #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/thesis #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/comment_marks  #dev.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project",
@@ -22,5 +21,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/Jupyter_dev  #pychm.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/user scripts.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/.dotfiles.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/pythoncharmers_admin #pychm.sublime-project"
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/pythoncharmers_admin #pychm.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/StandUp #phd.sublime-project"
 ]
