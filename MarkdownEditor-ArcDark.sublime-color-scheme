@@ -61,6 +61,12 @@
 			"background": "none",
 			"font_style": "underline bold glow"
 		},
+		// Make strikethrough apply even if other formatting applies
+		{
+			"name": "Markup: Strikethrough",
+			"scope": "markup.strikethrough, markup.strikethrough & (markup.bold | markup.italic | meta.tag entity | markup.raw.inline | meta.tag punctuation.definition.tag)",
+			"foreground": "#313131"
+		},
 		{
 			"name": "heading punctuation",
 			"scope": "punctuation.definition.heading.begin",

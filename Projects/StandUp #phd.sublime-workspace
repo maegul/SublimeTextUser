@@ -526,17 +526,6 @@
 				"buffer_size": 50267,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
-		},
-		{
-			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
-			"settings":
-			{
-				"buffer_size": 5965,
-				"line_ending": "Unix"
 			}
 		},
 		{
@@ -549,6 +538,265 @@
 			},
 			"undo_stack":
 			[
+				[
+					20,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"plain_tasks_new",
+								null
+							],
+							[
+								"insert",
+								{
+									"characters": "test"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " @du"
+								}
+							],
+							[
+								"insert_completion",
+								{
+									"completion": "due",
+									"format": "text",
+									"keep_prefix": false,
+									"must_insert": false,
+									"trigger": "due"
+								}
+							],
+							[
+								"insert_snippet",
+								{
+									"contents": "($0)"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "+1"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "0"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"plain_tasks_replace_short_date",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"FgAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACIAAAAAAAAAAAAAACIAAAAAAAAAIwAAAAAAAAAAAAAAIwAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAlAAAAAAAAACUAAAAAAAAAAgAAAGR1JQAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACoAAAAAAAAAAAAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAACwAAAAAAAAAAAAAACwAAAAAAAAALQAAAAAAAAAAAAAALQAAAAAAAAAuAAAAAAAAAAAAAAAtAAAAAAAAAC0AAAAAAAAAAQAAACAsAAAAAAAAACwAAAAAAAAAAQAAAAooAAAAAAAAADIAAAAAAAAABQAAACgrMTAp",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+							"insert_command": "vi_delete"
+						},
+						"action_command": "enter_insert_mode",
+						"motion_args":
+						{
+							"character": "("
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "vi_expand_to_brackets",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAACkAAAAAAAAAKQAAAAAAAAAIAAAAMjItMDUtMTQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAABwAAAAAAAAAHAAAAAAAAAARAAAAIOKWqiB0ZXN0IEBkdWUoKQo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoAAAAAAAAACgAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAABwAAAAAAAAAHAAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					57,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"run_macro_file",
+								{
+									"file": "res://Packages/Default/Add Line.sublime-macro",
+									"register": "\""
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n#"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": " sdlkfjlskdfj"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"move",
+								{
+									"by": "lines",
+									"forward": false
+								}
+							],
+							[
+								"move_to",
+								{
+									"to": "eol"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": ":"
+								}
+							],
+							[
+								"insert",
+								{
+									"characters": "\n"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"move_to",
+								{
+									"extend": true,
+									"to": "bol"
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"move",
+								{
+									"by": "lines",
+									"forward": true
+								}
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"left_delete",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"GQAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAfAAAAAAAAAAAAAAAfAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIQAAAAAAAAAAAAAAIQAAAAAAAAAiAAAAAAAAAAAAAAAiAAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAACYAAAAAAAAAAAAAACYAAAAAAAAAJwAAAAAAAAAAAAAAJwAAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAAqAAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAALAAAAAAAAAAAAAAAKwAAAAAAAAArAAAAAAAAAAEAAAAKKgAAAAAAAAAqAAAAAAAAAAEAAAA6HAAAAAAAAAAcAAAAAAAAAA4AAAAjIHNkbGtmamxza2RmahsAAAAAAAAAGwAAAAAAAAABAAAAChsAAAAAAAAAGwAAAAAAAAABAAAAChoAAAAAAAAAGgAAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA"
+				]
 			]
 		},
 		{
@@ -558,21 +806,75 @@
 				"buffer_size": 25150,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
+			"contents": " ✔ Create LGN Model @due(20-11-03) @done (20-12-09)\n   See [[./HW_v_Sagar/HW_v_sagar.todo]]\n\n ▪ \n\n\n ▪ Add spiking elements to prior model of LGN>V1 @due( 2020-11-24)\n ▪ Implement LGN Syncrhony in Model @due(2021-2-5)\n ▪ Run Experiment (HWS, LSC) @due(2021-2-26)\n ▪ Analyse HWS data @due(21-03-26 17:10)\n ▪ Analyste Len Tun Data @due(21-04-30 17:12)\n ▪ Write Thesis @due(21-09-07 17:13)\n\n\nProcess Guide:\n  **>> Always be adjusting to meet timeline <<**\n  **>> Refer to full text of task in diary notes, as easy to search <<**\n  Orient:\n    * Start tasks for day (in standup)\n      * Review previous day tasks if necessary/helpful\n      * **If ISSUE**\n        * update task from source (recorded at top in standup)\n        * write notes in general_thoughts (if substantive to goal) / diary (if incidental)\n      * **If DONE**\n        * Note method + effect in general_thoughts\n        * Mark done in source todo\n        * make *quick* note in diary\n  Occident:\n    * Adjust task source to stay on time\n      * Note adjustment in diary\n    * Assign tasks for next day",
 			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/TimeLine.todo",
+			"file_size": 1071,
+			"file_write_time": 132525870097737968,
 			"settings":
 			{
-				"buffer_size": 1057,
-				"encoding": "UTF-8",
+				"buffer_size": 1064,
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
+				[
+					27,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line.sublime-macro",
+						"register": "\""
+					},
+					"AgAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABfAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABaAAAAAAAAAFoAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					28,
+					2,
+					"left_delete",
+					null,
+					"AgAAAF4AAAAAAAAAXgAAAAAAAAABAAAAIFwAAAAAAAAAXAAAAAAAAAACAAAAICA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"AwAAAFwAAAAAAAAAXQAAAAAAAAAAAAAAXQAAAAAAAABeAAAAAAAAAAAAAABeAAAAAAAAAF8AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcAAAAAAAAAFwAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"plain_tasks_new",
+					null,
+					"AQAAAF0AAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABdAAAAAAAAAF0AAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "sdf;"
+					},
+					"BAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					4,
+					"left_delete",
+					null,
+					"BAAAAGMAAAAAAAAAYwAAAAAAAAABAAAAO2IAAAAAAAAAYgAAAAAAAAABAAAAZmEAAAAAAAAAYQAAAAAAAAABAAAAZGAAAAAAAAAAYAAAAAAAAAABAAAAcw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABkAAAAAAAAAGQAAAAAAAAAAAAAAAAA8L8"
+				]
 			]
 		}
 	],
@@ -611,6 +913,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"task sort",
+				"Tasks: Sort items in the list under cursor by due date and priority"
+			],
 			[
 				"pack res op",
 				"PackageResourceViewer: Open Resource"
@@ -1118,10 +1424,6 @@
 			[
 				"colors",
 				"Colorsublime: Browse Themes Online"
-			],
-			[
-				"ui",
-				"UI: Select Color Scheme"
 			]
 		],
 		"width": 476.0
@@ -1273,11 +1575,11 @@
 	"expanded_folders":
 	[
 		"/Users/errollloyd/Dropbox/Science/PhD/project_notes",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/len_tuning"
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar"
 	],
 	"file_history":
 	[
+		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/tasks-errol.sublime-color-scheme",
 		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
 		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup_20.todo",
@@ -1287,7 +1589,6 @@
 		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/temp_filt_time_consts.pdf",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownPreview/css/katex_eqnum.css",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/MarkdownPreview/js/katex_config.js",
-		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
 		"/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/PlainTasks/tasks-eighties-colored-errol.hidden-tmTheme",
 		"/Users/errollloyd/Library/Application Support/Sublime Text 3/Packages/User/MarkdownEditor-ArcDark-errol.tmTheme",
@@ -1606,12 +1907,23 @@
 						"selection":
 						[
 							[
-								35013,
-								35013
+								16769,
+								16769
 							]
 						],
 						"settings":
 						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1630,41 +1942,36 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -1675,42 +1982,31 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
-							"color_helper.box_height": 20,
-							"color_helper.color_scheme": "MarkdownEditing-ArcDark-errol.sublime-color-scheme",
+							"color_helper.box_height": 22,
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
 							"color_helper.file_palette":
 							[
 							],
 							"color_helper.preview_meta":
 							{
 							},
-							"color_helper.scan":
-							{
-								"allow_scanning": false,
-								"color_class":
-								[
-									{
-										"class": "css-level-4",
-										"scopes": ""
-									}
-								],
-								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
-								"current_ext": ".md",
-								"current_syntax": "MarkdownEditing/Markdown",
-								"enabled": true,
-								"last_updated": 1645176167.85,
-								"scanning": "-comment"
-							},
+							"color_helper.refresh": true,
 							"incomplete_sync": null,
 							"line_numbers": false,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/general_thoughts.md",
@@ -1719,170 +2015,16 @@
 							"remote_loading": false,
 							"spell_check": false,
 							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax",
 							"tab_size": 4,
 							"target": "disk",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 17413.0,
+						"translation.y": 8690.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5965,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1,
-								1
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
-							],
-							"color_helper.box_height": 47,
-							"color_helper.color_scheme": "Packages/User/MarkdownEditor-ArcDark-errol.tmTheme",
-							"color_helper.file_palette":
-							[
-							],
-							"color_helper.preview_meta":
-							{
-							},
-							"color_helper.scan":
-							{
-								"allowed_colors":
-								[
-									"hex_compressed",
-									"graya",
-									"rgba",
-									"hsla",
-									"gray",
-									"hexa",
-									"hwb",
-									"rgb",
-									"webcolors",
-									"hexa_compressed",
-									"hwba",
-									"hsl",
-									"hex"
-								],
-								"compress_hex_output": true,
-								"current_ext": ".md",
-								"current_syntax": "MarkdownEditing/Markdown",
-								"enabled": true,
-								"last_updated": 1610963389.44,
-								"scan_completion_scopes":
-								[
-								],
-								"scan_scopes":
-								[
-									"meta.declaration-list.css -support.type.property-name.css -comment -string",
-									"meta.property-value.css -comment -string",
-									"meta.value.css -comment -string",
-									"meta.tag.inline.any.html string.quoted -constant.character.entity.html",
-									"meta.tag.any.html meta.attribute-with-value.style.html"
-								],
-								"use_hex_argb": false
-							},
-							"incomplete_sync": null,
-							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/diary.md",
-							"rainbow_checked": true,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1892,7 +2034,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
 					"selected": true,
 					"semi_transient": false,
@@ -1905,12 +2047,23 @@
 						"selection":
 						[
 							[
-								5717,
-								5717
+								25,
+								25
 							]
 						],
 						"settings":
 						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -1929,21 +2082,26 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -1954,66 +2112,45 @@
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
 								"bh_square_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
 								"bh_tag_close",
-								"bh_tag_content"
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"color_helper.box_height": 22,
 							"color_helper.color_scheme": "Packages/User/tasks-errol.sublime-color-scheme",
 							"color_helper.file_palette":
 							[
 							],
-							"color_helper.scan":
-							{
-								"allow_scanning": false,
-								"color_class":
-								[
-									{
-										"class": "css-level-4",
-										"scopes": ""
-									}
-								],
-								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
-								"current_ext": ".todo",
-								"current_syntax": "PlainTasks/PlainTasks",
-								"enabled": true,
-								"last_updated": 1645176167.85,
-								"scanning": "-comment"
-							},
+							"color_helper.refresh": true,
 							"incomplete_sync": null,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/PhD/project_notes/HW_v_Sagar/HW_v_sagar.todo",
 							"plain_tasks_remain_time_phantoms":
 							[
 								[
 									3998,
-									"-865 days, 21:27"
+									"-935 days, 19:10"
 								]
 							],
 							"rainbow_checked": true,
@@ -2024,7 +2161,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1251.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -2032,7 +2169,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/standup_20.todo",
 					"semi_transient": false,
 					"settings":
@@ -2044,12 +2181,23 @@
 						"selection":
 						[
 							[
-								22823,
-								22823
+								22822,
+								22822
 							]
 						],
 						"settings":
 						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -2068,41 +2216,36 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -2113,16 +2256,21 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
 							],
 							"color_helper.box_height": 20,
 							"color_helper.color_scheme": "Packages/User/tasks-errol.sublime-color-scheme",
@@ -2132,13 +2280,7 @@
 							"color_helper.preview_meta":
 							{
 							},
-							"color_helper.scan":
-							{
-								"current_ext": ".todo",
-								"current_syntax": "PlainTasks/PlainTasks",
-								"enabled": false,
-								"last_updated": 1610502507.32
-							},
+							"color_helper.refresh": true,
 							"incomplete_sync": null,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/PhD/project_notes/standup_20.todo",
 							"plain_tasks_remain_time_phantoms":
@@ -2165,25 +2307,36 @@
 			"sheets":
 			[
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/TimeLine.todo",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1057,
+						"buffer_size": 1064,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								96,
+								96
 							]
 						],
 						"settings":
 						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
@@ -2207,62 +2360,63 @@
 								"bh_regex_open",
 								"bh_regex_close",
 								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
 							],
 							"color_helper.box_height": 20,
 							"color_helper.color_scheme": "Packages/User/tasks-errol.sublime-color-scheme",
 							"color_helper.file_palette":
 							[
 							],
+							"color_helper.refresh": true,
 							"color_helper.scan":
 							{
 								"allow_scanning": false,
@@ -2273,11 +2427,11 @@
 										"scopes": ""
 									}
 								],
-								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
 								"current_ext": ".todo",
 								"current_syntax": "PlainTasks/PlainTasks",
 								"enabled": true,
-								"last_updated": 1645176167.85,
+								"last_updated": 1652067206.84,
 								"scanning": "-comment"
 							},
 							"incomplete_sync": null,
@@ -2285,28 +2439,28 @@
 							"plain_tasks_remain_time_phantoms":
 							[
 								[
-									141,
-									"-456 days"
+									148,
+									"-531 days"
 								],
 								[
-									195,
-									"-383 days"
+									202,
+									"-458 days"
 								],
 								[
-									239,
-									"-362 days"
+									246,
+									"-437 days"
 								],
 								[
-									275,
-									"-334 days, 2:19"
+									282,
+									"-408 days, 21:59"
 								],
 								[
-									321,
-									"-299 days, 2:17"
+									328,
+									"-373 days, 21:57"
 								],
 								[
-									358,
-									"-169 days, 2:16"
+									365,
+									"-243 days, 21:56"
 								]
 							],
 							"rainbow_checked": true,
@@ -2361,14 +2515,14 @@
 		"cols":
 		[
 			0.0,
-			0.333333333333,
+			0.464457294232,
 			0.666666666667,
 			1.0
 		],
 		"rows":
 		[
 			0.0,
-			0.333333333333,
+			0.446919517869,
 			0.666666666667,
 			1.0
 		]
@@ -2568,7 +2722,7 @@
 		],
 		"width": 722.0
 	},
-	"selected_group": 0,
+	"selected_group": 2,
 	"settings":
 	{
 	},
