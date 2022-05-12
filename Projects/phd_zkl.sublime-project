@@ -9,6 +9,7 @@
 		"is_zekell": true,
 		"draw_centered": true,
 		"word_wrap": "auto",
-		"wrap_width": 111
+		"wrap_width": 111,
+		"auto_hide_tabs": false
 	}
 }

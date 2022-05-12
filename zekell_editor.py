@@ -327,7 +327,7 @@ class UpdateNote(sublime_plugin.EventListener):
 
         try:
             _ = sp.check_output([
-                ZKL_COM, 'update', note_id
+                    ZKL_COM, 'update', note_id
                 ])
         except sp.CalledProcessError as e:
             sublime.error_message(f'Updating error: {e}')

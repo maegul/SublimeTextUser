@@ -87,6 +87,9 @@ class MdDeadLineFindCommand(sublime_plugin.TextCommand):
 			# less than a week
 			else:
 				n_days = remaining.days
+				# when less than one day ... print decimal
+				if n_days == 0:
+					n_days = round(remaining.seconds / (3600 * 24), 1)
 				day_text = 'days' if abs(n_days) > 1 else 'day'
 				remaining_text = f"{n_days} {day_text}"
 			# OVERDUE!!
