@@ -55,11 +55,19 @@ from collections import namedtuple
 import time
 
 
+# > Cell markers
 
+# >> Default
 # as inserting on same line as beg_point, new line to not comment code
 CELL_TOP = "# ===========\n"
 # as insert on row below last of selection, new line needed so that next line of code is uninterrupted
 CELL_BOT = "# -----------\n"
+
+# >> jupytext
+
+# jupytext compatible
+# CELL_TOP = "# \+\n"
+# CELL_BOT = "# \-\n"
 
 # search for where last line of code has indented code
 # as requires multiple new lines to run in ipython
@@ -407,6 +415,7 @@ class GoToNextCellCommand(sublime_plugin.TextCommand):
         if direction == 'down':
             # add one so that easily find next while at beginning of a cell
             next_cell = view.find(CELL_TOP, sel.b + 1)
+            print('next cell', next_cell)
 
             # find wraps to top, prevent with this
             if next_cell.a < sel.b:

@@ -657,6 +657,7 @@
 	// },
 
 
+	// >> Open REPL
 	// Open REPL with custom command and call to terminus
 	{ "keys": ["shift+enter"], "command": "open_python_repl_view",
 	  "context": [
@@ -665,6 +666,7 @@
 	  ],
 	},
 
+	// >> Send selection
 	// Send the current selection or file content to the Terminus Python REPL,
 	// if it exists.
 	//
@@ -679,6 +681,7 @@
 	  ],
 	},
 
+	// >> Send cell
 	// Send code from within the cell
 	{ "keys": ["shift+enter"], "command": "send_cell_to_terminus",
 	  "args": {"tag": "python-repl"},
@@ -688,7 +691,7 @@
 	  ],
 	},
 
-	// Add cell markers
+	// >> Add cell markers
 
 	{
 		"keys": ["alt+enter"], "command": "add_cell_markers",
@@ -699,6 +702,7 @@
 
 	},
 
+	// >> Nav cells
 	{
 		"keys": ["ctrl+j"], "command": "go_to_next_cell",
 		"context": [{"key": "selector", "operator": "equal", "operand": "source.python"}]
