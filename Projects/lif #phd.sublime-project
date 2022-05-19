@@ -10,6 +10,8 @@
 			],
 			"folder_exclude_patterns":
 			[
+				"__pycache__",
+				".mypy_cache"
 			],
 			"name": "lif #phd",
 			"path": "~/Science/scripts/pyth/HWS/lif"
