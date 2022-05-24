@@ -59,15 +59,19 @@ import time
 
 # >> Default
 # as inserting on same line as beg_point, new line to not comment code
-CELL_TOP = "# ===========\n"
+# CELL_TOP = "# ==========="
 # as insert on row below last of selection, new line needed so that next line of code is uninterrupted
-CELL_BOT = "# -----------\n"
+# CELL_BOT = "# -----------"
 
 # >> jupytext
 
 # jupytext compatible
-# CELL_TOP = "# \+\n"
-# CELL_BOT = "# \-\n"
+CELL_TOP = r"# \+"
+CELL_BOT = r"# \-"
+
+# >> Remove escape sequences
+CELL_TOP_TEXT = CELL_TOP.replace('\\', '')
+CELL_BOT_TEXT = CELL_BOT.replace('\\', '')
 
 # search for where last line of code has indented code
 # as requires multiple new lines to run in ipython
@@ -375,14 +379,14 @@ class AddCellMarkersCommand(sublime_plugin.TextCommand):
         new_char = view.insert(
             edit,
             cell_beg_point,
-            CELL_TOP
+            CELL_TOP_TEXT+"\n"
         )
 
         # print('end row', sel, view.rowcol(sel.end()))
         view.insert(
             edit,
             cell_end_point + new_char,
-            CELL_BOT  
+            CELL_BOT_TEXT+"\n"
         )
 
 class RemoveAllCellMarkersCommand(sublime_plugin.TextCommand):

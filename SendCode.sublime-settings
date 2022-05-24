@@ -9,4 +9,6 @@
 		"bracketed_paste_mode": true,
 		"prog": "terminal",
 	},
+	"block_start_pattern": "# ?%%|# ?\\+|# In \\[",
+	"block_end_pattern": "# ?%%|# ?\\-|#'|# In \\[",
 }
