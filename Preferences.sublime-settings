@@ -84,7 +84,7 @@
 	"vintage_start_in_command_mode": true,
 	"vintage_use_clipboard": false,
 	"tree_animation_enabled": false,
-	"overlay_scroll_bars": "system",
+	"overlay_scroll_bars": "disabled",
 	"ignored_words":
 	[
 		"zekell"
