@@ -1,0 +1,11 @@
+// Settings in here override those in "LSP-bash/LSP-bash.sublime-settings"
+
+{
+
+	"env": {
+		"EXPLAINSHELL_ENDPOINT": "",
+		"GLOB_PATTERN": "",
+		"HIGHLIGHT_PARSING_ERRORS": "0",
+		"SHELLCHECK_PATH": "/opt/local/bin/shellcheck"
+	}
+}
