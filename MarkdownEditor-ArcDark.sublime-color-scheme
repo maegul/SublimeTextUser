@@ -24,7 +24,8 @@
 		"foreground": "var(white)",
 		"background": "var(dark)",
 		// make selection highlight color lower contrast, and base off of background
-		"selection": "color(var(dark) l(+ 10%))"
+		"selection": "color(var(dark) l(+ 10%))",
+		"fold_marker": "color(var(code_grey))"
 	},
 	"rules": [
 		{
