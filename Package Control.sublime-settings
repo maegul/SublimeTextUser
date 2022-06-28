@@ -19,6 +19,7 @@
 		"Emoji",
 		"FileManager",
 		"FindKeyConflicts",
+		"INI",
 		"LSP",
 		"LSP-bash",
 		"LSP-json",

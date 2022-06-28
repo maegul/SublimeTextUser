@@ -65,8 +65,13 @@ class MdDeadLineFindCommand(sublime_plugin.TextCommand):
 
 			if delta:
 				increment_text=delta.split('+')[1]
-				inc_wks, inc_days = increment_text.split('.')
-				inc_days = float(inc_days) + (float(inc_wks) * 7)
+				inc = increment_text.split('.')
+				# handle when no '.'
+				inc_days = (
+					(float(inc[0]) * 7) +			# n weeks
+					(float(inc[1])					# n days, if present
+						if len(inc) > 1 else 0) 	# 0 if days not present
+					)
 				inc_td = dt.timedelta(days=inc_days)
 				dl = dt.datetime.strptime(date, strptime_fmt) + inc_td
 			else:
