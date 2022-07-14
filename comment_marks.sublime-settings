@@ -2,6 +2,6 @@
 	"trim_trailing_comment_chars": true,
 	"level_chars":
 	{
-		"source.python": "#"
+		"source.python": ">"
 	},
 }

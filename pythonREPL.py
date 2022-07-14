@@ -232,7 +232,7 @@ class SendCellToTerminusCommand(sublime_plugin.WindowCommand):
             # ...
 
         if code_region is None:  # type: ignore
-            print('No cell detected')
+            # print('No cell detected')
             return
 
         code_text = view.substr(code_region)  # type: ignore
@@ -419,7 +419,7 @@ class GoToNextCellCommand(sublime_plugin.TextCommand):
         if direction == 'down':
             # add one so that easily find next while at beginning of a cell
             next_cell = view.find(CELL_TOP, sel.b + 1)
-            print('next cell', next_cell)
+            # print('next cell', next_cell)
 
             # find wraps to top, prevent with this
             if next_cell.a < sel.b:
