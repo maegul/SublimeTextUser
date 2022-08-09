@@ -607,19 +607,29 @@
 	// might conflict with replace all in find panel??
 
 	{
-	    "keys": ["alt+ctrl+enter"], "command": "send_code",
+	    "keys": ["ctrl+shift+enter"], "command": "send_code",
 	    "context": [
 	        { "key": "selector", "operator": "equal", "operand": "source" }
 	    ]
 	},
 	{
-	    "keys": ["alt+ctrl+enter"], "command": "send_code",
+	    "keys": ["ctrl+shift+enter"], "command": "send_code",
 	    "context": [
 	    	// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
 	        { "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
 	    ]
 	},
 
+	// >> Re-instate original keybinding for super+enter
+	// Default key binding for SendCode ... undesirable ... want original back
+	// above keybindings now run the main command
+	{
+		"keys": ["super+enter"], "command": "run_macro_file",
+		"args": {"file": "res://Packages/Default/Add Line.sublime-macro"}, "context":
+		[
+			{ "key": "overlay_has_focus", "operator": "equal", "operand": false },
+		],
+	 },
 
 	// > Python REPL
 

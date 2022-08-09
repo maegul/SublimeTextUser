@@ -11,7 +11,9 @@
 			"folder_exclude_patterns":
 			[
 				"__pycache__",
-				".mypy_cache"
+				".mypy_cache",
+				".hypothesis",
+				".ipynb_checkpoints"
 			],
 			"name": "lif #phd",
 			"path": "~/Science/scripts/pyth/HWS/lif"

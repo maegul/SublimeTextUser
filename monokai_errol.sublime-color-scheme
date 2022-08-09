@@ -30,15 +30,44 @@
             // "14": "hsl(180, 100%, 40.2%)",  // light_cyan
             // "15": "hsl(0, 0%, 79.8%)",   // light_white
 
+        // "black3":  "hsl(40, 18%, 12%)",
         "black3":  "hsl(40, 28%, 10%)",
-        "white3":  "hsl(40, 14%, 64%)",
-        "yellow5": "hsl(50, 11%, 41%)",
-        "red2":    "hsl(6, 50%, 61%)",
-        "orange":  "hsl(32, 42%, 52%)",
-        "yellow":  "hsl(53.9, 36%, 45%)",
-        "green":   "hsl(89.8, 17%, 50%)",
-        "blue":    "hsl(210, 24%, 59%)",
-        "purple":  "hsl(301, 15%, 57%)",
+
+        // "white3":  "hsl(40, 14%, 64%)",
+        // "yellow5": "hsl(50, 11%, 41%)",
+        // "red2":    "hsl(6, 50%, 61%)",
+        // "orange":  "hsl(32, 42%, 52%)",
+        // "yellow":  "hsl(53.9, 30%, 45%)",
+        // "green":   "hsl(89.8, 17%, 50%)",
+        // "green2":  "hsl(162, 16%, 48%)", // Experimental
+        // "blue":    "hsl(210, 24%, 59%)",
+        // "purple":  "hsl(301, 15%, 57%)",
+
+        // middle contrast, lower saturation equivalents ... more of "Zenbones" look.
+        "white3":  "hsl(40, 10%, 59%)",
+        "yellow5": "hsl(50, 11%, 38%)",
+        "red2":    "hsl(6, 36%, 58%)",
+        "orange":  "hsl(32, 28%, 51%)",
+        "yellow":  "hsl(53.9, 25%, 46%)",
+        "green":   "hsl(89.8, 14%, 52%)",
+        "green2":  "hsl(162, 12%, 49%)", // Experimental
+        "blue":    "hsl(210, 13%, 55%)",
+        "purple":  "hsl(301, 13%, 55%)",
+
+        // low contrast lower saturation equivalents ... more of "Zenbones" look.
+        // "white3":  "hsl(40, 10%, 54%)",
+        // "yellow5": "hsl(50, 11%, 38%)",
+        // "red2":    "hsl(6, 36%, 55%)",
+        // "orange":  "hsl(32, 28%, 45%)",
+        // "yellow":  "hsl(53.9, 25%, 41%)",
+        // "green":   "hsl(89.8, 14%, 46%)",
+        // "green2":  "hsl(162, 12%, 44%)", // Experimental
+        // "blue":    "hsl(210, 13%, 51%)",
+        // "purple":  "hsl(301, 13%, 51%)",
+
+        // "yellow":  "hsl(53.9, 36%, 45%)",
+        // "blue":   "hsl(89.8, 17%, 50%)",
+        // "green":    "hsl(210, 24%, 59%)",
         "black": "hsl(0, 0%, 0%)",
         "black2": "hsl(60, 17%, 11%)",
         "black_lh": "hsl(40, 10%, 6%)",
@@ -157,6 +186,7 @@
         {
             "name": "python function class declaration",
             "scope": "keyword.declaration",
+            // "foreground": "color(var(red2) l(- 7%))",
             "foreground": "color(var(blue) l(- 7%))",
             "font_style": "bold underline"
         },
@@ -189,8 +219,9 @@
         {
             "name": "Entity name",
             "scope": "entity.name - (entity.name.filename | entity.name.section | entity.name.tag | entity.name.label)",
+            // "foreground": "var(blue)",
             "foreground": "var(yellow)",
-            "font_style": "bold"
+            "font_style": "bold underline"
         },
         {
             "name": "Inherited class",
@@ -381,7 +412,7 @@
         {
             "name": "Python argument type hint",
             "scope": "source.python meta.function.parameters.annotation.python & (meta.generic-name.python | meta.qualified-name.python)",
-            "foreground": "color(var(blue))",
+            "foreground": "color(var(green2))",
             "font_style": ""
         },
         {
@@ -397,7 +428,7 @@
         },
         {
             "scope": "source.python meta.function.annotation.return.python & (meta.generic-name | support.type)",
-            "foreground": "color(var(blue) l(- 6%))",
+            "foreground": "color(var(green2) l(- 6%))",
             "font_style": "glow"
         },
         // source.python 
