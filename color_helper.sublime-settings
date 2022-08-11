@@ -1,4 +1,7 @@
 // Settings in here override those in "ColorHelper/color_helper.sublime-settings",
 
 {
+	"enabled_color_picker_modes": ["srgb", "hsl", "hsv", "okhsl", "okhsv", "hwb"],
+	"auto_color_picker_mode": false,
+	"preferred_color_picker_mode": "okhsl",
 }

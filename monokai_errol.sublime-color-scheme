@@ -47,12 +47,21 @@
         "white3":  "hsl(40, 10%, 59%)",
         "yellow5": "hsl(50, 11%, 38%)",
         "red2":    "hsl(6, 36%, 58%)",
+        "red22":   "hsl(19.5, 34%, 54.1%)", // Experimental
         "orange":  "hsl(32, 28%, 51%)",
-        "yellow":  "hsl(53.9, 25%, 46%)",
-        "green":   "hsl(89.8, 14%, 52%)",
-        "green2":  "hsl(162, 12%, 49%)", // Experimental
+        "yellow":  "hsl(55.3, 24.6%, 45.8%)",
+        "green":   "hsl(77.9, 20.2%, 44.4%)", // Darker and more saturated, discernable from other green?
+        "green2":  "hsl(126, 13.6%, 51.2%)", // Experimental
         "blue":    "hsl(210, 13%, 55%)",
         "purple":  "hsl(301, 13%, 55%)",
+        // "green":   "hsl(78.2, 19%, 47.4%)", // Very yellow!
+
+        // trying to milk the most out of yellow-green ... worth it?
+        // "green":   "hsl(89.8, 14%, 52%)",
+        // "yellow":  "hsl(54, 22.3%, 46.8%)",
+        // "yellow":  "hsl(53.9, 25%, 46%)",
+        // "green2":  "hsl(162, 12%, 52%)", // Experimental
+        // "green2":  "hsl(125, 11.6%, 51.6%)", // Experimental
 
         // low contrast lower saturation equivalents ... more of "Zenbones" look.
         // "white3":  "hsl(40, 10%, 54%)",
@@ -422,14 +431,16 @@
             "font_style": "bold glow"
         },
         {
+            "name":"Python argument colon for annotations",
             "scope": "source.python punctuation.separator.annotation",
             "foreground": "var(blue)",
-            "font_style": ""
+            "font_style": "bold glow"
         },
         {
+            "name": "Python function return type annotation",
             "scope": "source.python meta.function.annotation.return.python & (meta.generic-name | support.type)",
             "foreground": "color(var(green2) l(- 6%))",
-            "font_style": "glow"
+            "font_style": "bold underline"
         },
         // source.python 
         // meta.function.parameters.annotation.python 
