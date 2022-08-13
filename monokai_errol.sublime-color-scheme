@@ -48,13 +48,14 @@
         "yellow5": "hsl(50, 11%, 38%)",
         "red2":    "hsl(6, 36%, 58%)",
         "red22":   "hsl(19.5, 34%, 54.1%)", // Experimental
-        "orange":  "hsl(32, 28%, 51%)",
+        "orange":  "hsl(32, 28.4%, 50.9%)",
         "yellow":  "hsl(55.3, 24.6%, 45.8%)",
         "green":   "hsl(77.9, 20.2%, 44.4%)", // Darker and more saturated, discernable from other green?
         "green2":  "hsl(126, 13.6%, 51.2%)", // Experimental
         "blue":    "hsl(210, 13%, 55%)",
         "purple":  "hsl(301, 13%, 55%)",
         // "green":   "hsl(78.2, 19%, 47.4%)", // Very yellow!
+        // "orange":  "hsl(32, 28%, 51%)",
 
         // trying to milk the most out of yellow-green ... worth it?
         // "green":   "hsl(89.8, 14%, 52%)",
