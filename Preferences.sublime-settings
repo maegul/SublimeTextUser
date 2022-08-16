@@ -42,7 +42,7 @@
 	"always_show_minimap_viewport": true,
 	"animation_enabled": false,
 	"adaptive_dividers": true,
-	"auto_hide_tabs": true,
+	"auto_hide_tabs": false,
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 5,
 	"caret_extra_top": 5,
