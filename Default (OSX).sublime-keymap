@@ -299,6 +299,12 @@
 		"command": "toggle_terminus_panel"
 	},
 
+	// > Open terminal in current file/folder location
+	// Relies on the FileManager plugin (and its settings!)
+	{
+		"keys": ["super+shift+t"],
+		"command": "fm_open_terminal"
+	},
 
 	// > Extended Tab Switching
 

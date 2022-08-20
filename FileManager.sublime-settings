@@ -1,0 +1,27 @@
+// Your settings for FileManager. See the default file to see the different options.
+{
+
+// remove iTerm option so that it's faster
+    "terminals": [
+        {
+            "name": "CMD",
+            "cmd": ["cmd"],
+            "platform": "windows"
+        },
+        {
+            "name": "Terminal",
+            "cmd": ["open", "-a", "Terminal", "$cwd"],
+            "platform": "osx"
+        },
+        // {
+        //     "name": "iTerm",
+        //     "cmd": ["open", "-a", "iTerm", "$cwd"],
+        //     "platform": "osx"
+        // },
+        {
+            "name": "GNOME Terminal",
+            "cmd": ["gnome-terminal"],
+            "platform": "linux"
+        }
+    ],
+}
