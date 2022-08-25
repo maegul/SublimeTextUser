@@ -61,7 +61,7 @@ import time
 # as inserting on same line as beg_point, new line to not comment code
 # CELL_TOP = "# ==========="
 # as insert on row below last of selection, new line needed so that next line of code is uninterrupted
-# CELL_BOT = "# -----------"
+# CELL_BOT = "----------"
 
 # >> jupytext
 
