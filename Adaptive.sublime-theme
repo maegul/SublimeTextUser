@@ -1,0 +1,42 @@
+{
+	// http://www.sublimetext.com/docs/3/themes.html
+	"variables": {
+		// "font_face": "system",
+	},
+	"rules": [
+
+		// scroll track matches background
+		{
+			"class": "scroll_track_control",
+			"layer0.texture": "Theme - Default/common/scroll.png",
+			"layer0.tint": "color(var(--background))",
+			// "layer0.opacity": 0.1,
+			"layer0.inner_margin": 2,
+			"content_margin": [4, 4, 3, 4]
+		},
+		// reduce puck opacity (when not hovered over)
+		{
+			"class": "puck_control",
+			"layer0.texture": "Theme - Default/common/scroll.png",
+			"layer0.tint": "black",
+			"layer0.opacity": { "target": 0.07, "speed": 5.0, "interpolation": "smoothstep" },
+			// "layer0.inner_margin": 2,
+			// "content_margin": [0, 12]
+		},
+		// reduce hover over opacity
+		{
+			"class": "puck_control",
+			"parents": [
+				{"class": "scroll_bar_control", "attributes": ["hover"]},
+				{"class": "scroll_track_control"},
+			],
+			"layer0.opacity": { "target": 0.35, "speed": 5.0, "interpolation": "smoothstep" },
+		},
+		{
+			"class": "puck_control",
+			"attributes": ["dark"],
+			"layer0.tint": "white",
+			// "layer0.tint": "white",
+		},
+	],
+}

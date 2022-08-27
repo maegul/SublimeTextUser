@@ -1,3 +1,7 @@
+"""Quick navigation to the next symbol above or below
+
+
+"""
 import sublime  # type: ignore
 import sublime_plugin  # type: ignore
 
@@ -38,45 +42,58 @@ class GotoNextSymbol(sublime_plugin.TextCommand):
 
 	@staticmethod
 	def new_idxs(direction, min_idx, max_idx, current_idx, current_distance, new_distance):
+		"""Produce new indices that narrow the search down
 
+		Main approach is check if wrong direction, and then use the current candidate
+		index as a new min or max index (depending on the direction and whether
+		the candidate is or is not in the wrong direction).
+
+		Also, given that new candidate indices are produces by using (min+max)//2, which
+		truncates downard (ie 1.9//1 = 1 and not 2), there are "+1" for when moving downward.
+		Hopefully this makes the "algorithm" correct?
+
+		Ideally, this function can be relied on to actually find the final target
+		when the range of indices is narrowed down to 1 (max-min = 1), which means there
+		are only two candidates ... and HOPEFULLY that means the candidate returned
+		by this function is the right one?!
+		"""
 
 		wrong_direction = (
 			True
 				if
+					(new_distance == 0) or
 					(direction == 'down' and new_distance < 0) or
 					(direction == 'up' and new_distance > 0)
 				else
 				False
 			)
 
-		closer = (
-			True
-				if (abs(new_distance) - abs(current_distance)) <= 0
-				else
-				False
-			)
+		# closer = (
+		# 	True
+		# 		if (abs(new_distance) - abs(current_distance)) <= 0
+		# 		else
+		# 		False
+		# 	)
 
-		print(
-			'DIR', direction, 'CURR DIST, NEW DIST', current_distance, new_distance,
-			'WRONG DIR, CLOSER', wrong_direction, closer)
+		# print(
+		# 	f'  ->Dir: {direction}, Dists: {current_distance, new_distance} ... WD: {wrong_direction}'
+		# 	)
 
 		if wrong_direction:
 			if direction == 'down':
-				#       new min      new max    new current
+				#       	new min      new max    new current
+				#  +1 for new current index so that downward motion errs on going down
+				#      while the truncated rounding here errs on going up ... so use for "up"
 				new_vals = (current_idx, max_idx, ((current_idx+max_idx)//2))
+				# new_vals = (current_idx, max_idx, ((current_idx+max_idx)//2))
 			elif direction == 'up':
 				new_vals = (min_idx, current_idx, ((min_idx+current_idx)//2))
-		# closer + down == wrong_direction + up and vice versa
-		# elif closer:
 		else:
 			if direction == 'down':
 				#       new min      new max    new current
 				new_vals = (min_idx, current_idx, ((min_idx+current_idx)//2))
 			elif direction == 'up':
 				new_vals = (current_idx, max_idx, ((current_idx+max_idx)//2))
-		# else:
-		# 	new_vals = None
-
 
 		return new_vals
 
@@ -87,14 +104,17 @@ class GotoNextSymbol(sublime_plugin.TextCommand):
 		symbols_len = len(symbols)
 
 		min_idx = 0
-		max_idx = symbols_len
+		max_idx = symbols_len - 1
 		current_idx = int((current_row / self.total_lines ) * (symbols_len-1))
-		print('MIN, MAX, CURR_ROW, CURR_IDX, SYM',
-			min_idx, max_idx, current_row, current_idx, symbols[current_idx].name)
+		# print(f'\nCurrent Row: {current_row}')
+		# print(
+		# 	min_idx, max_idx, current_idx, f'"{symbols[current_idx].name}"',
+		# 	' ... MIN, MAX, CURR_IDX, SYM',
+		# 	)
 		current_distance = self.symbol_distance(current_row, symbols[current_idx])
 		# hack to get first comparison
 		# should get appropriate split
-		new_distance = current_distance - 1
+		new_distance = current_distance
 
 		# best_candidate = {
 		# 	'symbol': symbols[current_idx],
@@ -103,33 +123,42 @@ class GotoNextSymbol(sublime_plugin.TextCommand):
 			new_min_idx, new_max_idx, new_current_idx = self.new_idxs(
 				direction, min_idx, max_idx, current_idx, current_distance, new_distance)
 
-			print('NEW_VALS: MIN, MAX, CURR, SYM',
-				new_min_idx, new_max_idx, new_current_idx, symbols[new_current_idx].name)
+			# print(
+			# 	new_min_idx, new_max_idx, new_current_idx, f'"{symbols[new_current_idx].name}"',
+			# 	' ... NEW_VALS: MIN, MAX, CURR, SYM',
+			# 	)
 			# if min and max range has narrowed as far as possible
-			# we've got our best candidate
+			# we've got our best candidates
 			# where the reaching the end of binary search is the criterion
 			# if we can only look for the closest
-			if (new_max_idx - new_min_idx) <= 2:
+			# now ... be lazy and just for loop through?  or just trust the algorithm
+			if (new_max_idx - new_min_idx) <= 1:  # or <=2?
+
+				# final_symbol = symbols[new_current_idx]
+				# print('FINAL', new_min_idx, new_max_idx, new_current_idx, final_symbol)
+				# return symbols[new_current_idx]
+
+				# looping approach for when narrow window
+				# print(list(range(new_min_idx, new_max_idx+1)))
 				candidates = [
 					(idx, self.symbol_distance(current_row, symbols[idx]))
 						for idx
 						in range(new_min_idx, new_max_idx+1)
 					]
-				print('candidates', candidates)
+				# print('candidates', candidates)
 				final_symbol = None
 				if direction == 'down':
 					for idx, dist in candidates:
-						if dist >= 0:
+						if dist > 0:
 							final_symbol = symbols[idx]
 							break
 				elif direction == 'up':
 					for idx, dist in reversed(candidates):
-						if dist <= 0:
+						if dist < 0:
 							final_symbol = symbols[idx]
 							break
 
-				print('FINAL', new_min_idx, new_max_idx, idx, final_symbol)
-				# _, _
+				# print('FINAL', new_min_idx, new_max_idx, idx, final_symbol)
 				return final_symbol
 
 			min_idx = new_min_idx

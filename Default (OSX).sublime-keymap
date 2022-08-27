@@ -7,6 +7,16 @@
 	// > General Navigation
 	//
 
+	// >> Symbol navigation
+	{
+		"keys": ["ctrl+shift+k"],
+		"command": "goto_next_symbol", "args": {"direction": "up"}
+	},
+	{
+		"keys": ["ctrl+shift+j"],
+		"command": "goto_next_symbol", "args": {"direction": "down"}
+	},
+
 
 	// To cancel the default key bindings so that only the super+alt+left versions remain
 	// { "keys": ["super+shift+["]},
@@ -332,11 +342,17 @@
 	// shift+ctrl+k/j - same level
 
 	// Same level
-	{ "keys": ["shift+ctrl+k"], "command": "mde_goto_previous_heading", "args": {"same_level": true}, "context":
-		[
-			{ "key": "setting.mde.keymap_disable.goto_previous_heading", "operator": "not_equal", "operand": true },
-			{ "key": "selector", "operator": "equal", "operand": "text.html.markdown", "match_all": true }
-		]
+	{ "keys": ["shift+ctrl+k"],
+		"command": "mde_goto_previous_heading", "args": {"same_level": true},
+		"context":
+			[
+				{
+					"key": "setting.mde.keymap_disable.goto_previous_heading",
+					"operator": "not_equal", "operand": true },
+				{
+					"key": "selector",
+					"operator": "equal", "operand": "text.html.markdown", "match_all": true }
+			]
 	},
 	{ "keys": ["shift+ctrl+j"], "command": "mde_goto_next_heading", "args": {"same_level": true}, "context":
 		[
