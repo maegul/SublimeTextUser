@@ -108,6 +108,122 @@
 		"context": [{"key": "setting.command_mode"}]
 	},
 
+	// >> Custom Command Mode commands
+	// Get the most out of command mode (inspired by Astro NVim)
+	// Use "space" or "g" (for "go") + (key) combo, IN COMMAND MODE ... should open up a lot
+		// "space" for forward a char is hardly useful, so overload away!
+	// The secret ingredient is: "context": [{"key": "setting.command_mode"}]
+
+	// >>> Basics
+
+	{
+		"keys": [" ", "r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	{
+		"keys": [" ", "R"], "command": "goto_symbol_in_project",
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	{
+		"keys": [" ", "c"], "command": "goto_comment",
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	{
+		"keys": [" ", "P"], "command": "show_overlay", "args": {"overlay": "command_palette"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	{
+		"keys": [" ", "p"], "command": "show_overlay",
+		"args": {"overlay": "goto", "show_files": true},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	// >>> Navigation
+	// GoTo Defintion
+	{
+		"keys": [" ", "d"], "command": "goto_definition",
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	// Go Back
+	{
+		"keys": [" ", ";"], "command": "jump_back",
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	// >>>> Origami
+	// >> Navigation with vim directions
+
+	{
+		"keys": [" ", "k"], "command": "travel_to_pane", "args": {"direction": "up"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{
+		"keys": [" ", "l"], "command": "travel_to_pane", "args": {"direction": "right"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{
+		"keys": [" ", "j"], "command": "travel_to_pane", "args": {"direction": "down"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{
+		"keys": [" ", "h"], "command": "travel_to_pane", "args": {"direction": "left"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+
+	// >> Move tab to (new) pane
+
+	// "K" = "shift+k"
+	{
+		"keys": [" ", "K"], "command": "carry_file_to_pane", "args": {"direction": "up"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{
+		"keys": [" ", "L"], "command": "carry_file_to_pane", "args": {"direction": "right"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{
+		"keys": [" ", "J"], "command": "carry_file_to_pane", "args": {"direction": "down"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{
+		"keys": [" ", "H"], "command": "carry_file_to_pane", "args": {"direction": "left"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+
+	// >>> Code Cells
+	// Navigate Cells
+	{
+		"keys": ["g", "j"], "command": "go_to_next_cell",
+		"context": [{"key": "selector", "operator": "equal", "operand": "source.python"}]
+	},
+	{
+		"keys": ["g", "k"], "command": "go_to_next_cell",
+		"args": {"direction": "up"},
+		"context": [{"key": "selector", "operator": "equal", "operand": "source.python"}]
+	},
+
+	// Running code through Send Code
+	{
+	    "keys": ["shift+enter"], "command": "send_code",
+	    "context": [
+	        { "key": "selector", "operator": "equal", "operand": "source" }
+	    ]
+	},
+	{
+	    "keys": ["shift+enter"], "command": "send_code",
+	    "context": [
+	    	// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+	        { "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
+	    ]
+	},
+
 
 	//
 	// > Plain Tasks Calendar
@@ -691,12 +807,14 @@
 
 	// >> Open REPL
 	// Open REPL with custom command and call to terminus
-	{ "keys": ["shift+enter"], "command": "open_python_repl_view",
-	  "context": [
-		  { "key": "terminus_tag.notexists", "operand": "python-repl" },
-		  { "key": "selector", "operator": "equal", "operand": "source.python" },
-	  ],
-	},
+
+	// using sendcode now ... use this for "run cell" or send cell code to terminal
+	// { "keys": ["shift+enter"], "command": "open_python_repl_view",
+	//   "context": [
+	// 	  { "key": "terminus_tag.notexists", "operand": "python-repl" },
+	// 	  { "key": "selector", "operator": "equal", "operand": "source.python" },
+	//   ],
+	// },
 
 	// >> Send selection
 	// Send the current selection or file content to the Terminus Python REPL,
