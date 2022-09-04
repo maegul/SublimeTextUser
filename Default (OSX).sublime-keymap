@@ -114,7 +114,7 @@
 		// "space" for forward a char is hardly useful, so overload away!
 	// The secret ingredient is: "context": [{"key": "setting.command_mode"}]
 
-	// >>> Basics
+	// >>> Basics/Fundamentals
 
 	{
 		"keys": [" ", "r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"},
@@ -142,6 +142,32 @@
 		"context": [{"key": "setting.command_mode"}]
 	},
 
+	{
+		"keys": [" ", "m"],
+		"command": "sublime_merge_open_repo",
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	{
+		"keys": [" ", "f"],
+		"command": "show_panel", "args": {"panel": "replace", "reverse": false},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	{
+		"keys": [" ", "F"],
+		"command": "show_panel", "args": {"panel": "find_in_files"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	// >>> Projects/Workspaces
+
+	{
+		"keys": [" ", "w"],
+		"command": "project_manager", "args": {"action": "switch"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
 	// >>> Navigation
 	// GoTo Defintion
 	{
@@ -152,6 +178,18 @@
 	// Go Back
 	{
 		"keys": [" ", ";"], "command": "jump_back",
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	// Goto currently open file using Tab Filter
+
+	{
+		"keys": [" ", "o"], "command": "tab_filter",
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{
+		"keys": [" ", "O"], "command": "tab_filter",
+		"args": {"active_group_only": true },
 		"context": [{"key": "setting.command_mode"}]
 	},
 
