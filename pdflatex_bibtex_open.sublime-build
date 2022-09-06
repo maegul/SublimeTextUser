@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "pdflatex \"$file\" && bibtex \"$file\" && pdflatex \"$file\" && bibtex \"$file\" && pdflatex \"$file\" && open \"$file_path/$file_base_name.pdf\"",
+	 // && open $(echo \"$file\" | sed 's/tex/pdf/)",
+	"selector": "text.tex.latex",
+}
