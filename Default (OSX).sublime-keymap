@@ -537,20 +537,22 @@
 	//     "keys": ["ctrl+alt+super+e"],
 	//     "command": "bh_toggle_enable"
 	// },
+
 	// // Search to end of file for bracket
-	// {
-	//     "keys": ["ctrl+alt+super+b"],
-	//     "command": "bh_key",
-	//     "args":
-	//     {
-	//         "lines" : true
-	//     }
-	// },
+	{
+	    "keys": [" ", "b", "f"],
+	    "command": "bh_key",
+		"context": [{"key": "setting.command_mode"}],
+	    "args":
+	    {
+	        "lines" : true
+	    }
+	},
 
 	// >> Go to left bracket
 	{
-		"keys": ["super+k", "b", "h"],
-		// "keys": ["ctrl+alt+super+up"],
+		"keys": [" ", "b", "h"],
+		"context": [{"key": "setting.command_mode"}],
 		"command": "bh_key",
 		"args":
 		{
@@ -565,9 +567,10 @@
 			}
 		}
 	},
-	// Go to right bracket
+
+	// >> Go to right bracket
 	{
-		"keys": ["super+k", "b", "l"],
+		"keys": [" ", "b", "l"],
 		"command": "bh_key",
 		"args":
 		{
@@ -582,18 +585,21 @@
 			}
 		}
 	},
-	// // Remove brackets
-	// {
-	//     "keys": ["ctrl+alt+super+r"],
-	//     "command": "bh_remove_brackets"
-	// },
+
+	// >> Remove brackets
+	{
+	    "keys": [" ", "b", "d"],
+	    "command": "bh_remove_brackets",
+		"context": [{"key": "setting.command_mode"}],
+	},
+
 	// // Toggle string escape mode for sub bracket search in strings
 	// {
 	//     "keys": ["ctrl+alt+super+x"],
 	//     "command": "bh_toggle_string_escape_mode"
 	// },
 
-	// Jump to matching bracket
+	// >> Jump to matching bracket
 	{
 		"keys": ["ctrl+m"],
 		"command": "bh_key",
@@ -607,37 +613,43 @@
 			"no_outside_adj": null
 		}
 	},
-	// // Select text between brackets
-	// {
-	//     "no_outside_adj": null,
-	//     "keys": ["ctrl+alt+super+s"],
-	//     "command": "bh_key",
-	//     "args":
-	//     {
-	//         "lines" : true,
-	//         "plugin":
-	//         {
-	//             "type": ["__all__"],
-	//             "command": "bh_modules.bracketselect"
-	//         }
-	//     }
-	// },
-	// // Select text including brackets
-	// {
-	//     "keys": ["ctrl+alt+super+d"],
-	//     "command": "bh_key",
-	//     "args":
-	//     {
-	//         "no_outside_adj": null,
-	//         "lines" : true,
-	//         "plugin":
-	//         {
-	//             "type": ["__all__"],
-	//             "command": "bh_modules.bracketselect",
-	//             "args": {"always_include_brackets": true}
-	//         }
-	//     }
-	// },
+
+	// >> Select text between brackets
+	{
+	    "no_outside_adj": null,
+	    "keys": [" ", "b", "s"],
+		"context": [{"key": "setting.command_mode"}],
+	    "command": "bh_key",
+
+	    "args":
+	    {
+	        "lines" : true,
+	        "plugin":
+	        {
+	            "type": ["__all__"],
+	            "command": "bh_modules.bracketselect"
+	        }
+	    }
+	},
+
+	// >> Select text including brackets
+	{
+	    "keys": [" ", "b", "S"],
+		"context": [{"key": "setting.command_mode"}],
+	    "command": "bh_key",
+	    "args":
+	    {
+	        "no_outside_adj": null,
+	        "lines" : true,
+	        "plugin":
+	        {
+	            "type": ["__all__"],
+	            "command": "bh_modules.bracketselect",
+	            "args": {"always_include_brackets": true}
+	        }
+	    }
+	},
+
 	// // Select tag name of HTML/XML tag (both opening name and closing)
 	// {
 	//     "keys": ["ctrl+alt+super+t"],
@@ -683,8 +695,9 @@
 	// >> Convert single quote string to double quoted string and vice versa
 	// Will handle escaping or unescaping quotes within the string
 	{
-		"keys": ["super+k", "b", "'"],
+		"keys": [" ", "b", "'"],
 		"command": "bh_key",
+		"context": [{"key": "setting.command_mode"}],
 		"args":
 		{
 			"lines" : true,
@@ -710,14 +723,16 @@
 
 	// >> Swap brackets with another type
 	{
-		"keys": ["super+k", "b", "["],
-		"command": "swap_brackets"
+		"keys": [" ", "b", "r"], // "r" = replace
+		"command": "swap_brackets",
+		"context": [{"key": "setting.command_mode"}],
 	},
 
 	// >> Surround selection with brackets from quick panel
 	{
-		"keys": ["super+k", "b", "("],
-		"command": "wrap_brackets"
+		"keys": [" ", "b", "w"], // "w" = wrap
+		"command": "wrap_brackets",
+		"context": [{"key": "setting.command_mode"}]
 	},
 	// // Toggle high visibility mode
 	// {
@@ -728,10 +743,10 @@
 	// > zettel kasten
 	// >> Parent notes
 	// May be redundant as I may have added to my fork of the package
-	{
-		"keys": ["super+alt+enter"],
-		"command": "zk_show_parent_notes", "context": [ { "key": "sublime_zk", "operand": "true"}]
-	},
+	// {
+	// 	"keys": ["super+alt+enter"],
+	// 	"command": "zk_show_parent_notes", "context": [ { "key": "sublime_zk", "operand": "true"}]
+	// },
 
 
 	// > Diff/Git nav commands
