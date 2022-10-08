@@ -2,6 +2,10 @@
 	// http://www.sublimetext.com/docs/3/themes.html
 	"variables": {
 		// "font_face": "system",
+
+		// Edit the minimap viewport rectangle to not have such an obscuring shading
+		"viewport_always_visible_color": "hsla(0, 0%, 50%, 0.03)",
+		"viewport_hide_show_color": "hsla(0, 0%, 50%, 0.05)",
 	},
 	"rules": [
 

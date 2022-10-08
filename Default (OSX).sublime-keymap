@@ -249,17 +249,17 @@
 
 	// Running code through Send Code
 	{
-	    "keys": ["shift+enter"], "command": "send_code",
-	    "context": [
-	        { "key": "selector", "operator": "equal", "operand": "source" }
-	    ]
+		"keys": ["shift+enter"], "command": "send_code",
+		"context": [
+			{ "key": "selector", "operator": "equal", "operand": "source" }
+		]
 	},
 	{
-	    "keys": ["shift+enter"], "command": "send_code",
-	    "context": [
-	    	// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
-	        { "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
-	    ]
+		"keys": ["shift+enter"], "command": "send_code",
+		"context": [
+			// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+			{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
+		]
 	},
 
 
@@ -540,13 +540,13 @@
 
 	// // Search to end of file for bracket
 	{
-	    "keys": [" ", "b", "f"],
-	    "command": "bh_key",
+		"keys": [" ", "b", "f"],
+		"command": "bh_key",
 		"context": [{"key": "setting.command_mode"}],
-	    "args":
-	    {
-	        "lines" : true
-	    }
+		"args":
+		{
+			"lines" : true
+		}
 	},
 
 	// >> Go to left bracket
@@ -571,6 +571,7 @@
 	// >> Go to right bracket
 	{
 		"keys": [" ", "b", "l"],
+		"context": [{"key": "setting.command_mode"}],
 		"command": "bh_key",
 		"args":
 		{
@@ -588,8 +589,8 @@
 
 	// >> Remove brackets
 	{
-	    "keys": [" ", "b", "d"],
-	    "command": "bh_remove_brackets",
+		"keys": [" ", "b", "d"],
+		"command": "bh_remove_brackets",
 		"context": [{"key": "setting.command_mode"}],
 	},
 
@@ -616,38 +617,38 @@
 
 	// >> Select text between brackets
 	{
-	    "no_outside_adj": null,
-	    "keys": [" ", "b", "s"],
+		"no_outside_adj": null,
+		"keys": [" ", "b", "s"],
 		"context": [{"key": "setting.command_mode"}],
-	    "command": "bh_key",
+		"command": "bh_key",
 
-	    "args":
-	    {
-	        "lines" : true,
-	        "plugin":
-	        {
-	            "type": ["__all__"],
-	            "command": "bh_modules.bracketselect"
-	        }
-	    }
+		"args":
+		{
+			"lines" : true,
+			"plugin":
+			{
+				"type": ["__all__"],
+				"command": "bh_modules.bracketselect"
+			}
+		}
 	},
 
 	// >> Select text including brackets
 	{
-	    "keys": [" ", "b", "S"],
+		"keys": [" ", "b", "S"],
 		"context": [{"key": "setting.command_mode"}],
-	    "command": "bh_key",
-	    "args":
-	    {
-	        "no_outside_adj": null,
-	        "lines" : true,
-	        "plugin":
-	        {
-	            "type": ["__all__"],
-	            "command": "bh_modules.bracketselect",
-	            "args": {"always_include_brackets": true}
-	        }
-	    }
+		"command": "bh_key",
+		"args":
+		{
+			"no_outside_adj": null,
+			"lines" : true,
+			"plugin":
+			{
+				"type": ["__all__"],
+				"command": "bh_modules.bracketselect",
+				"args": {"always_include_brackets": true}
+			}
+		}
 	},
 
 	// // Select tag name of HTML/XML tag (both opening name and closing)
@@ -773,17 +774,142 @@
 		]
 	},
 
+	// >> Hover over help
 	{
 		"command": "lsp_hover",
-		"keys": [
-			"super+alt+d"
-		],
+		"keys": [" ", "i", "s"],
+		// "keys": ["super+alt+d"],
 		"context": [
 			{
 				"key": "lsp.session_with_capability",
 				"operator": "equal",
 				"operand": "hoverProvider"
-			}
+			},
+			{"key": "setting.command_mode"}
+		]
+	},
+
+	// >> GoTo Commands
+
+	// >>> Goto Definition
+	{
+		"command": "lsp_symbol_definition",
+		"args": {
+			"side_by_side": false,
+			"force_group": false, // false allows already open buffer to be used
+			"fallback": false
+		},
+		"keys": [" ", "i", "d"],
+		"context": [
+			{
+				"key": "lsp.session_with_capability",
+				"operator": "equal",
+				"operand": "definitionProvider"
+			},
+			{
+				"key": "auto_complete_visible",
+				"operator": "equal",
+				"operand": false
+			},
+			{"key": "setting.command_mode"}
+		]
+	},
+
+	// >>> Goto Type Definition
+	{
+		"command": "lsp_symbol_type_definition",
+		"args": {
+			"side_by_side": false,
+			"force_group": false
+		},
+		"keys": [" ", "i", "t"],
+		"context": [
+			{
+				"key": "lsp.session_with_capability",
+				"operator": "equal",
+				"operand": "typeDefinitionProvider"
+			},
+			{
+				"key": "auto_complete_visible",
+				"operator": "equal",
+				"operand": false
+			},
+			{"key": "setting.command_mode"}
+		]
+	},
+
+	// Goto Declaration
+	// {
+	//     "command": "lsp_symbol_declaration",
+	//     "args": {
+	//         "side_by_side": false,
+	//         "force_group": true
+	//     },
+	//     "keys": [" ", "i", "c"],
+	//     "context": [
+	//         {
+	//             "key": "lsp.session_with_capability",
+	//             "operator": "equal",
+	//             "operand": "declarationProvider"
+	//         },
+	//         {
+	//             "key": "auto_complete_visible",
+	//             "operator": "equal",
+	//             "operand": false
+	//         }
+	//     ]
+	// },
+
+	// Goto Implementation
+	// {
+	//     "command": "lsp_symbol_implementation",
+	//     "args": {
+	//         "side_by_side": false,
+	//         "force_group": true
+	//     },
+	//     "keys": [
+	//         "UNBOUND"
+	//     ],
+	//     "context": [
+	//         {
+	//             "key": "lsp.session_with_capability",
+	//             "operator": "equal",
+	//             "operand": "implementationProvider"
+	//         },
+	//         {
+	//             "key": "auto_complete_visible",
+	//             "operator": "equal",
+	//             "operand": false
+	//         }
+	//     ]
+	// },
+
+
+	// >>> Goto Diagnostics and Errors
+	{
+		"command": "lsp_goto_diagnostic",
+		"context": [{"key": "setting.command_mode"}],
+		"args": {
+			"uri": "$view_uri"
+		},
+		"keys": [" ", "i", "e"],
+	},
+
+	// >>> Find References
+	{
+		"command": "lsp_symbol_references",
+		"args": {
+			"side_by_side": false,
+			"fallback": false
+		},
+		"keys": [" ", "i", "r"],
+		"context": [
+			{
+				"key": "lsp.session_with_capability",
+				"operator": "equal",
+				"operand": "referencesProvider"
+			},
+			{"key": "setting.command_mode"}
 		]
 	},
 
@@ -798,17 +924,17 @@
 	// might conflict with replace all in find panel??
 
 	{
-	    "keys": ["ctrl+shift+enter"], "command": "send_code",
-	    "context": [
-	        { "key": "selector", "operator": "equal", "operand": "source" }
-	    ]
+		"keys": ["ctrl+shift+enter"], "command": "send_code",
+		"context": [
+			{ "key": "selector", "operator": "equal", "operand": "source" }
+		]
 	},
 	{
-	    "keys": ["ctrl+shift+enter"], "command": "send_code",
-	    "context": [
-	    	// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
-	        { "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
-	    ]
+		"keys": ["ctrl+shift+enter"], "command": "send_code",
+		"context": [
+			// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+			{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
+		]
 	},
 
 	// >> Re-instate original keybinding for super+enter
