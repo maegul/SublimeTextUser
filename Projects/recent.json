@@ -16,17 +16,17 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/my_zekell.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/StandUp #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/blog_main.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/comment_marks  #dev.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/my_zkl.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/visual_cortex_katie_code #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_user #dev.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/lif #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zkl #dev.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/Hammerspoon.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/phd_zkl.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper2  #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/jupyterhub_dev #pychm.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/ansible_setup_scripts #pychm.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/pythoncharmers_admin #pychm.sublime-project"
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/pythoncharmers_admin #pychm.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/Hammerspoon.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper2  #phd.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/comment_marks  #dev.sublime-project"
 ]

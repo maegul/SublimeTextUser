@@ -1,4 +1,8 @@
 [
+	// {"caption": "random input test", "command": "random_test_input"},
+	{"caption" :"alter python command mark symbols",
+		"command": "alter_comment_mark_symbols"
+	},
 	{"caption": "Sum Hours", "command": "rb_hours_sum"},
 	{"caption": "Phd Timeline Insert Dates", "command": "phd_dates"},
 	{

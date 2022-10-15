@@ -3,6 +3,7 @@
 	// >> Personal combination
 	// super+k, ctrl+shift+ ... personal chord (no collisions there)
 
+
 	//
 	// > General Navigation
 	//
@@ -332,6 +333,20 @@
 	{ "keys": ["super+k", "super+r"], "command": "resize_pane", "args": {"orientation": "rows"} },
 
 
+	// >>> Duplicates with vintage normal mode space cords
+	{ "keys": [" ", "z"],
+		"command": "zoom_pane",
+		"args": {"fraction": 0.95},
+		"context": [{"key": "setting.command_mode"}]
+	},
+	{ "keys": [" ", "Z"],
+		"command": "unzoom_pane",
+		"args": {},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+
+
 	// > Text Wrapping
 	// >> Wrapping Auto ... ie to window size
 	{"keys": ["super+k", "super+shift+a"], "command":"set_setting", "args":
@@ -633,6 +648,25 @@
 		}
 	},
 
+	// >> Select brackets and within
+	{
+		"no_outside_adj": null,
+		"keys": [" ", "b", "S"],
+		"context": [{"key": "setting.command_mode"}],
+		"command": "bh_key",
+
+		"args":
+		{
+			"lines" : true,
+			"plugin":
+			{
+				"args": {"always_include_brackets": true},
+				"type": ["__all__"],
+				"command": "bh_modules.bracketselect"
+			}
+		}
+	},
+
 	// >> Select text including brackets
 	{
 		"keys": [" ", "b", "S"],
@@ -742,6 +776,53 @@
 	// }
 
 	// > zettel kasten
+
+	// >> Personal system (zekell)
+
+	{
+		"keys": [" ", "z", "o"],
+		"context": [{"key": "setting.command_mode"}, {"key": "setting.is_zekell"}],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "command": "zekell_open_note"}
+	},
+	{
+		"keys": [" ", "z", "l"],
+		"context": [{"key": "setting.command_mode"}, {"key": "setting.is_zekell"}],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "command": "zekell_insert_link"}
+	},
+	{
+		"keys": [" ", "z", "n"],
+		"context": [{"key": "setting.command_mode"}, {"key": "setting.is_zekell"}],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "command": "zekell_link_new_note"}
+	},
+	{
+		"keys": [" ", "z", "N"],
+		"context": [{"key": "setting.command_mode"}, {"key": "setting.is_zekell"}],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "command": "zekell_new_note"}
+	},
+	{
+		"keys": [" ", "z", "g"],
+		"context": [{"key": "setting.command_mode"}, {"key": "setting.is_zekell"}],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "command": "zekell_open_link"}
+	},
+	{
+		"keys": [" ", "z", "v"],
+		"context": [{"key": "setting.command_mode"}, {"key": "setting.is_zekell"}],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "command": "zekell_navigate_notes"}
+	},
+	{
+		"keys": [" ", "z", "t"],
+		"context": [{"key": "setting.command_mode"}, {"key": "setting.is_zekell"}],
+		"command": "show_overlay",
+		"args": {"overlay": "command_palette", "command": "zekell_insert_tag"}
+	},
+
+
 	// >> Parent notes
 	// May be redundant as I may have added to my fork of the package
 	// {

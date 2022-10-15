@@ -37,6 +37,24 @@ def open_selected_note(view, note_select):
 
 # > Commands
 
+# class RandomTestInputCommand(sublime_plugin.TextCommand):
+#     def run(self, edit, **args):
+#         print(f'random test command {args}')
+#     def input(self, args):
+#         return RandomTestInputHandler()
+
+# class RandomTestInputHandler(sublime_plugin.TextInputHandler):
+
+#     def next_input(self, args):
+#         return RandomTestListInputHandler(args['random_test'])
+
+# class RandomTestListInputHandler(sublime_plugin.ListInputHandler):
+#     def __init__(self, word):
+#         self.list_values = list(word)
+#     def list_items(self):
+#         return self.list_values
+
+
 class ZekellOpenNoteCommand(sublime_plugin.TextCommand):
     def run(self, edit, **kwargs):
         if not kwargs['note_select']:
