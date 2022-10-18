@@ -544,6 +544,46 @@
 	},
 
 
+	// >> Footnotes
+	// create new footnote
+	{ "keys": [" ", "6"], "command": "mde_reference_new_footnote", "context":
+		[
+			{"key": "setting.command_mode"},
+			{ "key": "selector", "operator": "equal", "operand": "text.html.markdown", "match_all": true },
+			{ "key": "setting.mde.keymap_disable.reference_new_footnote", "operator": "not_equal", "operand": true }
+		]
+	},
+
+	// Can't get to work ... ?
+	// jump to reference
+	// { "keys": [" ", "6"], "command": "mde_reference_jump", "context":
+	// 	[
+	// 		{"key": "setting.command_mode"},
+	// 		{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.link.reference", "match_all": true }
+	// 	]
+	// },
+	// { "keys": [" ", "shift+6"], "command": "mde_reference_jump", "context":
+	// 	[
+	// 		{"key": "setting.command_mode"},
+	// 		{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.link.reference.def.markdown entity.name.reference.link", "match_all": true }
+	// 	]
+	// },
+	// // jump to footnote
+	// { "keys": [" ", "6"], "command": "mde_magic_footnotes", "context":
+	// 	[
+	// 		{"key": "setting.command_mode"},
+	// 		{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.link.reference.footnote", "match_all": true }
+	// 	]
+	// },
+	// { "keys": [" ", "shift+6"], "command": "mde_magic_footnotes", "context":
+	// 	[
+	// 		{"key": "setting.command_mode"},
+	// 		{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.link.reference.def.footnote entity.name.reference.link", "match_all": true }
+	// 	]
+	// },
+
+
+
 	// > Bracket Highlighter
 	// Copied from Example in brackethighlighter package
 

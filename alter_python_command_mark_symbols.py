@@ -7,7 +7,7 @@ class AlterCommentMarkSymbolsCommand(sublime_plugin.TextCommand):
 	def run(self, edit, **args):
 		view = self.view
 		# self.view.insert(edit, 0, "Hello, World!")
-		comment_mark_pat = fr'(^# )({args["current_symbol"]}+)(.*)$'
+		comment_mark_pat = fr'(^\s*# )({args["current_symbol"]}+)(.*)$'
 		# matches will be the text of the comment_marks
 		matches = []
 		comment_marks_regions = view.find_all(
