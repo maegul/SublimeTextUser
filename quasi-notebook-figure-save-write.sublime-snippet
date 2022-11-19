@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+show_fig(fig)
+write_fig(
+    fig.update_layout(template='${1:plotly_dark}'),
+    '${2:file_name}.svg')
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>qdnb-fig</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>

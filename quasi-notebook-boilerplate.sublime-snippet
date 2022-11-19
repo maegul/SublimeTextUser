@@ -1,0 +1,39 @@
+<snippet>
+	<content><![CDATA[
+import os
+
+GLOBAL_ENV_VARS = {
+    'WRITE_FIG': True,  # whether to write new figures
+    'SHOW_FIG': False,  # whether to show new figures
+    'RUN_LONG': False,  # whether to run long tasks
+}
+
+print('***\nSetting Env Variables\n***\n')
+for GEV, DEFAULT_VALUE in GLOBAL_ENV_VARS.items():
+    runtime_value = os.environ.get(GEV)  # defaults to None
+    # parse strings into booleans, but only if actual value provided
+    if runtime_value:
+        new_value = (
+                True
+                    if runtime_value == "True"
+                    else False
+                )
+    # if none provided, just take default value
+    else:
+        new_value = DEFAULT_VALUE
+    print(f'Setting {GEV:<10} ... from {str(DEFAULT_VALUE):<5} to {str(new_value):<5} (runtime value: {runtime_value})')
+    GLOBAL_ENV_VARS[GEV] = new_value
+
+def show_fig(fig):
+    if GLOBAL_ENV_VARS['SHOW_FIG']:
+        fig.show()
+
+def write_fig(fig, file_name: str, **kwargs):
+    if GLOBAL_ENV_VARS['WRITE_FIG']:
+        fig.write_image(file_name, **kwargs)
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>qdnb_boilerplate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
