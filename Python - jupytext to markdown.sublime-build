@@ -1,0 +1,5 @@
+{
+	// jupytext must be installed in the environment
+	"cmd": ["jupytext", "--to", "md", "--from", "py:light", "$file"],
+	"selector": "source.python",
+}
