@@ -5,6 +5,8 @@
 		"dark": "hsl(226, 13.8%, 15.5%)",
 		"white": "hsl(20, 10%, 65%)",
 		"accent_red": "hsl(0, 38%, 54%)",
+		// for italic+bold
+		"accent_orange_strong": "hsl(17.5, 63.2%, 65.9%)",
 		"accent_orange": "hsl(30.8, 55.3%, 60.2%)",
 		"accent_yellow": "hsl(50.8, 40.3%, 50.2%)",
 		"accent_green":   "hsl(89.8, 23%, 50%)",
@@ -48,6 +50,12 @@
 			"name": "Bold",
 			"scope": "markup.bold - markup.italic",
 			"foreground": "var(accent_orange)"
+		},
+		{
+			"name": "Markup: StrongEmphasis",
+			"scope": "markup.bold_italic, markup.bold & markup.italic",
+			"foreground": "color(var(accent_orange_strong) l(- 3%)))",
+			"font_style": "bold italic glow"
 		},
 		{
 			"name": "inline raw",
