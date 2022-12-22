@@ -239,8 +239,28 @@
 		"context": [{"key": "setting.command_mode"}]
 	},
 
+	// >>> General Custom Commands
 
-	// >>> Code Cells
+	// >>>> Zotero search directly from a key binding
+	// couldn't get this to work ... don't know why ... something to do with the whole
+	// "show_overlay" command
+
+	// For now, just use text as the input ... relies on the user_commands file
+	{
+		"keys": [" ", "alt", "c"],
+		"command": "show_overlay",
+		"args": {
+			"overlay": "command_palette",
+			"text": "Zotero Search - full citation",
+			// "command": "zotero_search",
+			// "args": {"format": "full citation"}
+		},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+
+
+	// > Code Cells
 	// Navigate Cells
 	{
 		"keys": ["g", "j"], "command": "go_to_next_cell",
