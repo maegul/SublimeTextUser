@@ -4,5 +4,6 @@
 		"pyls": {"enabled": false },
 		"pyright": {"enabled": true}
 	},
-	"document_highlight_style": ""
+	"document_highlight_style": "",
+	"show_diagnostics_count_in_view_status": false
 }

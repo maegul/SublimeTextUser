@@ -2,7 +2,6 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"WordCount",
 	],
 	"auto_complete": false,
 	"show_project_first": true,

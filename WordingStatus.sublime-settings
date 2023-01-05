@@ -1,0 +1,7 @@
+{
+"whitelist_syntaxes": [
+	"Markdown", "latex", "Plain text"
+],
+// "blacklist_syntaxes": ["python"]
+"enable_count_chars": false,
+}
