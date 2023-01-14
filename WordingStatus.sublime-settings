@@ -1,6 +1,6 @@
 {
 "whitelist_syntaxes": [
-	"Markdown", "latex", "Plain text"
+	"Markdown", "latex", "Plain text", "text.html.markdown"
 ],
 // "blacklist_syntaxes": ["python"]
 "enable_count_chars": false,
