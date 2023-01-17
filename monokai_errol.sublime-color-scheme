@@ -140,9 +140,13 @@
         "stack_guide": "var(grey)",
         "highlight": "var(red3)",
         // "find_highlight_foreground": "var(black)",
+        // "find_highlight_foreground": "var(select_hl)",
         "find_highlight_foreground": "var(select_hl)",
         "find_highlight": "var(orange)",
         // "find_highlight": "var(orange3)",
+        // for the scroll bar
+        "scroll_highlight": "var(red3)",
+        "scroll_selected_highlight": "#FFF",
         "brackets_options": "underline",
         "brackets_foreground": "color(var(white3) alpha(0.65))",
         "bracket_contents_options": "underline",
