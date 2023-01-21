@@ -21,13 +21,28 @@
 		"code_blue":    "hsl(210, 15%, 59%)",
 		"code_purple":  "hsl(301, 12%, 57%)",
 
+		// for search colors
+        "select_hl": "hsl(350, 35%, 17%)",
+        "red3": "hsl(0, 73%, 59%)",
+
 	},
 	"globals": {
 		"foreground": "var(white)",
 		"background": "var(dark)",
 		// make selection highlight color lower contrast, and base off of background
 		"selection": "color(var(dark) l(+ 10%))",
-		"fold_marker": "color(var(code_grey))"
+		"fold_marker": "color(var(code_grey))",
+
+		// search colors
+        "highlight": "var(red3)",
+        // "find_highlight_foreground": "var(black)",
+        // "find_highlight_foreground": "var(select_hl)",
+        "find_highlight_foreground": "var(select_hl)",
+        "find_highlight": "var(code_orange)",
+        // "find_highlight": "var(orange3)",
+        // for the scroll bar
+        "scroll_highlight": "var(red3)",
+        "scroll_selected_highlight": "#FFF",
 	},
 	"rules": [
 		{
