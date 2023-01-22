@@ -141,6 +141,13 @@
 			"scope": "string.other.link.title",
 			"foreground": "var(accent_blue)",
 		},
+		// Don't know how to get to work
+		// {
+		// 	"name": "Link strikethrough",
+		// 	"scope": "markup.strikethrough & meta.link & markup.underline",
+		// 	// "scope": "markup.strikethrough meta.link markup.underline",
+		// 	"foreground": "#313131"
+		// },
 
 		// >> Custom Code
 		{
