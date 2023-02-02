@@ -27,6 +27,19 @@
 	// Overwrites the EOL macro in default
 	{ "keys": ["super+k", "super+k"], "command": "toggle_side_bar" },
 
+	// > New File (with filemanager)
+	// Same as built in command but inserts alias "here" that starst at current view's path
+	// See GitHub Issue here: https://github.com/math2001/FileManager/issues/16
+	// "here" is an alias for $file_path (built in while "here" is defined in settings)
+
+	{
+		"keys": ["alt+n"],
+		"command": "fm_create",
+	    "args": {
+	        "initial_text": "$here/"
+	    }
+	},
+
 	//
 	// > Table of Comments / Comment Marks / Goto Section
 	//

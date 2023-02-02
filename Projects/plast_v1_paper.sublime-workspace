@@ -355,13 +355,10 @@
 			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/plast_paper_SciReports_reviewer_comments.md",
 			"settings":
 			{
-				"buffer_size": 38402,
+				"buffer_size": 43131,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
 			"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/general_thoughts.md",
@@ -380,6 +377,18 @@
 			"settings":
 			{
 				"buffer_size": 5422,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/full_errol.bib",
+			"settings":
+			{
+				"buffer_size": 580961,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -431,10 +440,7 @@
 				"buffer_size": 607,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		},
 		{
 			"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_methods.tex",
@@ -1324,7 +1330,7 @@
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 30.0
 	},
 	"find_in_files":
 	{
@@ -1521,15 +1527,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 38402,
+						"buffer_size": 43131,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								412,
-								412
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1692,7 +1698,7 @@
 								"bh_single_quote_content"
 							],
 							"color_helper.box_height": 20,
-							"color_helper.color_scheme": "MarkdownEditing-ArcDark-errol.sublime-color-scheme",
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
 							"color_helper.file_palette":
 							[
 							],
@@ -1754,14 +1760,13 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/general_thoughts.md",
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1772,8 +1777,8 @@
 						"selection":
 						[
 							[
-								63933,
-								63933
+								63932,
+								63932
 							]
 						],
 						"settings":
@@ -1891,63 +1896,63 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
 							],
-							"color_helper.box_height": 22,
+							"color_helper.box_height": 20,
 							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
 							"color_helper.file_palette":
 							[
@@ -1966,11 +1971,11 @@
 										"scopes": ""
 									}
 								],
-								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color\\((?!\\s*-)|(?:hsla?|lch|lab|hwb|rgba?)\\()|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
 								"current_ext": ".md",
 								"current_syntax": "MarkdownEditing/syntaxes/Markdown",
 								"enabled": true,
-								"last_updated": 1645176167.85,
+								"last_updated": 1675063300.37,
 								"scanning": "meta.declaration-list.css -support.type.property-name.css -comment -string,meta.property-value.css -comment -string,meta.value.css -comment -string,meta.tag.inline.any.html string.quoted -constant.character.entity.html,meta.tag.any.html meta.attribute-with-value.style.html"
 							},
 							"default_dir": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity",
@@ -1979,6 +1984,7 @@
 							"incomplete_sync": null,
 							"line_numbers": false,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/general_thoughts.md",
+							"mde.match_heading_hashes": false,
 							"parser": "markdown",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -1994,16 +2000,17 @@
 							"wrap_width": 80
 						},
 						"translation.x": 0.0,
-						"translation.y": 30988.0,
+						"translation.y": 30808.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_retina.tex",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -2014,8 +2021,8 @@
 						"selection":
 						[
 							[
-								337,
-								337
+								2522,
+								2522
 							]
 						],
 						"settings":
@@ -2124,12 +2131,27 @@
 							{
 								"close":
 								{
+									"1":
+									[
+										2528,
+										2529
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										2514,
+										2515
+									]
 								},
 								"unmatched":
 								{
@@ -2137,6 +2159,31 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -2147,11 +2194,11 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
@@ -2162,36 +2209,11 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_round_content"
 							],
 							"color_helper.box_height": 20,
 							"color_helper.color_scheme": "Packages/User/monokai_errol.sublime-color-scheme",
@@ -2203,15 +2225,25 @@
 							},
 							"color_helper.scan":
 							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
 								"current_ext": ".tex",
 								"current_syntax": "LaTeX/LaTeX",
-								"enabled": false,
-								"last_updated": 1612483574.11
+								"enabled": true,
+								"last_updated": 1675063300.37,
+								"scanning": "-comment"
 							},
 							"git_gutter_is_enabled": true,
 							"incomplete_sync": null,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_retina.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -2226,15 +2258,171 @@
 							"wrap_width": 80
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 622.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
+					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/full_errol.bib",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 580961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144768,
+								144768
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": "\\{}@/ ",
+									"selector": "text.tex - comment",
+									"server": "LSP-TexLab"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										144932,
+										144933
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										144661,
+										144662
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".bib",
+								"current_syntax": "LaTeX/Bibtex",
+								"enabled": true,
+								"last_updated": 1675063300.37,
+								"scanning": "-comment"
+							},
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/full_errol.bib",
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syntax": "Packages/LaTeX/Bibtex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 94122.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/OSPaper_home_stretch.todo",
 					"semi_transient": false,
 					"settings":
@@ -2246,8 +2434,8 @@
 						"selection":
 						[
 							[
-								234,
-								234
+								233,
+								233
 							]
 						],
 						"settings":
@@ -2429,12 +2617,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 9,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.tex",
 					"semi_transient": false,
 					"settings":
@@ -2446,8 +2634,8 @@
 						"selection":
 						[
 							[
-								671,
-								671
+								670,
+								670
 							]
 						],
 						"settings":
@@ -2585,16 +2773,6 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -2605,48 +2783,58 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_round_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content"
+								"bh_round_content"
 							],
 							"git_gutter_is_enabled": true,
 							"history_list_is_closing": true,
 							"incomplete_sync": null,
 							"line_numbers": false,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -2662,12 +2850,12 @@
 						"translation.y": 174.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 8,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 6,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_results.tex",
 					"semi_transient": false,
 					"settings":
@@ -2679,8 +2867,8 @@
 						"selection":
 						[
 							[
-								12133,
-								12133
+								12132,
+								12132
 							]
 						],
 						"settings":
@@ -2892,7 +3080,7 @@
 							"incomplete_sync": null,
 							"line_numbers": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_results.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -2909,12 +3097,12 @@
 						"translation.y": 3948.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 7,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 7,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_supp.tex",
 					"semi_transient": false,
 					"settings":
@@ -3106,7 +3294,7 @@
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_supp.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -3126,12 +3314,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 15,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 8,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_methods.tex",
 					"semi_transient": false,
 					"settings":
@@ -3330,7 +3518,7 @@
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_methods.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -3345,12 +3533,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 16,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 9,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_intro.tex",
 					"semi_transient": false,
 					"settings":
@@ -3362,8 +3550,8 @@
 						"selection":
 						[
 							[
-								6102,
-								6102
+								6101,
+								6101
 							]
 						],
 						"settings":
@@ -3545,7 +3733,7 @@
 							"history_list_is_closing": true,
 							"line_numbers": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_intro.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -3560,12 +3748,12 @@
 						"translation.y": 1467.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 12,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 10,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_orientDist.tex",
 					"semi_transient": false,
 					"settings":
@@ -3676,7 +3864,7 @@
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_orientDist.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -3691,12 +3879,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 14,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 11,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_discussion.tex",
 					"semi_transient": false,
 					"settings":
@@ -3907,7 +4095,7 @@
 							"history_list_is_closing": true,
 							"line_numbers": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_discussion.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -3924,12 +4112,12 @@
 						"translation.y": 961.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 10,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 12,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_contrastInvariance.tex",
 					"semi_transient": false,
 					"settings":
@@ -4113,7 +4301,7 @@
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_contrastInvariance.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -4128,12 +4316,12 @@
 						"translation.y": 3.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 11,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 13,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_tuning.tex",
 					"semi_transient": false,
 					"settings":
@@ -4145,8 +4333,8 @@
 						"selection":
 						[
 							[
-								2236,
-								2236
+								2235,
+								2235
 							]
 						],
 						"settings":
@@ -4340,7 +4528,7 @@
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_tuning.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -4355,12 +4543,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 18,
+					"stack_index": 19,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 14,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/variables.tex",
 					"semi_transient": false,
 					"settings":
@@ -4372,8 +4560,8 @@
 						"selection":
 						[
 							[
-								261,
-								261
+								260,
+								260
 							]
 						],
 						"settings":
@@ -4479,7 +4667,7 @@
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/variables.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -4494,12 +4682,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 13,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 15,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_ntwkParameters.tex",
 					"semi_transient": false,
 					"settings":
@@ -4511,8 +4699,8 @@
 						"selection":
 						[
 							[
-								6987,
-								6987
+								6986,
+								6986
 							]
 						],
 						"settings":
@@ -4722,7 +4910,7 @@
 							"git_gutter_is_enabled": true,
 							"line_numbers": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_ntwkParameters.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -4737,12 +4925,12 @@
 						"translation.y": 2372.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 17,
+					"stack_index": 18,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
+					"buffer": 16,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/sagar_fig_changes_oct_2018.md",
 					"semi_transient": false,
 					"settings":
@@ -4754,8 +4942,8 @@
 						"selection":
 						[
 							[
-								995,
-								995
+								994,
+								994
 							]
 						],
 						"settings":
@@ -4918,7 +5106,7 @@
 								"bh_single_quote_content"
 							],
 							"color_helper.box_height": 20,
-							"color_helper.color_scheme": "MarkdownEditing-ArcDark-errol.sublime-color-scheme",
+							"color_helper.color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
 							"color_helper.file_palette":
 							[
 							],
@@ -4975,12 +5163,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 16,
+					"buffer": 17,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/errol_thoughts_todo.todo",
 					"semi_transient": false,
 					"settings":
@@ -4992,8 +5180,8 @@
 						"selection":
 						[
 							[
-								127,
-								127
+								126,
+								126
 							]
 						],
 						"settings":
@@ -5173,12 +5361,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 19,
+					"stack_index": 20,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 17,
+					"buffer": 18,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/temp.todo",
 					"semi_transient": false,
 					"settings":
@@ -5190,8 +5378,8 @@
 						"selection":
 						[
 							[
-								569,
-								569
+								568,
+								568
 							]
 						],
 						"settings":
@@ -5388,12 +5576,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 20,
+					"stack_index": 21,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 18,
+					"buffer": 19,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/Sagar_Errol_discussion_april_2018.md",
 					"semi_transient": false,
 					"settings":
@@ -5405,8 +5593,8 @@
 						"selection":
 						[
 							[
-								192,
-								192
+								191,
+								191
 							]
 						],
 						"settings":
@@ -5627,12 +5815,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 19,
+					"buffer": 20,
 					"file": "/Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_retinaDist.tex",
 					"semi_transient": false,
 					"settings":
@@ -5743,7 +5931,7 @@
 							],
 							"git_gutter_is_enabled": true,
 							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
+							"lsp_hover_provider_count": 2,
 							"lsp_uri": "file:///Users/errollloyd/Dropbox/Science/papers/plast_v1_paper/vc_retinaDist.tex",
 							"rainbow_checked": true,
 							"remote_loading": false,
@@ -5758,12 +5946,12 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 16,
+					"stack_index": 17,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
-					"buffer": 20,
+					"buffer": 21,
 					"file": "/Users/errollloyd/Dropbox/Science/PhD/project_notes/plasticity/abstract.md",
 					"semi_transient": false,
 					"settings":
@@ -5985,7 +6173,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 4,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -5994,7 +6182,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 43.0
 	},
 	"input":
 	{
@@ -6023,6 +6211,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
 	"output.SFTP":
 	{
 		"height": 0.0
@@ -6033,7 +6225,7 @@
 	},
 	"output.Terminus":
 	{
-		"height": 380.0
+		"height": 574.0
 	},
 	"output.diagnostics":
 	{
@@ -6071,7 +6263,7 @@
 	"project": "plast_v1_paper.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -6080,6 +6272,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"bib",
+				"Paper Files/full_errol.bib"
+			],
+			[
+				"retin",
+				"Paper Files/vc_retina.tex"
+			],
 			[
 				"plast",
 				"Notes/plast_paper_SciReports_reviewer_comments.md"

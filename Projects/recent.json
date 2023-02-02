@@ -6,7 +6,6 @@
 	"~/.hammerspoon/hammerspoon.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_zk #dev.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/theBook of recipes.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/thesis #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/JupyterHub Docker #pychm.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/JupyterHub_Configuration #pychm.sublime-project",
@@ -27,6 +26,7 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/phd_zkl.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/lif #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/pythoncharmers_admin #pychm.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper2  #phd.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project"
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper.sublime-project"
 ]
