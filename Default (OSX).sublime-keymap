@@ -180,11 +180,23 @@
 
 	// >>> Projects/Workspaces
 
+	// {
+	// 	"keys": [" ", "w"],
+	// 	"command": "project_manager", "args": {"action": "switch"},
+	// 	"context": [{"key": "setting.command_mode"}]
+	// },
 	{
 		"keys": [" ", "w"],
-		"command": "project_manager", "args": {"action": "switch"},
+		"command": "project_manager", "args": {"action": "open_project_in_new_window"},
 		"context": [{"key": "setting.command_mode"}]
 	},
+
+	{
+		"keys": [" ", "W"],
+		"command": "project_manager", "args": {"action": "open_project"},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
 
 	// >>> Navigation
 	// GoTo Defintion
