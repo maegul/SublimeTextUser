@@ -1,6 +1,7 @@
 {
 	"ignored_packages":
 	[
+		"LSP-yaml",
 	],
 	"auto_complete": false,
 	"show_project_first": true,

@@ -13,4 +13,9 @@
 		"5": "      - ",
 		"6": "       . ",
 	},
+	"custom_comment_start_patterns":
+	{
+		// Add requirement for single space before comment mark character
+		"source.python": ["^[ \t]*#+[ ]"]
+	},
 }
