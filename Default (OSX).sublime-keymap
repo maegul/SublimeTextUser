@@ -178,6 +178,14 @@
 		"context": [{"key": "setting.command_mode"}]
 	},
 
+	// find all and jump to the next (quick find)
+
+	{
+		"keys": [" ", "G"],
+		"command": "find_under",
+		"context": [{"key": "setting.command_mode"}]
+	},
+
 	// >>> Projects/Workspaces
 
 	// {
