@@ -136,6 +136,11 @@
 		"keys": [" ", "r"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"},
 		"context": [{"key": "setting.command_mode"}]
 	},
+	// fuzzy find for token
+	{
+		"keys": [" ", "t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"},
+		"context": [{"key": "setting.command_mode"}]
+	},
 
 	{
 		"keys": [" ", "R"], "command": "goto_symbol_in_project",
