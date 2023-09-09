@@ -1,5 +1,5 @@
 {
-	"shell_cmd": "pdflatex \"$file\" && bibtex \"$file\" && pdflatex \"$file\" && bibtex \"$file\" && pdflatex \"$file\" && open \"$file_path/$file_base_name.pdf\"",
+	"shell_cmd": "pdflatex -interaction nonstopmode \"$file_base_name\" && bibtex \"$file_base_name\" && pdflatex -interaction nonstopmode \"$file_base_name\" && bibtex \"$file_base_name\" && pdflatex -interaction nonstopmode \"$file_base_name\" && open \"$file_path/$file_base_name.pdf\" && echo \"$file SUCCESSFULLY BUILT!\"",
 	 // && open $(echo \"$file\" | sed 's/tex/pdf/)",
 	"selector": "text.tex.latex",
 }

@@ -2,7 +2,6 @@
 	"ignored_packages":
 	[
 		"INI",
-		"LSP-TexLab",
 		"LSP-yaml",
 	],
 	"auto_complete": false,
