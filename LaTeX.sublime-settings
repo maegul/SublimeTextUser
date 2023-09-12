@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the LaTeX syntax
+{
+	"spell_check": true,
+	"draw_centered": true,
+}
