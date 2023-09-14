@@ -2,4 +2,7 @@
 {
 	"spell_check": true,
 	"draw_centered": true,
+	// "color_scheme": "MarkdownEditing-ArcDark-errol.sublime-color-scheme",
+	"color_scheme": "MarkdownEditor-ArcDark.sublime-color-scheme",
+
 }

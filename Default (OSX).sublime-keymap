@@ -285,11 +285,23 @@
 
 	// For now, just use text as the input ... relies on the user_commands file
 	{
-		"keys": [" ", "alt", "c"],
+		"keys": [" ", "alt", "b"],
 		"command": "show_overlay",
 		"args": {
 			"overlay": "command_palette",
 			"text": "Zotero Search - full citation",
+			// "command": "zotero_search",
+			// "args": {"format": "full citation"}
+		},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+	{
+		"keys": [" ", "alt", "c"],
+		"command": "show_overlay",
+		"args": {
+			"overlay": "command_palette",
+			"text": "Zotero Search - \\cite{}",
 			// "command": "zotero_search",
 			// "args": {"format": "full citation"}
 		},
