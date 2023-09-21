@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\citep[SciPy, \texttt\{${1}}, v 1.7.3]\{2020SciPy-NMeth\}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cite_scipy</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
+</snippet>
