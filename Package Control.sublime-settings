@@ -20,6 +20,7 @@
 		"FileManager",
 		"FindKeyConflicts",
 		"INI",
+		"JavaScript Completions",
 		"LSP",
 		"LSP-bash",
 		"LSP-json",

@@ -1,0 +1,10 @@
+// Settings in here override those in "LSP-rome/LSP-rome.sublime-settings"
+
+{
+	"settings":
+{
+	"rome.lspBin": null,
+	"rome.rename": null,
+	"rome.requireConfiguration": false
+}
+}

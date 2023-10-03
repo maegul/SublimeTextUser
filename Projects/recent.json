@@ -20,7 +20,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/Hammerspoon.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/comment_marks  #dev.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/ansible_setup_scripts #pychm.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/lif #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/my_zkl.sublime-project",
@@ -29,5 +28,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/user scripts.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/soodakRFModel.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/plast_v1_paper2  #phd.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/thesis #phd.sublime-project"
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/thesis #phd.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project"
 ]
