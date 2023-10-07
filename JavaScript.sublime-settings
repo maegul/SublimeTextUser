@@ -1,5 +1,5 @@
 // These settings override both User and Default settings for the JavaScript syntax
 {
 
-	"auto_complete": true,
+	"auto_complete": false,
 }
