@@ -108,4 +108,5 @@
 	"rulers": [
 		[100, "stippled"]
 	],
+	"index_files": false,
 }
