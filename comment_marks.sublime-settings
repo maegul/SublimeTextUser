@@ -2,7 +2,8 @@
 	"trim_trailing_comment_chars": true,
 	"level_chars":
 	{
-		"source.python": "#"
+		"source.python": "#",
+		"text.html.basic": "#"
 	},
 
 	"level_char_format_sub": {
