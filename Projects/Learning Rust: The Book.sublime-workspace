@@ -1,0 +1,2153 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"load_plist_file"
+			],
+			[
+				"get_re",
+				"get_reading_list_data"
+			],
+			[
+				"RE",
+				"READING_LIST_TITLE"
+			],
+			[
+				"sdt",
+				"sdt-d"
+			],
+			[
+				"Da",
+				"DataFrame"
+			],
+			[
+				"two",
+				"twos_comp_man"
+			],
+			[
+				"n_bin",
+				"n_bin_tc_flip"
+			],
+			[
+				"lit_",
+				"lit_end_2_big_end_bin_flip"
+			],
+			[
+				"twos_comp",
+				"twos_comp_man"
+			],
+			[
+				"is_neg",
+				"is_negative"
+			],
+			[
+				"is_negative",
+				"is_negative_basic"
+			],
+			[
+				"new_bit",
+				"new_bits_rev_str"
+			],
+			[
+				"new_bi",
+				"new_bits_rev_str"
+			],
+			[
+				"lit_en",
+				"lit_end_2_big_end_bin"
+			],
+			[
+				"n_binar",
+				"n_binary_last_bit"
+			],
+			[
+				"res",
+				"resp_img"
+			],
+			[
+				"base",
+				"base64_to_ascii"
+			],
+			[
+				"base64_to",
+				"base64_to_ascii"
+			],
+			[
+				"bin",
+				"binary_to_ascii"
+			],
+			[
+				"ascii",
+				"ascii_to_base64"
+			],
+			[
+				"ascii_to",
+				"ascii_to_oct"
+			],
+			[
+				"auto_hide",
+				"\"auto_hide_tabs\""
+			],
+			[
+				"sdtd",
+				"sdt-d"
+			],
+			[
+				"re",
+				"repl"
+			],
+			[
+				"ST",
+				"STRIKE_TASK"
+			],
+			[
+				"pack",
+				"package-lock"
+			],
+			[
+				"gjc_aws_ho",
+				"gjc_aws_hosted_zone_record_change_json_make"
+			],
+			[
+				"DOT",
+				"DOT_POINT_TASK"
+			],
+			[
+				"lie",
+				"line"
+			],
+			[
+				"find",
+				"find_all"
+			],
+			[
+				"AWS",
+				"AWS_DEFAULT_PROFILE"
+			],
+			[
+				"sdtdh",
+				"sdt-dhf"
+			],
+			[
+				"word",
+				"\"word_wrap\""
+			],
+			[
+				"set",
+				"\"settings\""
+			],
+			[
+				"NoteSe",
+				"NoteSelectInputHandler"
+			],
+			[
+				"List",
+				"ListInputHandler"
+			],
+			[
+				"subl",
+				"sublime_plugin"
+			],
+			[
+				"initi",
+				"initial_text"
+			],
+			[
+				"Text",
+				"TextInputHandler"
+			],
+			[
+				"with",
+				"with_suffix"
+			],
+			[
+				"che",
+				"check_output"
+			],
+			[
+				"wri",
+				"writelines"
+			],
+			[
+				"ZK",
+				"ZK_PATH"
+			],
+			[
+				"update",
+				"update_all_notes"
+			],
+			[
+				"Z",
+				"ZK_PATH"
+			],
+			[
+				"bat",
+				"add_batch_old_note"
+			],
+			[
+				"utc",
+				"utcoffset"
+			],
+			[
+				"timestamp",
+				"utcfromtimestamp"
+			],
+			[
+				"st_m",
+				"st_mtime"
+			],
+			[
+				"ut",
+				"utcnow"
+			],
+			[
+				"u",
+				"utc"
+			],
+			[
+				"time",
+				"timezone"
+			],
+			[
+				"t",
+				"tzinfo"
+			],
+			[
+				"fr",
+				"utcfromtimestamp"
+			],
+			[
+				"db",
+				"db_path"
+			],
+			[
+				"i",
+				"issubset"
+			],
+			[
+				"paret",
+				"parents_cte"
+			],
+			[
+				"def",
+				"defaultdict"
+			],
+			[
+				"child",
+				"children_cte"
+			],
+			[
+				"bre",
+				"breakpoint"
+			],
+			[
+				"ZK_",
+				"ZK_DB_PATH"
+			],
+			[
+				"upd",
+				"update_note"
+			],
+			[
+				"defau",
+				"default_config"
+			],
+			[
+				"disp",
+				"display_rows"
+			],
+			[
+				"mak",
+				"make_note_file_name"
+			],
+			[
+				"Not",
+				"NoteName"
+			],
+			[
+				"displ",
+				"display_rows"
+			],
+			[
+				"cli_",
+				"cli_list_staged_notes"
+			],
+			[
+				"as",
+				"as_posix"
+			],
+			[
+				"parse",
+				"parse_note_name"
+			],
+			[
+				"ZK_D",
+				"ZK_DB_PATH"
+			],
+			[
+				"tag_",
+				"tag_or_cte"
+			],
+			[
+				"cte",
+				"cte_table_name_map"
+			],
+			[
+				"cte_",
+				"cte_table_name_map"
+			],
+			[
+				"qu",
+				"query_tag_redirect"
+			],
+			[
+				"tag_an",
+				"tag_and_cte"
+			],
+			[
+				"tag",
+				"tag_cte"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"punctu",
+				"punctuation_replace"
+			],
+			[
+				"punc",
+				"punctuation_replace"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"link_lo",
+				"link_location_slices"
+			],
+			[
+				"ra",
+				"randrange"
+			],
+			[
+				"link",
+				"link_pattern"
+			],
+			[
+				"front_m",
+				"front_matter_template"
+			],
+			[
+				"make_new",
+				"make_new_note_id"
+			],
+			[
+				"make",
+				"make_batch_new_note_ids"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"exi",
+				"exist_ok="
+			],
+			[
+				"outpu",
+				"output_path"
+			],
+			[
+				"confi",
+				"write_default_config"
+			],
+			[
+				"defa",
+				"default_config_path"
+			],
+			[
+				"config",
+				"default_config_path"
+			],
+			[
+				"add_",
+				"add_argument"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"update_",
+				"update_note"
+			],
+			[
+				"is_",
+				"is_note_id_unique"
+			],
+			[
+				"upda",
+				"update_note_tags"
+			],
+			[
+				"check",
+				"check_valid_tag_path"
+			],
+			[
+				"delete",
+				"delete_stmt"
+			],
+			[
+				"update_note",
+				"update_note_links"
+			],
+			[
+				"add_ta",
+				"add_new_tag_path"
+			],
+			[
+				"get_tag",
+				"get_tag_path_id"
+			],
+			[
+				"add_no",
+				"add_note_tag"
+			],
+			[
+				"get_ta",
+				"get_tag_path_id"
+			],
+			[
+				"add",
+				"add_new_tag_path"
+			],
+			[
+				"new_pat",
+				"new_path_parent_id"
+			],
+			[
+				"retu",
+				"return_new_id="
+			],
+			[
+				"new_path_par",
+				"new_path_parent_id"
+			],
+			[
+				"new_ta",
+				"new_tag_path"
+			],
+			[
+				"de",
+				"deque"
+			],
+			[
+				"new_path_p",
+				"new_path_parent_id"
+			],
+			[
+				"new_t",
+				"new_tag_path"
+			],
+			[
+				"new_path",
+				"new_path_parent"
+			],
+			[
+				"pars",
+				"parse_note_body"
+			],
+			[
+				"pare",
+				"parent_note_id"
+			],
+			[
+				"new",
+				"make_new_note"
+			],
+			[
+				"name",
+				"namedtuple"
+			],
+			[
+				"no",
+				"note_name"
+			],
+			[
+				"fo",
+				"frontmatter"
+			],
+			[
+				"make_",
+				"make_note_file_name"
+			],
+			[
+				"parse_no",
+				"parse_note_name"
+			],
+			[
+				"Note",
+				"NoteName"
+			],
+			[
+				"classmet",
+				"classmethod"
+			],
+			[
+				"pane",
+				"pane_for_opening_results  \tsetting"
+			],
+			[
+				"uu",
+				"uuid\tmodule"
+			],
+			[
+				"nu",
+				"numpy\tmodule"
+			],
+			[
+				"auto",
+				"auto_show_images  \tsetting"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/errollloyd/Developer/rust_learn/the_book/guessing_game/src/main.rs",
+			"redo_stack":
+			[
+				[
+					28,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAOMCAAAAAAAA5AIAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjAgAAAAAAAOMCAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					24,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAKYCAAAAAAAApgIAAAAAAAADAAAALy8g",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACeAgAAAAAAAJ4CAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					22,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAMgCAAAAAAAAyAIAAAAAAAAqAAAAICAgICAgICBtYXRjaCBndWVzcy5jbXAoJnNlY3JldF9udW1iZXIpIHsK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADIAgAAAAAAAMgCAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 946,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"duplicate_line",
+					null,
+					"AQAAAHYBAAAAAAAAmQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAQAAAAAAAGoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					7,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAIIBAAAAAAAAhQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACNAQAAAAAAAI0BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					11,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_right_delete",
+						"motion_args":
+						{
+						},
+						"motion_clip_to_line": false,
+						"motion_command": null,
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAGoBAAAAAAAAagEAAAAAAAABAAAAJg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAQAAAAAAAGoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"outer": true,
+							"repeat": 1
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "vi_expand_to_words",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAGoBAAAAAAAAagEAAAAAAAAEAAAAbXV0IA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABrAQAAAAAAAGsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					1,
+					"vi_eval",
+					{
+						"action_args":
+						{
+						},
+						"action_command": "vi_delete",
+						"motion_args":
+						{
+							"to": "line"
+						},
+						"motion_clip_to_line": false,
+						"motion_command": "expand_selection",
+						"motion_inclusive": false,
+						"motion_mode": 0
+					},
+					"AQAAAFMBAAAAAAAAUwEAAAAAAAAeAAAAICAgICAgICAgICAgLnJlYWRfbGluZShndWVzcykK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABqAQAAAAAAAGoBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					20,
+					1,
+					"toggle_comment",
+					{
+						"block": false
+					},
+					"AQAAAF8BAAAAAAAAXwEAAAAAAAADAAAALy8g",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAQAAAAAAAFMBAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/passing_by_reference.rs",
+			"settings":
+			{
+				"buffer_size": 160,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"sequence",
+					{
+						"commands":
+						[
+							[
+								"paste",
+								null
+							],
+							[
+								"exit_insert_mode",
+								null
+							]
+						]
+					},
+					"AQAAAAAAAAAAAAAAnwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"ensure_newline_at_eof",
+					null,
+					"AQAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 90.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"terminus new",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"finder",
+				"File Manager: Open In Finder"
+			],
+			[
+				"zkl ta",
+				"Zekell Insert Tag"
+			],
+			[
+				"zkl tag",
+				"Zekell Insert Tag"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"url",
+				"Tasks: Open URL"
+			],
+			[
+				"file del",
+				"File Manager: Delete"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"file rename",
+				"Rename File"
+			],
+			[
+				"convert to ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"file name",
+				"Rename File"
+			],
+			[
+				"audit",
+				"OverrideAudit: View Documentation"
+			],
+			[
+				"convertabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"file finder",
+				"File Manager: Open In Finder"
+			],
+			[
+				"form",
+				"LSP: Format File"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"lsp fo",
+				"LSP: Format File"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"file rena",
+				"Rename File"
+			],
+			[
+				"file dele",
+				"File Manager: Delete"
+			],
+			[
+				"file ren",
+				"Rename File"
+			],
+			[
+				"markdowned key",
+				"Preferences: MarkdownEditing Key Bindings"
+			],
+			[
+				"zeke tag",
+				"Zekell Insert Tag"
+			],
+			[
+				"proj ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"zkl",
+				"Zekell Open Note"
+			],
+			[
+				"zkl op",
+				"Zekell Open Note"
+			],
+			[
+				"zkl li",
+				"Zekell Open Link"
+			],
+			[
+				"zkl o",
+				"Zekell Open Note"
+			],
+			[
+				"zkl new",
+				"Zekell New Note"
+			],
+			[
+				"zkl lin",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl link",
+				"Zekell Insert Link"
+			],
+			[
+				"zk lop",
+				"Zekell Open Link"
+			],
+			[
+				"zkl ",
+				"Zekell Open Note"
+			],
+			[
+				"zkl lin new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl p",
+				"Zekell Open Note"
+			],
+			[
+				"zkl li new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl opn",
+				"Zekell Open Note"
+			],
+			[
+				"zkl tga",
+				"Zekell Insert Tag"
+			],
+			[
+				"zkl ne",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl nav",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zk op",
+				"Zekell Open Note"
+			],
+			[
+				"zkl tag ",
+				"Zekell Insert Tag"
+			],
+			[
+				"zkl ol",
+				"Zekell Open Link"
+			],
+			[
+				"zk lli",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl new li",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl opl",
+				"Zekell Open Link"
+			],
+			[
+				"zkll",
+				"Zekell Open Link"
+			],
+			[
+				"zkl lne",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl ll",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl in",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl n",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl t",
+				"Zekell Insert Tag"
+			],
+			[
+				"zot",
+				"Zotero Search - full citation"
+			],
+			[
+				"zklop",
+				"Zekell Open Note"
+			],
+			[
+				"file name cop",
+				"File Manager: Copy Name"
+			],
+			[
+				"file re",
+				"Rename File"
+			],
+			[
+				"zkl na",
+				"Zekell Navigate Notes"
+			],
+			[
+				"send ",
+				"SendCode: Choose Program"
+			],
+			[
+				"zkl lop",
+				"Zekell Open Note"
+			],
+			[
+				"zkl lik",
+				"Zekell Insert Link"
+			],
+			[
+				"zkl open",
+				"Zekell Open Note"
+			],
+			[
+				"dev col",
+				"PackageDev: Edit Current Color Scheme"
+			],
+			[
+				"zkl ins",
+				"Zekell Insert Tag"
+			],
+			[
+				"zkl op ",
+				"Zekell Open Link"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"zkl link new",
+				"Zekell Link to New Note"
+			],
+			[
+				"proj man ed",
+				"Project Manager: Edit Project"
+			],
+			[
+				"md",
+				"MD Dead Lines"
+			],
+			[
+				"projman ren",
+				"Project Manager: Rename Project"
+			],
+			[
+				"proj",
+				"Project Manager: Edit Project"
+			],
+			[
+				"zkl  new",
+				"Zekell Link to New Note"
+			],
+			[
+				"file term",
+				"File Manager: Open Terminal"
+			],
+			[
+				"zoter",
+				"Zotero CAYW - full citation"
+			],
+			[
+				"pack res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pack dev col",
+				"PackageDev: Edit Current Color Scheme"
+			],
+			[
+				"inde t",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"zkl lin ",
+				"Zekell Link to New Note"
+			],
+			[
+				"indent ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"indent tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"markd pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"zkltag",
+				"Zekell Insert Tag"
+			],
+			[
+				"z",
+				"Zekell Open Note"
+			],
+			[
+				"key ",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"zkl lnew",
+				"Zekell New Note"
+			],
+			[
+				"zkl par",
+				"Zekell Open Parent Notes"
+			],
+			[
+				"brta q",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"zote",
+				"Zotero Search - full citation"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"zkl opk",
+				"Zekell Open Link"
+			],
+			[
+				"markd canc",
+				"MarkdownEditing: Convert all inline links to references"
+			],
+			[
+				"markded stri",
+				"Snippet: Markdown Critic Deletion"
+			],
+			[
+				"syntax spec",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"zotero",
+				"Zotero Search - full citation"
+			],
+			[
+				"strike",
+				"MD Strike Point"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"find key",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"link new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl l new",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl open ",
+				"Zekell Open Note"
+			],
+			[
+				"zkl ins l",
+				"Zekell Insert Link"
+			],
+			[
+				"color sch",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"syntax pref",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"key buff",
+				"FindKeyConflicts: All Key Maps to Buffer"
+			],
+			[
+				"zkl pare",
+				"Zekell Open Parent Notes"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"mark down edi fold",
+				"MarkdownEditing: Fold Level 1 Sections"
+			],
+			[
+				"zkl l",
+				"Zekell Open Note"
+			],
+			[
+				"zkl ope",
+				"Zekell Open Note"
+			],
+			[
+				"file cop",
+				"File Manager: Copy Name"
+			],
+			[
+				"zkl linn",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl van",
+				"Zekell Navigate Notes"
+			],
+			[
+				"zkl new l",
+				"Zekell Link to New Note"
+			],
+			[
+				"zkl new n",
+				"Zekell Link to New Note"
+			],
+			[
+				"pack res op",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"zkl lini",
+				"Zekell Insert Link"
+			],
+			[
+				"nav",
+				"Zekell Navigate Notes"
+			],
+			[
+				"markd fold",
+				"MarkdownEditing: Fold All Sections"
+			],
+			[
+				"zkl op no",
+				"Zekell Open Note"
+			],
+			[
+				"mark ed he",
+				"Snippet: Markdown Hyperlink"
+			],
+			[
+				"markdown edit link",
+				"MarkdownEditing: New Inline Link"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 242.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"print('***')",
+			"sublime.log_commands(False)",
+			"sublime.run_command('md_dead_line_find')",
+			"sublime.log_commands(True)",
+			"sublime.run_command('md_dead_line_find')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command('strike_point')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands()",
+			"[symbol for symbol in view.symbol_regions() if symbol.kind[2] == 'Navigation']",
+			"[symbol for symbol in view.symbol_regions()]",
+			"[symbol for symbol in view.symbol_regions() if symbol.syntax=='Markdown']",
+			"view.symbol_regions()[0].syntax",
+			"view.symbol_regions()[0]",
+			"view.symbol_regions()",
+			"view",
+			"sublime.view()",
+			"sublime.view",
+			"print('**********')",
+			"sys.executable",
+			"import sys",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"Path(view.file_name()).stem.split(maxsplit=1)",
+			"Path(view.file_name()).stem.split(1)",
+			"Path(view.file_name()).stem.split()",
+			"Path(view.file_name()).name.split()",
+			"Path(view.file_name()).name",
+			"view.file_name()",
+			"Path(view.file_name()).name.split()[0]",
+			"Path(view.file_name()).name.split()",
+			"Path(view.file_name()).name",
+			"from pathlib import Path",
+			"view.file_name()",
+			"view.erase_status('TEST')",
+			"view.set_status('TEST', 'allgood')",
+			"open_file",
+			"sublime.Region(306,336).contains(view.sel()[0].begin())",
+			"sublime.Region(306,336).contains(view.sel()[0])",
+			"sublime.Region(306,336).intersects(view.sel()[0])",
+			"sublime.Region(305,336).intersects(view.sel()[0])",
+			"sublime.Region(306,336).intersects(view.sel()[0])",
+			"sublime.Region(306,336)",
+			"sublime.Region",
+			"Region",
+			"view.sel()[0].begin()",
+			"view.sel()[0]",
+			"view.sel()",
+			"view.find_by_selector('meta.link.inline')",
+			"view.window().open_file('/Users/errollloyd/zekell/20211118030856 DELETE.md')",
+			"view.window().open_file('20211118024710 DELETE.md')",
+			"self.view.window().open_file('20211118024710 DELETE.md')",
+			"window",
+			"sublime.active_window()",
+			"view.file_name()",
+			"window.open_file('20211118010722 DELETE.md')",
+			"window.open_file('20211118010409 DELETE.md')",
+			"window",
+			"[r.intersects(view.sel()[0]) for r in view.find_by_selector('meta.link.inline')]",
+			"[r.intersection(view.sel()[0]) for r in view.find_by_selector('meta.link.inline')]",
+			"[r.intersection(view.sel()) for r in view.find_by_selector('meta.link.inline')]",
+			"for r in view.find_by_selector('meta.link.inline'):\\",
+			"for r in view.find_by_selector('meta.link.inline'):",
+			"view.find_by_selector('meta.link.inline')",
+			"view.extract_scope(view.extract_scope(view.sel()[0].begin()).begin())",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.sel()[0].end()",
+			"view.sel()[0].begin()",
+			"view.sel().begin()",
+			"view.sel()",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.match_selector(view.sel()[0].begin(), 'meta.link.inline')",
+			"view.scope_name(view.sel()[0].begin())",
+			"view.extract_scope(view.sel()[0].begin())",
+			"view.file_name()",
+			"window.project_data()",
+			"sublime.load_settings()",
+			"window.extract_variables()",
+			"window",
+			"view.sel()[0].begin()",
+			"view.text_point(*view.rowcol(view.sel()[0].begin()))",
+			"view.text_point(view.rowcol(view.sel()[0].begin()))",
+			"view.rowcol(view.sel()[0].begin())",
+			"view.rowcol(view.sel()[0])",
+			"view.sel()[0].begin()",
+			"view.sel()[0]",
+			"view.sel()",
+			"view.sel().begin",
+			"view.sel().begin()",
+			"view.sel().end()",
+			"view.sel()",
+			"view",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"view.file_name()",
+			"view",
+			"sublime.log_commands(True)",
+			"sublime.view_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands()",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"askdjfh",
+			"kjdfhskdfjh",
+			"skdjfhdskjfh",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 49226))",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.run_command('resize_pane', {\"orientation\": \"cols\"})",
+			"sublime.run_command('resize_pane')",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(True",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/errollloyd/Developer/rust_learn/the_book"
+	],
+	"file_history":
+	[
+		"/Users/errollloyd/zekell/20220506072229 HTML.md",
+		"/Users/errollloyd/zekell/20220509021522 Async functions.md",
+		"/Users/errollloyd/zekell/20240115045342 Web API (in web browsers).md",
+		"/Users/errollloyd/zekell/20211124065232 Javascript.md",
+		"/Users/errollloyd/zekell/20220607073742 Use IPython as testing debugger.md",
+		"/Users/errollloyd/zekell/20201025175713 Modifying Permissions and Users.md",
+		"/Users/errollloyd/zekell/20220427075939 dig - DNS lookup utility.md",
+		"/Users/errollloyd/zekell/20231029061232 Back-end.md",
+		"/Users/errollloyd/zekell/20231127084651 Regular Expressions (regex).md",
+		"/Users/errollloyd/zekell/20231128001446 plistlib module for reading and writing Apple property list file format.md",
+		"/Users/errollloyd/zekell/20231201041309 argparse.md",
+		"/Users/errollloyd/zekell/20231201054628 sorted.md",
+		"/Users/errollloyd/zekell/20211119054225 Builtin functions.md",
+		"/Users/errollloyd/zekell/20201016154437 Core.md",
+		"/Users/errollloyd/zekell/20200904105632 Python.md",
+		"/Users/errollloyd/zekell/20231127050615 Safari Browser Data.md",
+		"/Users/errollloyd/zekell/20201229140837 Languages, Parsing, Compiling.md",
+		"/Users/errollloyd/zekell/20200920193126 AWS.md",
+		"/Users/errollloyd/zekell/20240201005432 Learning Rust and Lemmy Reading Group.md",
+		"/Users/errollloyd/zekell/20240201003447 Lemmy.md",
+		"/Users/errollloyd/zekell/20230816061956 Fediverse.md",
+		"/Users/errollloyd/zekell/20200911124716 Software.md",
+		"/Users/errollloyd/zekell/20201012164648 Front-end.md",
+		"/Users/errollloyd/zekell/20240108041825 Templating Elements.md",
+		"/Users/errollloyd/zekell/20240128112559 Climate Change.md",
+		"/Users/errollloyd/zekell/20240114080748 api and frontend prototype.md",
+		"/Users/errollloyd/zekell/20221118050833 No Silver Bullet - Essence and Accident in Software Engineering.md",
+		"/Users/errollloyd/zekell/20240130045656 Isabell's House Hunt.md",
+		"/Users/errollloyd/zekell/20211118080359 zekell.md",
+		"/Users/errollloyd/zekell/20220629000753 Managing Physical Disks.md",
+		"/Users/errollloyd/zekell/20220428065240 du - Disk Usage and File and Folder Sizes.md",
+		"/Users/errollloyd/zekell/20240104051122 zshell.md",
+		"/Users/errollloyd/zekell/20201009182253 Listing branches and remotes.md",
+		"/Users/errollloyd/zekell/20201009181737 git.md",
+		"/Users/errollloyd/zekell/20240112064124 Isabell.md",
+		"/Users/errollloyd/zekell/20220428055439 Reading.md",
+		"/Users/errollloyd/zekell/20240203113456 Isabell's 40th Holliday.md",
+		"/Users/errollloyd/zekell/20200911124758 Projects.md",
+		"/Users/errollloyd/zekell/20220309055232 Personal.md",
+		"/Users/errollloyd/zekell/20231222034439 The Hero's Journey.md",
+		"/Users/errollloyd/zekell/20220906004946 Myth.md",
+		"/Users/errollloyd/zekell/20240205011840 The Politics of Myth.md",
+		"/Users/errollloyd/zekell/20220226014847 Rust.md",
+		"/Users/errollloyd/zekell/20230112075018 mastodon.md",
+		"/Users/errollloyd/zekell/20240131070632 Staff engineers are multipliers.md",
+		"/Users/errollloyd/zekell/20221118044812 Programming best practices and wisdom.md",
+		"/Users/errollloyd/zekell/20211125003910 Computing.md",
+		"/Users/errollloyd/zekell/20221206035549 art.md",
+		"/Users/errollloyd/zekell/20201229155911 ZettelKasten Web Dashboard.md",
+		"/Users/errollloyd/zekell/20201025155619 zkell.md",
+		"/Users/errollloyd/zekell/20240129224323 Electric Guitar Amplification and Effects.md",
+		"/Users/errollloyd/zekell/20240114071826 Guitar.md",
+		"/Users/errollloyd/zekell/20220603022628 Music.md",
+		"/Users/errollloyd/zekell/20211124063813 Music.md",
+		"/Users/errollloyd/zekell/20200911173049 SQLite.md",
+		"/Users/errollloyd/zekell/20220802032733 Full Text Search.md",
+		"/Users/errollloyd/zekell/20240124063021 Triggers.md",
+		"/Users/errollloyd/zekell/20231127045552 SQLite CLI.md",
+		"/Users/errollloyd/zekell/20231031023237 Circle of Fifths.md",
+		"/Users/errollloyd/zekell/20231031031110 Twelve Tone Equal Temperament (12-TET).md",
+		"/Users/errollloyd/zekell/20211121005727 Music Theory.md",
+		"/Users/errollloyd/zekell/20240124053013 Neuroscience of Music.md",
+		"/Users/errollloyd/zekell/20240124055900 Jonny's reading sources on music and neuroscience.md",
+		"/Users/errollloyd/zekell/20220603060721 Anthropology of music.md",
+		"/Users/errollloyd/zekell/20240112064116 Finances.md",
+		"/Users/errollloyd/zekell/20240123032603 Films or Movies.md",
+		"/Users/errollloyd/zekell/20211124063822 Film.md",
+		"/Users/errollloyd/zekell/20240123030603 La La Land.md",
+		"/Users/errollloyd/zekell/20220517072639 RoboCop.md",
+		"/Users/errollloyd/zekell/20211124033621 Recommendations.md",
+		"/Users/errollloyd/zekell/20220428060834 Networking! Ack!.md",
+		"/Users/errollloyd/zekell/20220506034250 Techniques.md",
+		"/Users/errollloyd/zekell/20240118044358 D3.md",
+		"/Users/errollloyd/zekell/20220510014125 SQLite as a server DB.md",
+		"/Users/errollloyd/zekell/20201025110953 Human Life.md",
+		"/Users/errollloyd/zekell/20220303053048 Index of tags.md",
+		"/Users/errollloyd/zekell/20220511023801 Life Lessons.md",
+		"/Users/errollloyd/zekell/20230502014213 The friction and heat of human interaction derives from the turbulent flow of context.md",
+		"/Users/errollloyd/zekell/20200922152119 Culture compounds and is complex.md",
+		"/Users/errollloyd/zekell/20200911174812 zettelkasten-sqlite.md",
+		"/Users/errollloyd/zekell/20221024232514 Words can be like x-rays.md",
+		"/Users/errollloyd/zekell/20240115035042 Vocabulary.md",
+		"/Users/errollloyd/zekell/20220306232336 Excerpts.md",
+		"/Users/errollloyd/zekell/20230112235344 It is the difficult that is the path.md",
+		"/Users/errollloyd/zekell/20230117023639 Miscellaneous Excerpts and Quotes.md",
+		"/Users/errollloyd/zekell/20220224071715 bash.md",
+		"/Users/errollloyd/zekell/20211130044538 Python Standard Lib HTTP Server.md",
+		"/Users/errollloyd/zekell/20240114071929 Setting up an Electric Guitar.md",
+		"/Users/errollloyd/zekell/20201105143219 Core Util.md",
+		"/Users/errollloyd/zekell/20200920193136 S3.md",
+		"/Users/errollloyd/zekell/20220511044158 HW_v_Sagar Lab Notes.md",
+		"/Users/errollloyd/zekell/20211119052451 PhD Thesis.md",
+		"/Users/errollloyd/zekell/20220511042031 Lab Book.md",
+		"/Users/errollloyd/zekell/20220511044131 Lab Notes.md",
+		"/Users/errollloyd/zekell/20220511050521 Methods.md",
+		"/Users/errollloyd/zekell/20220511042357 Tasks.md",
+		"/Users/errollloyd/zekell/20220511043636 HW_v_Sagar ToDo.md",
+		"/Users/errollloyd/zekell/20220511043733 Experiment Ready.md",
+		"/Users/errollloyd/zekell/20230324045032 Experiments and Results.md",
+		"/Users/errollloyd/zekell/20211119053056 Thesis.md",
+		"/Users/errollloyd/zekell/20200920200115 phd-backup-s3-bucket.md",
+		"/Users/errollloyd/zekell/20240112061818 chores.md",
+		"/Users/errollloyd/zekell/20240112061832 Welfare.md",
+		"/Users/errollloyd/zekell/20220906010531 Meno's Paradox of learning.md",
+		"/Users/errollloyd/zekell/20221018032658 Every paradigm in every field has a meta-paradigm concerning the fields paradigm dynamics.md",
+		"/Users/errollloyd/zekell/20211210030303 Semantic HTML and CSS.md",
+		"/Users/errollloyd/zekell/20220615013243 ANSI Escape Codes.md",
+		"/Users/errollloyd/zekell/20220907003329 Shells.md",
+		"/Users/errollloyd/zekell/20240105004407 ANSI Color Codes.md",
+		"/Users/errollloyd/zekell/20220809072513 Colour.md",
+		"/Users/errollloyd/zekell/20211230125439 macOS Unix.md",
+		"/Users/errollloyd/zekell/20240104060123 How to tell if a shell is a login or interactive shell.md",
+		"/Users/errollloyd/zekell/20220906002923 Is human cognition principally individualised or distributed?.md",
+		"/Users/errollloyd/zekell/20211124033745 HASS.md",
+		"/Users/errollloyd/zekell/20211124034320 STEM.md",
+		"/Users/errollloyd/zekell/20231201033712 Interacting with and getting information from the interpreter with sys module.md",
+		"/Users/errollloyd/zekell/20221019011452 Brian simulator of spiking neural networks in python.md",
+		"/Users/errollloyd/zekell/20201016154509 Standard Library.md",
+		"/Users/errollloyd/zekell/20200904085515 pyconau_2020.md",
+		"/Users/errollloyd/zekell/20211214023915 print.md",
+		"/Users/errollloyd/zekell/20220411061125 datetime.md",
+		"/Users/errollloyd/zekell/20200911173110 Basics.md",
+		"/Users/errollloyd/zekell/20211124063952 Processing.md",
+		"/Users/errollloyd/zekell/20230801140141 Cartographer Amp Model.md",
+		"/Users/errollloyd/zekell/20220615015100 ASCII.md",
+		"/Users/errollloyd/zekell/20230908050720 Fundamentals of how computers work.md",
+		"/Users/errollloyd/zekell/20201229141113 Lexing and Parsing.md",
+		"/Users/errollloyd/zekell/20230828132925 Not knowing other generations keeps you a child.md"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/errollloyd/Developer/rust_learn/the_book/guessing_game/src/main.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										942,
+										943
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										229,
+										230
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".rs",
+								"current_syntax": "Rust/Rust",
+								"enabled": true,
+								"last_updated": 1707277949.51,
+								"scanning": "-comment"
+							},
+							"lsp_uri": "file:///Users/errollloyd/Developer/rust_learn/the_book/guessing_game/src/main.rs",
+							"rainbow_checked": true,
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 145.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/passing_by_reference.rs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										158,
+										159
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										61,
+										62
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".rs",
+								"current_syntax": "Rust/Rust",
+								"enabled": true,
+								"last_updated": 1707277949.51,
+								"scanning": "-comment"
+							},
+							"lsp_uri": "file:///Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/passing_by_reference.rs",
+							"rainbow_checked": true,
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 405.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Learning Rust: The Book.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"guess main",
+				"guessing_game/src/main.rs"
+			],
+			[
+				"per",
+				"20220309055232 Personal.md"
+			],
+			[
+				"type",
+				"20220204061843 Python Typing Questions.md"
+			],
+			[
+				"pyt",
+				"20210413143312 pytest.md"
+			],
+			[
+				"DELETE",
+				"20211118010327 DELETE.md"
+			],
+			[
+				"ze",
+				"20200911174812 zettelkasten-sqlite.md"
+			],
+			[
+				"pyth",
+				"20200904105632 Python.md"
+			],
+			[
+				"fi",
+				"prototype/20211019103824 first_note.md"
+			],
+			[
+				"zk",
+				"20200831005955 sublime_zk.mdzk"
+			],
+			[
+				"zett",
+				"zettelkasten.sublime-project"
+			],
+			[
+				"py",
+				"20200904105632 Python.mdzk"
+			],
+			[
+				"cust",
+				"20201009191618 Custom Addtions.mdzk"
+			],
+			[
+				"sof",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"bra",
+				"20201009182253 Listing branches and remotes.mdzk"
+			],
+			[
+				"git",
+				"20201009181737 git.mdzk"
+			],
+			[
+				"aws",
+				"20200920193126 AWS.mdzk"
+			],
+			[
+				"soft",
+				"20200911124716 Software.mdzk"
+			],
+			[
+				"",
+				".search_results.zkr"
+			],
+			[
+				"gen",
+				"notes/general_thoughts.md"
+			],
+			[
+				"lif",
+				"code/lif/lif.py"
+			],
+			[
+				"stat",
+				"HWS #phd/static_two_layer.py"
+			],
+			[
+				"the",
+				"themis.py"
+			],
+			[
+				"heph",
+				"hephaistos.py"
+			],
+			[
+				"her",
+				"hermes.py"
+			],
+			[
+				"qui",
+				"/Volumes/MagellanX/PhD/Data/length_tun_data/quick_run.py"
+			],
+			[
+				"ath",
+				"zeus/athena.py"
+			],
+			[
+				"at",
+				"zeus/athena_themis.todo"
+			],
+			[
+				"th",
+				"themis.py"
+			],
+			[
+				"aht",
+				"athena_themis.todo"
+			],
+			[
+				"ol",
+				"zeus/old_zeus.py"
+			],
+			[
+				"pr",
+				"zeus/protoZeus.py"
+			],
+			[
+				"zu",
+				"zeus/zeus.py"
+			],
+			[
+				"pro",
+				"zeus/protoZeus.py"
+			],
+			[
+				"qu",
+				"spike2_workflow_test/hephaistos_testing/u1_r1.smrx/quickViewProto.py"
+			],
+			[
+				"s",
+				"zeus/spk2_mat_read.py"
+			],
+			[
+				"z",
+				"zeus/zeus.py"
+			],
+			[
+				"hep",
+				"zeus/hephaistos.py"
+			],
+			[
+				"todo ",
+				"project_notes/todo_check_files"
+			],
+			[
+				"phd ",
+				"project_notes/phd_timeline.todo.html"
+			],
+			[
+				"hel",
+				"git/helpers.csv"
+			],
+			[
+				"2018",
+				"RB_general/2018_10_19_hours.csv"
+			],
+			[
+				"to",
+				"project_notes/todo_check.sh"
+			],
+			[
+				"todo",
+				"project_notes/todo_check_files"
+			],
+			[
+				"reg",
+				"git/regex_test.todo"
+			],
+			[
+				"hou",
+				"RB_general/2018_10_05_hours.csv"
+			],
+			[
+				"20",
+				"RB_general/2018_09_21_hours.csv"
+			],
+			[
+				"prog",
+				"project_notes/prog_review_3.5.md"
+			],
+			[
+				"test",
+				"RB_general/test"
+			],
+			[
+				"work",
+				"git/workshop_materials.todo"
+			],
+			[
+				"v",
+				"Scripts/vcnl_analysis.py"
+			],
+			[
+				"rfd",
+				"Scripts/rfDistCalc.py"
+			],
+			[
+				"loc",
+				"loc_1_var.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 306.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"criticl",
+				"tag-critical"
+			],
+			[
+				"",
+				"Abbot:2011fd"
+			]
+		],
+		"width": 664.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
