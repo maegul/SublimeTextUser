@@ -1165,6 +1165,23 @@
 	},
 
 
+	// >> Actions
+
+	// >>> Code actions
+
+	{
+		"command": "lsp_code_actions",
+		"keys": [" ", "i", "a"],
+		"context": [
+			{
+				"key": "lsp.session_with_capability",
+				"operand": "codeActionProvider.codeActionKinds"
+			},
+			{"key": "setting.command_mode"}
+		]
+	},
+
+
 	// > Open URL
 
 	// Replacement for ctrl+u, as collides with vintage ctrl+u

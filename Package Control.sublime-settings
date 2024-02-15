@@ -25,6 +25,7 @@
 		"LSP-html",
 		"LSP-json",
 		"LSP-pyright",
+		"LSP-rust-analyzer",
 		"LSP-TexLab",
 		"LSP-typescript",
 		"LSP-yaml",
