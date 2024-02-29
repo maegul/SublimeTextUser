@@ -1,0 +1,28 @@
+{
+	"folders":
+	[
+		{
+			"path": "~/Developer/rust_learn/the_book/misc_play"
+		}
+	],
+	"settings": {
+		"LSP": {
+			"rust-analyzer": {
+				"settings": {
+					"rust-analyzer.linkedProjects": [
+						{
+							"sysroot_src": "/Users/errollloyd/.rustup/toolchains/stable-x86_64-apple-darwin",
+							"crates": [
+								{
+									"root_module": "ownership/mutate_vector_elements.rs",
+									"edition": "2018",
+									"deps": [],
+								},
+							]
+						}
+					]
+				}
+			}
+		}
+	}
+}

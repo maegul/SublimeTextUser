@@ -22,6 +22,7 @@
 		"INI",
 		"LSP",
 		"LSP-bash",
+		"LSP-file-watcher-chokidar",
 		"LSP-html",
 		"LSP-json",
 		"LSP-pyright",
