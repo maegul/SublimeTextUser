@@ -936,6 +936,22 @@
 		"command": "wrap_brackets",
 		"context": [{"key": "setting.command_mode"}]
 	},
+
+	// >> Fold Bracket content
+
+	{
+		"keys": [" ", "b", "f"], // "w" = wrap
+		"command": "bh_key",
+		"args":
+		{
+			"plugin": {
+				"command" : "bh_modules.foldbracket"
+			}
+		},
+		"context": [{"key": "setting.command_mode"}]
+	},
+
+
 	// // Toggle high visibility mode
 	// {
 	//     "keys": ["ctrl+alt+super+v"],
