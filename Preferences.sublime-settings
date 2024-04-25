@@ -2,7 +2,6 @@
 	"ignored_packages":
 	[
 		"INI",
-		"LSP-yaml",
 	],
 	"auto_complete": false,
 	"show_project_first": true,
@@ -115,5 +114,6 @@
 	"rulers": [
 		[100, "stippled"]
 	],
-	"index_files": false,
+	// "index_files": false,
+	"index_files": true,
 }

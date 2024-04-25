@@ -2,8 +2,15 @@
 	"clients":
 	{
 		"pyls": {"enabled": false },
-		"pyright": {"enabled": true}
+		"pyright": {
+			"enabled": true,
+		    "env":
+		    {
+		        "PATH": "/Users/errollloyd/miniconda3/envs/:/usr/local/bin"
+		    }
+		}
 	},
 	"document_highlight_style": "",
-	"show_diagnostics_count_in_view_status": false
+	"show_diagnostics_count_in_view_status": false,
+	"log_debug": false,
 }

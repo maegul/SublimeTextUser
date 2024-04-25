@@ -21,15 +21,10 @@
 		"FindKeyConflicts",
 		"INI",
 		"LSP",
-		"LSP-bash",
 		"LSP-file-watcher-chokidar",
-		"LSP-html",
 		"LSP-json",
 		"LSP-pyright",
 		"LSP-rust-analyzer",
-		"LSP-TexLab",
-		"LSP-typescript",
-		"LSP-yaml",
 		"MarkdownEditing",
 		"MarkdownPreview",
 		"MarkdownTOC",
@@ -47,16 +42,21 @@
 		"TOML",
 		"WordingStatus",
 		"xonsh",
-		"YAML Nav",
 	],
 	"repositories":
 	[
 		"https://github.com/maegul/table_of_comments.git",
 		"https://github.com/maegul/comment_marks.git",
 	],
-	"channels":
-	[
-		"https://packagecontrol.io/channel_v3.json",
-		"https://github.com/maegul/comment_marks.git"
+	// "channels":
+	// [
+	// 	"https://packagecontrol.io/channel_v3.json",
+	// 	"https://github.com/maegul/comment_marks.git"
+	// ],
+
+	// from https://github.com/packagecontrol/channel/blob/main/readme.md
+	"channels": [
+	"https://packagecontrol.github.io/channel/channel_v4.json",
+	"https://packagecontrol.io/channel_v3.json",
 	],
 }

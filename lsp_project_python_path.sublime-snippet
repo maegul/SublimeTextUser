@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+"settings": {
+	"LSP": {
+		"LSP-pyright": {
+			"settings": {
+				"python.pythonPath": "/Users/errollloyd/miniconda3/envs/$1/bin/python"
+			}
+		}
+	}
+},
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>pythonpath</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.json.sublime.project</scope>
+</snippet>

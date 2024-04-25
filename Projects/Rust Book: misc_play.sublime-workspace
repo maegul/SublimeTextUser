@@ -543,7 +543,7 @@
 						"motion_mode": 0
 					},
 					"AQAAAJwAAAAAAAAAqgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+					"DQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
 				]
 			],
 			"settings":
@@ -575,7 +575,7 @@
 						]
 					},
 					"AgAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAUwAAAAAAAABUAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+					"DQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					8,
@@ -583,7 +583,7 @@
 					"vi_paste_right",
 					null,
 					"AQAAAFUAAAAAAAAA6wEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
+					"DQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUwAAAAAAAABTAAAAAAAAAAAAAAAAAPC/"
 				],
 				[
 					12,
@@ -612,7 +612,7 @@
 						]
 					},
 					"AgAAAFIAAAAAAAAAUwAAAAAAAAAAAAAAVAAAAAAAAABUAAAAAAAAAAEAAAAJ",
-					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAAAA"
+					"DQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAAAA"
 				],
 				[
 					14,
@@ -632,7 +632,7 @@
 						"motion_mode": 0
 					},
 					"AQAAAFQAAAAAAAAAVAAAAAAAAAABAAAACg",
-					"AQAAAAAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAgEZA"
+					"DQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVAAAAAAAAABUAAAAAAAAAAAAAAAAgEZA"
 				],
 				[
 					25,
@@ -681,69 +681,31 @@
 						]
 					},
 					"AQAAAFQBAAAAAAAAVAEAAAAAAAAKAAAAbWlzY19wbGF5Lw",
-					"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+					"DQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
 		{
-			"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/mutate_vector_elements.rs",
+			"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/basics/src/main.rs",
 			"settings":
 			{
-				"buffer_size": 325,
-				"encoding": "UTF-8",
+				"buffer_size": 2717,
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
-				[
-					25,
-					1,
-					"toggle_comment",
-					{
-						"block": false
-					},
-					"AQAAAKwAAAAAAAAArwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAyQAAAAAAAADJAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					27,
-					1,
-					"toggle_comment",
-					{
-						"block": false
-					},
-					"AQAAAGwAAAAAAAAAbAAAAAAAAAADAAAALy8g",
-					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAQHRA"
-				],
-				[
-					89,
-					1,
-					"toggle_comment",
-					{
-						"block": false
-					},
-					"AQAAAKkAAAAAAAAAqQAAAAAAAAADAAAALy8g",
-					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAgE9A"
-				],
-				[
-					91,
-					1,
-					"toggle_comment",
-					{
-						"block": false
-					},
-					"AQAAAGwAAAAAAAAAbwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAEJA"
-				]
 			]
 		},
 		{
-			"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/rust-project.json",
+			"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/borrow_checker/src/main.rs",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 8461,
 				"line_ending": "Unix"
-			}
+			},
+			"undo_stack":
+			[
+			]
 		}
 	],
 	"build_system": "Packages/Rust/Rust.sublime-build",
@@ -777,6 +739,18 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pack list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack con insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack con remo",
+				"Package Control: Remove Package"
+			],
 			[
 				"project rem",
 				"Project Manager: Remove Project"
@@ -1276,25 +1250,13 @@
 			[
 				"zkl ope",
 				"Zekell Open Note"
-			],
-			[
-				"file cop",
-				"File Manager: Copy Name"
-			],
-			[
-				"zkl linn",
-				"Zekell Link to New Note"
-			],
-			[
-				"zkl van",
-				"Zekell Navigate Notes"
 			]
 		],
 		"width": 476.0
 	},
 	"console":
 	{
-		"height": 242.0,
+		"height": 985.0,
 		"history":
 		[
 			"sublime.log_commands(True)",
@@ -1438,13 +1400,18 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play"
+		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play",
+		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/basics",
+		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/basics/src",
+		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/borrow_checker",
+		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/borrow_checker/src"
 	],
 	"file_history":
 	[
+		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/rust-project.json",
+		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/mutate_vector_elements.rs",
 		"/Users/errollloyd/Library/Application Support/Sublime Text/Packages/User/Projects/Learning Rust: The Book.sublime-project",
 		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/rust-project.json",
-		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/mutate_vector_elements.rs",
 		"/Users/errollloyd/Developer/rust_learn/the_book/guessing_game/src/main.rs",
 		"/Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/passing_by_reference.rs",
 		"/Users/errollloyd/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/library/std/src/macros.rs",
@@ -1568,12 +1535,11 @@
 		"/Users/errollloyd/zekell/20201016154509 Standard Library.md",
 		"/Users/errollloyd/zekell/20200904085515 pyconau_2020.md",
 		"/Users/errollloyd/zekell/20211214023915 print.md",
-		"/Users/errollloyd/zekell/20220411061125 datetime.md",
-		"/Users/errollloyd/zekell/20200911173110 Basics.md"
+		"/Users/errollloyd/zekell/20220411061125 datetime.md"
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -1587,6 +1553,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"No module named",
+			"lsp"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1621,31 +1589,116 @@
 						"selection":
 						[
 							[
-								156,
-								156
+								154,
+								154
 							]
 						],
 						"settings":
 						{
-							"color_helper.scan":
+							"auto_complete_triggers":
+							[
+								{
+									"selector": "meta.mapping.key punctuation.definition.string.begin - meta.setting-value.sublime-settings meta.mapping.value"
+								},
+								{
+									"selector": "- comment - punctuation.separator - punctuation.definition.string.end - constant.character.escape - invalid.illegal - punctuation.section.mapping - punctuation.section.sequence",
+									"server": "LSP-json"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
 							{
-								"allow_scanning": false,
-								"color_class":
-								[
-									{
-										"class": "css-level-4",
-										"scopes": ""
-									}
-								],
-								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
-								"current_ext": ".sublime-project",
-								"current_syntax": "PackageDev/Package/Sublime Text Project/Sublime Text Project",
-								"enabled": true,
-								"last_updated": 1708989680.87,
-								"scanning": "-comment"
+								"close":
+								{
+									"1":
+									[
+										184,
+										185
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										155,
+										156
+									]
+								},
+								"unmatched":
+								{
+								}
 							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"color_helper.refresh": true,
+							"lsp_active": true,
 							"lsp_uri": "file:///Users/errollloyd/Library/Application%20Support/Sublime%20Text/Packages/User/Projects/Rust%20Book%3A%20misc_play.sublime-project",
 							"rainbow_checked": true,
+							"show_definitions": false,
 							"syntax": "Packages/PackageDev/Package/Sublime Text Project/Sublime Text Project.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": false
@@ -1654,46 +1707,105 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/mutate_vector_elements.rs",
+					"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/basics/src/main.rs",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 325,
+						"buffer_size": 2717,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								175,
-								175
+								17,
+								17
 							]
 						],
 						"settings":
 						{
-							"auto_complete_triggers":
-							[
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
 								{
-									"characters": "<",
-									"selector": "text.html, text.xml"
 								},
+								"icon":
 								{
-									"rhs_empty": true,
-									"selector": "punctuation.accessor"
 								},
+								"open":
 								{
-									"characters": ":.'(",
-									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
-									"server": "rust-analyzer"
+								},
+								"unmatched":
+								{
 								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
 							],
+							"color_helper.refresh": true,
 							"color_helper.scan":
 							{
 								"allow_scanning": false,
@@ -1708,14 +1820,11 @@
 								"current_ext": ".rs",
 								"current_syntax": "Rust/Rust",
 								"enabled": true,
-								"last_updated": 1708989680.87,
+								"last_updated": 1713835080.34,
 								"scanning": "-comment"
 							},
-							"lsp_active": true,
-							"lsp_hover_provider_count": 1,
-							"lsp_uri": "file:///Users/errollloyd/Developer/rust_learn/the_book/misc_play/ownership/mutate_vector_elements.rs",
+							"lsp_uri": "file:///Users/errollloyd/Developer/rust_learn/the_book/misc_play/basics/src/main.rs",
 							"rainbow_checked": true,
-							"show_definitions": false,
 							"syntax": "Packages/Rust/Rust.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -1730,23 +1839,113 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/rust-project.json",
-					"semi_transient": false,
+					"file": "/Users/errollloyd/Developer/rust_learn/the_book/misc_play/borrow_checker/src/main.rs",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 8461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								163,
+								163
 							]
 						],
 						"settings":
 						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										163,
+										164
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.round"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										158,
+										159
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.refresh": true,
 							"color_helper.scan":
 							{
 								"allow_scanning": false,
@@ -1758,21 +1957,23 @@
 									}
 								],
 								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
-								"current_ext": ".json",
-								"current_syntax": "JSON/JSON",
+								"current_ext": ".rs",
+								"current_syntax": "Rust/Rust",
 								"enabled": true,
-								"last_updated": 1708989680.87,
+								"last_updated": 1713770412.93,
 								"scanning": "-comment"
 							},
-							"lsp_uri": "file:///Users/errollloyd/Developer/rust_learn/the_book/misc_play/rust-project.json",
+							"lsp_uri": "file:///Users/errollloyd/Developer/rust_learn/the_book/misc_play/borrow_checker/src/main.rs",
 							"rainbow_checked": true,
-							"syntax": "Packages/JSON/JSON.sublime-syntax"
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
@@ -1781,7 +1982,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -1834,7 +2035,7 @@
 	"project": "Rust Book: misc_play.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
