@@ -5,6 +5,9 @@
 		"dark": "hsl(226, 13.8%, 15.5%)",
 		"white": "hsl(20, 10%, 65%)",
 		"accent_red": "hsl(0, 38%, 54%)",
+		"accent_red2": "hsl(0, 18%, 48%)",
+		"accent_red3": "hsl(67.4, 31.7%, 38.7%)",
+		"accent_red4": "hsl(188, 37.5%, 41.7%)",
 		// for italic+bold
 		"accent_orange_strong": "hsl(17.5, 63.2%, 65.9%)",
 		"accent_orange": "hsl(30.8, 55.3%, 60.2%)",
@@ -115,6 +118,7 @@
 			"scope": "markup.heading.2.markdown, markup.heading.2.markdown entity.name.section.markdown",
 			// "foreground": "var(accent_red)",
 			"font_style": "bold underline",
+			// "foreground": "color(var(accent_red2) s(+ 10%))",
 			"background": "color(var(dark) l(- 6%))"
 		},
 		{
@@ -122,6 +126,7 @@
 			"scope": "markup.heading.3.markdown, markup.heading.3.markdown entity.name.section.markdown",
 			// "foreground": "var(accent_red)",
 			"font_style": "bold",
+			// "foreground": "color(var(accent_red3) s(+ 10%))",
 			"background": "color(var(dark) l(- 2%))"
 		},
 		{
@@ -129,6 +134,7 @@
 			"scope": "markup.heading.4.markdown, markup.heading.4.markdown entity.name.section.markdown",
 			// "foreground": "var(accent_red)",
 			"font_style": "bold italic",
+			// "foreground": "color(var(accent_red4) s(+ 10%))",
 			"background": "color(var(dark) l(+ 4%))"
 		},
 		{
