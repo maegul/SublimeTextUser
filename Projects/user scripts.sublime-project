@@ -20,8 +20,19 @@
 			"path": "/Users/errollloyd/.goto"
 		}
 	],
-	"settings":
-	{
+
+	// now necessary to get lsp pyright working ... gotta point directly at the path of the binary
+	"settings": {
+		"LSP": {
+			"LSP-pyright": {
+				"settings": {
+					"python.pythonPath": "/Users/errollloyd/miniconda3/envs/general/bin/python"
+				}
+			}
+		},
 		"python_interpreter": "/usr/local/bin/python3"
-	}
+	},
+
+
+
 }
