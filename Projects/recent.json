@@ -13,7 +13,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/StandUp #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/blog_main.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/visual_cortex_katie_code #phd.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_user #dev.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/Hammerspoon.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/comment_marks  #dev.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/ansible_setup_scripts #pychm.sublime-project",
@@ -33,5 +32,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/Learning Rust: The Book.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/jupyterhub_dev #pychm.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/lif #phd.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/user scripts.sublime-project"
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/user scripts.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_user #dev.sublime-project"
 ]

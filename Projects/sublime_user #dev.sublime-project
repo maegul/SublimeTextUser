@@ -14,5 +14,16 @@
 			"name": "sublime_user #dev",
 			"path": "~/Library/Application Support/Sublime Text/Packages/User"
 		}
-	]
+	],
+	"settings": {
+		"LSP": {
+			"LSP-pyright": {
+				"settings": {
+					"python.pythonPath": "/Users/errollloyd/miniconda3/envs//bin/python"
+				}
+			}
+		}
+	},
+
 }
+
