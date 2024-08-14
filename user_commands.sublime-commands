@@ -51,5 +51,6 @@
 	{"caption": "Zekell Open Child Notes", "command": "zekell_open_child_note"},
 	{"caption": "Zekell Navigate Notes", "command": "zekell_navigate_notes"},
 	{"caption": "MD Strike Point", "command": "md_strike_point"},
-	{"caption": "MD Dead Lines", "command": "md_dead_line_find"}
+	{"caption": "MD Dead Lines", "command": "md_dead_line_find"},
+	{"caption": "MDNB Send Command", "command": "send_cell_to_repl"},
 ]
