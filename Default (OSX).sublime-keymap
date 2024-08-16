@@ -323,19 +323,25 @@
 	},
 
 	// Running code through Send Code
-	{
-		"keys": ["shift+enter"], "command": "send_code",
-		"context": [
-			{ "key": "selector", "operator": "equal", "operand": "source" }
-		]
-	},
-	{
-		"keys": ["shift+enter"], "command": "send_code",
-		"context": [
-			// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
-			{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
-		]
-	},
+	// Redundant ... covered by keybindings in separate section under heading "Send Code"
+
+	// {
+	// 	"keys": ["shift+enter"], "command": "send_code",
+	// 	"context": [
+	// 		{ "key": "selector", "operator": "equal", "operand": "source" }
+	// 	]
+	// },
+	// >> Send code from markdown code cells
+	// {
+	// 	"keys": ["shift+enter"], "command": "send_code",
+	// 	"context": [
+	// 		// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+	// 		{
+	// 			"key": "selector", "operator": "equal",
+	// 			"operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown"
+	// 		}
+	// 	]
+	// },
 
 
 	//
@@ -1231,21 +1237,24 @@
 
 
 	// > Send Code
+
 	// might conflict with replace all in find panel??
 
-	{
-		"keys": ["ctrl+shift+enter"], "command": "send_code",
-		"context": [
-			{ "key": "selector", "operator": "equal", "operand": "source" }
-		]
-	},
-	{
-		"keys": ["ctrl+shift+enter"], "command": "send_code",
-		"context": [
-			// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
-			{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
-		]
-	},
+	// {
+	// 	"keys": ["ctrl+shift+enter"], "command": "send_code",
+	// 	"context": [
+	// 		{ "key": "selector", "operator": "equal", "operand": "source" }
+	// 	]
+	// },
+
+	// >> For Markdown code cells
+	// {
+	// 	"keys": ["ctrl+shift+enter"], "command": "send_code",
+	// 	"context": [
+	// 		// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+	// 		{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
+	// 	]
+	// },
 
 	// >> Re-instate original keybinding for super+enter
 	// Default key binding for SendCode ... undesirable ... want original back
@@ -1257,6 +1266,39 @@
 			{ "key": "overlay_has_focus", "operator": "equal", "operand": false },
 		],
 	 },
+
+	// > MD REPL
+
+	// >> Insert Output
+	{
+		"keys": ["shift+enter"],
+		"command": "markdown_notebook_send_cell_to_repl",
+		"args": {"insert_output": true},
+		"context": [
+			// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+			{
+				"key": "selector",
+				"operator": "equal",
+					"operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown"
+			}
+		]
+	},
+
+	// >> Don't insert Output
+	{
+		"keys": ["ctrl+enter"],
+		"command": "markdown_notebook_send_cell_to_repl",
+		// "args": {"insert_output": true},
+		"context": [
+			// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+			{
+				"key": "selector",
+				"operator": "equal",
+					"operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown"
+			}
+		]
+	},
+
 
 	// > Python REPL
 

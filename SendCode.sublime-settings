@@ -1,8 +1,5 @@
 {
-	"md":
-	{
-		"prog": "terminal",
-	},
+	"md": {"prog": "terminal", },
 	"prog": "terminal",
 	"python":
 	{

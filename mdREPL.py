@@ -16,7 +16,7 @@ Ability to mark regions with comments and run whole regions at a time
 import sublime  # type: ignore
 import sublime_plugin  # type: ignore
 
-from typing import cast, Optional, List
+from typing import cast, Optional, List, Tuple
 
 import re
 from collections import namedtuple
@@ -41,9 +41,42 @@ CELL_BOT_TEXT = CELL_BOT.replace('\\', '')
 # as requires multiple new lines to run in ipython
 CODE_INDENT_PATTERN = r'\n\s+.+$'
 
-CELL_MARKER = namedtuple('cell_marker', ('row', 'type'))
+
+# # Settings Management
+
+SETTINGS_NAME = 'md_repl.sublime-settings'
+
+# default empty, should be filled by config retrieval
+MD_REPL_SOCKET_PATHS: dict = {}
+
+
+def get_config():
+    settings = sublime.load_settings(SETTINGS_NAME)
+
+    socket_paths = settings.get('md_repl_socket_paths')
+    socket_paths = cast(dict, socket_paths)
+
+    if not socket_paths:
+        print(f'{ERROR_MSG_PREFIX}Socket paths not found in settings')
+        return
+
+    global MD_REPL_SOCKET_PATHS
+    MD_REPL_SOCKET_PATHS = socket_paths
+    print(f'MD Repl Socket Paths: {socket_paths}')
+
+def get_socket_path(syntax) -> Optional[str]:
+    return MD_REPL_SOCKET_PATHS.get(syntax)
+
+
 
 # # Utilities
+
+
+class MarkdownNotebookReloadSettingsCommand(sublime_plugin.TextCommand):
+
+    def run(self, edit):
+        get_config()
+
 
 def get_row(view: sublime.View, selection: sublime.Region):
     """Return 0-based row for empty, point-like, Region"""
@@ -127,32 +160,15 @@ def send_recv_socket_data(
 
 
 
-# # Testing
+# # Load config when plugin loaded
+def plugin_loaded():
+    get_config()
 
-class TestMdCommand(sublime_plugin.TextCommand):
-    """Add cell top and bottom markers around current selection"""
-
-    def run(self, edit):
-        print("hello from md test")
-
-        print("trying socket")
-        try:
-            c = mk_socket_connection('/tmp/soc')
-            print(c)
-
-            print("sending command!!")
-            o = send_recv_socket_data(c, '.tables')
-            print("output: ", o)
-        except Exception as e:
-            raise e
-        finally:
-            print("closing")
-            c.close()
 
 # # Plugin Proto
 
 # can run in console with `view.run_command('set_repl...', {'socket_path', '...'})`
-class SetReplSocketPathCommand(sublime_plugin.TextCommand):
+class MarkdownNotebookSetReplSocketPathCommand(sublime_plugin.TextCommand):
 
     def run(self, edit, **kwd: str):
         socket_path = kwd['socket_path']
@@ -175,18 +191,18 @@ class SetReplSocketPathCommand(sublime_plugin.TextCommand):
 
 
 
-class SendCellToReplCommand(sublime_plugin.TextCommand):
+class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
 
-    def run(self, edit):
+    def run(self, edit, **kwargs):
+
+        insert_output: Optional[bool] = kwargs.get('insert_output')
 
         view = self.view
         current_cursor = view.sel()[0]
 
-        # current_scope = view.extract_scope(current_cursor.a)
+        # ## Check markdown code cell
         current_scope = view.scope_name(current_cursor.b).rstrip().split(" ")
-
         # print("md repl, current scope: ", current_scope)
-
         is_md_code_cell = all((
                 'markdown' in current_scope[0],  # first scope should have markdown (?)
                 any((
@@ -195,33 +211,60 @@ class SendCellToReplCommand(sublime_plugin.TextCommand):
                     ))
             ))
 
-        # print("md repl, is code cell: ", is_md_code_cell)
-
         if not is_md_code_cell:
             print("MD Repl ERROR: Not a code cell/block!")
             return
 
-        cell_region = self.extract_code_cell_region(view)
-        if cell_region is None:  # failed to get
+        # ## Extract Code
+        cell_region_data = self.extract_code_cell_region(view)
+        if cell_region_data is None:  # failed to get
             return
 
+        cell_region, cell_top_line = cell_region_data
+
         cell_text = view.substr(cell_region)
+        # get cell syntax
+        cell_top_syntax_region = view.line(view.text_point(cell_top_line, 0))
+        cell_top_text = view.substr(cell_top_syntax_region)
+        cell_syntax_match = re.fullmatch(r'^```(\w+)$', cell_top_text)
+        if not cell_syntax_match:
+            print(f'{ERROR_MSG_PREFIX}Failed to extract syntax from {cell_top_text} at line {cell_top_line+1}')
+            return
+        cell_syntax = cell_syntax_match.group(1)
+
         # print(repr(cell_text))
         # cleaned_cell_text = clean_new_lines(cell_text)
         # print(repr(cleaned_cell_text))
-        try:
-            c = mk_socket_connection('/tmp/soc')
-        except Exception as e:
-            print(f"{ERROR_MSG_PREFIX}socket error:{e}")
-            return None
+
+        # ## Connect to Socket
+
+        socket_path_data = MD_REPL_SOCKET_PATHS.get(cell_syntax)
+        socket_path = socket_path_data.get('path')  # type: ignore
+
+        # have a default I guess
+        if not socket_path:
+            socket_path = '/tmp/soc'
 
         try:
+            c = mk_socket_connection(socket_path)
+        except Exception as e:
+            print(f"{ERROR_MSG_PREFIX}socket error connecting to {socket_path}:\n{e}")
+            return
+
+        # ## Send code to socket
+
+        try:
+            # print('trying to send command?')
             output_text = send_recv_socket_data(c, cell_text)
+            # print(f"output:\n{output_text}")
             c.close()
 
             if output_text:
-                output_text = output_text.rstrip()
-                self.insert_output(view, edit, cell_region, output_text)
+                # perhaps bad idea to strip whitespace before and after
+                # rstrip or perhaps just removing blank lines at beginning or end??
+                output_text = output_text.strip()
+                # output_text = output_text.rstrip()
+                self.insert_output(view, edit, cell_region, output_text, insert_output)
 
         except Exception as e:
             print(f"{ERROR_MSG_PREFIX}socket error:{e}")
@@ -231,7 +274,9 @@ class SendCellToReplCommand(sublime_plugin.TextCommand):
 
 
 
-    def extract_code_cell_region(self, view: sublime.View):
+    def extract_code_cell_region(
+            self, view: sublime.View
+            ) -> Optional[Tuple[sublime.Region, int]]:
 
         sel = view.sel()[0]
         sel_row = get_row(view, sel)
@@ -279,26 +324,34 @@ class SendCellToReplCommand(sublime_plugin.TextCommand):
                 view.text_point(cell_bottom, 0),
             )
 
-        return cell_region
+        return cell_region, cell_top
 
     def insert_output(
             self, view: sublime.View, edit,
-            cell_region: sublime.Region, output_text: str
+            cell_region: sublime.Region, output_text: str,
+            insert_output: Optional[bool]
             ):
 
-        current_cursor = view.sel()[0]
+        # print('inserting output')
+        # current_cursor = view.sel()[0]
 
         # bottom of current code cell
         cell_bottom_line = view.rowcol(cell_region.end())[0]
 
         # output cell exists?
         line_after_cell = view.text_point(cell_bottom_line+1, 0)
-        output_region = view.find(r'(?sm)^```\n.*?\n```\n', line_after_cell)
+        output_region = view.find(r'(?sm)^>\n```\n.*?\n```\n', line_after_cell)
+
+        # is output_region directly below current cell?
+        # necessary, as find will get the next output region in the document
+        # ... which can belong to the next code cell or any other below
+        output_region_is_for_this_cell = output_region.begin() == line_after_cell
 
         # if so erase
-        if output_region:
+        if output_region and output_region_is_for_this_cell:
             view.erase(edit, output_region)
 
         # add a new one
-        new_output_text = f"```\n{output_text}\n```\n"
-        view.insert(edit, line_after_cell, new_output_text)
+        if insert_output:
+            new_output_text = f">\n```\n{output_text}\n```\n"
+            view.insert(edit, line_after_cell, new_output_text)

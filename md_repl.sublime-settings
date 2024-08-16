@@ -1,0 +1,6 @@
+{
+	"md_repl_socket_paths": {
+		"python": {"path": "/tmp/python/soc"},
+		"sql": {"path": "/tmp/sql/soc"}
+	}
+}

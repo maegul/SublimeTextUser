@@ -305,27 +305,33 @@ class SendCellToTerminusCommand(sublime_plugin.WindowCommand):
                 early_cell_bottom_lines.append(cell_marker)
 
         # print(early_cell_top_lines, early_cell_bottom_lines, late_cell_top_lines, late_cell_bottom_lines)
+
         # cursor cannot be in cell if no top above or no bottom below
         if (len(early_cell_top_lines) == 0) or (len(late_cell_bottom_lines) == 0):
             return None
 
+        # no cell-bottoms before cursor
         if len(early_cell_bottom_lines) == 0:
             prev_marker = early_cell_top_lines[-1]
         else:
+            # closest of the early cell markers
             prev_marker = (
                 sorted([early_cell_top_lines[-1], early_cell_bottom_lines[-1]])
                 [-1]
             )
 
+        # no cell-tops after the cursor
         if len(late_cell_top_lines) == 0:
             next_marker = late_cell_bottom_lines[-1]
         else:
+            # closest of late cell markers
             next_marker = (
                 sorted([late_cell_top_lines[0], late_cell_bottom_lines[0]])
                 [0]
             )
 
         # cursor not in a cell as not between a top and bottom
+        # Redundant? Could just return None in the "no cell ... before/after" lines above
         if (prev_marker.type == 'bottom') or (next_marker.type == 'top'):
             return None
 

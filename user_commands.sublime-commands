@@ -52,5 +52,6 @@
 	{"caption": "Zekell Navigate Notes", "command": "zekell_navigate_notes"},
 	{"caption": "MD Strike Point", "command": "md_strike_point"},
 	{"caption": "MD Dead Lines", "command": "md_dead_line_find"},
-	{"caption": "MDNB Send Command", "command": "send_cell_to_repl"},
+	{"caption": "MD NB Send Command", "command": "markdown_notebook_send_cell_to_repl"},
+	{"caption": "MD NB Reload Settings", "command": "markdown_notebook_reload_settings"},
 ]
