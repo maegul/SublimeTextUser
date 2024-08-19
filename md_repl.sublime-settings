@@ -1,6 +1,12 @@
 {
 	"md_repl_socket_paths": {
-		"python": {"path": "/tmp/python/soc"},
-		"sql": {"path": "/tmp/sql/soc"}
+		"directory": "/tmp",
+		"socket_name": "soc",
+		// perhaps useful for sanitising for different types of programs
+		"python_program_type": "none",
+
+		// old settings
+		// "python": {"path": "/tmp/python/soc"},
+		// "sql": {"path": "/tmp/sql/soc"}
 	}
 }

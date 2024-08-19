@@ -16,12 +16,13 @@ Ability to mark regions with comments and run whole regions at a time
 import sublime  # type: ignore
 import sublime_plugin  # type: ignore
 
-from typing import cast, Optional, List, Tuple
+from typing import cast, Optional, List, Tuple, Dict, Union, Any
 
 import re
 from collections import namedtuple
 import socket
 import time
+from math import floor, ceil
 
 # # Constants
 
@@ -29,7 +30,7 @@ ERROR_MSG_PREFIX = "MD Repl ERROR: "
 
 # # Cell markers
 
-CELL_TOP = r"^```\w+$"
+CELL_TOP = r"^```\w+(.*)$"  # includes possible metadata
 CELL_BOT = r"^```$"
 
 
@@ -41,6 +42,14 @@ CELL_BOT_TEXT = CELL_BOT.replace('\\', '')
 # as requires multiple new lines to run in ipython
 CODE_INDENT_PATTERN = r'\n\s+.+$'
 
+# ## Cell Metadata parsing functions
+
+# must match cell-metadata-params and kwargs in `send_recv_socket_data()` (passed into which)
+PARAMETER_PARSING_FNS = {
+    "timeout": float,
+    "max_output_size": float,
+    "proc_time": float
+}
 
 # # Settings Management
 
@@ -64,9 +73,14 @@ def get_config():
     MD_REPL_SOCKET_PATHS = socket_paths
     print(f'MD Repl Socket Paths: {socket_paths}')
 
-def get_socket_path(syntax) -> Optional[str]:
-    return MD_REPL_SOCKET_PATHS.get(syntax)
+def get_socket_path(syntax: str) -> Optional[str]:
+    socket_dir = MD_REPL_SOCKET_PATHS.get("directory")
+    socket_name = MD_REPL_SOCKET_PATHS.get("socket_name")
+    if any(x is None for x in (socket_dir, socket_name)):
+        print(f'{ERROR_MSG_PREFIX}Socket settings invalid: dir: {socket_dir}, name: {socket_name}')
+        return None
 
+    return f'{socket_dir}/{syntax}/{socket_name}'
 
 
 # # Utilities
@@ -113,7 +127,44 @@ def clean_new_lines(code_text):
     return code_text
 
 
-# # Socket Objext
+
+def get_parsed_cell_metadata(cell_syntax_match: re.Match) -> dict:
+
+    # keys need to match kwargs of send_recv_socket_data, as passed in as kwargs
+
+    # space is important, as it separates syntax from metadata
+    metadata_pattern = r' \{(.*)\}'
+
+    parsed_meta_data: Dict[str, Any] = {}
+
+    # only if a second group
+    if cell_syntax_match.group(2):
+        # print('group: ', repr(cell_syntax_match.group(2)))
+        metadata_match = re.search(metadata_pattern, cell_syntax_match.group(2))
+        # print(metadata_match)
+
+        if metadata_match:
+            meta_data = metadata_match.group(1).split()
+            # print("meta_data: ", meta_data)
+
+            for md in meta_data:
+                if md[0] == '.':
+                    parsed_meta_data['classes'] = []
+                    parsed_meta_data['classes'].append(md)
+                else:
+                    md_parts = md.split('=')
+                    if len(md_parts) > 1:  # just check it has an "=", ignore if not
+                        parsed_meta_data[md_parts[0]] = (
+                            PARAMETER_PARSING_FNS[md_parts[0]](md_parts[1])
+                                if (md_parts[0] in PARAMETER_PARSING_FNS) else
+                            md_parts[1]
+                            )
+            # print("parsed meta_data: ", all_meta_data)
+
+
+    return parsed_meta_data
+
+# # Socket Object
 
 def mk_socket_connection(socket_path: str) -> socket.socket:
 
@@ -128,29 +179,53 @@ def mk_socket_connection(socket_path: str) -> socket.socket:
     return client_socket
 
 def send_recv_socket_data(
-        client_socket: socket.socket, input_data: str,
-        timeout: float = 0.15, buff_size: int = 4096
+            client_socket: socket.socket, input_data: str,
+            timeout: float = 0.15, proc_time: float = 0.1,
+            buff_size: int = 4096, max_output_size: int = 20
         ) -> Optional[str]:
+    """
+    max_size is in kilobytes, roughly speaking, ~10-20kb would be a lot of text
+    proc_time is a `time.sleep()` between the command and output retrieval
+    """
 
     try:
         # Set a timeout to prevent indefinite blocking
         client_socket.settimeout(timeout)
+        # client_socket.setblocking(1)
 
-        # Send data with a newline to trigger processing on the server side
-        client_socket.sendall((input_data + "\n").encode('utf-8'))
 
         # Read the response, handling the socket's blocking nature properly
 
         data = []
 
+
+        # Send data with a newline to trigger processing on the server side
+        client_socket.sendall((input_data + "\n").encode('utf-8'))
+        # seems necessary to prevent hiccoughs in the return of data, unfortunately!
+        time.sleep(proc_time)
+
         try:
+            max_number_loops = floor((max_output_size*1000) / buff_size)
+            n_loops = 0
             while True:
+            # while (n_loops < max_number_loops):
+            # for _ in range(max_number_loops):
                 chunk = client_socket.recv(buff_size)
-                if not chunk:
+                # print(n_loops, chunk)
+
+                # if not chunk:
+                # if (n_loops >= max_number_loops):
+                if not chunk or (n_loops >= max_number_loops):
                     break
                 data.append(chunk)
+                n_loops += 1
+                # time.sleep(1.000)  # just for debugging weird errors
         except socket.timeout:
-            pass  # Timeout indicates no more data is available
+            # print('timeout')
+            # Timeout indicates no more data is available, or process taking too long(?)
+            pass
+        # except Exception as e:
+        #     print('other error', e)
 
         return b''.join(data).decode('utf-8')
 
@@ -165,30 +240,7 @@ def plugin_loaded():
     get_config()
 
 
-# # Plugin Proto
-
-# can run in console with `view.run_command('set_repl...', {'socket_path', '...'})`
-class MarkdownNotebookSetReplSocketPathCommand(sublime_plugin.TextCommand):
-
-    def run(self, edit, **kwd: str):
-        socket_path = kwd['socket_path']
-
-        try:
-            c = mk_socket_connection(socket_path)
-        except Exception as e:
-            print(f'{ERROR_MSG_PREFIX}socket path invalid')
-            sublime.error_message(
-                f"{ERROR_MSG_PREFIX}Failed to connect to new socket path: {socket_path}")
-            return
-        else:
-            c.close()
-
-        settings = self.view.settings()
-        settings.set('md_repl_socket_path', socket_path)
-
-        new_path = settings.get('md_repl_socket_path')
-        print(f'new path set to {new_path}')
-
+# # Commands
 
 
 class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
@@ -216,6 +268,7 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
             return
 
         # ## Extract Code
+
         cell_region_data = self.extract_code_cell_region(view)
         if cell_region_data is None:  # failed to get
             return
@@ -226,11 +279,18 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
         # get cell syntax
         cell_top_syntax_region = view.line(view.text_point(cell_top_line, 0))
         cell_top_text = view.substr(cell_top_syntax_region)
-        cell_syntax_match = re.fullmatch(r'^```(\w+)$', cell_top_text)
+        # print(repr(cell_top_text))
+
+        # ### Get Syntax and Metadata
+
+        cell_syntax_match = re.fullmatch(r'^```(\w+)(.*)$', cell_top_text)
+        # cell_syntax_match = re.fullmatch(r'^```(\w+)$', cell_top_text)
         if not cell_syntax_match:
             print(f'{ERROR_MSG_PREFIX}Failed to extract syntax from {cell_top_text} at line {cell_top_line+1}')
             return
+
         cell_syntax = cell_syntax_match.group(1)
+        cell_metadata = get_parsed_cell_metadata(cell_syntax_match)
 
         # print(repr(cell_text))
         # cleaned_cell_text = clean_new_lines(cell_text)
@@ -238,12 +298,12 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
 
         # ## Connect to Socket
 
-        socket_path_data = MD_REPL_SOCKET_PATHS.get(cell_syntax)
-        socket_path = socket_path_data.get('path')  # type: ignore
+        socket_path = get_socket_path(syntax=cell_syntax)
 
         # have a default I guess
         if not socket_path:
             socket_path = '/tmp/soc'
+            print(f'{ERROR_MSG_PREFIX}Using default path: {socket_path}')
 
         try:
             c = mk_socket_connection(socket_path)
@@ -255,7 +315,7 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
 
         try:
             # print('trying to send command?')
-            output_text = send_recv_socket_data(c, cell_text)
+            output_text = send_recv_socket_data(c, cell_text, **cell_metadata)
             # print(f"output:\n{output_text}")
             c.close()
 
@@ -333,6 +393,7 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
             ):
 
         # print('inserting output')
+        # print('output:\n', output_text)
         # current_cursor = view.sel()[0]
 
         # bottom of current code cell
@@ -340,7 +401,7 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
 
         # output cell exists?
         line_after_cell = view.text_point(cell_bottom_line+1, 0)
-        output_region = view.find(r'(?sm)^>\n```\n.*?\n```\n', line_after_cell)
+        output_region = view.find(r'(?sm)^>>>\n```\n.*?\n```\n', line_after_cell)
 
         # is output_region directly below current cell?
         # necessary, as find will get the next output region in the document
@@ -353,5 +414,5 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
 
         # add a new one
         if insert_output:
-            new_output_text = f">\n```\n{output_text}\n```\n"
+            new_output_text = f">>>\n```\n{output_text}\n```\n"
             view.insert(edit, line_after_cell, new_output_text)
