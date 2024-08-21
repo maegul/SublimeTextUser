@@ -319,12 +319,15 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
             # print(f"output:\n{output_text}")
             c.close()
 
-            if output_text:
+            # ## Manage output
+            self.insert_output(view, edit, cell_region, output_text, insert_output)
+
+            # if output_text:
                 # perhaps bad idea to strip whitespace before and after
                 # rstrip or perhaps just removing blank lines at beginning or end??
-                output_text = output_text.strip()
+                # output_text = output_text.strip()
                 # output_text = output_text.rstrip()
-                self.insert_output(view, edit, cell_region, output_text, insert_output)
+                # self.insert_output(view, edit, cell_region, output_text, insert_output)
 
         except Exception as e:
             print(f"{ERROR_MSG_PREFIX}socket error:{e}")
@@ -388,7 +391,7 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
 
     def insert_output(
             self, view: sublime.View, edit,
-            cell_region: sublime.Region, output_text: str,
+            cell_region: sublime.Region, output_text: Optional[str],
             insert_output: Optional[bool]
             ):
 
@@ -396,12 +399,14 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
         # print('output:\n', output_text)
         # current_cursor = view.sel()[0]
 
+        # Manage the output cell (finding, erasing)
+
         # bottom of current code cell
         cell_bottom_line = view.rowcol(cell_region.end())[0]
 
         # output cell exists?
         line_after_cell = view.text_point(cell_bottom_line+1, 0)
-        output_region = view.find(r'(?sm)^>>>\n```\n.*?\n```\n', line_after_cell)
+        output_region = view.find(r'(?sm)^>\n```\n.*?\n```\n', line_after_cell)
 
         # is output_region directly below current cell?
         # necessary, as find will get the next output region in the document
@@ -412,7 +417,12 @@ class MarkdownNotebookSendCellToReplCommand(sublime_plugin.TextCommand):
         if output_region and output_region_is_for_this_cell:
             view.erase(edit, output_region)
 
-        # add a new one
-        if insert_output:
-            new_output_text = f">>>\n```\n{output_text}\n```\n"
+        # Insert a new one if necessary
+
+        if output_text and insert_output:
+
+            output_text = output_text.strip()
+
+            # add a new one
+            new_output_text = f">\n```\n{output_text}\n```\n"
             view.insert(edit, line_after_cell, new_output_text)

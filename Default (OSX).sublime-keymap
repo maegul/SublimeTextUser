@@ -687,6 +687,20 @@
 		]
 	},
 
+	// goto footnote source!
+
+	// something about vi and command mode means a chain in command mode doesn't seem to work unless
+	// ... a basic action is taken after invoking this (dunno why?)
+	// A normal keybinding works fine though: alt + 6
+
+	{ "keys": ["alt+6"], "command": "mde_magic_footnotes", "context":
+		[
+			// {"key": "setting.command_mode"},
+			{"operand": "text.html.markdown meta.link.reference.def.footnote entity.name.reference.link", "operator": "equal", "match_all": true, "key": "selector"}
+		// 	{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.link.reference", "match_all": true }
+		]
+	},
+
 	// Can't get to work ... ?
 	// jump to reference
 	// { "keys": [" ", "6"], "command": "mde_reference_jump", "context":

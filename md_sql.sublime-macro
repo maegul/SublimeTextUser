@@ -1,0 +1,24 @@
+[
+	{
+		"args":
+		{
+			"characters": "mdc"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "expand_snippet"
+	},
+	{
+		"args":
+		{
+			"characters": "sql"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "next_field"
+	}
+]
