@@ -1254,21 +1254,21 @@
 
 	// might conflict with replace all in find panel??
 
-	// {
-	// 	"keys": ["ctrl+shift+enter"], "command": "send_code",
-	// 	"context": [
-	// 		{ "key": "selector", "operator": "equal", "operand": "source" }
-	// 	]
-	// },
+	{
+		"keys": ["ctrl+shift+enter"], "command": "send_code",
+		"context": [
+			{ "key": "selector", "operator": "equal", "operand": "source" }
+		]
+	},
 
 	// >> For Markdown code cells
-	// {
-	// 	"keys": ["ctrl+shift+enter"], "command": "send_code",
-	// 	"context": [
-	// 		// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
-	// 		{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
-	// 	]
-	// },
+	{
+		"keys": ["ctrl+shift+enter"], "command": "send_code",
+		"context": [
+			// operands attempt to allow beginning ``` of code fence to coun too (as well as plain raw code-fence)
+			{ "key": "selector", "operator": "equal", "operand": "text.html.markdown meta.code-fence.definition.begin, markup.raw.code-fence, markup.raw.code-fence.markdown, markup.raw.block.fenced.markdown" }
+		]
+	},
 
 	// >> Re-instate original keybinding for super+enter
 	// Default key binding for SendCode ... undesirable ... want original back

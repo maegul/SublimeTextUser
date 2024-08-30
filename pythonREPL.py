@@ -364,6 +364,7 @@ class AddCellMarkersCommand(sublime_plugin.TextCommand):
     """Add cell top and bottom markers around current selection"""
 
     def run(self, edit):
+        print('hello add markers!')
 
         view = self.view
 
