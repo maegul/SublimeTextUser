@@ -25,7 +25,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/.dotfiles.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/pythoncharmers_admin #pychm.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zkl #dev.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/my_zkl.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/zekell_sqlite.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/Rust Book: misc_play.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/differ.sublime-project",
@@ -33,5 +32,6 @@
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/jupyterhub_dev #pychm.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/lif #phd.sublime-project",
 	"~/Library/Application Support/Sublime Text/Packages/User/Projects/user scripts.sublime-project",
-	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_user #dev.sublime-project"
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/sublime_user #dev.sublime-project",
+	"~/Library/Application Support/Sublime Text/Packages/User/Projects/my_zkl.sublime-project"
 ]
